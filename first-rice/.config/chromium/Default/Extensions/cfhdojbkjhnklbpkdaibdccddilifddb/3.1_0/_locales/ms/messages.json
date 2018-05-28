@@ -1,0 +1,587 @@
+{
+   "add": {
+      "message": "Tambah"
+   },
+   "add_filters_msg": {
+      "message": "Tambah penapis?"
+   },
+   "block_element": {
+      "message": "Halang elemen"
+   },
+   "cancel": {
+      "message": "Batal"
+   },
+   "clickhide_instructions": {
+      "message": "Setelah menutup tetingkap ini, klik (atau klik butang kanan) pada sesuatu unsur atas laman."
+   },
+   "common_feature_privacy_title": {
+      "message": "Sekat pengesanan tambahan"
+   },
+   "common_feature_social_title": {
+      "message": "Sekat pengesanan ikon media sosial"
+   },
+   "continue": {
+      "message": "Teruskan"
+   },
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers."
+   },
+   "disabled_for_site": {
+      "message": "\u003Cstrong>Dinyahaktifkan\u003C/strong> pada laman web ini"
+   },
+   "easy_create_filter": {
+      "message": "Halang elemen"
+   },
+   "enabled_for_site": {
+      "message": "\u003Cstrong>Dinyahaktifkan\u003C/strong> pada laman web ini"
+   },
+   "filter_elemhideemulation_nodomain": {
+      "message": "Tiada domain aktif terpilih untuk menapis unsur penyembunyian lanjut"
+   },
+   "filter_invalid_domain": {
+      "message": "Domain Tidak Sah"
+   },
+   "filter_invalid_regexp": {
+      "message": "Ungkapan/Kod yang tidak sah"
+   },
+   "filter_unknown_option": {
+      "message": "Pilihan tapisan tidak diketahui"
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "Gagal, kegagalan memuat-turun"
+   },
+   "firstRun_abbButtonSubtitle": {
+      "message": "Tersedia untuk Android dan iOS"
+   },
+   "firstRun_abbButtonTitle": {
+      "message": "Dapatkan Adblock Browser di sini"
+   },
+   "firstRun_abbPromotionHeadline": {
+      "message": "Memiliki telefon pintar atau tablet?"
+   },
+   "firstRun_acceptableAdsExplanation": {
+      "message": "Kami ingin menggalakkan Laman sesawang untuk menggunakan pengiklanan yang jelas dan tidak mengganggu. Itulah sebabnya mengapa kita mewujudkan \u003Ca>garis panduan yang ketat\u003C/a> untuk mengenalpasti iklan yang boleh diterima, yang ditunjukkan di bawah tetapan lalai. Jika anda masih mahu menyekat setiap iklan anda boleh \u003Ca>mematikan\u003C/a> ini dalam beberapa saat."
+   },
+   "firstRun_acceptableAdsHeadline": {
+      "message": "Iklan yang mengganggu kini akan disekat"
+   },
+   "firstRun_contributor_credits": {
+      "message": "Kredit kepada penyumbang"
+   },
+   "firstRun_donate": {
+      "message": "Derma"
+   },
+   "firstRun_donate_label": {
+      "message": "Sokong projek kami"
+   },
+   "firstRun_filterlistsReinitializedWarning": {
+      "message": "Terdapat isu yang menyebabkan semua penapisan telah ditanggalkan dan kami tidak dapat memasukkan semula maklumat sokongan. Dengan itu kami perlu melaras semula penapisan serta tetapan Iklan Yang Diterima. Sila periksa senarai penapisan dan tetapan Iklan Yang Diterima di dalam \u003Ca>Pilihan Adblock Plus\u003C/a>."
+   },
+   "firstRun_share": {
+      "message": "Beritahu rakan anda"
+   },
+   "firstRun_share_headline": {
+      "message": "\u003Ca>Berikan bantuan\u003C/a> menjadikan laman sesawang tempat yang lebih baik"
+   },
+   "firstRun_title": {
+      "message": "Adblock Plus telah dipasang"
+   },
+   "invalid_css_selector": {
+      "message": "$selector$ bukan pemilih CSS (CSS selector) yang sah",
+      "placeholders": {
+         "selector": {
+            "content": "$1"
+         }
+      }
+   },
+   "issueReporter_anonymousSubmission_label": {
+      "message": "Penyerahan tanpa nama"
+   },
+   "issueReporter_anonymousSubmission_warning": {
+      "message": "Kita tidak akan dapat kembali kepada anda dan mungkin akan mengutamakan laporan yang lebih rendah."
+   },
+   "issueReporter_commentPage_heading": {
+      "message": "Masukkan komen"
+   },
+   "issueReporter_comment_description": {
+      "message": "Bahagian di bawah membenarkan anda memasukkan komen untuk membantu kami memahami isu tersebut. Langkah ini adalah optional tetapi disyorkan jika masalah tersebut tidak jelas. Anda juga boleh memeriksa data laporan sebelum menghantarnya."
+   },
+   "issueReporter_comment_label": {
+      "message": "Komen(optional)"
+   },
+   "issueReporter_comment_lengthWarning": {
+      "message": "Panjang komen anda melebihi 1000 huruf. Hanya 1000 huruf pertama sahaja akan dihantar."
+   },
+   "issueReporter_confirmationMessage": {
+      "message": "Laporan anda telah disimpan. Anda boleh mengaksesnya di alamat berikut:"
+   },
+   "issueReporter_dataCollector_description": {
+      "message": "Sila tunggu sebentar sementara Adblock Plus mengumpul data yang diperlukan."
+   },
+   "issueReporter_dataCollector_heading": {
+      "message": "Selamat datang ke pelapor isu"
+   },
+   "issueReporter_doneButton_label": {
+      "message": "Selesai"
+   },
+   "issueReporter_email_description": {
+      "message": "Kami menggalakkan anda memasukkan alamat email yang sah supaya kami boleh menghubungi anda jika ada pertanyaan tentang laporan anda. Ia juga akan membolehkan kita untuk mengiktiraf sumbangan anda dan memberi keutamaan kepada mereka dengan lebih tinggi."
+   },
+   "issueReporter_email_label": {
+      "message": "E-mel:"
+   },
+   "issueReporter_errorMessage": {
+      "message": "Cubaan untuk menghantar laporan gagal dengan kod error \"?1?\". Sila pastikan internet anda berfungsi dan cuba lagi. Jika masalah berterusan sila minta bantuan di [link]Adblock Plus forum[/link]."
+   },
+   "issueReporter_falseNegative_description": {
+      "message": "Pilih pilihan ini jika iklan dipaparkan walaupun Adblock Plus telah diaktifkan."
+   },
+   "issueReporter_falseNegative_label": {
+      "message": "Adblock Plus tidak menyekat iklan"
+   },
+   "issueReporter_falsePositive_description": {
+      "message": "Pilih pilihan ini jika laman tersebut kekurangan isi penting, salah paparannya atau gagal berfungsi dengan betul. Anda boleh menentukan sama ada Adblock Plus ialah penyebab masalah tersebut dengan menyahaktifkannya buat sementara waktu."
+   },
+   "issueReporter_falsePositive_label": {
+      "message": "Terlalu banyak disekat Adblock Plus"
+   },
+   "issueReporter_knownIssueMessage": {
+      "message": "Isu yang dilaporkan kemungkinan telah dikenalpasti. Maklumat lanjut:"
+   },
+   "issueReporter_page_title": {
+      "message": "Pelapor isu"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "Polisi privasi"
+   },
+   "issueReporter_sendButton_label": {
+      "message": "Hantar laporan"
+   },
+   "issueReporter_sendPage_heading": {
+      "message": "Hantar laporan"
+   },
+   "issueReporter_sending": {
+      "message": "Sila tunggu sementara Adblock Plus menghantar laporan anda."
+   },
+   "issueReporter_showData_label": {
+      "message": "Tunjuk data laporan"
+   },
+   "issueReporter_typeSelector_description": {
+      "message": "Tingkap ini akan membimbing anda dengan langkah-langkah yang diperlukan untuk mengemukakan laporan isu Adblock Plus. Pertama sekali, sila pilih jenis isu yang dialami pada laman ini:"
+   },
+   "issueReporter_typeSelector_heading": {
+      "message": "Pilih jenis isu"
+   },
+   "line": {
+      "message": "Baris ke $number$",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "loading": {
+      "message": "Sedang memuatkan..."
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "name_devbuild": {
+      "message": "Versi pemaju Adblock Plus"
+   },
+   "notification_antiadblock_message": {
+      "message": "Laman web ini telah dikenali untuk menunjukkan mesej yang disasarkan kepada pengguna Adblock Plus. Adakah anda mahu Adblock Plus untuk menyembunyikan mesej yang disasarkan?"
+   },
+   "notification_antiadblock_title": {
+      "message": "Sembunyi Mesej-mesej yang disasarkan?"
+   },
+   "notification_configure": {
+      "message": "Konfigurasi tetapan notifikasi"
+   },
+   "notification_open_all": {
+      "message": "Buka Semua link dari notifikasi ini"
+   },
+   "notification_with_buttons": {
+      "message": "Klik 'OK' untuk membuka semua pautan dalam notifikasi ini."
+   },
+   "notification_without_buttons": {
+      "message": "Klik pada notifikasi untuk membuka semua pautan yang terkandung dalamnya."
+   },
+   "options_acceptableAds_ads_description_1": {
+      "message": "Iklan yang boleh diterima tidak menjengkelkan dan tidak mengganggu kandungan yang anda lihat. \u003Ca>Baca lebih lanjut mengenai kriteria Iklan yang boleh diterima\u003C/a>"
+   },
+   "options_acceptableAds_ads_label": {
+      "message": "Benarkan Iklan yang boleh diterima"
+   },
+   "options_acceptableAds_description": {
+      "message": "Iklan yang boleh diterima adalah iklan yang tidak mengganggu. Mereka adalah alasan tengah antara penyekatan iklan dan penyokongan kandungan dalam talian kerana mereka menjana pendapatan untuk pemilik laman web."
+   },
+   "options_acceptableAds_header": {
+      "message": "IKLAN YANG BOLEH DITERIMA"
+   },
+   "options_acceptableAds_privacy_label": {
+      "message": "Hanya benarkan iklan yang tiada pengesanan oleh pihak ketiga"
+   },
+   "options_advanced_description": {
+      "message": "Peribadikan Adblock Plus, tambah atau keluarkan senarai penapis, buat dan kekalkan senarai penapis anda sendiri"
+   },
+   "options_close": {
+      "message": "TUTUP"
+   },
+   "options_control_remove_title": {
+      "message": "Keluarkan"
+   },
+   "options_customFilter_cancel": {
+      "message": "BATALKAN"
+   },
+   "options_customFilter_edit": {
+      "message": "Edit penapis"
+   },
+   "options_customFilter_save": {
+      "message": "SIMPAN"
+   },
+   "options_customFilters_description": {
+      "message": "Tulis penapis tersuai anda sendiri untuk Selanjutnya mengawal apa yang dibenarkan atau disekat oleh Adblock Plus."
+   },
+   "options_customFilters_edit_placeholder": {
+      "message": "cth. $filter$",
+      "placeholders": {
+         "filter": {
+            "content": "$1",
+            "example": "/ads/track/*"
+         }
+      }
+   },
+   "options_customFilters_learn": {
+      "message": "Ketahui cara menulis senarai penapis"
+   },
+   "options_customFilters_start": {
+      "message": "Mula menulis senarai penapis saya"
+   },
+   "options_customFilters_tip": {
+      "message": "Penapis yang anda buat akan muncul di sini."
+   },
+   "options_customFilters_title": {
+      "message": "BUAT AND EDIT SENARAI PENAPIS ANDA"
+   },
+   "options_customFilters_widget_title": {
+      "message": "Senarai penapis saya"
+   },
+   "options_customize_blockElement": {
+      "message": "Paparkan item 'Halang elemen' pada butang klik kanan"
+   },
+   "options_customize_blockElement_tooltip": {
+      "message": "Sekat item yang menjengkelkan pada laman web buat sementara, contohnya imej atau tayangan slaid animasi."
+   },
+   "options_customize_header": {
+      "message": "PERIBADIKAN TINDAKAN PADA LAMAN WEB"
+   },
+   "options_customize_showDevToolsPanel": {
+      "message": "Tunjukkan panel ‘Adblock Plus’ dalam alat pemaju"
+   },
+   "options_customize_showDevToolsPanel_tooltip": {
+      "message": "Lihat item yang disekat dan disenarai putih dari panel alat pemaju pelayar anda."
+   },
+   "options_customize_showNotifications": {
+      "message": "Papar notifikasi berguna"
+   },
+   "options_customize_showNotifications_tooltip": {
+      "message": "Matikan semua pemberitahuan dari Adblock Plus."
+   },
+   "options_dialog_about_copyright": {
+      "message": "Hak cipta © $currentYear$ eyeo GmbH.",
+      "placeholders": {
+         "currentYear": {
+            "content": "2017",
+            "example": "2017"
+         }
+      }
+   },
+   "options_dialog_about_title": {
+      "message": "Mengenai Adblock Plus"
+   },
+   "options_dialog_about_trademark": {
+      "message": "Hak cipta terpelihara. Adblock Plus® adalah tanda dagangan berdaftar eyeo GmbH."
+   },
+   "options_dialog_about_version": {
+      "message": "Nombor versi $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": "2.6.7"
+         }
+      }
+   },
+   "options_dialog_import_subscription_location": {
+      "message": "URL senarai penapis"
+   },
+   "options_dialog_import_subscription_location_error": {
+      "message": "Masukkan URL yang sah"
+   },
+   "options_dialog_import_subscription_title": {
+      "message": "Nama senarai penapis"
+   },
+   "options_dialog_import_title": {
+      "message": "Tambah senarai penapis"
+   },
+   "options_dialog_language_title": {
+      "message": "Pilih bahasa"
+   },
+   "options_dialog_predefined_confirm": {
+      "message": "Ya, gunakan senarai penapis ini"
+   },
+   "options_dialog_predefined_title": {
+      "message": "Adakah anda pasti mahu menambah senarai penapis ini?"
+   },
+   "options_email": {
+      "message": "E-mel:"
+   },
+   "options_filterList_add": {
+      "message": "+ TAMBAH SENARAI PENAPIS BARU"
+   },
+   "options_filterList_column_name": {
+      "message": "Senarai penapis"
+   },
+   "options_filterList_column_status": {
+      "message": "Status"
+   },
+   "options_filterList_column_update": {
+      "message": "Kali terakhir dikemas kini"
+   },
+   "options_filterList_description": {
+      "message": "Setiap tetapan Adblock Plus berfungsi kerana senarai penapis. Di bawah adalah senarai penapis yang sesuai dengan semua tetapan Adblock Plus anda. Anda juga boleh menambah penapis tambahan yang dibuat dan dikekalkan oleh komuniti dipercayai kami."
+   },
+   "options_filterList_empty": {
+      "message": "Anda belum menambah sebarang senarai penapis untuk Adblock Plus. Senarai penapis yang anda tambahkan akan ditunjukkan di sini."
+   },
+   "options_filterList_hours": {
+      "message": "jam yang lalu"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "Gagal, checksum tidak sepadan"
+   },
+   "options_filterList_lastDownload_connectionError": {
+      "message": "Gagal, kegagalan memuat-turun"
+   },
+   "options_filterList_lastDownload_inProgress": {
+      "message": "Mengemas kini"
+   },
+   "options_filterList_lastDownload_invalidData": {
+      "message": "Gagal, bukan senarai penapis yang sah"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "Gagal, bukan alamat yang sah"
+   },
+   "options_filterList_minutes": {
+      "message": "minit yang lalu"
+   },
+   "options_filterList_now": {
+      "message": "Tadi"
+   },
+   "options_filterList_source": {
+      "message": "Sumber"
+   },
+   "options_filterList_state_active": {
+      "message": "Aktif"
+   },
+   "options_filterList_state_disabled": {
+      "message": "Dilumpuhkan"
+   },
+   "options_filterList_title": {
+      "message": "Senarai penapis"
+   },
+   "options_filterList_update": {
+      "message": "KEMASKINI SEMUA SENARAI PENAPIS"
+   },
+   "options_filterList_updateNow": {
+      "message": "Mengemas kini sekarang"
+   },
+   "options_filterList_website": {
+      "message": "Laman web"
+   },
+   "options_footer_about": {
+      "message": "Mengenai Adblock Plus"
+   },
+   "options_footer_contribute": {
+      "message": "MENYUMBANG"
+   },
+   "options_general_description": {
+      "message": "Tentukan apa yang ditunjukkan dan disembunyikan oleh Adblock Plus di laman web"
+   },
+   "options_help_description": {
+      "message": "Cari bantuan atau berhubung dengan kami"
+   },
+   "options_language_add": {
+      "message": "+ TAMBAH BAHASA"
+   },
+   "options_language_change": {
+      "message": "UBAH"
+   },
+   "options_language_description": {
+      "message": "Optimalkan Adblock Plus untuk bahasa yang anda biasanya guna untuk melayari laman web."
+   },
+   "options_language_empty": {
+      "message": "Anda tidak mempunyai sebarang penapis khusus bahasa."
+   },
+   "options_language_header": {
+      "message": "Bahasa"
+   },
+   "options_language_tip": {
+      "message": "\u003Cstrong>PETUA:\u003C/strong> Hanya pilih bahasa yang anda perlukan. Memilih lebih banyak akan melambatkan penyekat iklan dan, oleh itu, kelajuan pelayaran anda."
+   },
+   "options_learn_more": {
+      "message": "Ketahui lebih lanjut"
+   },
+   "options_more_filters_description": {
+      "message": "Ini adalah penapis tambahan yang telah anda tambahkan pada Adblock Plus."
+   },
+   "options_more_filters_header": {
+      "message": "Lebih banyak penapis"
+   },
+   "options_more_filters_note": {
+      "message": "\u003Cstrong>Perhatian:\u003C/strong> Anda harus menggunakan senarai penapis pihak ketiga daripada pengarang yang anda percayai sahaja."
+   },
+   "options_new_label": {
+      "message": "BARU"
+   },
+   "options_notification_hide": {
+      "message": "Tutup notifikasi"
+   },
+   "options_page_document_title": {
+      "message": "Tetapan"
+   },
+   "options_page_title": {
+      "message": "Tetapan"
+   },
+   "options_privacy_header": {
+      "message": "PRIVASI & KESELAMATAN"
+   },
+   "options_protection_privacy_tooltip": {
+      "message": "Melindungi data peribadi anda dengan mengeluarkan semua bentuk penjejakan dari Internet termasuk pengumpul maklumat."
+   },
+   "options_protection_social_tooltip": {
+      "message": "Ikon media sosial di laman web yang anda lawati membolehkan rangkaian media sosial untuk membina profil anda berdasarkan tabiat pelayaran anda - walaupun anda tidak klik pada mereka. Menyembunyikan ikon ini boleh melindungi profil anda."
+   },
+   "options_report_bug": {
+      "message": "Menemui bug? \u003Ca>Hantar laporan bug kepada kami\u003C/a>"
+   },
+   "options_report_forum": {
+      "message": "Mahu sokongan daripada komuniti kami? \u003Ca>Pergi ke Forum\u003C/a>"
+   },
+   "options_short": {
+      "message": "Tetapan"
+   },
+   "options_social_description": {
+      "message": "Ada soalan atau idea baru? Kami di sini untuk membantu."
+   },
+   "options_social_title": {
+      "message": "Dapatkan berhubung"
+   },
+   "options_support_title": {
+      "message": "Sokongan"
+   },
+   "options_tab_advanced": {
+      "message": "Lanjutan"
+   },
+   "options_tab_general": {
+      "message": "Am"
+   },
+   "options_tab_help": {
+      "message": "Bantu"
+   },
+   "options_tab_whitelist": {
+      "message": "Laman web senarai putih"
+   },
+   "options_whitelist_add": {
+      "message": "TAMBAH LAMAN WEB"
+   },
+   "options_whitelist_description": {
+      "message": "Anda telah mematikan penyekatan iklan di laman web ini dan, oleh itu, akan melihat iklan di laman web ini."
+   },
+   "options_whitelist_empty_1": {
+      "message": "Anda tidak mempunyai laman web yang disenarai putih."
+   },
+   "options_whitelist_empty_2": {
+      "message": "Laman web yang anda percayai dan ingin membenarkan iklan akan dipaparkan di sini."
+   },
+   "options_whitelist_notification": {
+      "message": "$website$ Telah disenarai putih.",
+      "placeholders": {
+         "website": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "options_whitelist_placeholder_example": {
+      "message": "cth. $domain$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "www.example.com"
+         }
+      }
+   },
+   "overlay_notification_button_no": {
+      "message": "Tidak"
+   },
+   "overlay_notification_button_yes": {
+      "message": "Ya"
+   },
+   "overlay_notification_closing_button_hide": {
+      "message": "Tutup pemberitahuan ini"
+   },
+   "overlay_notification_closing_button_optout": {
+      "message": "Hentikan paparan pemberitahuan"
+   },
+   "sendReport": {
+      "message": "Lapor isu pada laman ini"
+   },
+   "stats_label_page": {
+      "message": "\u003Cstrong>$number$\u003C/strong> pada halaman ini",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_label_total": {
+      "message": "\u003Cstrong>$number$\u003C/strong> secara keseluruhan",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_show_iconnumber": {
+      "message": "Paparkan nombor dalam ikon"
+   },
+   "stats_title": {
+      "message": "Iklan disekat"
+   },
+   "unexpected_filter_list_header": {
+      "message": "Header penapis senarai tidak dibenarkan sini"
+   },
+   "updates_adblockBrowser": {
+      "message": "Jika anda mengambil kawalan pada desktop, anda boleh menyekat iklan dan meningkatkan privasi dan keselamatan anda di telefon bimbit juga. Dapatkan \u003Ca>Apl Adblock Browser di bawah\u003C/a>"
+   },
+   "updates_blockAds": {
+      "message": "Perikatan Sumber Terbuka mencipta penapis penyekatan baru yang membolehkan anda menyembunyikan iklan di laman web seperti Facebook, walaupun Empayar menyerang kembali."
+   },
+   "updates_heading": {
+      "message": "Adblock Plus telah dikemas kini!"
+   },
+   "updates_optionsPageNews": {
+      "message": "Halaman Tetapan serba baharu - diolah semula dan diperbaharui gayanya dengan lebih banyak pilihan privasi dan keselamatan - menjadikannya lebih mudah untuk \u003Ca>menyuaikan Adblock Plus mengikut keinginan anda sendiri\u003C/a>."
+   },
+   "updates_phone": {
+      "message": "Tapi tunggu! Bagaimana pula dengan telefon anda?"
+   },
+   "updates_status": {
+      "message": "Kemas kini lengkap"
+   },
+   "updates_subheading": {
+      "message": "Apa yang baru?"
+   }
+}

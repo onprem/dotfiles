@@ -1,0 +1,5258 @@
+{
+   "0_9": {
+      "message": "0-9"
+   },
+   "1_Password": {
+      "message": "1Password"
+   },
+   "1___Insert_your__Yubi_Key_in_the__U_S_B_port_with_the__U_S_B_contact_facing_upward": {
+      "message": "1. USB 접촉면이 있는 USB 포트에 위쪽 방향으로 YubiKey를 삽입하세요"
+   },
+   "1___Run_the__Google__Authenticator_application_on_your_mobile_device": {
+      "message": "1. 모바일 장치에서 Google OTP 응용 프로그램을 실행하세요"
+   },
+   "1___Run_the__Last_Pass__Sesame_application_to_generate_a_one_time_password": {
+      "message": "1. 1회용 암호를 만들기 위해 LastPass Sesame를 실행하세요"
+   },
+   "2___Enter_your_current_verification_code_in_the_box_below": {
+      "message": "2. 아래의 입력상자에 인증 코드를 입력하세요"
+   },
+   "2___Paste_the_one_time_password_in_the_input_box_below_and_click___Authenticate_": {
+      "message": "2. 1회용 암호를 아래 입력 상자에 붙여넣고 '인증'을 클릭하세요"
+   },
+   "2___Wait_until_your__Yubi_Key_touch_button_shines_with_a_steady_light": {
+      "message": "2. YubiKey의 터치 버튼에 불이 들어올 때까지 기다리세요"
+   },
+   "3___Click__Authenticate": {
+      "message": "3. 인증을 클릭하세요"
+   },
+   "3___Hold_your_fingertip_on_the_touch_button_for_1_second": {
+      "message": "3. 터치 버튼에 손끝을 1초 동안 대고 계세요"
+   },
+   "_1_will_now_be_downloaded_": {
+      "message": "%1가 다운로드 되었습니다."
+   },
+   "_A_C_T_I_O_N": {
+      "message": "작업"
+   },
+   "_A__Shared__Folder_will_appear_in_the_vault_as__Shared___Folder__Name__": {
+      "message": "공유 폴더가 공유 폴더 이름으로 표시됩니다."
+   },
+   "_A__Zupper": {
+      "message": "A-Z"
+   },
+   "_A_batch_of__S_M_S_passcodes_have_been_sent_to_your_mobile_device_": {
+      "message": "휴대전화로 SMS 인증번호가 발송되었습니다."
+   },
+   "_A_new_password_has_been_created____Would_you_like__Last_Pass_to_remember_this_as_a_password_change_for_this_site_": {
+      "message": "새 암호가 만들어졌습니다.  LastPass가 이 암호를 이 사이트에 대한 암호 변경 내용으로 기억하도록 하시겠습니까?"
+   },
+   "_A_new_password_has_been_created____Would_you_like__Last_Pass_to_remember_this_password_change_for_this_site_": {
+      "message": "새 암호가 만들어졌습니다.  LastPass가 이 사이트에 대한 암호 변경을 기억하도록 하시겠습니까?"
+   },
+   "_A_new_password_has_been_generated_": {
+      "message": "새 암호를 만들었습니다!"
+   },
+   "_A_randomly_generated_password_": {
+      "message": "임의로 만들어진 암호."
+   },
+   "_A_required_update_is_available_for__Last_Pass___Please_press__O_K_to_begin_download_and_installation_": {
+      "message": "LastPass에 필수 업데이트 사항이 있습니다. 확인을 눌러 업데이트를 시작해 주세요."
+   },
+   "_A_retry_file_has_been_found___This_likely_means_that_not_all_of_your_site_changes_have_been_saved___Would_you_like_to_delete_this_file_and_potentially_lose_some_changes_": {
+      "message": "지난 변경사항이 저장되지 않은 것으로 보이는 파일을 찾았습니다. 변경한 사이트의 일부가 저장되지 않았을 수 있습니다. 이 파일에 기록된 변경사항을 무시하고 삭제하시겠습니까?"
+   },
+   "_A_server_error_occurred_while_processing_your_request_": {
+      "message": "요청을 처리하는 동안 서버 오류가 발생했습니다."
+   },
+   "_A_site_that_has_been_previously_shared_cannot_be_moved_to_a_shared_folder____Would_you_like_to_make_a_copy_": {
+      "message": "이전에 공유된 사이트는 공유 폴더로 옮길 수 없습니다.\n\n사본을 만들어 옮기겠습니까?"
+   },
+   "_About": {
+      "message": "정보"
+   },
+   "_About___": {
+      "message": "제품 정보..."
+   },
+   "_Abu__Dhabi___Muscat___Tbilisi___Izhevsk": {
+      "message": "아부다비, 무스카트, 트빌리시, 이젭스크"
+   },
+   "_Accept": {
+      "message": "받기"
+   },
+   "_Accepted": {
+      "message": "수락됨"
+   },
+   "_Access_a__Form_Fill": {
+      "message": "FormFill에 액세스"
+   },
+   "_Access_a__Secure__Note": {
+      "message": "안전한 메모에 액세스"
+   },
+   "_Access_a__Site": {
+      "message": "사이트에 액세스"
+   },
+   "_Access_a__Site_s__Password": {
+      "message": "사이트 암호에 액세스"
+   },
+   "_Access_an__Identity": {
+      "message": "신원에 액세스"
+   },
+   "_Account__Email": {
+      "message": "계정 전자 메일"
+   },
+   "_Account__Number": {
+      "message": "계좌 번호"
+   },
+   "_Account__Settings": {
+      "message": "계정 설정"
+   },
+   "_Account__Status": {
+      "message": "계정 상태"
+   },
+   "_Account__Type": {
+      "message": "계좌 유형"
+   },
+   "_Account_number": {
+      "message": "계좌 번호"
+   },
+   "_Actionproper": {
+      "message": "작업"
+   },
+   "_Actions": {
+      "message": "작업"
+   },
+   "_Add": {
+      "message": "추가"
+   },
+   "_Add__Credit__Card": {
+      "message": "신용카드 추가"
+   },
+   "_Add__Credit__Card_profile": {
+      "message": "신용카드 프로필 추가"
+   },
+   "_Add__Field": {
+      "message": "필드 추가"
+   },
+   "_Add__File": {
+      "message": "파일 추가"
+   },
+   "_Add__Form__Field": {
+      "message": "양식 필드 추가"
+   },
+   "_Add__Form__Fill_profile": {
+      "message": "프로필 양식 추가"
+   },
+   "_Add__Identity": {
+      "message": "ID 추가"
+   },
+   "_Add__New__Folder": {
+      "message": "새 폴더 추가"
+   },
+   "_Add__New__Site": {
+      "message": "새 사이트 추가"
+   },
+   "_Add__New_folder": {
+      "message": "새 폴더 추가"
+   },
+   "_Add__Note": {
+      "message": "메모 추가"
+   },
+   "_Add__Profile": {
+      "message": "프로필 추가"
+   },
+   "_Add__Secure__Note": {
+      "message": "안전 메모 추가"
+   },
+   "_Add__Shared__Folder": {
+      "message": "공유 폴더 추가"
+   },
+   "_Add__Site": {
+      "message": "사이트 추가"
+   },
+   "_Add__Site_to__Favorites": {
+      "message": "즐겨찾기에 사이트 추가"
+   },
+   "_Add_an__Identity": {
+      "message": "ID 추가"
+   },
+   "_Add_another_custom_field": {
+      "message": "사용자 지정 필드 추가"
+   },
+   "_Additional__Options": {
+      "message": "고급 옵션"
+   },
+   "_Address": {
+      "message": "주소"
+   },
+   "_Address_1": {
+      "message": "주소 1"
+   },
+   "_Address_2": {
+      "message": "주소 2"
+   },
+   "_Address_3": {
+      "message": "주소 3"
+   },
+   "_Adelaide": {
+      "message": "애들레이드"
+   },
+   "_Admin__Console": {
+      "message": "관리 콘솔"
+   },
+   "_Admin__Tools": {
+      "message": "관리 도구"
+   },
+   "_Administrator": {
+      "message": "관리자"
+   },
+   "_Advanced": {
+      "message": "고급 설정"
+   },
+   "_Advanced__Options": {
+      "message": "고급 옵션"
+   },
+   "_Advanced__Options_": {
+      "message": "고급 옵션:"
+   },
+   "_Advanced__Settings": {
+      "message": "고급 설정"
+   },
+   "_Advanced__Settings_": {
+      "message": "고급 설정:"
+   },
+   "_Advanced__Tools": {
+      "message": "고급 도구"
+   },
+   "_Afghanistan": {
+      "message": "아프가니스탄"
+   },
+   "_Agent__Name": {
+      "message": "대리인 이름"
+   },
+   "_Agent__Phone": {
+      "message": "대리인 전화"
+   },
+   "_Aland__Islands": {
+      "message": "올란드 제도"
+   },
+   "_Alaska": {
+      "message": "알래스카"
+   },
+   "_Albania": {
+      "message": "알바니아"
+   },
+   "_Alerts": {
+      "message": "경고"
+   },
+   "_Algeria": {
+      "message": "알제리"
+   },
+   "_Alias": {
+      "message": "별명"
+   },
+   "_All": {
+      "message": "모두"
+   },
+   "_Allow__All__Character__Types": {
+      "message": "모든 문자 유형 허용"
+   },
+   "_Allow__Last_Pass_to_find_insecure_data_on_your_computer_": {
+      "message": "LastPass가 컴퓨터에서 안전하지 않은 데이터를 검색하도록 허용합니까?"
+   },
+   "_Allow__Recipient_to__View__Password": {
+      "message": "받는 사람에게 암호보기 허용"
+   },
+   "_Allow_reverting__Last_Pass_master_password_changes": {
+      "message": "LastPass 마스터 암호 변경 되돌리기 허용"
+   },
+   "_Almaty": {
+      "message": "알마티"
+   },
+   "_Alt": {
+      "message": "Alt"
+   },
+   "_Alternatively__enter_a_passcode_in_the_box_below": {
+      "message": "그 대신에, 아래 상자에 암호 코드를 입력하세요"
+   },
+   "_Alternatively__enter_a_passcode_in_the_box_below_": {
+      "message": "그 대신에, 아래 상자에 암호 코드를 입력하세요:"
+   },
+   "_Always__Choose__Profile_and__Credit__Card": {
+      "message": "항상 프로필과 신용카드 선택"
+   },
+   "_American__Samoa": {
+      "message": "아메리칸사모아"
+   },
+   "_Amman___Athens___Istanbul___Beirut___Cairo___Jerusalem": {
+      "message": "암만, 아테네, 이스탄불, 베이루트, 카이로, 예루살렘"
+   },
+   "_Amsterdam___Berlin___Rome___Vienna___Prague___Brussels": {
+      "message": "암스테르담, 베를린, 로마, 비엔나, 프라하, 브뤼셀"
+   },
+   "_An__Update_is__Available___Would_you_like_to_install_": {
+      "message": "사용할 수 있는 업데이트가 있습니다. 설치하시겠습니까?"
+   },
+   "_An_error_has_been_encountered_while_loading_your_sites___Please_relogin_": {
+      "message": "사이트 목록을 로드하는 동안 오류가 발생했습니다. 다시 로그인해 주세요."
+   },
+   "_An_error_occurred": {
+      "message": "오류 발생"
+   },
+   "_An_error_occurred_while_importing_your__Google__Chrome_passwords_": {
+      "message": "Google Chrome의 암호를 가져오는 과정에서 오류가 발생했습니다."
+   },
+   "_An_error_occurred_while_re_encrypting_your_data": {
+      "message": "데이터를 다시 암호화하는 동안 오류가 발생했습니다"
+   },
+   "_An_error_occurred_while_uploading_your_data____Would_you_like_to_retry_": {
+      "message": "데이터를 업로드하는 동안 오류가 발생했습니다. 다시 시도합니까?"
+   },
+   "_An_item_that_has_been_individually_shared_with_you_cannot_be_moved_into_a_shared_folder_": {
+      "message": "개별적으로 나와 공유 된 항목은 공유 폴더로 이동할 수 없습니다."
+   },
+   "_An_item_that_you_have_already_shared_individually_cannot_be_moved_to_a_shared_folder_": {
+      "message": "개별적으로 이미 공유 한 항목은 공유 폴더로 이동할 수 없습니다."
+   },
+   "_Andorra": {
+      "message": "안도라"
+   },
+   "_Angola": {
+      "message": "앙골라"
+   },
+   "_Anguilla": {
+      "message": "앵귈라"
+   },
+   "_Antarctica": {
+      "message": "남극"
+   },
+   "_Antigua_and__Barbuda": {
+      "message": "앤티가 바부다"
+   },
+   "_Appearance": {
+      "message": "모양"
+   },
+   "_Application_": {
+      "message": "응용 프로그램:"
+   },
+   "_Applications": {
+      "message": "응용 프로그램"
+   },
+   "_April": {
+      "message": "4월"
+   },
+   "_Arbitrary_notes_to_store_along_with_this__Form__Fill_profile": {
+      "message": "이 양식 채우기 프로파일과 함께 저장할 임의의 메모"
+   },
+   "_Are_you_sure___Using__remember_password__makes_it_easier_to_forget_your_password_and_decreases_your_security_if_your_device_is_infected_or_stolen_": {
+      "message": "정말 입니까? '암호 저장'을 사용하면 암호를 잊어버리기 쉽고 장치가 감염되거나 분실되었을 때 보안성이 저하됩니다."
+   },
+   "_Are_you_sure_you_do_not_want__Last_Pass_to_tell_you_when_your__Master__Password_is_at_risk_": {
+      "message": "마스터 암호에 위험이 발생했을 때 LastPass가 알리지 않도록 합니까?"
+   },
+   "_Are_you_sure_you_want_to_delete_this_": {
+      "message": "이것을 삭제합니까?"
+   },
+   "_Are_you_sure_you_want_to_delete_this_identity_": {
+      "message": "정말로 이 ID를 삭제하시겠습니까?"
+   },
+   "_Are_you_sure_you_want_to_delete_this_site_": {
+      "message": "이 사이트를 삭제하시겠습니까?"
+   },
+   "_Are_you_sure_you_want_to_have__Last_Pass_remember_your_password____This_will_significantly_decrease_the_security_of_your__Last_Pass_account_": {
+      "message": "LastPass가 암호를 기억하도록 합니까? LastPass 계정의 보안 수준이 크게 약화됩니다!"
+   },
+   "_Are_you_sure_you_want_to_save_an_empty_password_": {
+      "message": "빈 암호를 저장하시겠습니까?"
+   },
+   "_Are_you_sure_you_want_to_share_this_item____Doing_so_will_cause_you_to_lose_any_changes_you_have_made_to_this_item_": {
+      "message": "이 항목을 공유하겠습니까? 이 항목을 공유하시면 모든 변경 사항을 잃게 됩니다!"
+   },
+   "_Are_you_sure_you_want_to_view_history____Doing_so_will_cause_you_to_lose_any_changes_you_have_made_to_this_item_": {
+      "message": "접속 기록을 봅니까? 그렇게 할 경우 모든 변경 사항을 잃게 됩니다!"
+   },
+   "_Are_you_sure_you_would_like_to_change_your__Last_Pass_password_for_this_site_": {
+      "message": "정말로 LastPass가 이 사이트의 비밀번호를 변경하길 원하십니까?"
+   },
+   "_Are_you_sure_you_would_like_to_copy_your__Last_Pass_site_s__U_R_L_to_the_clipboard_": {
+      "message": "정말로 LastPass에 저장된 사이트 URL을 클립보드에 복사하길 원하십니까?"
+   },
+   "_Are_you_sure_you_would_like_to_copy_your__Last_Pass_site_s_password_to_the_clipboard_": {
+      "message": "정말로 LastPass에 저장된 사이트 비밀번호를 클립보드에 복사하길 원하십니까?"
+   },
+   "_Are_you_sure_you_would_like_to_copy_your__Last_Pass_site_s_username_to_the_clipboard_": {
+      "message": "정말로 LastPass에 저장된 사이트 유저이름을 클립보드에 복사하길 원하십니까?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_": {
+      "message": "정말 삭제하시겠습니까?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_the_selected_items_": {
+      "message": "선택 항목을 삭제합니까?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_the_selected_sites_": {
+      "message": "선택한 사이트를 삭제하겠습니까?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this__Form__Fill_from_your__Last_Pass_vault_": {
+      "message": "정말로 이 양식 채우기를 LastPass 저장소에서 삭제하시겠습니까?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_application_": {
+      "message": "이 응용 프로그램을 삭제합니까?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_field_": {
+      "message": "이 필드를 삭제하겠습니까?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_form_fill_profile_": {
+      "message": "이 프로필 양식을 삭제하겠습니까?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_generated_password_": {
+      "message": "생성된 암호를 삭제하겠습니까?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_group_": {
+      "message": "이 폴더를 삭제합니까?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_never__U_R_L_": {
+      "message": "이 제외 URL을 삭제하겠습니까?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_secure_note_": {
+      "message": "이 안전 메모를 삭제하겠습니까?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_site_": {
+      "message": "이 사이트를 제거하겠습니까?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_site_from_your__Last_Pass_vault_": {
+      "message": "정말로 이 사이트를 LastPass 저장소에서 삭제하시겠습니까?"
+   },
+   "_Are_you_sure_you_would_like_to_remove_this_attachment_": {
+      "message": "이 첨부 파일을 제거합니까?"
+   },
+   "_Are_you_sure_you_would_like_to_save_a_new_site_to_your__Last_Pass_vault_": {
+      "message": "정말로 LastPass Vault에 새로운 사이트를 등록합니까?"
+   },
+   "_Are_you_sure_you_would_like_your__Last_Pass__Form__Fill_information_to_be_filled_into_the_following_site_": {
+      "message": "정말로 LastPass 형식 정보를 다음 사이트에 입력하길 원하십니까?"
+   },
+   "_Are_you_sure_you_would_like_your__Last_Pass_site_information_to_be_filled_into_the_following_site_": {
+      "message": "정말로 LastPass 사이트 정보를 다음 사이트에 입력하길 원하십니까?"
+   },
+   "_Argentina": {
+      "message": "아르헨티나"
+   },
+   "_Arizona": {
+      "message": "아리조나"
+   },
+   "_Armenia": {
+      "message": "아르메니아"
+   },
+   "_Arts": {
+      "message": "예술"
+   },
+   "_Aruba": {
+      "message": "아루바"
+   },
+   "_Astana___Dhaka___Nobosibirsk": {
+      "message": "아스타나, 다카, 노보시비르스크"
+   },
+   "_At_least_this_many_numbers_will_be_in_a_generated_password_": {
+      "message": "이 이상의 숫자가 만들어진 암호에 포함될 것입니다."
+   },
+   "_Atlantic__Time___Canada____Manaus___Santiago": {
+      "message": "대서양 표준시 (캐나다), 마나우스, 산티아고"
+   },
+   "_Attachments_": {
+      "message": "첨부 파일:"
+   },
+   "_Auckland___Wellington": {
+      "message": "오클랜드, 웰링턴"
+   },
+   "_August": {
+      "message": "8월"
+   },
+   "_Australia": {
+      "message": "오스트레일리아"
+   },
+   "_Austria": {
+      "message": "오스트리아"
+   },
+   "_Authenticate": {
+      "message": "인증"
+   },
+   "_Authentication": {
+      "message": "인증"
+   },
+   "_Authentication__Failed_": {
+      "message": "인증 실패."
+   },
+   "_Auto_Fill": {
+      "message": "자동 채우기"
+   },
+   "_Auto_Login": {
+      "message": "자동 로그인"
+   },
+   "_Auto__Change__Password": {
+      "message": "암호 자동 변경"
+   },
+   "_Auto__Fill": {
+      "message": "자동 채우기"
+   },
+   "_Auto__Logoff__Other__Devices": {
+      "message": "나머지 장치 자동 로그오프"
+   },
+   "_Automatically__Fill__Login__Information": {
+      "message": "자동으로 로그인 정보 채우기"
+   },
+   "_Automatically__Log_out_after_idle__mins_": {
+      "message": "유휴 상태인 경우 자동으로 로그아웃 (분)"
+   },
+   "_Automatically__Log_out_when_all_browsers_are_closed_and__Chrome_has_been_closed_for__mins_": {
+      "message": "모든 브라우저가 닫혀 있고 Chrome이 다음 시간 동안 닫혀 있을 때 자동으로 로그아웃 (분)"
+   },
+   "_Automatically__Logoff_after_idle__mins_": {
+      "message": "다음 시간 동안 유휴 상태인 경우 자동으로 로그오프 (분)"
+   },
+   "_Automatically__Logoff_when_all_browsers_are_closed_and__Chrome_has_been_closed_for__mins_": {
+      "message": "모든 브라우저가 닫혀 있고 Chrome이 다음 시간 동안 닫혀 있을 때 자동으로 로그오프 (분)"
+   },
+   "_Automatically_login_to_sites_if_time_since_last_login____seconds_": {
+      "message": "다음 시간이 경과하면 사이트에 자동으로 다시 로그인 (초)"
+   },
+   "_Automatically_logoff_devices_when_logging_in_from_a_different_device": {
+      "message": "다른 장치에서 로그인 할 때 자동으로 장치를 로그 오프합니다."
+   },
+   "_Available__Items": {
+      "message": "사용할 수 있는 항목"
+   },
+   "_Avoid__Ambiguous__Characters": {
+      "message": "애매한 문자 사용하지 않음"
+   },
+   "_Azerbaijan": {
+      "message": "아제르바이잔"
+   },
+   "_Azores": {
+      "message": "아조레스"
+   },
+   "_B_A_C_K_U_P_P_E_R": {
+      "message": "뒤로 가기"
+   },
+   "_B_E_G_I_N": {
+      "message": "시작"
+   },
+   "_Back": {
+      "message": "뒤로"
+   },
+   "_Baghdad": {
+      "message": "바그다드"
+   },
+   "_Bahamas": {
+      "message": "바하마"
+   },
+   "_Bahrain": {
+      "message": "바레인"
+   },
+   "_Baku___Yerevan": {
+      "message": "바쿠, 예레반"
+   },
+   "_Bangkok___Hanoi___Jakarta___Krasnoyarsk": {
+      "message": "방콕, 하노이, 자카르타, 크라스노야르스크"
+   },
+   "_Bangladesh": {
+      "message": "방글라데시"
+   },
+   "_Bank__Account": {
+      "message": "은행 계좌"
+   },
+   "_Bank__Name": {
+      "message": "은행 이름"
+   },
+   "_Bank_accountformfill": {
+      "message": "은행 계좌"
+   },
+   "_Bank_name": {
+      "message": "은행 이름"
+   },
+   "_Barbados": {
+      "message": "바베이도스"
+   },
+   "_Before_you_can_use__Last_Pass__you_must_first_connect_your_fingerprint_reader_and_enroll_one_or_more_fingers_": {
+      "message": "LastPass를 사용하시기 전에 먼저 지문 판독기를 연결하고 하나 이상의 손가락을 인식시키세요."
+   },
+   "_Beijing___Hong__Kong___Singapore___Taipei___Irkutsk": {
+      "message": "베이징, 홍콩, 싱가포르, 타이베이, 이르쿠츠크"
+   },
+   "_Belarus": {
+      "message": "벨라루스"
+   },
+   "_Belgium": {
+      "message": "벨기에"
+   },
+   "_Belize": {
+      "message": "벨리즈"
+   },
+   "_Benin": {
+      "message": "베냉"
+   },
+   "_Bermuda": {
+      "message": "버뮤다"
+   },
+   "_Bhutan": {
+      "message": "부탄"
+   },
+   "_Binary__Component_": {
+      "message": "바이너리 구성 요소:"
+   },
+   "_Birthday": {
+      "message": "생일"
+   },
+   "_Bit__Strength": {
+      "message": "비트 강도"
+   },
+   "_Blacklist": {
+      "message": "로그인 시도 실패가 너무 많아 (5분 동안) 계정이 정지되어 있습니다."
+   },
+   "_Blog": {
+      "message": "블로그"
+   },
+   "_Bolivia": {
+      "message": "볼리비아"
+   },
+   "_Bookmarklet__Auto__Logoff": {
+      "message": "북마클릿 자동 로그오프"
+   },
+   "_Bookmarklets": {
+      "message": "북마클릿"
+   },
+   "_Bosnia_and__Herzegovina": {
+      "message": "보스니아 헤르체고비나"
+   },
+   "_Botswana": {
+      "message": "보츠와나"
+   },
+   "_Bouvet__Island": {
+      "message": "부베 섬"
+   },
+   "_Branch__Address": {
+      "message": "지점 주소"
+   },
+   "_Branch__Phone": {
+      "message": "지점 전화"
+   },
+   "_Brazil": {
+      "message": "브라질"
+   },
+   "_Brisbane___Guam___Port__Moresby___Vladivostok": {
+      "message": "브리즈번, 괌, 포트모르즈비, 블라디보스토크"
+   },
+   "_British__Indian__Ocean__Territory": {
+      "message": "영국령 인도양 식민지"
+   },
+   "_Browse_the_web_as_you_normally_would_and__Last_Pass_will_automatically_remember_passwords_as_you_enter_them_": {
+      "message": "평상시처럼 인터넷을 사용하시면 사이트에 들어갈 때 LastPass가 자동으로 암호를 저장합니다."
+   },
+   "_Brunei__Darussalam": {
+      "message": "브루나이"
+   },
+   "_Buenos__Aires___Georgetown": {
+      "message": "부에노스아이레스, 조지타운"
+   },
+   "_Built_": {
+      "message": "제작 날짜:"
+   },
+   "_Bulgaria": {
+      "message": "불가리아"
+   },
+   "_Burkina__Faso": {
+      "message": "부르키나파소"
+   },
+   "_Burundi": {
+      "message": "부룬디"
+   },
+   "_Business": {
+      "message": "사업"
+   },
+   "_But__I_m_a_forgetful_person___what_should__I_do_if__I_forget_my_password_": {
+      "message": "하지만 저는 건망증이 심한 사람입니다. 암호를 잊었을 경우 어떻게 합니까?"
+   },
+   "_C_S_V__Files": {
+      "message": "CSV 파일"
+   },
+   "_Cambodia": {
+      "message": "캄보디아"
+   },
+   "_Cameroon": {
+      "message": "카메룬"
+   },
+   "_Can_t_find_hidden__Last_Pass_window": {
+      "message": "숨겨진 LastPass 창이 없습니다"
+   },
+   "_Canada": {
+      "message": "캐나다"
+   },
+   "_Canary__Islands": {
+      "message": "카나리아 제도"
+   },
+   "_Canberra___Melbourne___Sydney___Hobart": {
+      "message": "캔버라, 멜버른, 시드니, 호바트"
+   },
+   "_Cancel": {
+      "message": "취소"
+   },
+   "_Cancel__Invitation": {
+      "message": "초대 취소"
+   },
+   "_Cape__Verde": {
+      "message": "카보베르데"
+   },
+   "_Cape__Verde__Is_": {
+      "message": "카보베르데 제도"
+   },
+   "_Caracas": {
+      "message": "카라카스"
+   },
+   "_Casablanca___Monrovia___Reykjavik": {
+      "message": "카사블랑카, 몬로비아, 레이캬비크"
+   },
+   "_Catalan": {
+      "message": "카탈로니아어"
+   },
+   "_Cayman__Islands": {
+      "message": "케이맨 제도"
+   },
+   "_Central__African__Republic": {
+      "message": "중앙아프리카 공화국"
+   },
+   "_Central__America___Saskatchewan": {
+      "message": "중앙 아메리카, 서스캐처원"
+   },
+   "_Central__Time___U_S____Canada____Guadalajara___Mexico__City": {
+      "message": "중부 표준시 (미국과 캐나다), 과달라하라, 멕시코 시티"
+   },
+   "_Chad": {
+      "message": "차드"
+   },
+   "_Change": {
+      "message": "변경"
+   },
+   "_Change__Group__Name": {
+      "message": "폴더 이름 바꾸기"
+   },
+   "_Change__Master__Password": {
+      "message": "마스터 암호 변경"
+   },
+   "_Change__Password": {
+      "message": "암호 변경"
+   },
+   "_Change__Password__Automatically": {
+      "message": "자동으로 암호 변경"
+   },
+   "_Change__Password__Now": {
+      "message": "지금 암호 변경"
+   },
+   "_Change__Passwords__Now": {
+      "message": "지금 암호 변경"
+   },
+   "_Change__Your__Password": {
+      "message": "암호 변경"
+   },
+   "_Changes_you_have_made_have_not_been_saved___Are_you_sure_you_want_to_close_": {
+      "message": "변경 한 사항은 저장되지 않았습니다. 닫으시겠습니까?"
+   },
+   "_Check__For__Updates": {
+      "message": "업데이트 확인"
+   },
+   "_Check_this_box_to_fine_tune_how_your_password_is_generated_": {
+      "message": "암호를 생성하는 방식을 설정하려면 이 상자를 선택하세요."
+   },
+   "_Checkbox": {
+      "message": "확인란"
+   },
+   "_Checking__For__Updates___": {
+      "message": "업데이트 확인하는 중 ..."
+   },
+   "_Chennai___Kolkata___Mumbai___New__Delhi___Sri__Jayawardenepura": {
+      "message": "첸나이, 콜카타, 뭄바이, 뉴델리, 스리자야와르데네푸라"
+   },
+   "_Chile": {
+      "message": "칠레"
+   },
+   "_China": {
+      "message": "중국"
+   },
+   "_Chinese___Simplified_": {
+      "message": "중국어(간체)"
+   },
+   "_Chinese___Traditional_": {
+      "message": "중국어(번체)"
+   },
+   "_Choose__Profile_and__Credit__Card": {
+      "message": "프로필과 신용카드 선택"
+   },
+   "_Choose_a_source_above_": {
+      "message": "위의 소스를 선택합니다."
+   },
+   "_Christmas__Island": {
+      "message": "크리스마스 섬"
+   },
+   "_Chrome": {
+      "message": "Chrome"
+   },
+   "_City____Town": {
+      "message": "시 / 타운"
+   },
+   "_Clear": {
+      "message": "삭제"
+   },
+   "_Clear__Clipboard_after_use__seconds_": {
+      "message": "사용 후 클립보드 비우기 (초)"
+   },
+   "_Clear__Forms": {
+      "message": "양식 삭제"
+   },
+   "_Clear__Local__Cache": {
+      "message": "로컬 캐시 삭제"
+   },
+   "_Clear__Recent": {
+      "message": "최근 사이트 삭제"
+   },
+   "_Clear_filled_fields_on_log_out": {
+      "message": "로그아웃할 때 채우기된 필드 지우기"
+   },
+   "_Clear_filled_fields_on_logoff": {
+      "message": "로그오프할 때 채우기된 필드 지우기"
+   },
+   "_Click__Continue_to_start_using__Last_Pass_": {
+      "message": "LastPass를 사용하려면 계속을 클릭하세요."
+   },
+   "_Click__Here_to__Save__Your__First__Note_": {
+      "message": "첫 번째 메모를 저장하려면 여기를 클릭하십시오!"
+   },
+   "_Click__Here_to__Save__Your__First__Profile_": {
+      "message": "첫 번째 프로필을 저장하려면 여기를 클릭하십시오!"
+   },
+   "_Click__Here_to__Save__Your__First__Site_": {
+      "message": "첫 번째 사이트를 저장하려면 여기를 클릭하십시오!"
+   },
+   "_Click__Here_to__Share__Your__First__Item_": {
+      "message": "첫 항목을 공유하려면 여기를 클릭하십시오!"
+   },
+   "_Click__Icons_in__Fields": {
+      "message": "필드에서 아이콘 클릭"
+   },
+   "_Click_here_for_instructions_on_importing_from__Robo_Form_": {
+      "message": "RoboForm에서 가져오는 것에 대한 설명을 보려면 여기를 클릭하세요."
+   },
+   "_Click_here_for_instructions_on_importing_from_a_generic__C_S_V_file_": {
+      "message": "일반 CSV 파일에서 가져오는 법에 대한 설명을 보려면 여기를 클릭하세요."
+   },
+   "_Click_here_to_initiate_multifactor_authentication_on_your_phone_or_mobile_device_": {
+      "message": "전화나 모바일 장치에서 다중요소 인증을 시작하려면 여기를 클릭하세요."
+   },
+   "_Click_here_to_launch_account_settings": {
+      "message": "계정 설정을 실행하려면 여기를 클릭하세요"
+   },
+   "_Click_here_to_launch_feedback": {
+      "message": "의견 보내기"
+   },
+   "_Click_here_to_view_the__Last_Pass__User__Manual": {
+      "message": "LastPass 사용자 설명서을 보려면 여기를 클릭하세요"
+   },
+   "_Click_on_a_username_or_formfill_profile_row_to_choose_how__Last_Pass_will_auto_fill_the_current_web_page_": {
+      "message": "LastPass가 현재 웹 페이지를 자동 채우기할 방법을 선택하려면 사용자 이름이나 양식 채우기 프로필 행을 클릭하세요."
+   },
+   "_Click_on_the_icons_at_the_bottom_for_additional_actions_": {
+      "message": "추가 작업을 위해 하단에 있는 아이콘을 클릭하세요."
+   },
+   "_Click_to_fine_tune_how_your_password_is_generated_": {
+      "message": "암호가 만들어지는 방식을 조정하려면 클릭하세요."
+   },
+   "_Click_to_hide_advanced_options_": {
+      "message": "고급 옵션을 숨기려면 클릭하세요."
+   },
+   "_Clipperz": {
+      "message": "Clipperz"
+   },
+   "_Close": {
+      "message": "닫기"
+   },
+   "_Close_this_window": {
+      "message": "이 창 닫기"
+   },
+   "_Co_pay": {
+      "message": "자기부담금"
+   },
+   "_Cocos___Keeling___Islands": {
+      "message": "코코스 (킬링) 제도"
+   },
+   "_Collapse__All": {
+      "message": "모두 접기"
+   },
+   "_Collapse__All__Folders": {
+      "message": "모든 폴더 축소"
+   },
+   "_Colombia": {
+      "message": "콜롬비아"
+   },
+   "_Comoros": {
+      "message": "코모로"
+   },
+   "_Company": {
+      "message": "회사"
+   },
+   "_Company_Policy_Prohibits": {
+      "message": "회사 정책에 따라 이 동작은 금지됩니다."
+   },
+   "_Company__Phone": {
+      "message": "회사 전화"
+   },
+   "_Company_policy_prevents_changing_some_settings__not_all_updates_have_been_saved_": {
+      "message": "회사 정책 때문에 일부 설정을 변경할 수 없어 모든 갱신 내용이 저장되지는 않았습니다."
+   },
+   "_Complete_": {
+      "message": "완료!"
+   },
+   "_Configure__Form__Fill": {
+      "message": "양식 설정"
+   },
+   "_Confirm": {
+      "message": "확인"
+   },
+   "_Confirm__Password": {
+      "message": "암호 확인"
+   },
+   "_Congo": {
+      "message": "콩고 (민주 공화국)"
+   },
+   "_Congo__the__Democratic__Republic_of__The": {
+      "message": "콩고 민주 공화국"
+   },
+   "_Congratulations": {
+      "message": "축하합니다"
+   },
+   "_Congratulations___Your_password_for__s_was_updated__and_is_now_saved_in_your__Last_Pass_vault___Your_change_will_sync_on_every_device_": {
+      "message": "축하합니다! 당신의 %s에 대한 암호가 갱신되었고, 지금 당신의 LastPass 저장소에 저장되었습니다. 당신의 변경 내용은 모든 장치와 동기화됩니다."
+   },
+   "_Congratulations____You_re_one_password_closer_to_being_secure_on_the_internet____Your_password_has_been_changed__and_is_now_updated_through_your__Last_Pass_vault_on_every_device_": {
+      "message": "축하합니다! 이로써 한층 더 보안이 강화되어 안전하게 인터넷을 사용할 수 있게 되었습니다. 변경하신 암호는 LastPass가 연결된 모든 장치에서 새로운 암호로 업데이트 됩니다."
+   },
+   "_Connection__Mode": {
+      "message": "연결 모드"
+   },
+   "_Connection__Type": {
+      "message": "연결 유형"
+   },
+   "_Contact": {
+      "message": "연락처"
+   },
+   "_Continue": {
+      "message": "계속"
+   },
+   "_Control_characters_found_in_selected_filename__will_not_process_it": {
+      "message": "선택된 파일 이름에서 제어 문자가 발견되어 처리하지 않습니다"
+   },
+   "_Cook__Islands": {
+      "message": "쿡 제도"
+   },
+   "_Copy": {
+      "message": "복사"
+   },
+   "_Copy__Note": {
+      "message": "메모 복사"
+   },
+   "_Copy__Password": {
+      "message": "암호 복사"
+   },
+   "_Copy__U_R_L": {
+      "message": "URL 복사"
+   },
+   "_Copy__Username": {
+      "message": "사용자 이름 복사"
+   },
+   "_Copyright_2008__Last_Pass___All__Rights__Reserved___Portions_of_this_software_were_licensed_from_third_parties_as_described_at_": {
+      "message": "Copyright 2008 LastPass. All Rights Reserved.\n다음에서 설명한 대로 이 소프트웨어의 일부는 제3자로부터 사용이 허가되었습니다:"
+   },
+   "_Cost": {
+      "message": "비용"
+   },
+   "_Costa__Rica": {
+      "message": "코스타리카"
+   },
+   "_Cote__D_ivoire": {
+      "message": "코트디부아르"
+   },
+   "_Country": {
+      "message": "국가"
+   },
+   "_Country__Restriction": {
+      "message": "국가 제한"
+   },
+   "_County": {
+      "message": "카운티"
+   },
+   "_Create__Account": {
+      "message": "회원가입"
+   },
+   "_Create__Group": {
+      "message": "폴더 만들기"
+   },
+   "_Create__Sub__Group": {
+      "message": "하위 폴더 만들기"
+   },
+   "_Create__Your__Last_Pass__Account": {
+      "message": "LastPass 계정 만들기"
+   },
+   "_Create_an__Account": {
+      "message": "계정 만들기"
+   },
+   "_Create_an_account_now_": {
+      "message": "지금 계정을 만드세요."
+   },
+   "_Create_and_manage_folders_of_shared_logins_and_notes_": {
+      "message": "공유 로그인 및 메모 폴더를 만들고 관리합니다."
+   },
+   "_Creating__Account___": {
+      "message": "계정 만드는 중..."
+   },
+   "_Credit__Card": {
+      "message": "신용카드"
+   },
+   "_Credit__Card__Number": {
+      "message": "신용카드 번호"
+   },
+   "_Credit__Monitoring": {
+      "message": "Credit Monitoring"
+   },
+   "_Credit__Monitoring__Profiles": {
+      "message": "신용 모니터링 프로파일"
+   },
+   "_Credit_card_number": {
+      "message": "신용카드 번호"
+   },
+   "_Credit_cardformfill": {
+      "message": "신용카드"
+   },
+   "_Croatia": {
+      "message": "크로아티아"
+   },
+   "_Ctrl": {
+      "message": "Ctrl"
+   },
+   "_Cuba": {
+      "message": "쿠바"
+   },
+   "_Custom__Value": {
+      "message": "사용자 지정 값"
+   },
+   "_Custom_field__": {
+      "message": "사용자 지정 필드 #"
+   },
+   "_Custom_fields": {
+      "message": "사용자 지정 필드"
+   },
+   "_Cyprus": {
+      "message": "키프로스"
+   },
+   "_Czech__Republic": {
+      "message": "체코"
+   },
+   "_Danish": {
+      "message": "덴마크어"
+   },
+   "_Darn___Passwords_": {
+      "message": "Darn! Passwords!"
+   },
+   "_Darwin": {
+      "message": "다윈"
+   },
+   "_Dashlane": {
+      "message": "Dashlane"
+   },
+   "_Database": {
+      "message": "데이터베이스"
+   },
+   "_Date": {
+      "message": "날짜"
+   },
+   "_Date_of__Birth": {
+      "message": "생일"
+   },
+   "_Debug": {
+      "message": "디버그"
+   },
+   "_Debug__Console": {
+      "message": "디버그 콘솔"
+   },
+   "_December": {
+      "message": "12월"
+   },
+   "_Declined": {
+      "message": "거부 됨"
+   },
+   "_Default": {
+      "message": "기본값"
+   },
+   "_Default__Form__Fill__Profile": {
+      "message": "기본 프로필 양식"
+   },
+   "_Delete": {
+      "message": "삭제"
+   },
+   "_Delete__Cache": {
+      "message": "캐시 삭제"
+   },
+   "_Delete__Formfill__Profile": {
+      "message": "프로필 양식 삭제"
+   },
+   "_Delete__Group": {
+      "message": "폴더 삭제"
+   },
+   "_Delete__Identity_": {
+      "message": "신원 삭제?"
+   },
+   "_Delete__Selected": {
+      "message": "선택 항목 삭제"
+   },
+   "_Delete__Site": {
+      "message": "사이트 삭제"
+   },
+   "_Delete__Site_": {
+      "message": "사이트 삭제?"
+   },
+   "_Delete_this_form_fill_profile": {
+      "message": "이 프로필 양식을 삭제하기"
+   },
+   "_Deleted__Items": {
+      "message": "삭제된 항목"
+   },
+   "_Denmark": {
+      "message": "덴마크"
+   },
+   "_Description": {
+      "message": "설명"
+   },
+   "_Dining": {
+      "message": "음식"
+   },
+   "_Disable": {
+      "message": "비활성화"
+   },
+   "_Disable__Chrome__Password__Manager": {
+      "message": "Chrome Password Manager 비활성화"
+   },
+   "_Disable__Email__Verification": {
+      "message": "전자 메일 확인 비활성화"
+   },
+   "_Disable__Insecure__Chrome__Password__Manager": {
+      "message": "안전하지 않은 Chrome 암호 관리자 비활성화"
+   },
+   "_Disable__Last_Pass": {
+      "message": "LastPass 비활성화"
+   },
+   "_Disable__Last_Pass__Master__Password_risk_warning_on_this_site_": {
+      "message": "이 사이트에 대한 LastPass 마스터 암호의 위험 경고를 사용하지 않습니까?"
+   },
+   "_Disable__Last_Pass_for_this_page_or_the_entire_site_": {
+      "message": "이 페이지나 전체 사이트에 대해 LastPass를 비활성화합니까?"
+   },
+   "_Disable__Multifactor": {
+      "message": "다단계 비활성화"
+   },
+   "_Disable__Multifactor__Authentication": {
+      "message": "다중요소 인증 비활성화"
+   },
+   "_Disable__Page": {
+      "message": "페이지 비활성화"
+   },
+   "_Disable__Scroll": {
+      "message": "스크롤 비활성화"
+   },
+   "_Disable__Single_factor": {
+      "message": "단일 단계 비활성화"
+   },
+   "_Disable__Single_factor__Authentication": {
+      "message": "단일요소 인증 비활성화"
+   },
+   "_Disable__Site": {
+      "message": "사이트 비활성화"
+   },
+   "_Disable_alert___": {
+      "message": "경고 비활성화..."
+   },
+   "_Disable_alert_for_this_site": {
+      "message": "이 사이트에 대한 경고 비활성화"
+   },
+   "_Disable_all_weak_duplicate_site_alerts": {
+      "message": "모든 취약한/중복된 사이트에 대한 경고 비활성화"
+   },
+   "_Disable_for_all_sites": {
+      "message": "모든 사이트에 대해 비활성화"
+   },
+   "_Disallow_logins_from__Tor_networks": {
+      "message": "Tor 네트워크의 로그인 금지"
+   },
+   "_Discard_changes_and_close_this_window": {
+      "message": "저장하지 않고 이 창 닫기"
+   },
+   "_Dismiss": {
+      "message": "해제"
+   },
+   "_Djibouti": {
+      "message": "지부티"
+   },
+   "_Do_not_overwrite_fields_that_are_already_filled": {
+      "message": "이미 채워진 필드 덮어쓰지 않기"
+   },
+   "_Do_not_re_prompt_for_": {
+      "message": "다음 시간 동안 확인하지 않음 "
+   },
+   "_Do_not_show_this_message_for_this_domain": {
+      "message": "이 도메인에 대해 더 이상 메시지 표시하지 않음"
+   },
+   "_Do_you_like__Last_Pass_": {
+      "message": "LastPass를 좋아하시나요?"
+   },
+   "_Do_you_really_want_to_quit____You_cannot_use__Last_Pass_without_creating_an_account_": {
+      "message": "종료하시겠습니까?  계정을 만들지 않으면 LastPass를 이용할 수 없습니다."
+   },
+   "_Do_you_want_to_continue_": {
+      "message": "계속하시겠습니까?"
+   },
+   "_Dominica": {
+      "message": "도미니카 (연방)"
+   },
+   "_Dominican__Republic": {
+      "message": "도미니카 공화국"
+   },
+   "_Down": {
+      "message": "↓"
+   },
+   "_Dr": {
+      "message": "닥터"
+   },
+   "_Driver_s__License": {
+      "message": "운전 면허"
+   },
+   "_Duo__Security": {
+      "message": "Duo Security"
+   },
+   "_Duplicate_password": {
+      "message": "중복된 암호"
+   },
+   "_Duration": {
+      "message": "지속"
+   },
+   "_Dutch": {
+      "message": "네덜란드어"
+   },
+   "_E_R_R_O_R": {
+      "message": "오류"
+   },
+   "_E_R_R_O_R___Moving_sites_between_shared_folders_is_currently_not_supported_": {
+      "message": "오류: 공유 폴더 간 사이트 이동은 현재 지원되지 않습니다."
+   },
+   "_E_R_R_O_R___You_are_not_allowed_to_move_sites_out_of_shared_folders___Delete_is_the_only_supported_operation_": {
+      "message": "오류: 사이트를 공유 폴더 밖으로 이동하도록 허용되지 않았습니다. 삭제 작업만 가능합니다."
+   },
+   "_Eastern__Time___U_S____Canada_": {
+      "message": "동부 표준시 (미국과 캐나다)"
+   },
+   "_Ecuador": {
+      "message": "에콰도르"
+   },
+   "_Edit": {
+      "message": "편집"
+   },
+   "_Edit__Access": {
+      "message": "액세스 편집"
+   },
+   "_Edit__Application": {
+      "message": "응용 프로그램 편집"
+   },
+   "_Edit__Application__Fields": {
+      "message": "응용 프로그램 필드 편집"
+   },
+   "_Edit__Credit__Card_profile": {
+      "message": "신용카드 프로필 편집"
+   },
+   "_Edit__Form__Fields": {
+      "message": "양식 필드 편집"
+   },
+   "_Edit__Form__Fill_profile": {
+      "message": "프로필 양식 편집"
+   },
+   "_Edit__Note": {
+      "message": "메모 편집"
+   },
+   "_Edit__Secure__Note": {
+      "message": "안전 메모 편집"
+   },
+   "_Edit__Secure__Notes": {
+      "message": "안전한 메모를 편집할 때"
+   },
+   "_Edit__Shares": {
+      "message": "공유 항목 편집"
+   },
+   "_Edit__Site": {
+      "message": "사이트 편집"
+   },
+   "_Edit__Site__Fields": {
+      "message": "사이트 필드 편집"
+   },
+   "_Edit_your_site_to_see_old_passwords_": {
+      "message": "이전 암호를 보려면 사이트를 편집하세요."
+   },
+   "_Education": {
+      "message": "교육"
+   },
+   "_Egypt": {
+      "message": "이집트"
+   },
+   "_El__Salvador": {
+      "message": "엘살바도르"
+   },
+   "_Email": {
+      "message": "전자 메일"
+   },
+   "_Email_": {
+      "message": "이메일:"
+   },
+   "_Email__Account": {
+      "message": "전자 메일 계정"
+   },
+   "_Email__Address": {
+      "message": "전자 메일 주소"
+   },
+   "_Email_address": {
+      "message": "이메일 주소"
+   },
+   "_Email_already_in_use__have_you_forgotten_your_password_": {
+      "message": "이미 사용 중인 전자 메일 주소입니다. 암호를 잊었습니까?"
+   },
+   "_Enable": {
+      "message": "활성화"
+   },
+   "_Enable__Credit__Monitoring": {
+      "message": "신용 감시 활성화"
+   },
+   "_Enable__Free__Credit__Monitoring": {
+      "message": "무료 신용 감시 활성화"
+   },
+   "_Enable__Native__Messaging": {
+      "message": "네이티브 메시징 활성화"
+   },
+   "_Enable__Scroll": {
+      "message": "스크롤 활성화"
+   },
+   "_Enable____Edit": {
+      "message": "활성화 | 편집"
+   },
+   "_Enable_new_login_screen": {
+      "message": "새 로그인 화면을 사용"
+   },
+   "_Enabled": {
+      "message": "활성화됨"
+   },
+   "_Encryption": {
+      "message": "암호화"
+   },
+   "_End": {
+      "message": "End"
+   },
+   "_English": {
+      "message": "영어"
+   },
+   "_English___United__Kingdom_": {
+      "message": "영어(영국)"
+   },
+   "_Enjoy_convenient_access_to_sites__notes__profiles_and_tools_from_a_simplified_menu_": {
+      "message": "단순화 된 메뉴에서 사이트, 메모, 프로파일 및 도구에 편리하게 액세스 할 수 있습니다."
+   },
+   "_Enter__Code_": {
+      "message": "코드를 입력하세요:"
+   },
+   "_Enter__P_I_N": {
+      "message": "PIN 입력"
+   },
+   "_Enter_a_passcode_in_the_box_below_": {
+      "message": "아래 상자에 암호 코드를 입력하세요:"
+   },
+   "_Enter_arbitrary_notes": {
+      "message": "임의의 메모를 입력하세요"
+   },
+   "_Enter_your_smart_card__P_I_N_": {
+      "message": "당신의 스마트 카드 PIN을 입력하세요:"
+   },
+   "_Enterprise": {
+      "message": "기업용"
+   },
+   "_Enterprise__User": {
+      "message": "엔터프라이즈 사용자"
+   },
+   "_Entertainment": {
+      "message": "연예 오락"
+   },
+   "_Equatorial__Guinea": {
+      "message": "적도 기니"
+   },
+   "_Eritrea": {
+      "message": "에리트레아"
+   },
+   "_Error_Get_Accts_Msg": {
+      "message": "LastPass 사이트를 검색하는 동안 오류가 발생했습니다. 사이트를 검색하려면 다시 로그인해 주세요."
+   },
+   "_Error_Login_Msg": {
+      "message": "LastPass에 로그인하는 동안 오류가 발생했습니다. 인터넷 접속 상태를 확인해 주세요."
+   },
+   "_Error_Sending_Msg": {
+      "message": "서버에 접속하는 동안 오류가 발생했습니다. 인터넷 접속 상태를 확인해 주세요."
+   },
+   "_Error_Session_Msg": {
+      "message": "LastPass 세션이 만료됐습니다. 다시 로그인하세요."
+   },
+   "_Error___This_folder_has_already_been_moved_": {
+      "message": "오류: 이 폴더는 이미 이동되었습니다."
+   },
+   "_Error_opening_attachment_": {
+      "message": "첨부 파일 열기 오류."
+   },
+   "_Estonia": {
+      "message": "에스토니아"
+   },
+   "_Ethiopia": {
+      "message": "에티오피아"
+   },
+   "_Evening__Number": {
+      "message": "야간 전화번호"
+   },
+   "_Evening_number": {
+      "message": "연락처"
+   },
+   "_Existing_Users_O_T_P_Prompt": {
+      "message": "LastPass는 이제 마스터 암호를 잊은 경우 계정을 복구할 수 있는 1회용 암호(OTP)를 로컬에 저장할 수 있습니다. 이 1회용 암호는 서버에서 활성화가 이루어질 때까지 사용할 수 없습니다.\n\n계정 복구를 활성화합니까?"
+   },
+   "_Expand__All": {
+      "message": "모두 펼치기"
+   },
+   "_Expand__All__Folders": {
+      "message": "모든 폴더 펼치기"
+   },
+   "_Expand_and_collapse_your_folders__and_sort_by_folder__site__or_most_recently_used_": {
+      "message": "폴더를 확장하거나 축소하고 폴더, 사이트 또는 가장 최근에 사용한 항목별로 정렬하십시오."
+   },
+   "_Expiration": {
+      "message": "만료"
+   },
+   "_Expiration__Date": {
+      "message": "만료 날짜"
+   },
+   "_Expiration_date": {
+      "message": "만료 날짜"
+   },
+   "_Export": {
+      "message": "내보내기"
+   },
+   "_Export__To": {
+      "message": "양식 내보내기"
+   },
+   "_Export__To__Last_Pass__C_S_V__File": {
+      "message": "LastPass CSV 파일로 내보내기"
+   },
+   "_F_I_P_S__Mode": {
+      "message": "FIPS 모드"
+   },
+   "_Falkland__Islands___Malvinas_": {
+      "message": "포클랜드(말비나스) 제도"
+   },
+   "_Faroe__Islands": {
+      "message": "페로 제도"
+   },
+   "_Favorite": {
+      "message": "즐겨찾기"
+   },
+   "_Favoritesproper": {
+      "message": "즐겨찾기"
+   },
+   "_Fax__Number": {
+      "message": "팩스 번호"
+   },
+   "_Fax_number": {
+      "message": "팩스 번호"
+   },
+   "_Features": {
+      "message": "특징"
+   },
+   "_February": {
+      "message": "2월"
+   },
+   "_Feedback": {
+      "message": "의견"
+   },
+   "_Female": {
+      "message": "여성"
+   },
+   "_Field": {
+      "message": "필드"
+   },
+   "_Fields_": {
+      "message": "필드:"
+   },
+   "_Fiji": {
+      "message": "피지"
+   },
+   "_Fiji___Kamchatka___Marshall__Is_": {
+      "message": "피지, 캄차카, 마셜 제도"
+   },
+   "_File": {
+      "message": "파일"
+   },
+   "_File_too_large__it_must_be_less_than_10_M_B_": {
+      "message": "파일이 너무 큽니다. 10MB 미만이어야 합니다."
+   },
+   "_File_too_large__it_must_be_less_than_5_M_B_": {
+      "message": "파일이 너무 큽니다. 5MB 미만이어야 합니다."
+   },
+   "_Files": {
+      "message": "파일"
+   },
+   "_Fill": {
+      "message": "채우기"
+   },
+   "_Fill__Current": {
+      "message": "여기 채우기"
+   },
+   "_Fill__Form": {
+      "message": "양식 채우기"
+   },
+   "_Fill__Forms": {
+      "message": "다수의 양식 채우기"
+   },
+   "_Fill__In__Default__Form__Fill__Profile": {
+      "message": "기본 프로필 양식 채우기"
+   },
+   "_Fill__In__Next__Login___When__Multiple_": {
+      "message": "다음 로그인으로 채우기 (여러 개일 때)"
+   },
+   "_Fill__In__Previous__Login___When__Multiple_": {
+      "message": "이전 로그인으로 채우기 (여러 개일 때)"
+   },
+   "_Fill_every_form": {
+      "message": "모든 양식 채우기"
+   },
+   "_Fill_or__Edit__Form__Fill__Data": {
+      "message": "양식 데이터를 채우거나 수정하기"
+   },
+   "_Fill_with": {
+      "message": "다음으로 채우기:"
+   },
+   "_Fillable_Form_Detected": {
+      "message": "이 페이지에서 채울 수 있는 양식이 감지되었습니다."
+   },
+   "_Filter": {
+      "message": "필터"
+   },
+   "_Finance": {
+      "message": "금융"
+   },
+   "_Find_a_site": {
+      "message": "사이트 찾기"
+   },
+   "_Fingerprint____Smart__Card": {
+      "message": "지문 / 스마트 카드"
+   },
+   "_Finland": {
+      "message": "핀란드"
+   },
+   "_Finnish": {
+      "message": "핀란드어"
+   },
+   "_Fire_Form": {
+      "message": "FireForm"
+   },
+   "_Firefox": {
+      "message": "Firefox"
+   },
+   "_Firefox__Password__Manager": {
+      "message": "Firefox 암호 관리자"
+   },
+   "_First_3_digits_of_your_phone_number": {
+      "message": "전화번호의 처음 3자리 숫자"
+   },
+   "_First__Name": {
+      "message": "이름"
+   },
+   "_First_name": {
+      "message": "이름"
+   },
+   "_Folder__Name_": {
+      "message": "폴더 이름:"
+   },
+   "_Folder__a_z_": {
+      "message": "폴더 (ㄱ-ㅎ)"
+   },
+   "_Folder__z_a_": {
+      "message": "폴더 (ㅎ-ㄱ)"
+   },
+   "_For_each_coordinate_listed_below__find_the_value_on_your_grid_and_enter_the_value_": {
+      "message": "그리드에서 아래의 좌표에 해당하는 값을 모두 찾아 입력하세요."
+   },
+   "_Forgot__Password_": {
+      "message": "암호 분실?"
+   },
+   "_Form_Fill": {
+      "message": "양식 채우기"
+   },
+   "_Form_Fill__Profiles": {
+      "message": "양식채우기 프로필"
+   },
+   "_Form__Fill": {
+      "message": "작성하기"
+   },
+   "_Form__Fill__Profile": {
+      "message": "프로필 작성하기"
+   },
+   "_Form__Fill__Profiles": {
+      "message": "다수의 프로필 양식 채우기"
+   },
+   "_Form__Fill__Profiles_": {
+      "message": "서식 채우기 프로파일 :"
+   },
+   "_Form__Fills": {
+      "message": "양식 채우기"
+   },
+   "_Form__Name_": {
+      "message": "양식 이름:"
+   },
+   "_Format": {
+      "message": "형식"
+   },
+   "_Forums": {
+      "message": "포럼"
+   },
+   "_France": {
+      "message": "프랑스"
+   },
+   "_Free__User": {
+      "message": "무료 사용자"
+   },
+   "_Free__daily_credit_monitoring___Get_notified_of_events_and_protect_yourself_from_identity_theft__with_no_impact_on_your_credit_score_": {
+      "message": "무료 일일 신용 모니터링. 이벤트에 대한 알림을 받고 신원 도용으로부터 자신을 보호하십시오."
+   },
+   "_Free_trials_for__Premium_and__Enterprise": {
+      "message": "프리미엄과 엔터프라이즈 무료 평가판"
+   },
+   "_French": {
+      "message": "프랑스어"
+   },
+   "_French__Guiana": {
+      "message": "프랑스령 기아나"
+   },
+   "_French__Polynesia": {
+      "message": "프랑스령 폴리네시아"
+   },
+   "_French__Southern__Territories": {
+      "message": "프랑스령 남부 지역"
+   },
+   "_French___Canada_": {
+      "message": "프랑스어(캐나다)"
+   },
+   "_Full_path_of_file_to_import_": {
+      "message": "가져올 파일의 전체 경로 :"
+   },
+   "_Full_path_of_the_file_to_import_": {
+      "message": "가져올 파일의 전체 경로 :"
+   },
+   "_G_E_T__F_R_E_E__P_R_E_M_I_U_M": {
+      "message": "무료로 프리미엄 얻기"
+   },
+   "_G_M_T_5": {
+      "message": "GMT+5"
+   },
+   "_G_M_T_7": {
+      "message": "GMT+7"
+   },
+   "_G_M_T_9": {
+      "message": "GMT+9"
+   },
+   "_G_M_T__Dublin___Edinburgh___Lisbon___London": {
+      "message": "GMT 더블린, 에딘버러, 리스본, 런던"
+   },
+   "_G_M_T___Dublin___Edinburgh___Lisbon___London": {
+      "message": "GMT: 더블린, 에딘버러, 리스본, 런던"
+   },
+   "_Gabon": {
+      "message": "가봉"
+   },
+   "_Gambia": {
+      "message": "감비아"
+   },
+   "_Games": {
+      "message": "게임"
+   },
+   "_Gender": {
+      "message": "성별"
+   },
+   "_General": {
+      "message": "일반"
+   },
+   "_General_security_notifications": {
+      "message": "일반 보안 알림"
+   },
+   "_Generate": {
+      "message": "만들기"
+   },
+   "_Generate_Password": {
+      "message": "계정을 만들거나 암호를 바꾸려는 경우 LastPass로 고유하고 안전한 암호를 만드려면 만들기를 누르세요."
+   },
+   "_Generate__Another__Password": {
+      "message": "다른 암호 생성"
+   },
+   "_Generate__Password": {
+      "message": "암호 만들기"
+   },
+   "_Generate__Secure__Password": {
+      "message": "안전한 암호 만들기"
+   },
+   "_Generated__Password_for": {
+      "message": "다음에 대해 만들어진 암호:"
+   },
+   "_Generates_one_time_verification_codes_on_your_smart_phone_": {
+      "message": "스마트폰에서 1회용 인증 코드를 생성합니다."
+   },
+   "_Generates_one_time_verification_codes_or_sends_push_notifications_to_your_smart_phone_": {
+      "message": "1회용 인증 코드를 생성하거나 스마트폰에 푸시 알림을 보냅니다."
+   },
+   "_Generic": {
+      "message": "일반"
+   },
+   "_Generic__C_S_V__File": {
+      "message": "일반 CSV 파일"
+   },
+   "_Georgia": {
+      "message": "조지아(그루지야)"
+   },
+   "_German": {
+      "message": "독일어"
+   },
+   "_Germany": {
+      "message": "독일"
+   },
+   "_Get__Started": {
+      "message": "시작하기"
+   },
+   "_Ghana": {
+      "message": "가나"
+   },
+   "_Gibraltar": {
+      "message": "지브롤터"
+   },
+   "_Give_the__Gift_of__Last_Pass": {
+      "message": "LastPass 선물하기"
+   },
+   "_Give_the__Gift_of__Last_Pass__Premium": {
+      "message": "LastPass 프리미엄 선물하기"
+   },
+   "_Go__Back": {
+      "message": "뒤로 가기"
+   },
+   "_Go__Back_": {
+      "message": "뒤로 가기?"
+   },
+   "_Go__Premium": {
+      "message": "프리미엄 시작"
+   },
+   "_Go__Premium_": {
+      "message": "프리미엄 시작!"
+   },
+   "_Go_to__U_R_L": {
+      "message": "URL로 이동"
+   },
+   "_Google__Authenticator": {
+      "message": "Google OTP"
+   },
+   "_Google__Authenticator__Multifactor__Authentication": {
+      "message": "Google OTP 다중요소 인증"
+   },
+   "_Google__Chrome": {
+      "message": "Google Chrome"
+   },
+   "_Google__Chrome__Password__Manager": {
+      "message": "Google Chrome 암호 관리자"
+   },
+   "_Google__Chrome_requires_that_extensions_use_the_same_language_as_the_browser__so_in_order_to_switch__Last_Pass_s_language__please_change_the_main_browser_language_under__Chrome_s__Options_": {
+      "message": "Google Chrome은 확장 기능과 브라우저의 동일한 언어 사용이 필요합니다. 따라서 LastPass의 언어를 변경하려면,  Chrome의 옵션에서 브라우저 주 언어를 변경해 주세요."
+   },
+   "_Greece": {
+      "message": "그리스"
+   },
+   "_Greenland": {
+      "message": "그린랜드"
+   },
+   "_Greenland___Brasilia___Montevideo": {
+      "message": "그린랜드, 브라질리아, 몬테비데오"
+   },
+   "_Grenada": {
+      "message": "그레나다"
+   },
+   "_Grid": {
+      "message": "그리드"
+   },
+   "_Grid__View": {
+      "message": "그리드 보기"
+   },
+   "_Grid_or__List____You__Choose_": {
+      "message": "당신의 선택 - 그리드 또는 리스트"
+   },
+   "_Group_": {
+      "message": "폴더:"
+   },
+   "_Group__Actions": {
+      "message": "그룹 동작"
+   },
+   "_Group__I_D": {
+      "message": "그룹 ID"
+   },
+   "_Group__Name": {
+      "message": "폴더 이름"
+   },
+   "_Group_will_be_created_under": {
+      "message": "폴더는 생성되거나 그 아래에 생성 될 것입니다"
+   },
+   "_Groups": {
+      "message": "폴더"
+   },
+   "_Guadeloupe": {
+      "message": "과들루프"
+   },
+   "_Guam": {
+      "message": "괌"
+   },
+   "_Guatemala": {
+      "message": "과테말라"
+   },
+   "_Guernsey": {
+      "message": "건지"
+   },
+   "_Guinea": {
+      "message": "기니"
+   },
+   "_Guinea__Bissau": {
+      "message": "기니비사우"
+   },
+   "_Guyana": {
+      "message": "가이아나"
+   },
+   "_H_P__Password__Safe": {
+      "message": "HP Password Safe"
+   },
+   "_Haiti": {
+      "message": "아이티"
+   },
+   "_Halt__Requested": {
+      "message": "중지 요청됨"
+   },
+   "_Harare___Pretoria": {
+      "message": "하라레, 프리토리아"
+   },
+   "_Hardware_devices_that_generate_one_time_verification_codes_": {
+      "message": "1회용 인증 코드를 생성하는 하드웨어 장치."
+   },
+   "_Hawaii": {
+      "message": "하와이"
+   },
+   "_Health": {
+      "message": "건강"
+   },
+   "_Health__Insurance": {
+      "message": "건강 보험"
+   },
+   "_Heard__Island_and__Mcdonald__Islands": {
+      "message": "허드 맥도널드 제도"
+   },
+   "_Height": {
+      "message": "높이"
+   },
+   "_Help": {
+      "message": "도움말"
+   },
+   "_Help__Center": {
+      "message": "도움말 센터"
+   },
+   "_Help__Improve__Last_Pass": {
+      "message": "LastPass 개선 돕기"
+   },
+   "_Help__Translate": {
+      "message": "번역 돕기"
+   },
+   "_Help___": {
+      "message": "도움말..."
+   },
+   "_Help_spread_the_word": {
+      "message": "입소문 내기"
+   },
+   "_Hide__Advanced__Options": {
+      "message": "고급 옵션 숨기기"
+   },
+   "_Hide__All": {
+      "message": "모두 숨기기"
+   },
+   "_Hide__Context__Menu__Options": {
+      "message": "문맥 메뉴 옵션 숨기기"
+   },
+   "_Hide__Password": {
+      "message": "암호 숨기기"
+   },
+   "_Hide__Passwords": {
+      "message": "암호 숨기기"
+   },
+   "_Highlight_input_boxes": {
+      "message": "입력 박스 강조"
+   },
+   "_History": {
+      "message": "기록"
+   },
+   "_Holy__See___Vatican__City__State_": {
+      "message": "교황청(바티칸시국)"
+   },
+   "_Home": {
+      "message": "Home"
+   },
+   "_Honduras": {
+      "message": "온두라스"
+   },
+   "_Hong__Kong": {
+      "message": "홍콩"
+   },
+   "_Hostname": {
+      "message": "호스트 이름"
+   },
+   "_Hot_Keys": {
+      "message": "단축키"
+   },
+   "_Hungarian": {
+      "message": "헝가리어"
+   },
+   "_Hungary": {
+      "message": "헝가리"
+   },
+   "_I_B_A_N__Number": {
+      "message": "IBAN 넘버"
+   },
+   "_I_M_P_O_R_T_": {
+      "message": "가져올까요?"
+   },
+   "_I_T__I_S__C_R_I_T_I_C_A_L__T_H_A_T__Y_O_U__N_E_V_E_R__F_O_R_G_E_T__Y_O_U_R__N_E_W__L_A_S_T_P_A_S_S__P_A_S_S_W_O_R_D_": {
+      "message": "중요! 새 LASTPASS 암호를 절대로 잊으면 안 됩니다."
+   },
+   "_I__Forgot_my__Password": {
+      "message": "암호를 잊었습니다"
+   },
+   "_I_forgot_my_password___Help_": {
+      "message": "암호를 잊었어요. 도와주세요"
+   },
+   "_I_have_read_and_agree_with_the": {
+      "message": "다음 사항을 읽었으며 동의합니다:"
+   },
+   "_I_understand_that_my_encrypted_data_will_be_sent_to__Last_Pass": {
+      "message": "암호화된 데이터를 LastPass로 전송하는 것을 이해했습니다"
+   },
+   "_I_ve_forgot_the_answer": {
+      "message": "대답을 잊었어요"
+   },
+   "_I_ve_forgotten_my_password_": {
+      "message": "암호를 잊었어요."
+   },
+   "_I_ve_lost_my__Google__Authenticator_device": {
+      "message": "Google OTP 장치를 잃어버렸어요"
+   },
+   "_I_ve_lost_my__Sesame_device": {
+      "message": "Sesame 장치를 잃어버렸어요"
+   },
+   "_I_ve_lost_my__Yubi_Key_device": {
+      "message": "YubiKey 장치를 잃어버렸어요"
+   },
+   "_I_ve_lost_my_device": {
+      "message": "장치를 잃어버렸어요"
+   },
+   "_I_ve_lost_my_grid": {
+      "message": "그리드를 잃어버렸어요"
+   },
+   "_Iceland": {
+      "message": "아이슬란드"
+   },
+   "_Icons": {
+      "message": "아이콘"
+   },
+   "_Identities": {
+      "message": "ID"
+   },
+   "_Identity": {
+      "message": "ID"
+   },
+   "_If_checked__your_credit_report_will_be_regularly_monitored_and_you_will_be_alerted_if_any_suspicious_activity_occurs_": {
+      "message": "이 항목을 선택한 경우 귀하의 신용 리포트를 정기적으로 감시하게 되며 의심스러운 활동이 발생하면 경고합니다."
+   },
+   "_If_not_specified__will_use_a_file_extension_of_": {
+      "message": "지정하지 않으면 다음 파일 확장자를 사용합니다 :"
+   },
+   "_If_you_already_have_a__Last_Pass_account_you_can_close_this_window_and_login_": {
+      "message": "이미 LastPass 계정이 있다면 이 창을 닫고 로그인하세요."
+   },
+   "_If_you_do_end_up_forgetting_your__Last_Pass_master_password_": {
+      "message": "당신의 LastPass 마스터 암호를 끝내 정말 잊어버린 경우,"
+   },
+   "_If_you_do_forget_your__Master__Password___Last_Pass_will_provide_only_the_password_reminder_you_previously_specified_": {
+      "message": "정말 마스터 암호를 잊은 경우 LastPass는 당신이 이전에 지정한 암호 힌트만을 제공합니다."
+   },
+   "_If_you_don_t_have_a_personal_account__create_one_now_": {
+      "message": "개인 계정이 없다면 지금 계정을 만드세요."
+   },
+   "_If_you_forget_your__Master__Password_later_on___Last_Pass_will_provide_only_the_password_reminder_you_specified_when_creating_your_account_": {
+      "message": "나중에 당신이 마스터 암호를 잊은 경우, LastPass는 당신이 계정을 만들 때 지정한 암호 힌트만을 제공합니다."
+   },
+   "_If_you_forgot_your_answer__click_here_to_reset_your_security_question": {
+      "message": "대답을 잊은 경우 본인 확인 질문 초기화하려면 여기를 클릭하세요"
+   },
+   "_If_you_have_another_format_that__Last_Pass_doesn_t_currently_support_you_can_attempt_to_save_your_data_as_a__C_S_V_file___Y_O_U__M_U_S_T__M_O_D_I_F_Y__T_H_E__F_I_R_S_T__R_O_W__O_F__T_H_E__C_S_V__F_I_L_E__F_O_R__L_A_S_T_P_A_S_S__T_O__R_E_C_O_G_N_I_Z_E__I_T___The_first_row_s_column_names_should_be_properly_setup_for_the_data_in_the_columns__Possible_first_row_names___url_username_password_extra_name_grouping___extra__means__notes__and__grouping__is_what_group_it_should_be_in____You_do_not_have_to_use_all_the_column_names_and_they_don_t_need_to_be_in_any_order____For_example_your_file_s_first_row_might_be_like___name_username_password_url___If_you_want_to_import_a__Secure__Note_instead_of_a__Site__simply_ensure_the__url____username___and__password__columns_are_left_blank__or_omit_the__url____username___and_or__password__columns_entirely___and_ensure_the__extra__column_is_not_blank____As_long_as_these_two_things_have_been_done__the_record_will_automatically_be_imported_as_a__Secure__Note_instead_of_a__Site____This_should_be_very_simple__just_open_your_saved__C_S_V_file_in__Excel_and_make_sure_the_top_row_has_the_appropriate_name_from_above_for_what_it_is____Save_it__then_import_the_resulting_file_": {
+      "message": "LastPass에서 지원하지 않는 형식인 경우 해당 데이터를 CSV 파일로 바꾸어 저장해 볼 수 있습니다\n\n중요! LASTPASS에서 인식하도록 하려면 해당 CSV 파일의 첫번째 행을 수정해야 합니다\n\n첫번째 행의 열 이름은 열에 들어갈 데이터에 알맞게 설정되어야 합니다\n가능한 첫번째 행 이름:\n\nurl,username,password,extra,name,grouping\n\n'extra'은 '메모'를 의미하고, 'grouping'은 데이터가 포함될 폴더입니다. 모든 열의 이름을 사용할 필요는 없으며 순서도 상관없습니다. 예를 들어 파일의 첫번째 행은 다음과 같을 수 있습니다:\n\nname,username,password,url\n\n사이트 대신 안전한 메모를 가져오고 싶은 경우 'URL', 'username', 'password' 열을 비워두시고 (또는 'URL', 'username', 또는 'password' 열을 완전히 제외하시고) 'extra' 열이 채워져 있는지 확인하세요. 위의 2가지 조건이 만족되면 기록은 사이트 대신 안전한 메모로 가져오게 될 것입니다.\n\n이것은 매우 간단합니다. 엑셀로 저장된 CSV 파일을 열고 첫번째 행이 위에서 설명한 적절한 이름인지 확인하세요.  파일을 저장하고 나서 결과 파일을 가져오세요."
+   },
+   "_If_you_lost_your__Google__Authenticator_device__click_here_to_disable__Google__Authenticator_authentication": {
+      "message": "Google OTP 장치를 잃어버린 경우 Google OTP 인증을 비활성화하려면 여기를 클릭하세요"
+   },
+   "_If_you_lost_your__Sesame_device__click_here_to_disable__Sesame_authentication": {
+      "message": "Sesame 장치를 잃어버린 경우 Sesame 인증을 비활성화하려면 여기를 클릭하세요"
+   },
+   "_If_you_lost_your__Yubi_Key_device__click_here_to_disable__Yubi_Key_authentication": {
+      "message": "YubiKey 장치를 잃어버린 경우 YubiKey 인증을 비활성화하려면 여기를 클릭하세요"
+   },
+   "_If_you_lost_your_device__click_here_to_disable_multifactor_authentication": {
+      "message": "장치를 잃어버린 경우 다중요소 인증을 비활성화하려면 여기를 클릭하세요"
+   },
+   "_If_you_lost_your_grid__click_here_to_disable_grid_authentication": {
+      "message": "그리드를 잃어버린 경우, 그리드 인증을 비활성화하려면 여기를 클릭하세요"
+   },
+   "_Immediately": {
+      "message": "즉시"
+   },
+   "_Import": {
+      "message": "가져오기"
+   },
+   "_Import__From": {
+      "message": "양식 가져오기"
+   },
+   "_Import__Your__Data": {
+      "message": "사용자 데이터 가져오기"
+   },
+   "_Importing_your_data_to_your__Last_Pass_vault_will_secure_it_and_protect_you_against_identity_theft___All_imported_data_remains__C_O_M_P_L_E_T_E_L_Y_confidential__the_only_person_who_can_view__Y_O_U_R_data_is__Y_O_U_": {
+      "message": "LastPass 저장소로 데이터를 옮기면 신분 도용으로부터 보호됩니다. 가져온 모든 정보는 '완전히' 기밀로 취급됩니다: '당신'의 정보를 볼 수 있는건 '당신'뿐입니다."
+   },
+   "_In_order_for__Last_Pass_to_fill_into_basic_authentication_dialogs__you_need_to_enable_access_for_assistive_devices_": {
+      "message": "LastPass로 기본 인증 대화상자에 입력을 하기 위해서는, 보조장치의 액세스를 허용해야 합니다."
+   },
+   "_In_order_for__Last_Pass_to_fill_into_basic_authentication_dialogs__you_need_to_install_the_binary_version_of__Last_Pass_for__Chrome_": {
+      "message": "LastPass로 기본 인증 대화상자에 입력하기 위해서는, LastPass Chrome용의 바이너리 버전을 설치해야 합니다."
+   },
+   "_In_order_to_complete_the_process___s_will_have_to_log_in_to__s_and_navigate_through_a_number_of_windows_quickly___It_is_normal_to_see_windows_flashing_and_changing_quickly__and_may_take_several_moments___We_ll_let_you_know_when_you_re_all_set_": {
+      "message": "이 과정을 완료하려면, %s이(가) %s에 로그인하고 많은 창을 빠르게 탐색해야 합니다. 이 과정은 몇 분이 걸릴 수 있으며, 창이 빠르게 반짝거리며 바뀌는 것을 볼 수 있습니다. 모든 설정이 완료되면 다시 알려드리겠습니다!"
+   },
+   "_In_order_to_protect_your_privacy_and_keep_your_other_passwords_secure___Last_Pass_does_not_know_or_store_your__Master__Password_": {
+      "message": "고객의 개인 정보 보호와 저장된 다른 암호의 보안을 위해 LastPass는 마스터 암호를 알고 있거나 저장하고 있지 않습니다."
+   },
+   "_In_the_future__any_changes_to_the_entries_in_the__Shared__Folder__as_well_as_any_new_sites_or_notes_added_to_the_folder__will_be_automatically_synced_to_all_users_who_have_access_to_the__Shared__Folder_": {
+      "message": "앞으로는 공유 폴더의 항목뿐만 아니라 새로운 사이트 또는 메모도 변경됩니다."
+   },
+   "_Inactive_account_reminders": {
+      "message": "비활성 계정 알림"
+   },
+   "_India": {
+      "message": "인도"
+   },
+   "_Indiana___Bogota___Lima___Quito___Rio__Branco": {
+      "message": "인디애나, 보고타, 리마, 키토, 리오 브랑코"
+   },
+   "_Indonesia": {
+      "message": "인도네시아"
+   },
+   "_Install": {
+      "message": "설치"
+   },
+   "_Install__Binary__Component": {
+      "message": "바이너리 구성 요소 설치"
+   },
+   "_Install_the__Last_Pass__Library_for__Chrome_to_enable_automatic_log_out_after_idle": {
+      "message": "유휴 상태인 경우 자동 로그아웃을 사용하기 위해 LastPass 라이브러리 Chrome용 설치"
+   },
+   "_Install_the__Last_Pass__Library_for__Chrome_to_enable_automatic_logoff_after_idle": {
+      "message": "유휴 상태인 경우 자동 로그오프를 사용하려면 LastPass 바이너리 Chrome용을 설치하세요"
+   },
+   "_Install_the_binary_version_of__Last_Pass_for__Chrome_to_enable_automatic_log_out_after_idle": {
+      "message": "유휴 상태인 경우 자동 로그아웃을 사용하기 위해 LastPass Chrome용의 바이너리 버전 설치"
+   },
+   "_Install_the_binary_version_of__Last_Pass_for__Chrome_to_enable_automatic_logoff_after_idle": {
+      "message": "유휴상태에 자동으로 로그오프 할 수 있도록 바이너리 버전의 LastPass for Chrome을 설치해 주세요"
+   },
+   "_Install_the_binary_version_of__Last_Pass_for__Chrome_to_enable_importing_passwords_from__Google__Chrome_password_manager": {
+      "message": "바이너리 버전의 LastPass for Chrome을 설치해 주세요"
+   },
+   "_Install_the_binary_version_of__Last_Pass_for__Chrome_to_enable_sharing_login_state_between_other_browsers": {
+      "message": "다른 브라우저와 로그인 상태를 공유하려면 LastPass Chrome용의 바이너리 버전을 설치하세요"
+   },
+   "_Instant__Messenger": {
+      "message": "메신저"
+   },
+   "_Instantly_add_a_new_site__secure_note__form_fill_profile__or_folder_at_any_time_": {
+      "message": "언제든지 새 사이트, 메모, 양식 채우기 프로필 또는 폴더를 즉시 추가 할 수 있습니다."
+   },
+   "_Instructions": {
+      "message": "설명"
+   },
+   "_Insurance": {
+      "message": "보험"
+   },
+   "_International__Date__Line__West": {
+      "message": "국제 날짜 변경선 서쪽"
+   },
+   "_Invalid__Password_": {
+      "message": "잘못된 암호."
+   },
+   "_Invalid_email_address__try_again": {
+      "message": "잘못된 전자 메일 주소입니다. 다시 시도하세요"
+   },
+   "_Invalid_file_type__it_must_be_an_image_that_can_be_displayed_by_your_browser_": {
+      "message": "잘못된 파일 형식. 브라우저에서 표시 가능한 이미지여야 합니다."
+   },
+   "_Invite__Accepted": {
+      "message": "초대 승인됨"
+   },
+   "_Invite__Friends__To__Try__Last_Pass": {
+      "message": "지인들에게 LastPass 소개하기"
+   },
+   "_Invite__Users_or__Groups_": {
+      "message": "사용자 또는 그룹 초대 :"
+   },
+   "_Iran___Islamic__Republic__Of_": {
+      "message": "이란 (이슬람 공화국)"
+   },
+   "_Iraq": {
+      "message": "이라크"
+   },
+   "_Ireland": {
+      "message": "아일랜드"
+   },
+   "_Islamabad___Karachi___Tashkent___Ekaterinburg": {
+      "message": "이슬라마바드, 카라치, 타슈켄트, 예카테린부르크"
+   },
+   "_Isle_of__Man": {
+      "message": "맨 섬"
+   },
+   "_Israel": {
+      "message": "이스라엘"
+   },
+   "_Issue__Number": {
+      "message": "발행 번호"
+   },
+   "_Issue_number": {
+      "message": "발행 번호"
+   },
+   "_Issued__Date": {
+      "message": "발행 날짜"
+   },
+   "_Issuing__Authority": {
+      "message": "발급 기관"
+   },
+   "_It_is_recommended_that_you_delete_the_attachment_file_after_you_use_it_": {
+      "message": "첨부 파일을 사용한 뒤 삭제하는 것이 좋습니다."
+   },
+   "_It_is_very_important_that_you_remember_the__Last_Pass__Master__Password_that_you_just_created_": {
+      "message": "당신이 방금 생성한 LastPass 마스터 암호를 기억하는 것은 매우 중요합니다."
+   },
+   "_It_is_very_important_that_you_remember_your_new__Last_Pass__Master__Password_": {
+      "message": "당신이 새 LastPass 마스터 암호를 기억하는 것은 중요합니다."
+   },
+   "_It_looks_like_you_ve_entered_an_invalid_or_incomplete_email_address___Please_try_again_": {
+      "message": "잘못되었거나 올바르지 않은 전자 메일 주소를 입력한 것 같습니다. 다시 시도해 주세요."
+   },
+   "_Italian": {
+      "message": "이탈리아어"
+   },
+   "_Italy": {
+      "message": "이탈리아"
+   },
+   "_Items_to__Share_": {
+      "message": "공유 할 항목 :"
+   },
+   "_Iterations_Reduction": {
+      "message": "LastPass 마스터 암호를 만들기 위해 필요한 반복 수가 캐시된 버전에서 감소한 것 같습니다. 로그인을 계속합니까?"
+   },
+   "_Jamaica": {
+      "message": "자메이카"
+   },
+   "_January": {
+      "message": "1월"
+   },
+   "_Japan": {
+      "message": "일본"
+   },
+   "_Japanese": {
+      "message": "일본어"
+   },
+   "_Jersey": {
+      "message": "저지"
+   },
+   "_Jordan": {
+      "message": "요르단"
+   },
+   "_July": {
+      "message": "7월"
+   },
+   "_June": {
+      "message": "6월"
+   },
+   "_Kabul": {
+      "message": "카불"
+   },
+   "_Kathmandu": {
+      "message": "카트만두"
+   },
+   "_Kazakhstan": {
+      "message": "카자흐스탄"
+   },
+   "_Kee_Pass": {
+      "message": "KeePass"
+   },
+   "_Keep_a_history_of_my_logins_and_form_fills": {
+      "message": "내 로그인과 양식 채우기 기록 보관하기"
+   },
+   "_Keep_an__Eye_on__Your__Credit__Report": {
+      "message": "신용 보고서를 잘 보아라."
+   },
+   "_Keep_track_of_login_and_form_fill_history": {
+      "message": "로그인 및 양식 작성 기록 추적"
+   },
+   "_Kenya": {
+      "message": "케냐"
+   },
+   "_Key__Index": {
+      "message": "키 색인"
+   },
+   "_Key__Type": {
+      "message": "키 유형"
+   },
+   "_Kiribati": {
+      "message": "키리바시"
+   },
+   "_Korea___Democratic__People_s__Republic__Of": {
+      "message": "조선민주주의인민공화국"
+   },
+   "_Korea___Republic__Of": {
+      "message": "대한민국"
+   },
+   "_Korean": {
+      "message": "한국어"
+   },
+   "_Kuwait": {
+      "message": "쿠웨이트"
+   },
+   "_Kuwait___Riyadh___Nairobi___Moscow___St___Petersburg___Volgograd": {
+      "message": "쿠웨이트, 리야드, 나이로비, 모스크바, 상트페테르부르크, 볼고그라드"
+   },
+   "_Kyrgyzstan": {
+      "message": "키르기스스탄"
+   },
+   "_La__Paz": {
+      "message": "라파즈"
+   },
+   "_Label____Random__Identifier": {
+      "message": "레이블 / 임의 식별자"
+   },
+   "_Language": {
+      "message": "언어"
+   },
+   "_Language_": {
+      "message": "언어:"
+   },
+   "_Lao__People_s__Democratic__Republic": {
+      "message": "라오스"
+   },
+   "_Last_4_digits_of_your_phone_number": {
+      "message": "전화번호의 마지막 4자리 숫자"
+   },
+   "_Last_Pass": {
+      "message": "LastPass"
+   },
+   "_Last_Pass__Automatic__Password__Change": {
+      "message": "LastPass 자동 암호 변경"
+   },
+   "_Last_Pass__C_S_V__File": {
+      "message": "LastPass CSV 파일"
+   },
+   "_Last_Pass__Chrome__Toolbar": {
+      "message": "LastPass Chrome 도구 모음"
+   },
+   "_Last_Pass__Encrypted__File": {
+      "message": "LastPass 암호화 파일"
+   },
+   "_Last_Pass__Enterprise_for__Teams": {
+      "message": "팀을위한 LastPass Enterprise"
+   },
+   "_Last_Pass__Enterprise_upgrade_and_renewal": {
+      "message": "LastPass 엔터프라이즈 업그레이드 및 갱신"
+   },
+   "_Last_Pass__Grid__Multifactor__Authentication": {
+      "message": "LastPass 그리드 다중요소 인증"
+   },
+   "_Last_Pass__Legacy": {
+      "message": "LastPass "
+   },
+   "_Last_Pass__Menu": {
+      "message": "LastPass 메뉴"
+   },
+   "_Last_Pass__Premium_upgrade_and_renewal": {
+      "message": "LastPass 프리미엄 업그레이드 및 갱신"
+   },
+   "_Last_Pass__Sentry_breach_alerts": {
+      "message": "LastPass Sentry 침해 경보"
+   },
+   "_Last_Pass_can_automatically_fill_web_page_forms_with_a_single_click____Using_automatic___Form__Filling__will_not_only_save_you_time__but_will_also_enhance_your_security_when_shopping_online_": {
+      "message": "LastPass는 클릭 한 번으로 자동으로 웹페이지의 양식을 채울 수 있습니다.  자동 '양식 채우기'는 시간을 절약해줄 뿐만 아니라 온라온 쇼핑할 때 보안성까지 강화합니다."
+   },
+   "_Last_Pass_cannot_login_until_cookies_are_allowed_from_lastpass_com": {
+      "message": "lastpass.com에서 쿠키가 허용될 때까지 로그인할 수 없습니다"
+   },
+   "_Last_Pass_detected_a_login_form_that_is_insecure____Would_you_like_to_continue_": {
+      "message": "LastPass가 안전하지 않은 로그인 양식을 감지하였습니다.\n\n계속합니까?"
+   },
+   "_Last_Pass_detected_a_login_form_that_is_insecure____Would_you_still_like__Last_Pass_to_fill_the_form_": {
+      "message": "LastPass가 안전하지 않은 로그인 양식을 감지하였습니다.\n\n그래도 LastPass가 양식을 채우도록 합니까?"
+   },
+   "_Last_Pass_detected_a_password_change_for": {
+      "message": "LastPass가 다음에 대한 암호 변경을 감지하였습니다:"
+   },
+   "_Last_Pass_detected_a_password_change_for_domain_": {
+      "message": "LastPass가 다음 도메인에 대한 암호 변경을 감지하였습니다:"
+   },
+   "_Last_Pass_detected_a_password_change_for_user_": {
+      "message": "LastPass가 다음 사용자에 대한 암호 변경을 감지하였습니다:"
+   },
+   "_Last_Pass_detected_that_the_password_for_the_site_on_which_you_received_the_alert_has_the_same_password_as_your__Last_Pass_account__Master__Password_": {
+      "message": "LastPass가 경고를 받은 사이트의 암호가 LastPass 계정 마스터 암호와 동일함을 감지했습니다."
+   },
+   "_Last_Pass_detected_that_the_site_that_triggered_this_security_alert_has_the_same_password_as_your__Last_Pass_account__Master__Password_": {
+      "message": "LastPass가 이 보안 경고를 일으킨 사이트의 암호가 LastPass 계정 마스터 암호와 동일함을 감지했습니다."
+   },
+   "_Last_Pass_has_detected_an_installation_error____Please_reinstall__Last_Pass_": {
+      "message": "LastPass가 설치 오류를 감지했습니다. LastPass를 다시 설치하세요."
+   },
+   "_Last_Pass_has_detected_that_you_are_using_a_weak_password_for_the_site_below___We_recommend_going_to_your_account_settings_for_this_site__and_creating_a_new_password___Use__Last_Pass_to_generate_a_unique__strong_password_for_this_account___You_can_then_save_the_changes_on_the_site__and_to__Last_Pass_": {
+      "message": "LastPass가 아래의 사이트의 암호가 취약함을 감지했습니다. 저희는 이 사이트에 대한 계정 설정으로 들어가 새 암호를 만들 것을 권장합니다. 이 계정에 대한 고유하고 강력한 암호를 만드는 일에 LastPass를 사용하세요. 그러고 나서 변경 사항을 사이트와 LastPass에 저장할 수 있습니다."
+   },
+   "_Last_Pass_has_detected_that_you_have_used_the_password_for_this_login_on_other_sites__too___We_recommend_going_to_your_account_settings_for_this_site__and_creating_a_new_password___Use__Last_Pass_to_generate_a_unique__strong_password_for_this_account___You_can_then_save_the_changes_on_the_site__and_to__Last_Pass_": {
+      "message": "LastPass가 이 계정의 암호가 다른 사이트와 동일함을 감지했습니다. 저희는 이 사이트에 대한 계정 설정으로 들어가 새 암호를 만들 것을 권장합니다. 이 계정에 대한 고유하고 강력한 암호를 만드는 일에 LastPass를 사용하세요. 그러고 나서 변경 사항을 사이트와 LastPass에 저장할 수 있습니다."
+   },
+   "_Last_Pass_has_detected_that_you_have_used_your__Master__Password_as_the_password_for_this_site___It_is_highly_recommended_that_you_change_your__Last_Pass__Master__Password_to_protect_all_of_your_online_accounts_": {
+      "message": "LastPass가 당신이 마스터 암호를 이 사이트 암호로 사용하는 것을 감지했습니다. 당신의 온라인 계정 모두를 보호하기 위해 LastPass 마스터 암호를 변경할 것을 적극 권장합니다."
+   },
+   "_Last_Pass_has_filled_your_login_information_into_the_form_on_this_page_": {
+      "message": "LastPass가 이 페이지의 양식을 로그인 정보로 채웠습니다."
+   },
+   "_Last_Pass_is_changing_your_password_now___": {
+      "message": "LastPass가 지금 당신의 암호를 변경하고 있습니다..."
+   },
+   "_Last_Pass_is_fully_installed____When_you_install__Last_Pass_on_other_computers_you_will_not_have_to_go_through_this_process_again__you_ll_simply_be_able_to_login_____Do_not_share_your__Master__Password_with_anyone__including__Last_Pass_employees__we_ll_never_ask_for_it____Last_Pass_encrypts_your_sensitive_data_locally_so_even__Last_Pass_employees_do_not_have_access_to_it____You_can_get_help_by_clicking_on_the__Last_Pass_icon_and_going_to__Help_": {
+      "message": "LastPass가 설치되었습니다!  다른 컴퓨터에 LastPass를 설치할 때는 이 과정을 거치지 않아도 됩니다. 바로 로그인하면 됩니다.   마스터 암호는 LastPass 직원들을 포함해 그 누구에게도 절대 알려주지 마세요. 저희는 절대로 당신에게 암호를 묻지 않습니다!  LastPass는 당신의 민감한 데이터를 로컬에서 암호화하기 때문에 LastPass 직원조차 액세스할 수 없습니다.  LastPass 아이콘을 클릭한 후 도움말을 누르면 도움을 받을 수 있습니다."
+   },
+   "_Last_Pass_is_loading___": {
+      "message": "LastPass가 로드하고 있습니다..."
+   },
+   "_Last_Pass_is_loading_website___": {
+      "message": "LastPass가 웹 사이트를 로드하고 있습니다..."
+   },
+   "_Last_Pass_is_logging_in": {
+      "message": "LastPass가 로그인하고 있습니다"
+   },
+   "_Last_Pass_is_logging_in___": {
+      "message": "LastPass가 로그인하고 있습니다..."
+   },
+   "_Last_Pass_is_the_last_password_you_ll_ever_have_to_remember_": {
+      "message": "LastPass는 당신이 기억할 필요 없는 암호입니다."
+   },
+   "_Last_Pass_is_the_last_password_you_ll_ever_have_to_remember____If_you_re_new_to__Last_Pass__we_ll_just_need_a_few_minutes_of_your_time_to_setup_your_account____You_ll_be_able_to_use_this_account_on_any_other__P_C_you_use_to_always_keep_your_personal_data_in_sync____Hit_create_account_to_begin_": {
+      "message": "LastPass를 사용하면 암호를 기억할 필요가 없습니다.  LastPass를 처음 사용하는 경우 계정을 설정하시는데 약간의 시간이 필요합니다.  당신의 개인 정보는 항상 동기화되기 때문에 이 계정을 다른 컴퓨터에서도 사용할 수 있습니다.  시작하려면 계정 만들기를 누르세요."
+   },
+   "_Last_Pass_is_the_last_password_you_will_ever_have_to_remember": {
+      "message": "LastPass는 당신이 기억할 필요 없는 암호입니다"
+   },
+   "_Last_Pass_must_reencrypt_all_of_your_data_because_of_a_key_change_": {
+      "message": "키 변경으로 인해 LastPass가 모든 데이터를 다시 암호화해야 합니다."
+   },
+   "_Last_Pass_newsletters__tips__and_stories": {
+      "message": "LastPass 뉴스 레터, 팁 및 사례"
+   },
+   "_Last_Pass_promotions_and_giveaways": {
+      "message": "LastPass 프로모션 및 경품 행사"
+   },
+   "_Last_Pass_will_not_fill_some_forms_because_respect_autocomplete_is_enabled_in__Preferences_": {
+      "message": "기본 설정에서 AutoComplete=off 사용이 활성화되어 있기 때문에 LastPass는 몇가지 양식을 채우지 않습니다."
+   },
+   "_Last__Name": {
+      "message": "성"
+   },
+   "_Last__Name2": {
+      "message": "성(姓)2"
+   },
+   "_Last__Touch": {
+      "message": "마지막으로 수정한 날짜"
+   },
+   "_Last_name": {
+      "message": "성(姓)"
+   },
+   "_Last_used": {
+      "message": "마지막으로 사용한 날짜"
+   },
+   "_Latvia": {
+      "message": "라트비아"
+   },
+   "_Launch": {
+      "message": "실행"
+   },
+   "_Launch__Site": {
+      "message": "사이트 열기"
+   },
+   "_Lebanon": {
+      "message": "레바논"
+   },
+   "_Left": {
+      "message": "←"
+   },
+   "_Lesotho": {
+      "message": "레소토"
+   },
+   "_Liberia": {
+      "message": "라이베리아"
+   },
+   "_Libyan__Arab__Jamahiriya": {
+      "message": "리비아"
+   },
+   "_License__Class": {
+      "message": "면허 등급"
+   },
+   "_License__Key": {
+      "message": "라이선스 키"
+   },
+   "_Liechtenstein": {
+      "message": "리히텐슈타인"
+   },
+   "_Link__Account": {
+      "message": "계정 연결"
+   },
+   "_Link__Personal__Account": {
+      "message": "개인 계정 연결"
+   },
+   "_List__View": {
+      "message": "목록보기"
+   },
+   "_Lithuania": {
+      "message": "리투아니아"
+   },
+   "_Local": {
+      "message": "로컬"
+   },
+   "_Log__In_with_a__Different__Username": {
+      "message": "다른 사용자 이름으로 로그인"
+   },
+   "_Log__Out": {
+      "message": "로그아웃"
+   },
+   "_Log__Out_": {
+      "message": "로그아웃:"
+   },
+   "_Log_into_a__Site": {
+      "message": "사이트에 로그인할 때"
+   },
+   "_Logged_In_Offline": {
+      "message": "LastPass가 로그인 서버에 접속할 수 없어 현재 오프라인 모드입니다.\n\n몇가지 기능이 제한될 수 있습니다."
+   },
+   "_Login": {
+      "message": "로그인"
+   },
+   "_Login_Error": {
+      "message": "LastPass에 로그인 오류. 다시 시도해 주세요."
+   },
+   "_Login_to__Last_Pass": {
+      "message": "LastPass에 로그인"
+   },
+   "_Logoff": {
+      "message": "로그오프"
+   },
+   "_Logoff_": {
+      "message": "로그오프:"
+   },
+   "_Logoff_after_logged_in_for_minutes": {
+      "message": "로그인한 지 몇 분이 지나면 로그오프"
+   },
+   "_Logoff_on_browser_close": {
+      "message": "브라우저를 닫을 때 로그오프"
+   },
+   "_Logout": {
+      "message": "로그아웃"
+   },
+   "_Lose_Changes": {
+      "message": "이 사이트의 필드를 편집합니까?  그렇게 할 경우 해당 사이트에 만든 모든 변경 사항을 잃게 됩니다!"
+   },
+   "_Lose_Changes_App": {
+      "message": "해당 응용 프로그램의 필드을 편집합니까? 그렇게 할 경우 당신이 응용 프로그램에 만든 모든 변경 사항을 잃게 됩니다!"
+   },
+   "_Luxembourg": {
+      "message": "룩셈부르크"
+   },
+   "_M_S_I__Password_Keeper": {
+      "message": "MSI PasswordKeeper"
+   },
+   "_Macao": {
+      "message": "마카오"
+   },
+   "_Macedonia__the__Former__Yugoslav__Republic__Of": {
+      "message": "마케도니아 (공화국)"
+   },
+   "_Madagascar": {
+      "message": "마다가스카르"
+   },
+   "_Magadan___Solomon__Is____New__Caledonia": {
+      "message": "마가단, 솔로몬 제도, 뉴칼레도니아"
+   },
+   "_Make__Favorite": {
+      "message": "즐겨찾기 만들기"
+   },
+   "_Make__Pronounceable": {
+      "message": "발음할 수 있게 만들기"
+   },
+   "_Malawi": {
+      "message": "말라위"
+   },
+   "_Malaysia": {
+      "message": "말레이시아"
+   },
+   "_Maldives": {
+      "message": "몰디브"
+   },
+   "_Male": {
+      "message": "남성"
+   },
+   "_Mali": {
+      "message": "말리"
+   },
+   "_Malta": {
+      "message": "몰타"
+   },
+   "_Manage__Deleted__Items": {
+      "message": "지운 편지함 관리"
+   },
+   "_Manage__Identities": {
+      "message": "ID 관리"
+   },
+   "_Manage__Shared__Folder": {
+      "message": "공유 폴더 관리"
+   },
+   "_Manage__Shared__Folders": {
+      "message": "공유 폴더 관리"
+   },
+   "_March": {
+      "message": "3월"
+   },
+   "_Marshall__Islands": {
+      "message": "마셜 제도"
+   },
+   "_Martinique": {
+      "message": "마르티니크"
+   },
+   "_Master__Password": {
+      "message": "마스터 암호"
+   },
+   "_Master__Password_": {
+      "message": "마스터 암호:"
+   },
+   "_Master__Password__Reverting": {
+      "message": "마스터 암호 되돌리기"
+   },
+   "_Master__Password_or_email_address_changed": {
+      "message": "마스터 비밀번호 또는 이메일 주소 변경됨"
+   },
+   "_Matching__Sites": {
+      "message": "일치하는 사이트"
+   },
+   "_Mauritania": {
+      "message": "모리타니"
+   },
+   "_Mauritius": {
+      "message": "모리셔스"
+   },
+   "_Maximize": {
+      "message": "최대화"
+   },
+   "_Maxthon": {
+      "message": "Maxthon"
+   },
+   "_May": {
+      "message": "5월"
+   },
+   "_Mayotte": {
+      "message": "마요트"
+   },
+   "_Member__I_D": {
+      "message": "회원 ID"
+   },
+   "_Member__Name": {
+      "message": "회원 이름"
+   },
+   "_Membership": {
+      "message": "회원권"
+   },
+   "_Membership__Number": {
+      "message": "회원권 번호"
+   },
+   "_Message_": {
+      "message": "메시지:"
+   },
+   "_Meta": {
+      "message": "메타"
+   },
+   "_Mexico": {
+      "message": "멕시코"
+   },
+   "_Micronesia___Federated__States__Of": {
+      "message": "미크로네시아 (연방국)"
+   },
+   "_Mid__Atlantic": {
+      "message": "중부 대서양"
+   },
+   "_Middle_3_digits_of_your_phone_number": {
+      "message": "전화번호의 가운데 3자리 숫자"
+   },
+   "_Middle__Name": {
+      "message": "가운데 이름"
+   },
+   "_Middle_name": {
+      "message": "중간 이름(미들네임)"
+   },
+   "_Midway__Island___Samoa": {
+      "message": "미드웨이 아일랜드, 사모아"
+   },
+   "_Minimize": {
+      "message": "최소화"
+   },
+   "_Minimum__Digit__Count": {
+      "message": "최소 숫자"
+   },
+   "_Mobile__Devices": {
+      "message": "모바일 장치"
+   },
+   "_Mobile__Email__Address": {
+      "message": "모바일 이메일 주소"
+   },
+   "_Mobile__Number": {
+      "message": "휴대전화 번호"
+   },
+   "_Mobile_number": {
+      "message": "휴대전화 번호"
+   },
+   "_Moldova___Republic__Of": {
+      "message": "몰도바 (공화국)"
+   },
+   "_Monaco": {
+      "message": "모나코"
+   },
+   "_Mongolia": {
+      "message": "몽골"
+   },
+   "_Montenegro": {
+      "message": "몬테네그로"
+   },
+   "_Montserrat": {
+      "message": "몬트세랫"
+   },
+   "_More": {
+      "message": "더 보기"
+   },
+   "_More__Actions": {
+      "message": "더 많은 행동"
+   },
+   "_More__Information": {
+      "message": "추가 정보"
+   },
+   "_More__Options": {
+      "message": "추가 옵션"
+   },
+   "_Morocco": {
+      "message": "모로코"
+   },
+   "_Most__Recent": {
+      "message": "최신순"
+   },
+   "_Mountain__Time___U_S____Canada_": {
+      "message": "산지 표준시 (미국과 캐나다)"
+   },
+   "_Move__Selected_to__Group": {
+      "message": "선택 항목 폴더로 이동"
+   },
+   "_Move_matching_sites_to_top_menu": {
+      "message": "일치하는 사이트 상위 메뉴로 이동"
+   },
+   "_Move_to__Group": {
+      "message": "폴더로 이동"
+   },
+   "_Move_to__Sub__Group": {
+      "message": "하위 폴더로 이동"
+   },
+   "_Mozambique": {
+      "message": "모잠비크"
+   },
+   "_Mr": {
+      "message": "미스터"
+   },
+   "_Mrs": {
+      "message": "미시즈"
+   },
+   "_Ms": {
+      "message": "미즈"
+   },
+   "_Multifactor__Authentication": {
+      "message": "다중요소 인증"
+   },
+   "_Multifactor__Authentication____Enterprise": {
+      "message": "다단계 인증 - 엔터프라이즈"
+   },
+   "_Multifactor__Authentication____Free": {
+      "message": "다단계 인증 - 무료"
+   },
+   "_Multifactor__Authentication____Premium": {
+      "message": "다단계 인증 - 프리미엄"
+   },
+   "_Multifactor__Option": {
+      "message": "다단계 옵션"
+   },
+   "_Must_Wait_For_Attachments_To_Be_Downloaded": {
+      "message": "당신의 첨부 파일이 아직 다운로드되지 않았습니다. 당신의 첨부 파일의 개수와 크기에 따라, 이 과정은 최대 15분까지 걸릴 수 있습니다. 나중에 다시 시도해 주세요."
+   },
+   "_My_Password_Safe": {
+      "message": "MyPasswordSafe"
+   },
+   "_My__Account": {
+      "message": "내 계정"
+   },
+   "_My__Last_Pass__Vault": {
+      "message": "내 LastPass 저장소"
+   },
+   "_Myanmar": {
+      "message": "버마(미얀마)"
+   },
+   "_N_A_M_E": {
+      "message": "이름"
+   },
+   "_Name_": {
+      "message": "이름:"
+   },
+   "_Name__a_z_": {
+      "message": "이름 (ㄱ-ㅎ)"
+   },
+   "_Name__z_a_": {
+      "message": "이름 (ㅎ-ㄱ)"
+   },
+   "_Name_on__Card": {
+      "message": "카드 명의자 이름"
+   },
+   "_Name_on_card": {
+      "message": "카드 주인의 이름"
+   },
+   "_Nameproper": {
+      "message": "이름"
+   },
+   "_Namibia": {
+      "message": "나미비아"
+   },
+   "_Nationality": {
+      "message": "국적"
+   },
+   "_Native__Client_only": {
+      "message": "네이티브 클라이언트만"
+   },
+   "_Native__Messaging": {
+      "message": "네이티브 메시징"
+   },
+   "_Nauru": {
+      "message": "나우루"
+   },
+   "_Nepal": {
+      "message": "네팔"
+   },
+   "_Netherlands": {
+      "message": "네덜란드"
+   },
+   "_Netherlands__Antilles": {
+      "message": "네덜란드령 안틸레스"
+   },
+   "_Never": {
+      "message": "없음"
+   },
+   "_Never__Add__Site": {
+      "message": "사이트 추가 비활성화"
+   },
+   "_Never__Ask__Again": {
+      "message": "다시 묻지 않기"
+   },
+   "_Never__Auto_Fill": {
+      "message": "자동 채우기 비활성화"
+   },
+   "_Never__Auto_Login": {
+      "message": "자동 로그인 비활성화"
+   },
+   "_Never__Fill__Forms": {
+      "message": "양식 비활성화"
+   },
+   "_Never__For__This__Domain": {
+      "message": "이 도메인에 대해 비활성화"
+   },
+   "_Never__For__This__Page": {
+      "message": "이 페이지에 대해 비활성화"
+   },
+   "_Never__For__This__Site": {
+      "message": "이 사이트에 대해 비활성화"
+   },
+   "_Never__Generate__Password": {
+      "message": "암호 만들기 비활성화"
+   },
+   "_Never__Show__Again": {
+      "message": "다시는 표시하지 않음"
+   },
+   "_Never__Show__Context__Icons": {
+      "message": "문맥 아이콘 표시 안 함"
+   },
+   "_Never___": {
+      "message": "절대 안 함..."
+   },
+   "_Never_show_me_this_message_again_": {
+      "message": "이 메시지를 다시 표시하지 않음*"
+   },
+   "_New__Caledonia": {
+      "message": "누벨칼레도니"
+   },
+   "_New__Master__Password": {
+      "message": "새 마스터 암호"
+   },
+   "_New__Zealand": {
+      "message": "뉴질랜드"
+   },
+   "_New_here___Create_an__Account_": {
+      "message": "여기가 처음? 계정을 만드세요."
+   },
+   "_New_to__Last_Pass_": {
+      "message": "LastPass에 처음이세요?"
+   },
+   "_Newfoundland": {
+      "message": "뉴펀들랜드"
+   },
+   "_News": {
+      "message": "뉴스"
+   },
+   "_News__Reference": {
+      "message": "뉴스/참고"
+   },
+   "_Next__S_M_S_passcode_starts_with": {
+      "message": "다음 SMS 인증 번호는 다음으로 시작합니다:"
+   },
+   "_Nicaragua": {
+      "message": "니카라과"
+   },
+   "_Niger": {
+      "message": "니제르"
+   },
+   "_Nigeria": {
+      "message": "나이지리아"
+   },
+   "_Niue": {
+      "message": "니우에"
+   },
+   "_No": {
+      "message": "아니요"
+   },
+   "_No_Favorites": {
+      "message": "아직 어떠한 즐겨찾기도 없습니다."
+   },
+   "_No__Email": {
+      "message": "이메일 없음"
+   },
+   "_No__Form__Fill__Profiles_": {
+      "message": "프로필 양식이 없습니다!"
+   },
+   "_No__Matching__Sites_": {
+      "message": "일치하는 사이트가 없습니다!"
+   },
+   "_No__Thanks": {
+      "message": "아뇨 괜찮습니다"
+   },
+   "_No__Updates__Are__Available": {
+      "message": "사용할 수 있는 업데이트 없음"
+   },
+   "_No__Wi__Fi_adapter_was_detected_on_this_computer____This_feature_requires_a__Wi__Fi_adapter_": {
+      "message": "이 컴퓨터에서 와이파이 어댑터가 발견되지 않았습니다. 이 기능은 와이파이 어댑터가 필요합니다."
+   },
+   "_No___I_do_not_want__Last_Pass_to_help_me_fill_forms_automatically": {
+      "message": "아니요, LastPass가 양식을 자동으로 채우게 하고 싶지 않습니다"
+   },
+   "_No___Save_as__New__Entry": {
+      "message": "아니요, 새 항목으로 저장"
+   },
+   "_No___Thanks": {
+      "message": "아니요 괜찮습니다"
+   },
+   "_No__do_not_import_any_of_my_insecure_items": {
+      "message": "아니요, 보안되지 않은 항목을 가져오지 않겠습니다"
+   },
+   "_No_history_available": {
+      "message": "사용 가능한 기록 없음"
+   },
+   "_No_matches_found___Please_search_again_": {
+      "message": "일치하는 항목이 없습니다. 다시 검색해 주세요."
+   },
+   "_None__Available": {
+      "message": "사용할 수 없음"
+   },
+   "_Norfolk__Island": {
+      "message": "노퍽 섬"
+   },
+   "_Northern__Mariana__Islands": {
+      "message": "북마리아나 제도"
+   },
+   "_Norway": {
+      "message": "노르웨이"
+   },
+   "_Norwegian": {
+      "message": "노르웨이어(보크몰)"
+   },
+   "_Norwegian__Nynorsk": {
+      "message": "노르웨이어(뉘노르스크)"
+   },
+   "_Not__Now": {
+      "message": "지금은 아님"
+   },
+   "_Note": {
+      "message": "메모"
+   },
+   "_Note__History": {
+      "message": "노트 이력"
+   },
+   "_Note__Type": {
+      "message": "메모 유형"
+   },
+   "_Note__Type_": {
+      "message": "메모 유형:"
+   },
+   "_Notes": {
+      "message": "메모"
+   },
+   "_Notes_": {
+      "message": "참고:"
+   },
+   "_Notifications": {
+      "message": "알림 표시"
+   },
+   "_November": {
+      "message": "11월"
+   },
+   "_Nuku_alofa": {
+      "message": "누쿠알로파"
+   },
+   "_Number": {
+      "message": "번호"
+   },
+   "_Number_of__Licenses": {
+      "message": "사용권 수"
+   },
+   "_O_K": {
+      "message": "확인"
+   },
+   "_October": {
+      "message": "10월"
+   },
+   "_Offer_to__Generate__Secure__Passwords": {
+      "message": "안전한 암호를 만들 것인지 묻기"
+   },
+   "_Old__Password": {
+      "message": "이전 암호"
+   },
+   "_Oman": {
+      "message": "오만"
+   },
+   "_Once_the_binary_component_is_installed_please_click_below_to_enable_it_": {
+      "message": "이진 구성 요소가 설치되면 아래를 클릭하여 활성화하십시오."
+   },
+   "_Once_you_link_the_accounts__your_personal_account_will_appear_as_a_sub_folder_in_your__Enterprise_vault___You_can_save_all_personal_logins_directly_into_your_personal_folder__or_drag_them_in_later_": {
+      "message": "계정을 연결하면 개인 계정이 기업의 하위 폴더로 표시됩니다."
+   },
+   "_One__Time__Passwords": {
+      "message": "1회용 암호"
+   },
+   "_Only_send_me_critical_security_alerts": {
+      "message": "중요한 보안 경고만 내게 보내기"
+   },
+   "_Open__All": {
+      "message": "모두 열기"
+   },
+   "_Open__All__Favorites": {
+      "message": "모든 즐겨찾기 열기"
+   },
+   "_Open__All__Sites": {
+      "message": "모든 사이트 열기"
+   },
+   "_Open__Dashlane____File____Export____C_S_V____Import_the_resulting_file_": {
+      "message": "Dashlane 열기 - 파일 - 내보내기 - CSV.  결과 파일을 가져오세요."
+   },
+   "_Open__Favorites": {
+      "message": "즐겨찾기 열기"
+   },
+   "_Open__Favorites_in__Tabs": {
+      "message": "탭에 즐겨찾기 열기"
+   },
+   "_Open__File": {
+      "message": "파일 열기"
+   },
+   "_Open__My__Last_Pass__Vault": {
+      "message": "내 LastPass 저장소 열기"
+   },
+   "_Open__My__Vault": {
+      "message": "내 Vault 열기"
+   },
+   "_Open__New__Pages_in": {
+      "message": "새 페이지를 여는 방식"
+   },
+   "_Open__Popover": {
+      "message": "팝오버 열기"
+   },
+   "_Open__Security__Challenge": {
+      "message": "보안 챌린지 열기"
+   },
+   "_Open__Sticky__Password____Manage__Database____Export____Export_as_text___Import_this_file": {
+      "message": "Sticky Password 열기 - 데이터베이스 관리 - 내보내기 - 텍스트 파일로 내보내기. 이 파일을 가져오세요"
+   },
+   "_Open_extension_pages_in_dialogs": {
+      "message": "대화 상자에서 확장 프로그램 페이지 열기"
+   },
+   "_Open_login_dialog_when_browser_starts": {
+      "message": "브라우저가 시작될 때 로그인 대화 상자 열기"
+   },
+   "_Open_to_fine_tune_how_your_password_is_generated_": {
+      "message": "암호가 만들어지는 방식을 조정하려면 열으세요."
+   },
+   "_Opera": {
+      "message": "Opera"
+   },
+   "_Opera__Password__Manager": {
+      "message": "오페라 암호 관리자"
+   },
+   "_Or__would_you_like__Last_Pass_to_save_a_new_user_password_for_this_site_": {
+      "message": "아니면 LastPass가 이 사이트에 대한 새 사용자/암호를 저장하도록 하시겠습니까?"
+   },
+   "_Order__": {
+      "message": "주문 #"
+   },
+   "_Order__Number": {
+      "message": "주문 번호"
+   },
+   "_Order__Total": {
+      "message": "주문 합계"
+   },
+   "_Organization": {
+      "message": "조직"
+   },
+   "_Other": {
+      "message": "기타"
+   },
+   "_Other__Sessions": {
+      "message": "다른 세션"
+   },
+   "_Overall__Progress_": {
+      "message": "전체 진행률:"
+   },
+   "_P_A_S_S_W_O_R_Dupper": {
+      "message": "암호"
+   },
+   "_P_I_Ns__Password__Manager": {
+      "message": "PINs Password Manager"
+   },
+   "_Pacific__Time___U_S____Canada_": {
+      "message": "태평양 표준시 (미국과 캐나다)"
+   },
+   "_Page__Down": {
+      "message": "Page Down"
+   },
+   "_Page__Up": {
+      "message": "Page Up"
+   },
+   "_Pakistan": {
+      "message": "파키스탄"
+   },
+   "_Palau": {
+      "message": "팔라우"
+   },
+   "_Palestinian__Territories": {
+      "message": "팔레스타인"
+   },
+   "_Panama": {
+      "message": "파나마"
+   },
+   "_Papua__New__Guinea": {
+      "message": "파푸아뉴기니"
+   },
+   "_Paraguay": {
+      "message": "파라과이"
+   },
+   "_Passpack": {
+      "message": "Passpack"
+   },
+   "_Passphrase": {
+      "message": "암호 구"
+   },
+   "_Passport": {
+      "message": "여권"
+   },
+   "_Password": {
+      "message": "암호"
+   },
+   "_Password_": {
+      "message": "비밀번호:"
+   },
+   "_Password__Agent": {
+      "message": "Password Agent"
+   },
+   "_Password__Alerts": {
+      "message": "암호 경고"
+   },
+   "_Password__Copied": {
+      "message": "암호 복사됨"
+   },
+   "_Password__Corral": {
+      "message": "Password Corral"
+   },
+   "_Password__Depot": {
+      "message": "Password Depot"
+   },
+   "_Password__Dragon": {
+      "message": "Password Dragon"
+   },
+   "_Password__History": {
+      "message": "암호 기록"
+   },
+   "_Password__Iterations": {
+      "message": "암호 반복"
+   },
+   "_Password__Keeper": {
+      "message": "Password Keeper"
+   },
+   "_Password__Length": {
+      "message": "암호 길이"
+   },
+   "_Password__Length_": {
+      "message": "암호 길이:"
+   },
+   "_Password__Management_for__Business": {
+      "message": "비즈니스 암호 관리"
+   },
+   "_Password__Reminder": {
+      "message": "암호 힌트"
+   },
+   "_Password__Reminder_": {
+      "message": "암호 힌트:"
+   },
+   "_Password__Safe": {
+      "message": "Password Safe"
+   },
+   "_Password_reminder_cannot_match_password": {
+      "message": "암호 힌트가 암호와 같아서는 안 됩니다"
+   },
+   "_Password_updated_": {
+      "message": "암호가 갱신되었습니다!"
+   },
+   "_Passwords__Max": {
+      "message": "Passwords Max"
+   },
+   "_Pending": {
+      "message": "대기 중"
+   },
+   "_Pending__Invites_": {
+      "message": "보류중인 초대 :"
+   },
+   "_Pending__Share": {
+      "message": "보류중인 공유"
+   },
+   "_Personal": {
+      "message": "개인"
+   },
+   "_Personal__Account__Email_": {
+      "message": "개인 계정 이메일 :"
+   },
+   "_Personal__Account__Master__Password_": {
+      "message": "개인 계정 마스터 비밀번호 :"
+   },
+   "_Peru": {
+      "message": "페루"
+   },
+   "_Philippines": {
+      "message": "필리핀"
+   },
+   "_Phone__Number": {
+      "message": "전화번호"
+   },
+   "_Phone_number": {
+      "message": "전화번호"
+   },
+   "_Physician__Address": {
+      "message": "의사 주소"
+   },
+   "_Physician__Name": {
+      "message": "의사 이름"
+   },
+   "_Physician__Phone": {
+      "message": "의사 전화"
+   },
+   "_Pin": {
+      "message": "pin"
+   },
+   "_Pitcairn": {
+      "message": "핏케언"
+   },
+   "_Please__Make_a__Selection": {
+      "message": "선택해 주세요"
+   },
+   "_Please__Wait___": {
+      "message": "기다려 주세요..."
+   },
+   "_Please_answer_the_following_question_": {
+      "message": "다음 질문에 답해 주세요:"
+   },
+   "_Please_choose_the_type_of_export_you_would_like_to_perform_": {
+      "message": "원하는 내보내기 타입을 선택하세요 :"
+   },
+   "_Please_choose_the_type_of_print_you_would_like_to_perform_": {
+      "message": "수행하고자 하는 인쇄의 유형을 선택해 주세요:"
+   },
+   "_Please_close_this_window": {
+      "message": "이 창을 닫아 주세요"
+   },
+   "_Please_complete_multifactor_authentication_on_your_phone_or_mobile_device_": {
+      "message": "전화나 모바일 장치에서 다중요소 인증을 완료해 주세요."
+   },
+   "_Please_do_not_close_this_window__while__Last_Pass_changes_your_password_": {
+      "message": "LastPass가 당신의 암호를 변경하는 동안, 이 창을 닫지 말아 주세요."
+   },
+   "_Please_enter_the_full_path_of_the_file_to_import_": {
+      "message": "가져오기할 파일의 전체 경로를 입력하세요."
+   },
+   "_Please_enter_your_multifactor_authentication_code_": {
+      "message": "2단계 인증번호를 입력해 주세요."
+   },
+   "_Please_keep_this_page_open_until_the_operation_completes_": {
+      "message": "작업이 완료될 때까지 이 페이지를 연 상태를 유지해 주세요."
+   },
+   "_Please_move_sites_from_only_one_shared_folder_at_a_time_": {
+      "message": "한번에 하나의 공유 폴더에서만 사이트를 이동하세요."
+   },
+   "_Please_note_that_upgrading_from__Last_Pass__Local_to__Last_Pass__Online_will_result_in_your_password_data_being_uploaded_in_its_encrypted_format_to__Last_Pass_servers____You_will_be_able_to_access_your_data_from_anywhere__and__Last_Pass_will_not_be_able_to_read_it____Would_you_like_to_continue_": {
+      "message": "LastPass 로컬을 LastPass 온라인으로 업그레이드를 하면 암호를 암호화된 양식으로 LastPass 서버에 업로드한다는 것을 유념해 주세요.  당신은 어디서든 암호 데이터에 액세스할 수 있고 LastPass는 데이터를 읽을 수 없습니다.  계속합니까?"
+   },
+   "_Please_provide_this_computer_a_name": {
+      "message": "이 컴퓨터의 이름을 제공하세요"
+   },
+   "_Please_re_enter_your__Master__Password_now_to_confirm_that_you_have_committed_it_to_memory_": {
+      "message": "마스터 암호를 기억하고 있는지 확인하기 위해 마스터 암호를 다시 입력해 주세요."
+   },
+   "_Please_reload_the_page_to_view_your_changes_": {
+      "message": "변경 사항을 보려면 페이지를 새로고침하세요."
+   },
+   "_Please_restart_all_your_browsers_to_begin_using__Last_Pass__Online_": {
+      "message": "LastPass 온라인을 사용하려면 브라우저를 다시 시작하세요."
+   },
+   "_Please_restart_your_browser_to_finish_enabling_history_": {
+      "message": "기록 사용을 마치려면 브라우저를 다시 시작하십시오."
+   },
+   "_Please_restart_your_browser_to_finish_enabling_native_messaging_": {
+      "message": "네이티브 메시징을 활성화하려면 브라우저를 재시작하시기 바랍니다."
+   },
+   "_Please_select": {
+      "message": "선택해 주세요"
+   },
+   "_Please_select_from_an_existing__Form__Fill__Profile_or_create_a_new_profile_": {
+      "message": "기존 양식 채우기 프로필에서 선택하거나 새 프로필을 만드십시오."
+   },
+   "_Please_select_which_sites_you_wish_to_apply_this_change_": {
+      "message": "이 변경 사항을 적용할 사이트를 선택해 주세요."
+   },
+   "_Please_visit_https___lastpass_com_to_create_an_account_at_a_later_time_": {
+      "message": "나중에 계정을 만드려면 https://lastpass.com을 방문해 주세요."
+   },
+   "_Poland": {
+      "message": "폴란드"
+   },
+   "_Policy__Number": {
+      "message": "보험 증권 번호"
+   },
+   "_Policy__Type": {
+      "message": "보험 증권 유형"
+   },
+   "_Polish": {
+      "message": "폴란드어"
+   },
+   "_Poll__Server_for_account_changes__mins_": {
+      "message": "서버의 계정 변경 사항을 가져오기 (분)"
+   },
+   "_Port": {
+      "message": "포트"
+   },
+   "_Portugal": {
+      "message": "포르투갈"
+   },
+   "_Portuguese": {
+      "message": "포르투칼어"
+   },
+   "_Portuguese___Brazilian_": {
+      "message": "포르투갈어(브라질)"
+   },
+   "_Preferences": {
+      "message": "기본 설정"
+   },
+   "_Premium__User": {
+      "message": "프리미엄 사용자"
+   },
+   "_Price": {
+      "message": "가격"
+   },
+   "_Print": {
+      "message": "인쇄"
+   },
+   "_Print__Screen": {
+      "message": "화면 출력"
+   },
+   "_Print__Secure__Notes": {
+      "message": "안전한 메모 인쇄"
+   },
+   "_Print__Sites": {
+      "message": "사이트 인쇄"
+   },
+   "_Printable_spreadsheet_of_numbers_and_letters_used_to_enter_different_values_when_logging_in_": {
+      "message": "로그인 할 때 다른 값을 입력하는 데 사용되는 숫자와 문자의 인쇄 가능한 스프레드 시트."
+   },
+   "_Privacy": {
+      "message": "개인 정보"
+   },
+   "_Private__Key": {
+      "message": "개인 키"
+   },
+   "_Product": {
+      "message": "제품"
+   },
+   "_Productivity__Tools": {
+      "message": "생산성 도구"
+   },
+   "_Profile": {
+      "message": "프로필"
+   },
+   "_Profile__I_D": {
+      "message": "프로필 ID"
+   },
+   "_Profile_language": {
+      "message": "프로필 언어"
+   },
+   "_Profile_name": {
+      "message": "프로필 이름"
+   },
+   "_Progress": {
+      "message": "진행률"
+   },
+   "_Pronounceable": {
+      "message": "발음할 수 있게"
+   },
+   "_Protected": {
+      "message": "보호됨"
+   },
+   "_Provides_two_factor_and_token_less_authentication_": {
+      "message": "두 가지 요소 및 토큰리스 인증을 제공합니다."
+   },
+   "_Public__Key": {
+      "message": "공개 키"
+   },
+   "_Publisher": {
+      "message": "게시자"
+   },
+   "_Puerto__Rico": {
+      "message": "푸에르토리코"
+   },
+   "_Purchase__Date": {
+      "message": "구입 날짜"
+   },
+   "_Purge": {
+      "message": "완전히 삭제"
+   },
+   "_Qatar": {
+      "message": "카타르"
+   },
+   "_Quickly_search_your_vault___Open_your_profile_menu_to_manage_your_account_": {
+      "message": "볼트를 빠르게 검색하십시오. 프로필 메뉴를 열어 계정을 관리하십시오."
+   },
+   "_Re__Enter__Password": {
+      "message": "암호 다시 입력"
+   },
+   "_Re__Prompt_for__Master__Password": {
+      "message": "마스터 비밀번호 재 입력"
+   },
+   "_Re_enter_your_master_password_": {
+      "message": "마스터 비밀번호를 다시 입력하십시오 :"
+   },
+   "_Re_prompt_for_your__Last_Pass_master_password_before_you_": {
+      "message": "다음의 경우 LastPass 마스터 암호를 다시 확인합니다:"
+   },
+   "_Read__Only": {
+      "message": "읽기 전용"
+   },
+   "_Recent__Sites": {
+      "message": "최근 사이트"
+   },
+   "_Recently__Used": {
+      "message": "최근에 사용한 항목"
+   },
+   "_Recently__Used_list_size": {
+      "message": "최근에 사용한 항목 목록 개수"
+   },
+   "_Recheck__Page": {
+      "message": "페이지 재검사"
+   },
+   "_Recipient__Email__Addresses_": {
+      "message": "받는 사람 전자 메일 주소:"
+   },
+   "_Recipient__a_z_": {
+      "message": "받는 사람 (ㄱ-ㅎ)"
+   },
+   "_Recipient__z_a_": {
+      "message": "받는 사람 (ㅎ-ㄱ)"
+   },
+   "_Recipients_": {
+      "message": "받는 사람:"
+   },
+   "_Recommended": {
+      "message": "권장됨"
+   },
+   "_Recommended__Options": {
+      "message": "권장 옵션"
+   },
+   "_Reencrypting__Data___": {
+      "message": "데이터를 다시 암호화 중..."
+   },
+   "_Refer_a__Friend___Earn__Premium": {
+      "message": "친구 추천, 프리미엄 적립"
+   },
+   "_Refer_a__Friend_invitations": {
+      "message": "친구 초대장을 참조하십시오."
+   },
+   "_Refresh": {
+      "message": "새로 고침"
+   },
+   "_Refresh__Sites": {
+      "message": "사이트 새로 고침"
+   },
+   "_Reject": {
+      "message": "거부"
+   },
+   "_Remember__Email": {
+      "message": "이메일 기억"
+   },
+   "_Remember__Password": {
+      "message": "암호 기억"
+   },
+   "_Remember_every_password": {
+      "message": "모든 암호 기억"
+   },
+   "_Remove": {
+      "message": "제거"
+   },
+   "_Remove__Favorite": {
+      "message": "즐겨찾기 삭제"
+   },
+   "_Remove__Linked__Personal__Account": {
+      "message": "연결된 개인 계정 삭제"
+   },
+   "_Remove__Personal__Account": {
+      "message": "개인 계정 제거"
+   },
+   "_Remove__Site_from__Favorites": {
+      "message": "즐겨찾기에서 사이트 삭제"
+   },
+   "_Rename": {
+      "message": "이름 바꾸기"
+   },
+   "_Rename__Group": {
+      "message": "폴더 이름 바꾸기"
+   },
+   "_Replace__Existing__Site": {
+      "message": "기존 사이트 대체"
+   },
+   "_Reprompt": {
+      "message": "다시 확인"
+   },
+   "_Request_failed__is_your__Internet_connection_down_": {
+      "message": "요청 실패; 인터넷 연결이 끊어졌습니까?"
+   },
+   "_Require__All__Character__Type": {
+      "message": "모든 문자 유형 필요"
+   },
+   "_Require__All__Character__Types": {
+      "message": "모든 문자 유형 필요"
+   },
+   "_Require__Every__Character__Type": {
+      "message": "모든 문자 유형 포함"
+   },
+   "_Require__Password__Reprompt": {
+      "message": "암호 확인 필요"
+   },
+   "_Require_security_reprompt_when_": {
+      "message": "다음 상황에 암호 확인:"
+   },
+   "_Required_to__Create__Account": {
+      "message": "계정 생성 필요"
+   },
+   "_Resend__Invitation": {
+      "message": "초대장 재발송"
+   },
+   "_Respect__Auto_Complete_off__allow_websites_to_disable__Auto_Fill": {
+      "message": "AutoComplete=off 사용: 웹 사이트가 자동 채우기 비활성화하도록 허용"
+   },
+   "_Reunion": {
+      "message": "레위니옹"
+   },
+   "_Revelation__Password__Manager": {
+      "message": "Revelation Password Manager"
+   },
+   "_Revert__Password__Change": {
+      "message": "암호 변경 되돌리기"
+   },
+   "_Review_any_passwords_and_notes_others_shared_with_you_": {
+      "message": "다른 사람과 공유 한 암호와 메모를 검토하십시오."
+   },
+   "_Revoke__Access": {
+      "message": "액세스 권한을 취소"
+   },
+   "_Right": {
+      "message": "→"
+   },
+   "_Robo_Form": {
+      "message": "RoboForm"
+   },
+   "_Romania": {
+      "message": "루마니아"
+   },
+   "_Routing__Number": {
+      "message": "라우팅 넘버"
+   },
+   "_Routing_number": {
+      "message": "라우팅 넘버"
+   },
+   "_Run_the__Google__Authenticator_application_on_your_mobile_device_and_enter_the_verification_code_in_the_input_box_below_": {
+      "message": "모바일 장치에서 Google OTP 응용 프로그램을 시작하고 아래 입력 상자에 인증 코드를 입력하세요."
+   },
+   "_Russian": {
+      "message": "러시아어"
+   },
+   "_Russian__Federation": {
+      "message": "러시아"
+   },
+   "_Rwanda": {
+      "message": "르완다"
+   },
+   "_S_I_D": {
+      "message": "SID"
+   },
+   "_S_I_T_E": {
+      "message": "사이트"
+   },
+   "_S_M_T_P__Port": {
+      "message": "SMTP 포트"
+   },
+   "_S_M_T_P__Server": {
+      "message": "SMTP 서버"
+   },
+   "_S_P_B__Wallet": {
+      "message": "SPB Wallet"
+   },
+   "_S_S_H__Key": {
+      "message": "SSH 키"
+   },
+   "_S_S_I_D": {
+      "message": "SSID"
+   },
+   "_S_U_C_C_E_S_S": {
+      "message": "성공"
+   },
+   "_S_W_I_F_T__Code": {
+      "message": "SWIFT 코드"
+   },
+   "_Safari": {
+      "message": "Safari"
+   },
+   "_Safari__Password__Manager": {
+      "message": "사파리 암호 관리자"
+   },
+   "_Saint__Barthelemy": {
+      "message": "생바르텔레미"
+   },
+   "_Saint__Helena": {
+      "message": "세인트헬레나"
+   },
+   "_Saint__Kitts_and__Nevis": {
+      "message": "세인트 키츠 네비스"
+   },
+   "_Saint__Lucia": {
+      "message": "세인트 루시아"
+   },
+   "_Saint__Martin___French__Part_": {
+      "message": "생마르탱 (프랑스령)"
+   },
+   "_Saint__Pierre_and__Miquelon": {
+      "message": "생피에르 미클롱"
+   },
+   "_Saint__Vincent_and_the__Grenadines": {
+      "message": "세인트빈센트 그레나딘"
+   },
+   "_Samoa": {
+      "message": "사모아"
+   },
+   "_San__Marino": {
+      "message": "산마리노"
+   },
+   "_Sao__Tome_and__Principe": {
+      "message": "상투메 프린시페"
+   },
+   "_Saudi__Arabia": {
+      "message": "사우디아라비아"
+   },
+   "_Save": {
+      "message": "저장"
+   },
+   "_Save__All__Entered__Data": {
+      "message": "입력한 모든 데이터 저장"
+   },
+   "_Save__Credit__Card_profile": {
+      "message": "신용카드 프로필 저장"
+   },
+   "_Save__File": {
+      "message": "파일 저장"
+   },
+   "_Save__Form__Fill_profile": {
+      "message": "양식 채우기 프로파일 저장"
+   },
+   "_Save__New__Site": {
+      "message": "새 사이트 저장"
+   },
+   "_Save__Password_to__Vault": {
+      "message": "저장소에 암호 저장"
+   },
+   "_Save__Password_to__Vault_": {
+      "message": "저장소에 암호 저장?"
+   },
+   "_Save__Site": {
+      "message": "사이트 저장"
+   },
+   "_Save_a_disabled__One__Time__Password_locally_for__Account__Recovery": {
+      "message": "계정 복구를 위해 하드디스크에 비활성화된 1회용 암호 저장"
+   },
+   "_Save_and_fill_passwords_for_any_website_or_app___Search_them_all_from_your_vault_": {
+      "message": "모든 웹 사이트 또는 앱의 비밀번호를 저장하고 입력하십시오. 금고에서 모두 찾으십시오."
+   },
+   "_Save_the_password_to_your__Last_Pass__Vault_": {
+      "message": "LastPass 저장소에 암호 저장?"
+   },
+   "_Save_this_password_as_a_new_entry": {
+      "message": "새 항목으로 이 암호 저장"
+   },
+   "_Save_this_password_as_a_new_entry_": {
+      "message": "이 암호를 새 항목으로 저장합니까?"
+   },
+   "_Save_this_website_into_your__Last_Pass__Vault_": {
+      "message": "이 사이트를 LastPass 저장소에 저장하세요!"
+   },
+   "_Save_your_changes_and_close_this_window": {
+      "message": "저장하고 이 창 닫기"
+   },
+   "_Save_your_password_to_your__Last_Pass__Vault_": {
+      "message": "LastPass 저장소에 암호를 저장합니까?"
+   },
+   "_Saved__Passwords": {
+      "message": "저장된 암호"
+   },
+   "_Screen__Keyboard": {
+      "message": "화상 키보드"
+   },
+   "_Search__All__Data": {
+      "message": "모든 데이터 검색"
+   },
+   "_Search__All__Groups": {
+      "message": "모든 폴더 검색"
+   },
+   "_Search__All__Notes": {
+      "message": "모든 메모 검색"
+   },
+   "_Search__All__Sites": {
+      "message": "모든 사이트 검색"
+   },
+   "_Search__Last_Pass__Vault": {
+      "message": "LastPass 저장소 검색"
+   },
+   "_Search__Vault": {
+      "message": "저장소 검색"
+   },
+   "_Search_within_secure_notes": {
+      "message": "안전 메모에서 검색"
+   },
+   "_Searchproper": {
+      "message": "검색"
+   },
+   "_Secure_Auth": {
+      "message": "SecureAuth"
+   },
+   "_Secure__Note": {
+      "message": "안전한 메모"
+   },
+   "_Secure__Notes": {
+      "message": "안전한 메모"
+   },
+   "_Securely_send_passwords_and_notes_to_friends_and_family_": {
+      "message": "암호 및 메모를 친구 및 가족에게 안전하게 보냅니다."
+   },
+   "_Security": {
+      "message": "보안"
+   },
+   "_Security__Alert": {
+      "message": "보안 경고"
+   },
+   "_Security__Alert___Master__Password__Reused": {
+      "message": "보안 경고: 마스터 암호 재사용됨"
+   },
+   "_Security__Alert___This_site_has_the_same_password_as_your__Last_Pass_account___To_protect_all_of_your_online_accounts__it_is_recommended_that_you_change_your__Last_Pass__Master__Password_": {
+      "message": "보안 경고: 이 사이트와 LastPass 계정 암호가 동일합니다. 당신의 온라인 계정 모두를 보호하기 위해 LastPass 마스터 암호를 변경할 것을 권장합니다."
+   },
+   "_Security__Challenge": {
+      "message": "보안 챌린지"
+   },
+   "_Security__Check": {
+      "message": "보안 검사"
+   },
+   "_Security__Code": {
+      "message": "보안 코드"
+   },
+   "_Security__Email": {
+      "message": "보안 전자 메일"
+   },
+   "_Security__Notice": {
+      "message": "보안 알림"
+   },
+   "_Security__Question__Multifactor__Authentication": {
+      "message": "본인 확인 질문 다중요소 인증"
+   },
+   "_Security_code": {
+      "message": "보안 코드"
+   },
+   "_Select": {
+      "message": "선택"
+   },
+   "_Select__All": {
+      "message": "모두 선택"
+   },
+   "_Select__Identity": {
+      "message": "신원 선택"
+   },
+   "_Select_a_group_in_your__Last_Pass__Vault_to_place_this_website____Optional_": {
+      "message": "LastPass 저장소에서 이 사이트가 위치할 폴더를 선택하세요. (선택 사항)"
+   },
+   "_Select_a_preference_to_edit__then_tap__O_K_": {
+      "message": "편집할 기본 설정을 선택하고 나서 확인을 탭하세요."
+   },
+   "_Select_or_enter_a_new_group_name": {
+      "message": "폴더를 선택하거나 새 폴더 이름을 입력하세요"
+   },
+   "_Selected__Items": {
+      "message": "선택한 항목"
+   },
+   "_Send__Email": {
+      "message": "전자 메일 보내기"
+   },
+   "_Send__S_M_S_passcodes": {
+      "message": "SMS 인증 요청"
+   },
+   "_Send__Test__Email": {
+      "message": "테스트 전자 메일 보내기"
+   },
+   "_Send_anonymous_error_reporting_data_to_help_improve__Last_Pass": {
+      "message": "LastPass의 개선하기 위해 익명의 오류 보고 보내기"
+   },
+   "_Sender__a_z_": {
+      "message": "보낸 사람 (ㄱ-ㅎ)"
+   },
+   "_Sender__z_a_": {
+      "message": "보낸 사람 (ㅎ-ㄱ)"
+   },
+   "_Sends_an__Accept__Reject_notification_to_your_smart_phone_": {
+      "message": "스마트폰에 허용/거부 알림을 보냅니다."
+   },
+   "_Sends_push_notifications_to_your_smart_phone_to_verify_your_login_": {
+      "message": "로그인을 확인하기 위해 스마트폰에 푸시 알림을 보냅니다."
+   },
+   "_Senegal": {
+      "message": "세네갈"
+   },
+   "_Seoul___Osaka___Sapporo___Tokyo___Yakutsk": {
+      "message": "서울, 오사카, 삿포로, 도쿄, 야쿠츠크"
+   },
+   "_September": {
+      "message": "9월"
+   },
+   "_Serbia": {
+      "message": "세르비아"
+   },
+   "_Server": {
+      "message": "서버"
+   },
+   "_Sesame_Wrong_Button": {
+      "message": "오프라인 상태로 사용자 정보를 보려면 Sesame를 실행하여 '1회용 암호' 대신에 '오프라인 암호 복사'를 사용하세요."
+   },
+   "_Sesame__Multifactor__Authentication": {
+      "message": "Sesame 다중요소 인증"
+   },
+   "_Sessions": {
+      "message": "세션"
+   },
+   "_Set_up_custom_form_fields": {
+      "message": "사용자 지정 양식 필드 설정"
+   },
+   "_Settings": {
+      "message": "설정"
+   },
+   "_Sex": {
+      "message": "성별"
+   },
+   "_Seychelles": {
+      "message": "세이셸"
+   },
+   "_Share": {
+      "message": "공유"
+   },
+   "_Share__Folder": {
+      "message": "공유 폴더"
+   },
+   "_Share__Item": {
+      "message": "항목 공유"
+   },
+   "_Share__Selected": {
+      "message": "선택 항목 공유"
+   },
+   "_Share__Site": {
+      "message": "사이트 공유"
+   },
+   "_Share_login_state_between_other_browsers": {
+      "message": "다른 브라우저와 로그인 상태 공유"
+   },
+   "_Share_offer_from": {
+      "message": "공유 요청"
+   },
+   "_Shared__Folders": {
+      "message": "공유 폴더"
+   },
+   "_Shared_password_notifications": {
+      "message": "공유 암호 알림"
+   },
+   "_Shared_with__Me": {
+      "message": "나와 공유 함"
+   },
+   "_Shared_with__Others": {
+      "message": "다른 사람들과 공유"
+   },
+   "_Shares": {
+      "message": "공유"
+   },
+   "_Sharing__Center": {
+      "message": "공유 센터"
+   },
+   "_Shift": {
+      "message": "Shift"
+   },
+   "_Shopping": {
+      "message": "쇼핑"
+   },
+   "_Should__Last_Pass_remember_this_password_": {
+      "message": "LastPass가 이 암호를 기억하도록 합니까?"
+   },
+   "_Show": {
+      "message": "표시"
+   },
+   "_Show__Advanced__Options": {
+      "message": "고급 옵션 표시"
+   },
+   "_Show__All": {
+      "message": "모두 표시"
+   },
+   "_Show__Change__Password__Notification__Bar": {
+      "message": "암호 변경 알림표시줄 표시"
+   },
+   "_Show__Deleted__Items": {
+      "message": "삭제된 항목 표시"
+   },
+   "_Show__Deleted__Sites": {
+      "message": "삭제된 사이트 표시"
+   },
+   "_Show__Fill__Notification__Bar": {
+      "message": "채우기 알림표시줄 표시"
+   },
+   "_Show__Form__Fill__Notifications": {
+      "message": "프로필 양식 작성시 알림 전송하기"
+   },
+   "_Show__Matching__Sites": {
+      "message": "일치하는 사이트 표시"
+   },
+   "_Show__Matching__Sites__Count_in__Toolbar": {
+      "message": "도구 모음에서 일치하는 사이트 수 표시"
+   },
+   "_Show__Matching__Sites_in_top_level_menu": {
+      "message": "최상위 메뉴에서 일치하는 사이트 표시"
+   },
+   "_Show__My__Last_Pass__Vault__After__Login": {
+      "message": "로그인 후 내 LastPass 저장소 표시"
+   },
+   "_Show__Notifications": {
+      "message": "알림 표시"
+   },
+   "_Show__Password": {
+      "message": "암호 표시"
+   },
+   "_Show__Password__History": {
+      "message": "암호 기록 표시"
+   },
+   "_Show__Save__Site__Notification__Bar": {
+      "message": "사이트 저장 알림표시줄 표시"
+   },
+   "_Show__Save__Site__Notifications": {
+      "message": "사이트 저장 알림 표시"
+   },
+   "_Show__Sites_in__Groups": {
+      "message": "사이트 폴더별 표시"
+   },
+   "_Show__Username__History": {
+      "message": "사용자 이름 기록 표시"
+   },
+   "_Show__Vault__After__Log_in": {
+      "message": "로그인 후 저장소 표시"
+   },
+   "_Show__Vault__After__Login": {
+      "message": "로그인 후 저장소 표시"
+   },
+   "_Show_all_sites": {
+      "message": "모든 사이트 표시"
+   },
+   "_Show_certain_notifications_only_after_click": {
+      "message": "특정 알림은 클릭 후에만 표시"
+   },
+   "_Show_notifications_below_browser": {
+      "message": "브라우저 하단에 알림 표시"
+   },
+   "_Show_or__Hide__Password": {
+      "message": "암호 표시 또는 숨기기"
+   },
+   "_Shows_another_custom_field_entry": {
+      "message": "다른 사용자 지정 필드 표시"
+   },
+   "_Sierra__Leone": {
+      "message": "시에라리온"
+   },
+   "_Sign__In": {
+      "message": "로그인"
+   },
+   "_Simplify_your_life___Use__Last_Pass_to_autofill_in_this_site_s_login_info_": {
+      "message": "생활을 단순화: 이 사이트의 로그인 정보를 자동으로 채우려면 LastPass를 사용하세요!"
+   },
+   "_Singapore": {
+      "message": "싱가포르"
+   },
+   "_Site": {
+      "message": "사이트"
+   },
+   "_Site__Search": {
+      "message": "사이트 검색"
+   },
+   "_Sites": {
+      "message": "사이트"
+   },
+   "_Skip__Tour": {
+      "message": "둘러보기 건너뛰기"
+   },
+   "_Skip_email_verification_of_unknown_devices_and_locations": {
+      "message": "알 수없는 장치 및 위치에 대한 전자 메일 확인 건너 뛰기"
+   },
+   "_Slovak": {
+      "message": "슬로바키아어"
+   },
+   "_Slovakia": {
+      "message": "슬로바키아"
+   },
+   "_Slovenia": {
+      "message": "슬로베니아"
+   },
+   "_Social": {
+      "message": "소셜"
+   },
+   "_Social__Security": {
+      "message": "사회 보장"
+   },
+   "_Social__Security__Number": {
+      "message": "사회 보장 번호"
+   },
+   "_Social_security_number": {
+      "message": "사회 보장 번호"
+   },
+   "_Software__License": {
+      "message": "소프트웨어 라이선스"
+   },
+   "_Software_application_that_can_be_placed_on_a__U_S_B_key_to_generate_one_time_verification_codes_": {
+      "message": "1회용 인증 코드를 생성하는 USB 키에 기반을 둔 소프트웨어 애플리케이션."
+   },
+   "_Solomon__Islands": {
+      "message": "솔로몬 제도"
+   },
+   "_Somalia": {
+      "message": "소말리아"
+   },
+   "_Something_went_a_little_wrong__but_don_t_panic____Last_Pass_has_saved_your_last_known_password_": {
+      "message": "작은 오류가 발생했습니다. 하지만 당황하지 마세요!  LastPass가 당신의 최근 암호를 저장했습니다."
+   },
+   "_Sorry___group_names_starting_with___Shared___are_created_by__Last_Pass_to_indicate_groups_shared_with_other_people___Please_use_a_different_name_": {
+      "message": "죄송합니다. '공유-'로 시작하는 그룹 이름은 다른 사람과 공유된 그룹을 나타내기 위해 LastPass가 만듭니다. 다른 이름을 사용해 주세요."
+   },
+   "_Sorry__this_shared_folder_is_read_only_": {
+      "message": "죄송합니다. 이 공유 폴더는 읽기 전용입니다."
+   },
+   "_Sorry__you_cannot_perform_this_operation_on_a_mix_of_shared_and_non_shared_folders__or_multiple_shared_folders_at_once_": {
+      "message": "죄송합니다. 공유 폴더와 비공유 폴더 혹은 여러 공유 폴더에는 이 작업을 동시에 수행할 수 없습니다."
+   },
+   "_Sorry__your_password_can_not_be_the_same_as_your_email_address_": {
+      "message": "죄송합니다. 암호는 전자 메일 주소와 동일할 수 없습니다."
+   },
+   "_Sorry__your_password_is_too_short___It_must_be_a_minimum_of_8_characters_long_for_security_reasons_": {
+      "message": "죄송합니다. 암호가 너무 짧습니다. 보안상의 이유로 최소한 8자 이상이어야 합니다."
+   },
+   "_Sort__By_": {
+      "message": "정렬 기준:"
+   },
+   "_Source": {
+      "message": "원본"
+   },
+   "_Source_": {
+      "message": "출처 :"
+   },
+   "_South__Africa": {
+      "message": "남아프리카 공화국"
+   },
+   "_South__Georgia": {
+      "message": "사우스 조지아"
+   },
+   "_South__Georgia_and_the__South__Sandwich__Islands": {
+      "message": "사우스조지아 사우스샌드위치 제도"
+   },
+   "_Spain": {
+      "message": "스페인"
+   },
+   "_Spanish": {
+      "message": "스페인어"
+   },
+   "_Spanish___Mexico_": {
+      "message": "스페인어(멕시코)"
+   },
+   "_Special": {
+      "message": "특수 문자"
+   },
+   "_Splash_I_D": {
+      "message": "SplashID"
+   },
+   "_Sports": {
+      "message": "스포츠"
+   },
+   "_Sri__Lanka": {
+      "message": "스리랑카"
+   },
+   "_Start__Date": {
+      "message": "시작 날짜"
+   },
+   "_Start__Downloading__Folder": {
+      "message": "폴더 다운로드 시작"
+   },
+   "_Start__Trial": {
+      "message": "평가판 시작"
+   },
+   "_Start_date": {
+      "message": "시작 날짜"
+   },
+   "_State": {
+      "message": "상태"
+   },
+   "_State____Province": {
+      "message": "주 / 도"
+   },
+   "_Status": {
+      "message": "상태"
+   },
+   "_Sticky__Password": {
+      "message": "Sticky Password"
+   },
+   "_Stop__Downloading__Folder": {
+      "message": "폴더 다운로드 중지"
+   },
+   "_Store_every_note": {
+      "message": "모든 메모 저장"
+   },
+   "_Sub__Total": {
+      "message": "소계"
+   },
+   "_Submit__Form": {
+      "message": "양식 제출"
+   },
+   "_Submitting___": {
+      "message": "제출하는 중..."
+   },
+   "_Success___Your__Password__Is__Updated": {
+      "message": "완료! 암호가 갱신되었습니다"
+   },
+   "_Sudan": {
+      "message": "수단"
+   },
+   "_Support__Email": {
+      "message": "지원 전자 메일"
+   },
+   "_Support_for_fingerprint_sensors_and_card_readers_": {
+      "message": "지문 인식기와 카드 판독기를 지원합니다."
+   },
+   "_Support_ticket_updates": {
+      "message": "티켓 업데이트 지원"
+   },
+   "_Suriname": {
+      "message": "수리남"
+   },
+   "_Suspicious_characters_found_in_selected_filename__will_not_process_it": {
+      "message": "선택된 파일의 이름에서 의심스러운 글자가 발견되어 처리하지 않습니다"
+   },
+   "_Svalbard_and__Jan__Mayen": {
+      "message": "스발바르 얀마옌 제도"
+   },
+   "_Swaziland": {
+      "message": "스와질랜드"
+   },
+   "_Sweden": {
+      "message": "스웨덴"
+   },
+   "_Swedish": {
+      "message": "스웨덴어"
+   },
+   "_Swipe_current_user_s_finger": {
+      "message": "현재 사용자의 손 문지르기"
+   },
+   "_Swipe_finger": {
+      "message": "손가락을 문지르세요"
+   },
+   "_Swipe_your_finger_on_the_fingerprint_sensor": {
+      "message": "지문 센서에 손가락을 문지르세요"
+   },
+   "_Switzerland": {
+      "message": "스위스"
+   },
+   "_Syrian__Arab__Republic": {
+      "message": "시리아"
+   },
+   "_Tabs": {
+      "message": "새 탭"
+   },
+   "_Taiwan": {
+      "message": "타이완"
+   },
+   "_Tajikistan": {
+      "message": "타지키스탄"
+   },
+   "_Tanzania___United__Republic__Of": {
+      "message": "탄자니아 (연합 공화국)"
+   },
+   "_Tehran": {
+      "message": "테헤란"
+   },
+   "_Telecom": {
+      "message": "통신"
+   },
+   "_Telephone": {
+      "message": "전화"
+   },
+   "_Tell_a_friend_": {
+      "message": "친구에게 소개하세요!"
+   },
+   "_Text": {
+      "message": "텍스트"
+   },
+   "_Text_to__Find": {
+      "message": "검색할 글자"
+   },
+   "_Text_to_find": {
+      "message": "검색할 텍스트"
+   },
+   "_Thailand": {
+      "message": "태국"
+   },
+   "_That_file_is_missing_or_empty____Please_enter_the_full_path_of_the_file_to_import_": {
+      "message": "그 파일이 없거나 비어 있습니다. 가져올 파일의 전체 경로를 입력하세요."
+   },
+   "_That_group_already_exists_": {
+      "message": "폴더가 이미 존재합니다."
+   },
+   "_The_4_digit_year_the_credit_card_was_issued": {
+      "message": "신용카드의 발행 연도 4자리 숫자"
+   },
+   "_The__Folder__Navigation": {
+      "message": "폴더 탐색"
+   },
+   "_The__Last_Pass__Wi__Fi_utility_was_not_detected_on_this_computer____Would_you_like_to_run_the__Last_Pass__Universal__Installer_in_order_to_install_it_": {
+      "message": "이 컴퓨터에서 LastPass Wi-Fi 유틸리티를 발견하지 못했습니다. 이를 설치하기 위해 LastPass 통합 설치 프로그램를 실행합니까?"
+   },
+   "_The__Last_Pass_master_password_you_reentered_does_not_match": {
+      "message": "암호 확인이 암호와 일치하지 않습니다"
+   },
+   "_The__Last_Pass_popup_has_been_blocked_from_loading_on_this_site___Please_fill_using_the__Last_Pass__Icon_": {
+      "message": "LastPass 팝업이이 사이트에서로드되지 못하도록 차단되었습니다. LastPass 아이콘을 사용하여 입력하십시오."
+   },
+   "_The__Left__Navigation": {
+      "message": "왼쪽 탐색"
+   },
+   "_The__Quick__Add__Button": {
+      "message": "빠른 추가 버튼"
+   },
+   "_The__Top__Navigation": {
+      "message": "탑 내비게이션"
+   },
+   "_The___Old__Password__you_entered_is_not_your_correct__Last_Pass_master_password": {
+      "message": "입력한 '이전 암호'가 올바르지 않습니다"
+   },
+   "_The_account_you_are_logging_into_was_either_hacked_or_was_reusing_a_password_a_password_from_a_site_that_was_hacked___You_should_take_action_now_to_change_this_password": {
+      "message": "당신이 로그인한 계정은 해킹되었거나 해킹된 사이트에서 사용한 암호와 일치합니다. 지금 이 암호를 변경해야 합니다"
+   },
+   "_The_binary_version_of_the__Last_Pass_plugin_is_required_for_this_operation___It_can_be_downloaded_from_lastpass_com_": {
+      "message": "이 작업을 하려면 LastPass 플러그 인의 바이너리 버전이 필요합니다. lastpass.com에서 다운로드할 수 있습니다."
+   },
+   "_The_credit_card_number": {
+      "message": "신용카드 번호"
+   },
+   "_The_credit_card_s_4_digit_expiration_year": {
+      "message": "신용카드의 만료 연도 4자리 숫자"
+   },
+   "_The_credit_card_s_expiration_month": {
+      "message": "신용카드의 만료 월"
+   },
+   "_The_credit_card_s_issue_number___Only_applicable_to_certain__European_brands_of_debit_cards__such_as__Maestro_": {
+      "message": "신용카드의 발행 번호.\nMaestro와 같은 특정 유럽 브랜드 직불 카드에만 적용됩니다."
+   },
+   "_The_credit_card_s_security_code___For_most_credit_cards__this_is_the_last_3_digits_of_a_number_printed_on_the_back_of_the_card___For__American__Express_credit_cards__it_is_the_last_4_digits_of_a_number_printed_in_small_print_on_the_front_of_the_card_": {
+      "message": "신용카드의 보안 코드.\n대부분의 신용카드의 경우 카드 뒷면에 인쇄된 번호의 마지막 3자리입니다.\nAmerican Express 신용카드의 경우 카드 앞면에 작은 글씨로 인쇄된 번호의 마지막 4자리입니다."
+   },
+   "_The_full_name_printed_on_the_credit_card": {
+      "message": "신용카드에 인쇄된 이름"
+   },
+   "_The_language_of_the__Web_sites_where_this__Form__Fill_profile_will_be_used": {
+      "message": "이 양식 채우기 프로파일이 사용될 웹 사이트의 언어"
+   },
+   "_The_month_the_credit_card_was_issued": {
+      "message": "신용카드 발행 월"
+   },
+   "_The_name_of_the__Form__Fill_profile": {
+      "message": "서식 채우기 프로파일의 이름"
+   },
+   "_The_name_of_your_bank": {
+      "message": "은행의 이름"
+   },
+   "_The_notes_field_contains_too_much_data____You_may_store_a_maximum_of_45_000_characters_per_note____Would_you_like_us_to_truncate_the_note_for_you____You_will_lose_some_of_your_data_": {
+      "message": "메모에 데이터가 너무 많습니다.  한 메모당 최대 45,000자까지만 저장할 수 있습니다.\n\n메모의 내용을 자릅니까?  메모의 일부를 잃습니다."
+   },
+   "_The_number_of_characters_in_the_generated_password_": {
+      "message": "만들어진 암호의 문자 수."
+   },
+   "_The_password_that_you_use_to_log_into_this_website_": {
+      "message": "이 웹 사이트에 로그인하기 위해 사용하는 암호."
+   },
+   "_The_random_password_that_was_generated_has_been_saved_to_your_vault_": {
+      "message": "생성된 임의의 암호가 당신의 저장소에 저장되었습니다."
+   },
+   "_The_text_beside__the_name_of__or_the__I_D_of_the_form_field_to_be_filled___If_multiple_items_are_to_be_matched__specify_each_match_on_a_separate_line_": {
+      "message": "옆의 텍스트는 채울 양식 필드의 이름이나 ID입니다.\n여러 항목이 일치할 경우 별도의 행에 각 일치를 지정합니다."
+   },
+   "_The_value_to_be_filled": {
+      "message": "채워질 값"
+   },
+   "_The_version_of__Chrome_you_are_currently_running_does_not_have__H_T_M_L5_database_support_enabled____As_such__this_login_page_will_not_remember_your_email_and_password__and_other_features_such_as_automatic_login_on_browser_restart_will_not_work_": {
+      "message": "현재 실행 중인 Chrome의 버전은 HTML5 데이터베이스 지원이 활성화되지 않았습니다. 따라서 이 로그인 페이지는 이메일과 암호를 기억하지 않을 것입니다. 그리고 자동 로그인과 같은 다른 기능도 작동하지 않을 것입니다."
+   },
+   "_The_version_of__Chrome_you_are_currently_running_does_not_have__H_T_M_L5_database_support_enabled____As_such__this_login_page_will_not_remember_your_email_and_password__and_other_features_such_as_automatic_login_on_browser_restart_will_not_work____You_may_be_able_to_fix_this_by_adding___enable_databases_as_a_parameter_to_your__Google__Chrome_browser_shortcut_": {
+      "message": "현재 사용중인 Chrome 버전은 HTML5 데이터베이스 기능을 지원하지 않습니다. 따라서, 이 로그인 페이지에선 이메일과 암호를 저장할 수 없고, 또한 자동 로그인 같은 다른 기능들도 작동하지 않습니다. Google Chrome 바로가기에 --enable-databases 매개 변수를 더해주면 문제가 해결될 수 있습니다."
+   },
+   "_The_website_needs_you_to_enter_information___Please_close_this_overlay_and_enter_it_": {
+      "message": "웹 사이트가 정보 입력을 요구합니다. 이 오버레이를 닫고 정보를 입력해 주세요."
+   },
+   "_The_website_needs_you_to_enter_information___Please_switch_to_the_tab_and_enter_it_": {
+      "message": "웹 사이트가 정보 입력을 요구합니다. 해당 탭으로 전환하여 정보를 입력해 주세요."
+   },
+   "_There_are_two_ways_to_view_your_vault___Use_the_icons_on_the_top_right_to_toggle_between_them_": {
+      "message": "볼트를 보는 방법에는 두 가지가 있습니다. 오른쪽 상단의 아이콘을 사용하여 아이콘 사이를 전환하십시오."
+   },
+   "_These_preferences_are_stored_on_your_computer_or_device__you_will_see_this_message_again_if_you_delete_browser_information__or_use_a_different_computer___The_best_way_to_avoid_this_message_is_to_change_your__Last_Pass__Master__Password_": {
+      "message": "이 기본 설정은 컴퓨터나 장치에 저장됩니다. 브라우저 정보를 삭제하거나 다른 컴퓨터를 사용하면 이 메시지를 다시 보게 됩니다. 이 메시지를 표시하지 않는 가장 좋은 방법은 LastPass 마스터 암호를 변경하는 것입니다."
+   },
+   "_This_attachment_needs_to_be_saved_first_": {
+      "message": "이 첨부 파일을 먼저 저장해야 합니다."
+   },
+   "_This_can_only_be_handled_from_a_webpage": {
+      "message": "이 기능은 웹 페이지를 통해서만 사용할 수 있습니다"
+   },
+   "_This_computer_is_trusted__do_not_require_a_second_form_of_authentication_for_30_days_": {
+      "message": "이 컴퓨터를 신뢰합니다. 2단계 인증을 앞으로 30일 동안 요구하지 않습니다."
+   },
+   "_This_feature_is_not_available_in_this_version___Please_install_the_binary_extension_by_going_to_": {
+      "message": "이 기능은 이 버전에서 사용할 수 없습니다. 다음으로 이동하여 바이너리 확장 기능을 설치해 주세요: "
+   },
+   "_This_feature_is_not_available_in_this_version___Please_install_the_binary_extension_by_going_to_https___lastpass_com_dl": {
+      "message": "이 기능은 현재 버전에서 사용할 수 없습니다. https://lastpass.com/dl 이동하여 바이너리 확장 기능을 설치해 주세요"
+   },
+   "_This_feature_requires_the_binary_version_of_this_browser_extension____Would_you_like_to_install_it_now_": {
+      "message": "이 기능은 이 브라우저 확장 기능의 바이너리 버전이 필요합니다. 지금 설치합니까?"
+   },
+   "_This_feature_still_needs_to_be_implemented__to_read_directly_from_": {
+      "message": "이 기능을 다음에서 바로 읽기 위해서는 구현이 필요합니다: "
+   },
+   "_This_is_a_potential_security_risk__because_anyone_who_learns_the_password_for_that_site_may_gain_access_to_all_of_your_accounts___Last_Pass_strongly_recommends_that_your__Master__Password_should_not_be_used_on_any_other_website_": {
+      "message": "이것은 저 사이트 암호를 아는 사람이 당신의 모든 계정에 액세스 권한을 얻을 수 있기 때문에, 잠재적 보안 위험입니다. LastPass는 다른 웹 사이트에 마스터 암호를 사용하지 않을 것을 적극 권장합니다."
+   },
+   "_This_is_a_potential_security_risk_because_anyone_who_learns_the_password_for_that_site_may_gain_access_to_all_of_your_accounts___Last_Pass_strongly_recommends_that_your__Master__Password_should_not_be_used_on_any_other_website_": {
+      "message": "이것은 저 사이트 암호를 아는 사람이 당신의 모든 계정에 액세스 권한을 얻을 수 있기 때문에 잠재적 보안 위험입니다. LastPass는 다른 웹 사이트에 마스터 암호를 사용하지 않을 것을 적극 권장합니다."
+   },
+   "_This_is_a_shared_site___You_are_not_permitted_to_view_the_password_": {
+      "message": "공유 사이트입니다. 암호를 볼 수 있는 권한이 없습니다."
+   },
+   "_This_is_the_language_displayed_by_the__Last_Pass_com_website_": {
+      "message": "이것은 LastPass.com 웹 사이트에 표시되는 언어입니다."
+   },
+   "_This_is_the_name_or__U_R_L_of_this_web_page_": {
+      "message": "이것은 이 웹 페이지의 이름이나 URL입니다."
+   },
+   "_This_may_take_a_while___": {
+      "message": "시간이 좀 걸릴 수 있습니다..."
+   },
+   "_This_page_failed_to_load_properly____Please_ensure_you_are_running_the_latest_version_of__Maxthon___Last_Pass_requires_at_least__Maxthon_4_0_3_2000_____Otherwise__this_may_have_happened_to_due_a_bug_in__Maxthon____Please_try_opening_this_page_again_": {
+      "message": "이 페이지를 제대로 불러오지 못했습니다.  Maxthon 최신 버전을 사용 중인지 확인하세요(LastPass는 Maxthon 4.0.3.2000 이상 필요합니다).  최신 버전이라면 Maxthon의 버그로 인한 것일수도 있습니다.  이 페이지를 한 번 다시 열어주세요."
+   },
+   "_This_page_failed_to_load_properly____Please_ensure_you_are_running_the_latest_version_of__Maxthon___Last_Pass_requires_at_least__Maxthon_4_0_3_3000_____Otherwise__this_may_have_happened_to_due_a_bug_in__Maxthon____Please_try_opening_this_page_again_": {
+      "message": "이 페이지를 제대로 불러오지 못했습니다.  Maxthon 최신 버전을 사용 중인지 확인하세요(LastPass는 Maxthon 4.0.3.3000 이상 필요합니다).  최신 버전이라면 Maxthon의 버그로 인한 것일수도 있습니다.  이 페이지를 한 번 다시 열어주세요."
+   },
+   "_This_password_you_use_to_log_into_this_website_": {
+      "message": "당신이 사용하는 이 패스워드는 이 웹사이트에 로그인 할 때 사용됩니다."
+   },
+   "_This_site_has_the_same_password_as_your__Last_Pass_account___To_protect_all_of_your_online_accounts__it_is_recommended_that_you_change_your__Last_Pass__Master__Password_": {
+      "message": "이 사이트는 LastPass 계정과 동일한 암호를 사용하고 있습니다. 당신의 온라인 계정 모두를 보호하기 위해 LastPass 마스터 암호를 변경할 것을 권장합니다."
+   },
+   "_This_site_was_affected_by_a_breach_": {
+      "message": "이 사이트는 위반의 영향을 받았습니다!"
+   },
+   "_Time__Zone": {
+      "message": "시간대"
+   },
+   "_Timed_out": {
+      "message": "시간 초과"
+   },
+   "_Timed_out_waiting_for_the_page_to_load____Retry_": {
+      "message": "페이지가 로드될 때까지 기다리는 시간이 초과되었습니다. 다시 시도합니까?"
+   },
+   "_Timor__Leste": {
+      "message": "동티모르"
+   },
+   "_Title": {
+      "message": "호칭"
+   },
+   "_To_create_your_account__please_re_enter_your__Last_Pass_master_password": {
+      "message": "당신의 계정을 만드려면, 당신의 LastPass 마스터 암호를 다시 입력해 주세요."
+   },
+   "_To_export_1_Password_logins__login_to_1_Password___Select_all_or_just_passwords_that_you_want_to_export___Then_select___File_menu____Export__All____Text_file______Or_____File_menu____Export__Selected____Text_file_____Click__Export_button_and__Save_password_file__and__Import_the_resulting_file_": {
+      "message": "1Password 로그인 정보를 내보내려면 1Password에 로그인하세요. 모든 암호를 선택하거나 내보낼 암호만 선택하세요. 그러고 나서 파일 메뉴 / 모든 암호 내보내기 / 텍스트 파일... 또는    파일 메뉴 / 선택된 암호 내보내기 / 텍스트 파일...을 선택하세요. 내보내기 버튼을 클릭하고 암호 파일을 저장하고 결과 파일을 가져오세요."
+   },
+   "_To_export__Clipperz_cards__login_to_www_clipperz_com___Click_on_data__then__Export__then__Export_to__J_S_O_N___Copy_all_of_the_text_and_save_it_to_a_file_using_a_text_editor__then_import_it___Please_note_that_this_import_may_not_work_properly_if_you_ve_changed_field_names_from_their_defaults_": {
+      "message": "Clipperz 카드를 내보내려면, www.clipperz.com에 로그인하세요. 데이터를 클릭하고 Export - Export to JSON을 클릭하세요. 모든 텍스트를 선택하고 텍스트 에디터를 사용해서 파일로 저장하세요. 그러고 나서 가져오면 됩니다.\n참고: 이 가져오기는 기본값의 필드 이름을 변경하면 작동하지 않을 수도 있습니다."
+   },
+   "_To_export__Fire_Form_profiles__right_click_the__Fire_Form_icon__then_choose__Simple_setup____Go_to_the__General_options_tab__click__Export_all_profiles__and_save_an__X_M_L_file____Import_the_resulting_file_": {
+      "message": "FireForm 프로필을 내보내려면, FireForm 아이콘을 우클릭하고 Simple setup 선택하세요. General options 탭으로 이동하고 Export all profiles을 클릭하고 SML 파일로 저장하세요. 결과 파일을 가져오세요."
+   },
+   "_To_export__H_P__Password__Safe_save_to_an__H_T_M_L_file___Import_the_resulting_file_": {
+      "message": "HP Password Safe로 내보내려면 HTML 파일로 저장하세요. 결과 파일을 가져오세요."
+   },
+   "_To_export__Kee_Pass_logins__open_your__Kee_Pass_database__and_click_on__File____Export__To____X_M_L__File____Choose_a_file_location_and_press_the__Save_button____Then__press_the__O_K_button____Import_the_resulting_file_": {
+      "message": "KeePass 로그인 정보를 내보내기 위해서는 KeePass 데이터베이스를 여세요. 그리고 파일 - 내보내기 - XML 파일을 클릭하세요.  파일의 저장 위치를 선택한 다음 저장 버튼을 누르세요.  그리고 확인 버튼을 누르세요.  저장된 파일을 가져오세요."
+   },
+   "_To_export__Last_Pass_logins__open_your_browser_with_the__Last_Pass_plugin_installed__and_click_on__Last_Pass____Tools____Export__To____C_S_V__File____Choose_a_file_location_and_press_the__Save_button____Import_the_resulting_file_": {
+      "message": "LastPass 로그인 정보를 내보내려면 LastPass 플러그인이 설치된 브라우저를 여세요. 그리고 LastPass - 도구 - 내보내기 - CSV 파일을 클릭하세요.  파일의 저장 위치를 지정 후에 저장 버튼을 누르세요.  저장된 파일을 가져오세요."
+   },
+   "_To_export__Password__Agent_logins__open_your__Password__Agent_database__and_click_on__File____Print_and__Export____Change_the_output_format_to__X_M_L__File__make_sure___Group__is_checked____Choose_a_file_location_and_press_the__Save_button____Import_the_resulting_file_": {
+      "message": "Password Agent의 로그인 정보을 내보내려면 Password Agent 데이터베이스를 열고 파일 - 인쇄와 내보내기 - 출력 형식을 XML 파일로 변경을 클릭하세요. '그룹'이 선택되었는지 잘 확인하세요.  파일 위치를 선택하고 저장 버튼을 누르세요.  결과 파일을 가져오세요."
+   },
+   "_To_export__Passwords__Max_passwords__click__File____Database____Export____Text____Click__O_K__and_save_a__C_S_V_file____Import_the_resulting_file_": {
+      "message": "Passwords Max 암호를 내보내려면 파일 - 데이터베이스 - 내보내기 - 텍스트를 클릭하세요.  확인을 클릭하고 CSV 파일을 저장하세요.  결과 파일을 가져오세요."
+   },
+   "_To_export__Robo_Form_logins__click_on__Robo_Form__Logins_____Print__List___Click_on_the__Full__U_R_L_check_box_and_press_the_save_button___Import_the_resulting_file____To_export__Robo_Form__Safe_Notes__click_on__Robo_Form__Safe_Notes__Print__List___Press_the_save_button___Import_the_resulting_file____To_export__Robo_Form__Identities__click_on__Robo_Form__Identities__Print__List___Press_the_save_button___Import_the_resulting_file_": {
+      "message": "RoboForm 로그인을 내보내려면 RoboForm-Logins...-Print List를 클릭하세요. Full URL 확인란을 클릭하고 save 버튼을 누르세요. 결과 파일을 가져오세요.\n\nRoboForm 안전한 메모를 내보내려면 RoboForm-SafeNotes-Print List를 클릭하고 저장 버튼을 누르세요. 결과 파일을 가져오세요.\n\nRoboForm ID를 내보내려면 RoboForm-Identities-Print List를 클릭하고 저장 버튼을 누르세요. 결과 파일을 가져오세요."
+   },
+   "_To_export_e_Wallet_cards__go_to_e_Wallet____Tools____Export___Save_as_a_text_file___Import_the_resulting_file_": {
+      "message": "eWallet 카드를 내보내려면 eWallet - 도구 - 내보내기로 가세요. 텍스트 파일로 저장하세요. 결과 파일을 가져오세요."
+   },
+   "_To_export_from__My_Password_Safe___Click_on__File____Save__As____Select_type_of__U_N_E_N_C_R_Y_P_T_E_D__X_M_L____Save_the_file____Import_the_resulting_file_": {
+      "message": "MyPasswordSafe로부터 내보내려면 파일 - 다른 이름으로 저장 - 암호화되지 않은 XML 형식 선택 - 파일 저장을 클릭하세요. 결과 파일을 가져오세요."
+   },
+   "_To_export_from__Password__Safe___Click_on__File____Export__To____X_M_L____Save_the_file____Import_the_resulting_file_": {
+      "message": "Password Safe에서 내보내려면 파일 - 내보내기 - XML을 클릭하세요.  결과 파일을 가져오세요."
+   },
+   "_To_export_passwords__login_to_the_desktop_application_and_go_to__File____Export____C_S_V____All__Entries____Import_the_resulting_file_": {
+      "message": "암호를 내보내려면 데스크톱 응용 프로그램에 로그인하고 파일 - 내보내기 - CSV - 모든 항목으로 가세요.  결과 파일을 가져오세요."
+   },
+   "_To_export_passwords_from__Darn___Passwords___click__Tools____Print____Click__Settings__and_check__Include__Notes_in__Export____Click__Print__and_click_the__Export_to__File_icon_that_looks_like_a_blue_disk____Name_the_file__and_click__Open____Import_the_resulting_file_": {
+      "message": "Darn! Passwords!에서 암호를 내보내려면 도구 - 출력을 클릭하세요. 설정을 클릭하고 내보내기에 메모 포함을 선택하세요.  출력을 클릭하고 파란 디스크 모양의 파일로 내보내기 아이콘을 클릭하세요.  파일 이름을 지정하고 열기를 클릭하세요.  결과 파일을 가져오세요."
+   },
+   "_To_export_passwords_from__Passpack___Login__go_to_the__Tools_screen__and_click__Export___Under___What__Type_of__Format__Would__You__Like__To__Export____Select___Comma__Separated__Values___and_on___Which__Entries__Would__You__Like__To__Export____Select___All_of_my_entries___then_hit___Continue____Select_all_of_the_text_in_the_text_box_on_the_next_screen__copy_it_to_the_clipboard__create_a_new_file_with_notepad_called_passpack_csv__paste_the_contents_into_this_file___Import_this_file_": {
+      "message": "Passpack에서 암호를 내보내려면 로그인하고 도구 화면으로 이동하고 내보내기를 클릭하세요. _어떤 파일 형식으로 내보내기합니까?_라는 질문에는 _쉼표로 구분된 값_을 선택하고 _어느 항목을 내보내기합니까?_라는 질문에는 _내 모든 항목_을 선택하세요. 그러고 나서 _계속_을 누르세요. 다음 화면에 나오는 텍스트 상자에 있는 모든 텍스트를 선택하고 클립보드에 복사하고 메모장으로 passpack.csv라는 이름으로 새 파일을 만들고 내용을 붙여넣기하세요. 이 파일을 가져오세요."
+   },
+   "_To_export_passwords_from__Password__Corral___Login__go_to_the__File____Export__Password____Create_a_plaintext_export_of_all_your_password____Import_this_file_": {
+      "message": "Password Corral에서 암호를 내보내려면 로그인하고 파일 - 암호 내보내기 - 모든 암호에 대해 평문 내보내기 파일 만들기를 클릭하세요.  이 파일을 가져오세요."
+   },
+   "_To_export_passwords_from__Password__Depot__click_on_the___Tools__tab_and_select___Export____Select_the___Extensible__Markup__Language_format____xml____specify_a_target_file_and_select_the_folder_you_want_to_export_": {
+      "message": "Password Depot에서 암호를 내보내려면 '도구' 탭을 클릭하고 '내보내기'를 선택하세요. '확장 마크업 언어 형식 (*. XML)'을 선택하고 대상 파일을 지정하고 내보낼 폴더를 선택하세요."
+   },
+   "_To_export_passwords_from__Password__Dragon___Login__go_to_the__File____Export____Text__File__make_sure_you_check___Password___it_defaults_off____Import_the_saved_file_": {
+      "message": "Password Dragon에서 암호를 내보내려면 로그인한 다음 File - Export - Text File로 이동하세요. 'Password'가 기본값으로 선택되어 있지 않으니 반드시 선택하세요.  저장된 파일을 가져오세요."
+   },
+   "_To_export_passwords_from__Revelation__Password__Manager__export_the_data_as__X_M_L_": {
+      "message": "Revelation Password Manager에서 암호를 내보내려면, 데이터를 XML 형식으로 내보내기하세요."
+   },
+   "_To_export_passwords_from__S_P_B__Wallet__open_the_wallet__click__File___Export__select_file_destination_in_the_dialog_box_and_click__Save___Then__paste_the_data_into_the_box_on_this_page_": {
+      "message": "SPB Wallet에서 암호를 내보내려면, 프로그램을 열고 File, Export를 클릭하고 대화 상자에서 파일 위치를 선택하고 Save를 누릅니다. 그러고 나서 저장한 데이터를 이 페이지의 상자에 붙여넣습니다."
+   },
+   "_To_get_started_with__Last_Pass__you_will_need_to_add_sites_to_your_account_": {
+      "message": "LastPass를 시작하려면 계정에 사이트를 추가해야 합니다."
+   },
+   "_To_import__Wi__Fi_passwords__simply_click__Import_below_": {
+      "message": "와이파이 암호를 가져오려면, 아래의 가져오기를 클릭하세요."
+   },
+   "_To_import_from__P_I_Ns__Password__Manager__Export_in__Tab__Separated_format____Then__import_the_resulting_file_": {
+      "message": "PINs Password Manager에서 가져오려면 탭으로 구분된 형식으로 내보내세요.  그러고 나서 결과 파일을 가져오세요."
+   },
+   "_To_import_passwords_from__Firefox__Password__Manager__simply_click__Import_below_": {
+      "message": "Firefox 암호 관리자에서 암호를 가져오려면, 아래의 가져오기를 클릭하세요."
+   },
+   "_To_import_passwords_from__Opera__Password__Manager__simply_click__Import_below_": {
+      "message": "Opera 암호 관리자에서 암호를 가져오려면, 아래의 가져오기를 클릭하세요."
+   },
+   "_To_import_passwords_from__Safari__Password__Manager__simply_click__Import_below_": {
+      "message": "Safari 암호 관리자에서 암호를 가져오려면, 아래의 가져오기를 클릭하세요."
+   },
+   "_To_import_your__M_S_I__Password_Keeper_logins__open_the_program____Click___Txt___and_then___Open_____Import_the_resulting_file_": {
+      "message": "MSI PasswordKeeper 로그인 정보를 가져오려면 프로그램을 열고 'Txt'를 클릭하고 '열기'를 클릭하세요.  결과 파일을 가져오세요."
+   },
+   "_To_import_your__Password__Keeper_logins__open_the_program__and_the_password_file_to_be_exported____Click__File____Export__File____Click__Yes__enter_your_password__and_click__O_K____This_opens_a_standard__Windows__Save_dialog__so_enter_a_file_name_and_location____Import_the_resulting_file_": {
+      "message": "Password Keeper의 로그인 정보를 가져오려면 프로그램과 내보낼 암호 파일을 여세요.  파일 - 파일 내보내기를 클릭하세요.  예를 클릭하고 당신의 암호를 입력하고 확인을 클릭하세요.  이러면 표준 Windows 저장 대화 상자가 열립니다. 파일 이름과 위치를 입력하세요.  결과 파일을 가져오세요."
+   },
+   "_To_import_your__Turbo_Passwords_logins__open_the_program__and_the_password_file_to_be_exported___If_you_want_to_restrict_the_export_to_a_particular_category_or_type__filter_the_entries_displayed_using_the__Category_and__Type_drop_downs_above_the_main_window___Click__File__Export__Category___This_opens_a_standard__Windows__Save_dialog__so_enter_a_file_name_and_location__and_select__Comma__Separated__Values___csv__from_the__Save_as__Type_box_": {
+      "message": "TurboPasswords 로그인 정보를 가져오려면 프로그램과 내보낼 암호 파일을 여세요. 특정 카테고리나 형식만 내보내려면 메인 창 위의 카테고리와 형식 드롭다운을 사용해 표시된 항목을 필터링하세요. 파일|카테고리 내보내기를 클릭하세요. 이러면 표준 윈도우 저장 대화 상자가 열립니다. 파일 이름과 위치를 입력하고 파일 형식에서 쉼표로 구분된 값(.csv)을 선택하세요."
+   },
+   "_To_prevent_access_to_all_mobile_devices_except_those_checked_above__click_below_": {
+      "message": "위에 표시된 것을 제외한 모든 모바일 장치에 대한 액세스를 차단하려면 아래를 클릭하십시오."
+   },
+   "_To_protect_your_privacy_and_keep_your_data_confidential_": {
+      "message": "저희는 프라이버시를 보호하고 데이터를 안전하게 보관하기 위해"
+   },
+   "_To_protect_your_privacy_and_keep_your_data_confidential___Last_Pass_does_not_know_or_store_your__Master__Password_": {
+      "message": "프라이버시를 보호하고 데이터를 안전하게 보관하기 위해 LastPass는 당신의 마스터 암호를 알거나 저장하지 않습니다."
+   },
+   "_To_switch_between__Last_Pass_3_0_and_4_0__simply_move_the_toggle_in_the_vault_under_your_profile_dropdown_menu___Note_that_we_will_be_phasing_out_the_old_vault_completely_in_the_future__and_will_update_you_with_the_final_date_when_we_do_": {
+      "message": "LastPass 3.0과 4.0 사이를 전환하려면 프로필 아래의 볼트에서 토글을 이동하십시오."
+   },
+   "_Togo": {
+      "message": "토고"
+   },
+   "_Tokelau": {
+      "message": "토켈라우"
+   },
+   "_Tonga": {
+      "message": "통가"
+   },
+   "_Tools": {
+      "message": "도구"
+   },
+   "_Toopher": {
+      "message": "Toopher"
+   },
+   "_Tor__Networks": {
+      "message": "Tor 네트워크"
+   },
+   "_Track__History": {
+      "message": "기록 추적"
+   },
+   "_Transakt": {
+      "message": "Transakt"
+   },
+   "_Travel": {
+      "message": "여행"
+   },
+   "_Trinidad_and__Tobago": {
+      "message": "트리니다드 토바고"
+   },
+   "_Trusted__Devices": {
+      "message": "신뢰할 수 있는 장치"
+   },
+   "_Try__Again": {
+      "message": "재시도"
+   },
+   "_Try__Last_Pass__Enterprise": {
+      "message": "LastPass Enterprise 평가판 사용"
+   },
+   "_Tunisia": {
+      "message": "튀니지"
+   },
+   "_Turbo_Passwords": {
+      "message": "TurboPasswords"
+   },
+   "_Turkey": {
+      "message": "터키"
+   },
+   "_Turkmenistan": {
+      "message": "투르크메니스탄"
+   },
+   "_Turks_and__Caicos__Islands": {
+      "message": "터크스 케이커스 제도"
+   },
+   "_Tutorials": {
+      "message": "자습서"
+   },
+   "_Tuvalu": {
+      "message": "투발루"
+   },
+   "_Type": {
+      "message": "유형"
+   },
+   "_Type_": {
+      "message": "유형:"
+   },
+   "_U_R_L": {
+      "message": "URL"
+   },
+   "_U_R_L_": {
+      "message": "URL:"
+   },
+   "_U_S_B_device_that_generates_one_time_verification_codes_": {
+      "message": "1회용 인증 코드를 생성하는 USB 장치."
+   },
+   "_U_S_E_R_N_A_M_E": {
+      "message": "사용자 이름"
+   },
+   "_Uganda": {
+      "message": "우간다"
+   },
+   "_Ukraine": {
+      "message": "우크라이나"
+   },
+   "_Ulaan__Bataar___Perth": {
+      "message": "울란바토르, 퍼스"
+   },
+   "_Unable_to_proceed__the_website_does_not_allow_automated_password_change_": {
+      "message": "계속할 수 없음. 웹 사이트가 자동화된 암호 변경을 허용하지 않습니다."
+   },
+   "_Unavailable__Items": {
+      "message": "사용할 수없는 항목"
+   },
+   "_Unexpected_data_type__": {
+      "message": "예기치 않은 데이터 유형:"
+   },
+   "_United__Arab__Emirates": {
+      "message": "아랍에미리트"
+   },
+   "_United__Kingdom": {
+      "message": "영국"
+   },
+   "_United__States": {
+      "message": "미국"
+   },
+   "_United__States__Minor__Outlying__Islands": {
+      "message": "미국령 소군도"
+   },
+   "_Unknown": {
+      "message": "알 수 없는"
+   },
+   "_Unlink__Personal__Account": {
+      "message": "개인 계정 연결 해제"
+   },
+   "_Unselect__All": {
+      "message": "모두 선택 안 함"
+   },
+   "_Up": {
+      "message": "↑"
+   },
+   "_Upgrade_to__Last_Pass__Online_": {
+      "message": "LastPass 온라인으로 업그레이드!"
+   },
+   "_Upgrade_to__Premium": {
+      "message": "프리미엄으로 업그레이드"
+   },
+   "_Upgrade_to__Premium__Credit__Monitoring": {
+      "message": "프리미엄 신용 감시로 업그레이드"
+   },
+   "_Uploading__Data___": {
+      "message": "데이터 업로드 중..."
+   },
+   "_Uruguay": {
+      "message": "우루과이"
+   },
+   "_Use": {
+      "message": "사용"
+   },
+   "_Use_802_1_X": {
+      "message": "802.1X 사용"
+   },
+   "_Use__Password": {
+      "message": "암호 사용"
+   },
+   "_Use__Special__Characters": {
+      "message": "특수 문자 사용"
+   },
+   "_Use__Special__Characters_": {
+      "message": "특수 문자 사용?"
+   },
+   "_Use_the__Security__Challenge_to_see_other_affected_sites": {
+      "message": "보안 문제를 사용하여 다른 영향을받는 사이트보기"
+   },
+   "_Use_this_password_now__for_this_site__": {
+      "message": "(이 사이트에 대해) 이 암호를 지금 사용합니까?"
+   },
+   "_User": {
+      "message": "사용자"
+   },
+   "_User__Group": {
+      "message": "사용자 그룹"
+   },
+   "_User__Manual": {
+      "message": "사용자 설명서"
+   },
+   "_User_name": {
+      "message": "사용자 이름"
+   },
+   "_Username_": {
+      "message": "사용자 이름:"
+   },
+   "_Username__History": {
+      "message": "사용자 이름 기록"
+   },
+   "_Usernameproper": {
+      "message": "사용자 이름"
+   },
+   "_Uzbekistan": {
+      "message": "우즈베키스탄"
+   },
+   "_Value": {
+      "message": "값"
+   },
+   "_Value_to_fill": {
+      "message": "입력할 값"
+   },
+   "_Vanuatu": {
+      "message": "바누아투"
+   },
+   "_Vault": {
+      "message": "저장소"
+   },
+   "_Vault__Tour": {
+      "message": "자격 증명 모음 둘러보기"
+   },
+   "_Venezuela": {
+      "message": "베네수엘라"
+   },
+   "_Version": {
+      "message": "버전"
+   },
+   "_Version_": {
+      "message": "버전:"
+   },
+   "_Viet__Nam": {
+      "message": "베트남"
+   },
+   "_View__Deleted__Shared__Folders": {
+      "message": "삭제된 공유 폴더 보기"
+   },
+   "_View__History": {
+      "message": "기록 보기"
+   },
+   "_View__Image": {
+      "message": "이미지 보기"
+   },
+   "_View__Passwords": {
+      "message": "암호 보기"
+   },
+   "_Virgin__Islands___British_": {
+      "message": "버진 제도 (영국령)"
+   },
+   "_Virgin__Islands___U__S__": {
+      "message": "버진 제도 (미국령)"
+   },
+   "_Wallis_and__Futuna": {
+      "message": "월리스 푸투나"
+   },
+   "_Warn_before_filling_insecure_forms": {
+      "message": "안전하지 않은 양식을 채우기 전에 경고"
+   },
+   "_Watch_a_video_on_basic_usage": {
+      "message": "기본적인 사용법을 동영상으로 보기"
+   },
+   "_We_also__D_O__N_O_T_keep_a_copy_or_backup_of_it_": {
+      "message": "저희는 암호의 사본이나 백업본 또한 가지고 있지 않습니다."
+   },
+   "_We_have_detected_that_you_have_not_yet_granted__Last_Pass_permission_to_access_native_messaging____Native_messaging_is_required_to_provide_extra_features_such_as_sharing_of_login_state_with_other_browsers__fingerprint_authentication__importing__exporting__and_attachments_": {
+      "message": "LastPass가 네이티브 메시징에 접근할 수 있도록 허가받지 않았다는 사실을 감지했습니다. 네이티브 메시징은 다른 브라우저와 로그인 상태 공유, 지문 인식, 가져오기, 내보내기, 첨부하기 등의 추가 기능을 제공하기 위해 필요합니다."
+   },
+   "_We_re_sorry___We_were_not_able_to_change_your_password_automatically_for__s___Your_password_was_not_changed_": {
+      "message": "죄송합니다. 자동으로 %s에 대한 당신의 암호를 변경할 수 없었습니다. 당신의 암호가 변경되지 않았습니다."
+   },
+   "_Weak__Password": {
+      "message": "취약한 암호"
+   },
+   "_Website": {
+      "message": "웹 사이트"
+   },
+   "_Website__Auto__Logoff": {
+      "message": "웹 사이트 자동 로그오프"
+   },
+   "_Website_password_changed": {
+      "message": "비밀번호가 변경됐습니다"
+   },
+   "_Website_username_changed": {
+      "message": "username 이 변경됐습니다"
+   },
+   "_Welcome_back_to__Last_Pass_": {
+      "message": "LastPass에 돌아온 것을 환영합니다."
+   },
+   "_Welcome_back_to__Last___Pass_": {
+      "message": "Last  Pass에 돌아온 것을 환영합니다."
+   },
+   "_Welcome_to__Last_Pass_": {
+      "message": "LastPass에 오신 것을 환영합니다!"
+   },
+   "_Welcome_to__Last_Pass_4_0": {
+      "message": "LastPass 4.0 에 오신걸 환영합니다"
+   },
+   "_West__Central__Africa": {
+      "message": "서쪽 중앙 아프리카"
+   },
+   "_Western__Sahara": {
+      "message": "서부 사하라"
+   },
+   "_What_is_an__Identity_": {
+      "message": "신원이란 무엇입니까?"
+   },
+   "_What_you_use_to_log_into_this_website_": {
+      "message": "이 웹 사이트에 로그인하기 위해 사용하는 것."
+   },
+   "_When_this_box_is_checked__at_least_one_lower_case_character__one_upper_case_character__and_one_special_character_will_be_used": {
+      "message": "이 상자를 선택하면 소문자, 대문자, 특수 문자를 각각 1개 이상 사용합니다"
+   },
+   "_When_this_box_is_checked__at_least_one_lower_case_character__one_upper_case_character__and_one_special_character_will_be_used_": {
+      "message": "이 상자를 선택하면 소문자, 대문자, 특수 문자를 각각 1개 이상 사용합니다."
+   },
+   "_When_this_box_is_checked__characters_like___and___will_be_used_when_randomly_generating_a_password_": {
+      "message": "이 상자를 선택하면 임의로 암호를 만들 때 #과 !같은 문자를 사용합니다."
+   },
+   "_When_this_box_is_checked__confusing_characters__1__I__L_0__O__are_not_used_": {
+      "message": "이 상자를 선택하면 헷갈리는 문자(1, I, L, 0, O)를 사용하지 않습니다."
+   },
+   "_When_this_box_is_checked__generate_a_password_that_is_easy_to_pronounce": {
+      "message": "이 상자를 선택하면 발음하기 쉬운 암호를 만듭니다"
+   },
+   "_When_this_box_is_checked__generate_a_password_that_is_easy_to_pronounce_": {
+      "message": "이 상자를 선택하면 발음하기 쉬운 암호를 만듭니다."
+   },
+   "_When_this_box_is_checked__potentially_confusing_characters__1__I__L_0__O__are_not_used": {
+      "message": "이 상자를 선택하면 헷갈릴 가능성이 있는 문자(1, I, L, 0, O)를 사용하지 않습니다"
+   },
+   "_When_this_box_is_checked__use_characters_like___and___in_the_password": {
+      "message": "이 상자를 선택하면 #과 ! 같은 문자를 암호에 사용합니다"
+   },
+   "_When_this_button_is_selected__at_least_one_lower_case_character__one_upper_case_character__and_one_special_character_will_be_used_": {
+      "message": "이 버튼을 선택하면 적어도 1개의 소문자, 1개의 대문자, 1개의 특수문자가 사용됩니다."
+   },
+   "_When_this_button_is_selected__generate_a_password_that_is_easy_to_pronounce_": {
+      "message": "이 버튼을 선택하면 발음하기 쉬운 암호를 만듭니다."
+   },
+   "_Wi__Fi__Password": {
+      "message": "Wi-Fi 암호"
+   },
+   "_Wi__Fi__Passwords": {
+      "message": "와이파이 암호"
+   },
+   "_Windows": {
+      "message": "새 창"
+   },
+   "_Would_you_like__Last_Pass_to_generate_a_secure_password_for_you_": {
+      "message": "LastPass가 당신에게 안전한 암호를 생성하도록 하시겠습니까?"
+   },
+   "_Would_you_like__Last_Pass_to_save_your_site_information_": {
+      "message": "LastPass가 사이트 정보를 저장하도록 하시겠습니까?"
+   },
+   "_Would_you_like_to_make_a_copy_": {
+      "message": "복사본을 만드시길 원하십니까?"
+   },
+   "_Would_you_like_to_set_up_a__Form__Filling_profile_now_": {
+      "message": "지금 프로필 양식을 설정하시겠습니까?"
+   },
+   "_X_M_L__Files": {
+      "message": "XML 파일"
+   },
+   "_Xmarks_promotions_and_giveaways": {
+      "message": "Xmarks 프로모션 및 경품"
+   },
+   "_Yangon___Rangoon_": {
+      "message": "양곤(랑군)"
+   },
+   "_Yemen": {
+      "message": "예멘"
+   },
+   "_Yes": {
+      "message": "예"
+   },
+   "_Yes___Use_for_this__Site": {
+      "message": "예, 이 사이트에 대해 사용"
+   },
+   "_Yes__let_me_choose_which_items__I_want_imported_into__Last_Pass": {
+      "message": "예, LastPass로 가져올 항목을 선택하겠습니다"
+   },
+   "_Yes__let_me_enter_and_review_data_that_will_be_used_when_filling_forms": {
+      "message": "예, 양식을 채울 때 사용할 데이터를 입력하겠습니다"
+   },
+   "_You_are_about_to_convert_this_personal_folder_into_a__Shared__Folder_": {
+      "message": "당신은 이 개인 폴더를 공유 폴더로 변환하려고 합니다."
+   },
+   "_You_are_moving_items_from_a_shared_folder_into_your_vault___Others_may_lose_access_to_them_": {
+      "message": "항목을 공유 폴더에서 저장소로 옮기고 있습니다. 이러면 다른 사람들이 접근 권한을 잃을 수 있습니다."
+   },
+   "_You_are_moving_items_to_a_different_shared_folder___This_may_change_who_has_access_to_them_": {
+      "message": "항목을 다른 공유 폴더로 이동하고 있습니다. 이로 인해 누구에게 액세스 권한이 변경 될 수 있습니다."
+   },
+   "_You_are_moving_sites_from_a_shared_folder_into_your_general_vault___This_will_potentially_make_them_unavailable_to_others_____Do_you_want_to_continue_": {
+      "message": "공유 폴더에서 일반 저장소로 사이트를 이동하고 있습니다. 이 경우 다른 사람이 잠재적으로 액세스할 수 없도록 합니다.\n\n 계속합니까?"
+   },
+   "_You_are_moving_sites_to_a_different_shared_folder___This_may_change_who_has_access_to_the_sites_____Do_you_want_to_continue_": {
+      "message": "다른 공유 폴더로 사이트를 이동하고 있습니다. 이 경우 다른 사람이 경우 액세스할 수 있는 사용자가 변경될 수 있습니다.\n\n 계속합니까?"
+   },
+   "_You_are_moving_sites_to_a_shared_folder___Others_may_now_have_access_to_them_": {
+      "message": "사이트를 공유 폴더로 이동하고 있습니다. 다른 사람들은 이제 그들에게 접근 할 수 있습니다."
+   },
+   "_You_are_moving_sites_to_a_shared_folder___This_will_potentially_make_them_available_to_others____Are_you_sure_you_would_like_to_continue_": {
+      "message": "공유 폴더로 사이트를 이동하고 있습니다. 이 경우 다른 사람이 사이트에 잠재적으로 액세스할 수 있도록 합니다.\n\n계속합니까?"
+   },
+   "_You_cannot_assign_more_than_one__Hot_Key_the_same_value_": {
+      "message": "동일한 값에 두 개 이상의 단축키를 지정할 수 없습니다."
+   },
+   "_You_cannot_move_individually_shared_sites_into_a_shared_folder_": {
+      "message": "공유 폴더에 개별적으로 공유 사이트를 이동할 수 없습니다."
+   },
+   "_You_currently_have__Last_Pass_set_to_remember_your_password____Doing_so_essentially_makes_the_automatically_log_out_options_you_ve_chosen_useless____Would_you_like__Last_Pass_to_stop_remembering_your_password_": {
+      "message": "당신은 현재 LastPass가 당신의 암호를 기억하도록 설정했습니다.  이렇게 할 경우 본질적으로 이전에 설정한 자동으로 로그아웃 옵션이 무용지물이 됩니다.  LastPass가 암호를 기억하지 않도록 합니까?"
+   },
+   "_You_currently_have__Last_Pass_set_to_remember_your_password____Doing_so_essentially_makes_the_automatically_logoff_options_you_ve_chosen_useless____Would_you_like__Last_Pass_to_stop_remembering_your_password_": {
+      "message": "당신은 현재 LastPass가 당신의 암호를 기억하도록 설정했습니다. 이렇게 할 경우 본질적으로 이전에 설정한 자동으로 로그오프 옵션이 무용지물이 됩니다.  LastPass가 암호를 기억하지 않도록 합니까?"
+   },
+   "_You_currently_have_no_mobile_devices_defined_": {
+      "message": "현재 모바일 장치가 정의되어 있지 않습니다."
+   },
+   "_You_currently_have_no_trusted_devices_defined_": {
+      "message": "현재 신뢰할 수있는 기기가 정의되지 않았습니다."
+   },
+   "_You_have_no_alerts_at_this_time_": {
+      "message": "현재 알림이 없습니다."
+   },
+   "_You_have_not_enabled_credit_monitoring_for_any_profiles_": {
+      "message": "프로필에 대한 신용 모니터링을 활성화하지 않았습니다."
+   },
+   "_You_have_not_yet_chosen_a_default_form_fill_profile____Would_you_like_to_choose_one_now_": {
+      "message": "기본 프로필 양식을 선택하지 않았습니다. 지금 선택하시겠습니까?"
+   },
+   "_You_have_saved_your_password_to_your__Last_Pass__Vault_": {
+      "message": "LastPass 저장소에 암호를 저장했습니다."
+   },
+   "_You_may_also_be_blocking_all_cookies__which_causes__Chrome_to_disallow__H_T_M_L5_database_access_": {
+      "message": "사용자가 쿠키를 모두 차단하여 Chrome의 HTML5 데이터베이스 액세스를 차단했을 수도 있습니다."
+   },
+   "_You_may_change_your__Master__Password_through_the__Last_Pass_website_by_clicking_the_button_below__or_turn_off__Master__Password_security_alerts_using_the_links_at_the_bottom_of_this_page_": {
+      "message": "아래의 버튼을 클릭하여 LastPass 웹 사이트를 통해 마스터 암호를 변경하거나 이 페이지의 하단에 있는 링크를 사용하여 마스터 암호 보안 경고를 해제할 수 있습니다."
+   },
+   "_You_may_change_your__Master__Password_using_this_form__or_turn_off__Master__Password_security_alerts_using_the_links_below_the_form_": {
+      "message": "이 양식을 사용해 마스터 암호를 변경하거나 양식 아래의 링크를 사용해 마스터 암호 보안 경고를 끌 수 있습니다."
+   },
+   "_You_must_agree_to_send_your_encrypted_data_to__Last_Pass_com____Last_Pass_com_encrypts_your_data_and_sends_it_to_its_secure_servers___No_one_at__Last_Pass_can_read_your_confidential_data_since_it_is_encrypted_using_your_secret_password_and_you_are_the_only_one_who_knows_your_password_": {
+      "message": "당신의 암호화된 데이터를 LastPass.com으로 보내는 것에 동의해야 합니다.\n\nLastPass.com에서는 당신의 데이터를 암호화하고 안전한 서버로 보냅니다.\n당신의 민감한 데이터는 당신의 암호를 사용해 암호화되며 그 암호는\n당신만 알기 때문에 LastPass의 그 누구도 데이터를 읽을 수 없습니다."
+   },
+   "_You_must_agree_to_send_your_encrypted_data_to__Last_Pass_in_order_to_use_our_product___Your_data_is_encrypted_before_it_is_sent_to_our_secure_servers___No_one_at__Last_Pass_can_read_your_confidential_data__because_this_data_is_encrypted_using_your_secret__Master__Password__and_you_should_be_the_only_person_who_knows_your_password_": {
+      "message": "저희 제품을 사용하려면 당신은 당신의 암호화된 데이터를 LastPass로 보내는 것에 동의해야 합니다.\n당신의 데이터는 저희 안전한 서버로 보내기 전에 암호화됩니다. 이 데이터는 당신의 비밀 마스터 암호를 사용해 암호화되고, 당신의 암호를 아는 사람은 당신이 유일하기 때문에, LastPass의 그 누구도 당신의 기밀 데이터를 읽을 수 없습니다."
+   },
+   "_You_must_agree_to_the__Terms_and__Conditions_in_order_to_continue": {
+      "message": "계속하려면 이용 약관에 동의해야 합니다"
+   },
+   "_You_must_agree_to_the_terms_to_continue": {
+      "message": "계속하려면 약관에 동의해야 합니다"
+   },
+   "_You_must_enter_a_name_": {
+      "message": "이름을 입력해야 합니다."
+   },
+   "_You_must_enter_a_unique_name_": {
+      "message": "고유한 이름을 입력해야 합니다."
+   },
+   "_You_must_restart__Chrome_or_logoff_and_back_in_to_get___Logoff_on__Browser__Close__changes_to_take_effect": {
+      "message": "'브라우저 종료시 로그 오프'변경 사항을 적용하려면 Chrome을 다시 시작하거나 다시 로그인해야합니다."
+   },
+   "_You_must_restart__Chrome_or_logoff_and_back_in_to_get_logoff_on_browser_close_changes_to_be_reflected": {
+      "message": "최근 변경 사항을 적용하려면 브라우저에서 로그오프 하기 위해 Chrome을 다시 시작하거나 로그오프한 뒤 다시 로그인해야 합니다"
+   },
+   "_You_must_restart_your_browser_before_all_of_the_changes_will_take_effect_": {
+      "message": "모든 변경 사항을 적용하기 전에 브라우저를 다시 시작해야 합니다."
+   },
+   "_You_re__All__Set_": {
+      "message": "모든 준비를 마쳤습니다!"
+   },
+   "_You_will_be_able_to_use_your__Last_Pass_account_to_always_keep_your_passwords_handy_and_secure_on_any_of_the_computers_or_devices_you_use___Now_let_s_get_started_": {
+      "message": "당신은 당신의 패스워드를 손쉽게 저장하고, 어느 컴퓨터 혹은 장치에서든 안전하게 보관하려면 LastPass 계정을 사용해야 합니다. 이제 시작해 보십시오!"
+   },
+   "_Your_4_digit_birth_year": {
+      "message": "생일 연도 4자리"
+   },
+   "_Your__Google__Chrome_passwords_have_been_imported_successfully_": {
+      "message": "Google Chrome 암호를 성공적으로 가져왔습니다."
+   },
+   "_Your__Password__Reminder_can_not_be_the_same_as_your_chosen__Master__Password_for_security_reasons___Please_edit_your__Reminder_so_that_it_does_not_contain_your__Master__Password_": {
+      "message": "당신의 암호 힌트는 보안상의 이유로 당신의 마스터 암호와 동일할 수 없습니다. 마스터 암호가 포함되지 않도록 암호 힌트를 편집해 주세요."
+   },
+   "_Your__Shared__Folder_action_failed_": {
+      "message": "당신의 공유 폴더 작업을 하지 못했습니다."
+   },
+   "_Your__Shared__Folder_action_failed___Please_check_your_permissions_before_trying_again": {
+      "message": "당신의 공유 폴더 작업 실패. 다시 시도하기 전에 당신의 권한을 확인해 주세요"
+   },
+   "_Your__Z_I_P_or_postal_code": {
+      "message": "집 코드나 포스틀 코드"
+   },
+   "_Your_address_information": {
+      "message": "주소 정보"
+   },
+   "_Your_attachment_is_located_at_": {
+      "message": "첨부 파일은 다음에 위치합니다:"
+   },
+   "_Your_bank_account_information": {
+      "message": "은행 계좌 정보"
+   },
+   "_Your_bank_account_number___This_number_can_typically_be_found_to_the_right_of_the_routing_number_on_your_personal_checks_": {
+      "message": "은행 계좌 번호.\n일반적으로 개인 수표의 라우팅 넘버의 오른쪽에 있습니다."
+   },
+   "_Your_bank_s_routing_number___This_9_digit_number_can_typically_be_found_on_your_personal_checks_in_the_bottom_left_corner_": {
+      "message": "은행의 라우팅 넘버.\n일반적으로 개인 수표의 좌측 하단에 있는 9자리 숫자입니다."
+   },
+   "_Your_birth_day": {
+      "message": "생일 (일)"
+   },
+   "_Your_birth_month": {
+      "message": "생일 (월)"
+   },
+   "_Your_city_name": {
+      "message": "도시명"
+   },
+   "_Your_company_s_name": {
+      "message": "회사명"
+   },
+   "_Your_contact_information": {
+      "message": "연락처 정보"
+   },
+   "_Your_country_name": {
+      "message": "국가명"
+   },
+   "_Your_county_name": {
+      "message": "카운티명"
+   },
+   "_Your_credit_card_information": {
+      "message": "신용카드 정보"
+   },
+   "_Your_current_settings_require_you_to_enter_your__Last_Pass_password_to_complete_this_action_": {
+      "message": "당신의 현재 설정에 따라 이 작업을 완료하려면 LastPass 암호 입력이 필요합니다."
+   },
+   "_Your_data_has_been_exported_to": {
+      "message": "데이터를 가져왔습니다"
+   },
+   "_Your_email_address": {
+      "message": "이메일 주소"
+   },
+   "_Your_first_name": {
+      "message": "이름"
+   },
+   "_Your_government__I_D_number": {
+      "message": "주민 등록 번호"
+   },
+   "_Your_last_name": {
+      "message": "성(姓)"
+   },
+   "_Your_middle_name": {
+      "message": "가운데 이름"
+   },
+   "_Your_password_can_not_be_the_same_as_your_email_": {
+      "message": "암호는 전자 메일과 동일할 수 없습니다."
+   },
+   "_Your_password_is_easily_guessable_": {
+      "message": "너무 쉽게 추측할 수 있는 암호입니다."
+   },
+   "_Your_password_is_easily_guessable__avoid_simple_runs_of_characters__or_variations_of__password__or__lastpass__": {
+      "message": "너무 쉽게 추측할 수 있는 암호입니다. 단순 글자의 반복이나 'password'나 'lastpass'를 변형한 암호를 만들지 마세요."
+   },
+   "_Your_password_is_too_short___It_must_be_at_least_6_characters_long": {
+      "message": "암호가 너무 짧습니다. 최소 6자 이상이여야 합니다"
+   },
+   "_Your_password_is_too_short___It_must_be_at_least_8_characters_long": {
+      "message": "암호가 너무 짧습니다. 최소 8자 이상이어야 합니다"
+   },
+   "_Your_password_reminder_serves_to_remind_you_of_what_your": {
+      "message": "암호 힌트는 암호를 직접 공개하지는 않지만"
+   },
+   "_Your_passwords_did_not_match_": {
+      "message": "암호가 일치하지 않습니다."
+   },
+   "_Your_personal_information": {
+      "message": "개인 정보"
+   },
+   "_Your_phone_number": {
+      "message": "전화번호"
+   },
+   "_Your_phone_number_extension": {
+      "message": "전화 내선 번호"
+   },
+   "_Your_prefix_or_title": {
+      "message": "호칭"
+   },
+   "_Your_selected__Identity_no_longer_exists___Defaulting_to___All__and_logging_off_": {
+      "message": "선택한 ID가 더 이상 존재하지 않습니다. '모두'로 기본값을 설정하고 로그오프합니다."
+   },
+   "_Your_sex": {
+      "message": "성별"
+   },
+   "_Your_state_or_province_name": {
+      "message": "도명 / 주명"
+   },
+   "_Your_street_address": {
+      "message": "주소"
+   },
+   "_Your_time_zone": {
+      "message": "시간대"
+   },
+   "_Your_trust_token_has_expired_": {
+      "message": "신뢰 토큰이 만료되었습니다."
+   },
+   "_Your_username_when_signing_into__Web_sites": {
+      "message": "웹사이트에 로그인하는 사용자 이름"
+   },
+   "_Yubi_Key": {
+      "message": "Yubikey"
+   },
+   "_Yubi_Key__Multifactor__Authentication": {
+      "message": "YubiKey 다중요소 인증"
+   },
+   "_Yugoslavia": {
+      "message": "유고슬라비아"
+   },
+   "_Z_I_P____Postal__Code": {
+      "message": "우편번호"
+   },
+   "_Z_I_P____Postal_code": {
+      "message": "집 / 포스틀 코드"
+   },
+   "_Zambia": {
+      "message": "잠비아"
+   },
+   "_Zimbabwe": {
+      "message": "짐바브웨"
+   },
+   "__Chrome__Only__Toolstrip_": {
+      "message": "[Chrome의 도구 모음 아이콘을 통해]"
+   },
+   "__Hide_": {
+      "message": "[숨기기]"
+   },
+   "__History_": {
+      "message": "[기록]"
+   },
+   "__New__Pending__Share__Offers_": {
+      "message": "(새 대기 중인 공유 신청 있음)"
+   },
+   "__Not_applicable_when_the__Pronounceable_box_is_checked__": {
+      "message": "(발음할 수 있게를 선택하면 적용되지 않음)."
+   },
+   "__Optional_": {
+      "message": "(선택 사항)"
+   },
+   "__Show_": {
+      "message": "[표시]"
+   },
+   "_domain_": {
+      "message": "(도메인)"
+   },
+   "_none_": {
+      "message": "(없음)"
+   },
+   "_s__Password__One__Click__Change": {
+      "message": "%s 한번 클릭으로 암호 변경"
+   },
+   "_s_will_now_attempt_to_change_your_password_to_a_strong__generated_password_that_will_be_saved_in_your_vault_and_known_only_to_you_": {
+      "message": "%s이(가) 당신의 암호를 강력하고, 당신의 저장소에 저장되고 당신만 알 수 있도록 생성된 암호로 변경하려고 시도했습니다."
+   },
+   "_unknown_": {
+      "message": "[알 수 없는]"
+   },
+   "a_zlower": {
+      "message": "a-z"
+   },
+   "actual_password_is__while_still_maintaining_its_secrecy_": {
+      "message": "암호가 무엇인지 생각해낼 수 있도록 해줍니다."
+   },
+   "ago": {
+      "message": "전"
+   },
+   "and": {
+      "message": "그리고"
+   },
+   "app_Desc": {
+      "message": "LastPass는 당신의 암호를 저장하고 모든 컴퓨터와 모바일 장치에서 액세스할 수 있게 합니다. 수상 경력이 있는 암호 관리자입니다."
+   },
+   "app_Name": {
+      "message": "무료 암호 관리자"
+   },
+   "built": {
+      "message": "빌드됨"
+   },
+   "contact_us_and_we_will_email_you_your_password_reminder_": {
+      "message": "저희에게 연락하면 암호 힌트를 당신에게 이메일으로 보내드립니다."
+   },
+   "ctypes": {
+      "message": "유형"
+   },
+   "day": {
+      "message": "일"
+   },
+   "days": {
+      "message": "일"
+   },
+   "delete_items_from": {
+      "message": "에서 항목 삭제"
+   },
+   "dummy": {
+      "message": "dummy, leave this here so we don't mess up the trailing comma"
+   },
+   "ext_": {
+      "message": "내선"
+   },
+   "false": {
+      "message": "아니요"
+   },
+   "favorites": {
+      "message": "즐겨찾기"
+   },
+   "hour": {
+      "message": "시간"
+   },
+   "hours": {
+      "message": "시간"
+   },
+   "just_now": {
+      "message": "방금"
+   },
+   "minute": {
+      "message": "분"
+   },
+   "minutes": {
+      "message": "분"
+   },
+   "month": {
+      "message": "월 "
+   },
+   "months": {
+      "message": "개월"
+   },
+   "move_items_from": {
+      "message": "에서 항목 옮기기"
+   },
+   "move_items_to": {
+      "message": "으로 항목 옮기기"
+   },
+   "privacy_statement": {
+      "message": "개인 정보 보호 정책"
+   },
+   "recently_usedlower": {
+      "message": "최근에 사용한 항목"
+   },
+   "search": {
+      "message": "검색"
+   },
+   "search_my_deleted_items": {
+      "message": "삭제된 항목 검색"
+   },
+   "search_my_identities": {
+      "message": "신원 검색"
+   },
+   "search_my_received_shares": {
+      "message": "내가 받은 공유 검색"
+   },
+   "search_my_shared_folders": {
+      "message": "공유 폴더 검색"
+   },
+   "second": {
+      "message": "초"
+   },
+   "seconds": {
+      "message": "초"
+   },
+   "send_more": {
+      "message": "더 보내기"
+   },
+   "shared": {
+      "message": "공유됨"
+   },
+   "shared_with_you": {
+      "message": "나와 공유 함"
+   },
+   "terms_of_service": {
+      "message": "서비스 약관"
+   },
+   "the_current_tab": {
+      "message": "현재 탭"
+   },
+   "the_selected_items": {
+      "message": "선택된 항목"
+   },
+   "this__Folder_s_items": {
+      "message": "이 폴더의 항목"
+   },
+   "true": {
+      "message": "참"
+   },
+   "we__D_O__N_O_T_know_what_your__Last_Pass_password_is_": {
+      "message": "당신의 LastPass 암호에 대해 전혀 아는 바가 없습니다."
+   },
+   "week": {
+      "message": "주"
+   },
+   "weeks": {
+      "message": "주"
+   },
+   "year": {
+      "message": "년"
+   },
+   "years": {
+      "message": "년"
+   }
+}

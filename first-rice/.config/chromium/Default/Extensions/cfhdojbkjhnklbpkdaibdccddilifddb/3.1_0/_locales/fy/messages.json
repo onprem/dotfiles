@@ -1,0 +1,174 @@
+{
+   "add": {
+      "message": "Tafoegje"
+   },
+   "cancel": {
+      "message": "Annulearje"
+   },
+   "continue": {
+      "message": "Trochgean"
+   },
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers."
+   },
+   "filter_invalid_regexp": {
+      "message": "Unjildige reguliere ekspresje"
+   },
+   "filter_unknown_option": {
+      "message": "Unbekende filteropsje"
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "Mislearre, ynlaadprobleem"
+   },
+   "firstRun_acceptableAdsExplanation": {
+      "message": "Wy wolle graach dat websiden simpele net skreauwende advertinsjes brûke. Derom hawwe wy \u003Ca>stringe regels\u003C/a> om akseptabele advertinsjes te werkennen.  Dit stiet ûnder standert settings. Ast noch steeds alle advertinsjes blokkeare wolst, dan kist dat \u003Ca>Út sette\u003C/a> yn in pear sekonden."
+   },
+   "firstRun_acceptableAdsHeadline": {
+      "message": "ferfelende advertinsjes wurde no tsjin hâlden"
+   },
+   "firstRun_contributor_credits": {
+      "message": "Meiwurker Nammen"
+   },
+   "firstRun_donate": {
+      "message": "Donneare"
+   },
+   "firstRun_donate_label": {
+      "message": "Support ús projekt"
+   },
+   "firstRun_filterlistsReinitializedWarning": {
+      "message": "It liket der op dat der in probleem wie wer troch alle filters fuorthelle wurden en it ûnmooglik wie om in backup werom te setten. Hjirfoar hawwe wie jo filters en Akseptabele Advertinsjes opnij ynstelt.  Kontrolear jo ynstellingen in de \u003Ca>Adblock Plus Opties\u003C/a>."
+   },
+   "firstRun_share": {
+      "message": "sis it tsjin freonen"
+   },
+   "firstRun_share_headline": {
+      "message": "\u003Ca>Jou ús in hantsje\u003C/a>  om it web in moaiere plak te meitsjen"
+   },
+   "firstRun_title": {
+      "message": "Adblock is no ynstalleare"
+   },
+   "issueReporter_anonymousSubmission_label": {
+      "message": "Anonym Bydrage"
+   },
+   "issueReporter_anonymousSubmission_warning": {
+      "message": "We kinnen dy gjin kommentaar jaan en sille wierskynlik in leage prioriteit oan dyn rapport jaan."
+   },
+   "issueReporter_commentPage_heading": {
+      "message": "Kommentaar"
+   },
+   "issueReporter_comment_description": {
+      "message": "It tekstfjild hjirûnder jout de mooglikheid om kommentaar te jaan. Dizze stap is opsjoneel, mar oanrikkemandearre as it in frjemd probleem is. Jo kinne ek de gegevens besjen eardat it ferstjoerd wurd."
+   },
+   "issueReporter_comment_label": {
+      "message": "Kommentaar (opsjoneel):"
+   },
+   "issueReporter_comment_lengthWarning": {
+      "message": "De lingte fan jo kommentaar hat mear as 1000 karakters. Allinnich de earste 1000 karakters sille ferstjoerd wurde."
+   },
+   "issueReporter_confirmationMessage": {
+      "message": "Jo rapport is bewarre. Jo kinne it besjen op it folgjende adres:"
+   },
+   "issueReporter_dataCollector_description": {
+      "message": "In amerijke wylst Adblock Plus de nedige gegevens sammelt."
+   },
+   "issueReporter_dataCollector_heading": {
+      "message": "Wolkom by de probleemrapportearder"
+   },
+   "issueReporter_doneButton_label": {
+      "message": "Klear"
+   },
+   "issueReporter_email_description": {
+      "message": "It soe moai wêze ast in goed mail adres kist opjaan sa dat wy kontakt my die kinne opnimme as der fragen binne oer dyn rapport. It jout ús ek de mooglikheid om minsken te werkennen en mear prioriteit te jaan."
+   },
+   "issueReporter_email_label": {
+      "message": "E-mail:"
+   },
+   "issueReporter_errorMessage": {
+      "message": "It is net slagge om it rapport te ferstjoeren, flaterkoade \"?1?\". Wês wis dat jo ferbûn binne mei it ynternet en probearje nochris. As it probleem bliuwt freegje dan assistinsje yn it [link]Adblock Plus foarum[/link]."
+   },
+   "issueReporter_falseNegative_description": {
+      "message": "Selektearje dizze opsje as in advertinsje toant wurd wylst Adblock Plus ynskeakele is."
+   },
+   "issueReporter_falseNegative_label": {
+      "message": "Adblock Plus blokkearret in advertinsje net"
+   },
+   "issueReporter_falsePositive_description": {
+      "message": "Selektearje dizze opsje as de side wichtige ynhâld mist, net goed toant wurd of net goed funksjonearret. Jo kinne útfine oft Adblock Plus de oarsaak is fan it probleem troch it tydlik út te skeakeljen."
+   },
+   "issueReporter_falsePositive_label": {
+      "message": "Adblock Plus blokkearret te folle"
+   },
+   "issueReporter_knownIssueMessage": {
+      "message": "It probleem dat jo rapportearre hawwe is miskien al bekend. Mear ynformaasje:"
+   },
+   "issueReporter_page_title": {
+      "message": "Probleemrapportearder"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "Privacybelied"
+   },
+   "issueReporter_sendButton_label": {
+      "message": "Ferstjoer rapport"
+   },
+   "issueReporter_sendPage_heading": {
+      "message": "Ferstjoer rapport"
+   },
+   "issueReporter_sending": {
+      "message": "Wachtsje wylst Adblock Plus jo rapport ynstjoerd."
+   },
+   "issueReporter_showData_label": {
+      "message": "Toan rapportgegevens"
+   },
+   "issueReporter_typeSelector_description": {
+      "message": "Dit finster sil jo begeliede troch de stappen nedich foar it yntsjinjen fan in Adblock Plus probleemrapport. Earst, selektearje it type probleem wat jo tsjinkommen binne op dizze side:"
+   },
+   "issueReporter_typeSelector_heading": {
+      "message": "Selektearje probleemtype"
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "notification_antiadblock_message": {
+      "message": "Dizze website is ferneamd om it toanen fan rjochte berjochten oan Adblock Plus-brûkers. Wolle jo dat Adblock Plus dizze ferstoppet?"
+   },
+   "notification_antiadblock_title": {
+      "message": "Rjochte berjochten ferbergje?"
+   },
+   "options_close": {
+      "message": "sluten"
+   },
+   "options_customFilter_cancel": {
+      "message": "Annulearje"
+   },
+   "options_email": {
+      "message": "E-mail:"
+   },
+   "options_filterList_column_status": {
+      "message": "Steat"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "Mislearre, checksum komt net oerien"
+   },
+   "options_filterList_lastDownload_connectionError": {
+      "message": "Mislearre, ynlaadprobleem"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "Mislearre, gjin jildich adres"
+   },
+   "options_filterList_state_disabled": {
+      "message": "Útskeakele"
+   },
+   "options_short": {
+      "message": "Opsjes"
+   },
+   "overlay_notification_button_no": {
+      "message": "Nee"
+   },
+   "overlay_notification_button_yes": {
+      "message": "Ja"
+   },
+   "sendReport": {
+      "message": "Rapportearje probleem op dizze side"
+   }
+}

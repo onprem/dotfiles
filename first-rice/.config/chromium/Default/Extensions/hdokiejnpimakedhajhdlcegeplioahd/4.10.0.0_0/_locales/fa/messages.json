@@ -1,0 +1,3899 @@
+{
+   "0_9": {
+      "message": "۰-۹"
+   },
+   "1_Password": {
+      "message": "۱گذرواژه"
+   },
+   "1___Insert_your__Yubi_Key_in_the__U_S_B_port_with_the__U_S_B_contact_facing_upward": {
+      "message": "‫۱- YubiKey خود را به درگاه USB وصل کنید، به‌طوری که اتصالات آن روبه‌بالا باشد."
+   },
+   "1___Run_the__Google__Authenticator_application_on_your_mobile_device": {
+      "message": "‫۱- برنامه‌ی Google Authenticator را روی دستگاه همراه‌تان اجرا کنید"
+   },
+   "1___Run_the__Last_Pass__Sesame_application_to_generate_a_one_time_password": {
+      "message": "‫۱. برای ساخت گذرواژه‌ی یکبارمصرف، برنامه‌ی LastPass Sesame را اجرا کنید."
+   },
+   "2___Enter_your_current_verification_code_in_the_box_below": {
+      "message": "‫۲- کد تأیید کنونی خود در جعبه‌ی زیر بنویسید"
+   },
+   "2___Paste_the_one_time_password_in_the_input_box_below_and_click___Authenticate_": {
+      "message": "‫۲. گذرواژه‌ی یک‌بارمصرف را در جعبه‌ی ورودی زیر بنویسید و «تأیید هویت» را بفشارید."
+   },
+   "2___Wait_until_your__Yubi_Key_touch_button_shines_with_a_steady_light": {
+      "message": "‫۲- صبر کنید تا چراغ دستگاه Yubikey شما به صورت پیوسته روشن بماند"
+   },
+   "3___Click__Authenticate": {
+      "message": "‫۳- «احراز هویت» را بفشارید"
+   },
+   "3___Hold_your_fingertip_on_the_touch_button_for_1_second": {
+      "message": "۳- لطفا انگشتتان را ببمدت یک ثانیه بروی دکمه لمسی نگه دارید"
+   },
+   "_A_C_T_I_O_N": {
+      "message": "عملیات"
+   },
+   "_A__Zupper": {
+      "message": "A-Z"
+   },
+   "_A_batch_of__S_M_S_passcodes_have_been_sent_to_your_mobile_device_": {
+      "message": "دسته ای از اس ام اس های رمز عبور برای دستگاه تلفن همراهتان فرستاده شده است."
+   },
+   "_A_new_password_has_been_generated_": {
+      "message": "یک گذرواژه‌های تازه ساخته شده‌است‫!"
+   },
+   "_A_randomly_generated_password_": {
+      "message": "یک گذرواژه‌ی ساخته‌شده‌ی تصادفی"
+   },
+   "_A_required_update_is_available_for__Last_Pass___Please_press__O_K_to_begin_download_and_installation_": {
+      "message": "یک روزآوری ضروری برای لست‌پس وجود دارد. برای دریافت و نصب «پذیرفتنن» را بفشارید‫."
+   },
+   "_A_retry_file_has_been_found___This_likely_means_that_not_all_of_your_site_changes_have_been_saved___Would_you_like_to_delete_this_file_and_potentially_lose_some_changes_": {
+      "message": "یک فایل سعی مجدد یافت شده‌است. یعنی احتمالا برخی از تغییراتی که روی سایت های خود ایجاد کرده اید ذخیره نشده اند. آیا می‌خواهید این فایل را حذف کنید و احتمالا بعضی تغییرات را از دست بدهید؟"
+   },
+   "_A_server_error_occurred_while_processing_your_request_": {
+      "message": "هنگام پردازش درخواست شما، یک خطای از سمت سرور رخ داد‫."
+   },
+   "_A_site_that_has_been_previously_shared_cannot_be_moved_to_a_shared_folder____Would_you_like_to_make_a_copy_": {
+      "message": "وب‌گاهی که پیش‌تر درمیان گذاشته‌شده است را نمی‌توان به پوشته‌ی اشتراکی انتقال داد‫.\n\nمی‌خواهید رونوشت تهیه کنید؟"
+   },
+   "_About": {
+      "message": "درباره"
+   },
+   "_About___": {
+      "message": "درباره‫..."
+   },
+   "_Accept": {
+      "message": "پذیرش"
+   },
+   "_Accepted": {
+      "message": "پذیرفته شد"
+   },
+   "_Account__Number": {
+      "message": "شماره حساب"
+   },
+   "_Account__Settings": {
+      "message": "تنظیمات حساب کاربری"
+   },
+   "_Account__Status": {
+      "message": "وضعیت حساب"
+   },
+   "_Account__Type": {
+      "message": "گونه‌ی حساب"
+   },
+   "_Account_number": {
+      "message": "شماره حساب"
+   },
+   "_Actionproper": {
+      "message": "حرکت"
+   },
+   "_Actions": {
+      "message": "عملیات"
+   },
+   "_Add": {
+      "message": "افزودن"
+   },
+   "_Add__Credit__Card": {
+      "message": "افزودن کارت اعتباری"
+   },
+   "_Add__Credit__Card_profile": {
+      "message": "افزودن نمایه‌ی کارت اعتباری"
+   },
+   "_Add__Field": {
+      "message": "افزودن فیلد"
+   },
+   "_Add__Identity": {
+      "message": "افزودن هویت"
+   },
+   "_Add__New__Site": {
+      "message": "افزودن سایت جدید"
+   },
+   "_Add__Note": {
+      "message": "افزودن یادداشت"
+   },
+   "_Add__Profile": {
+      "message": "افزودن مشخصات"
+   },
+   "_Add__Secure__Note": {
+      "message": "افزون یادداشت امن"
+   },
+   "_Add__Shared__Folder": {
+      "message": "پوشه  اشتراکی را اضافه کن"
+   },
+   "_Add__Site": {
+      "message": "افزودن سایت"
+   },
+   "_Add_another_custom_field": {
+      "message": "افزودن یک فیلد سفارشی دیگر"
+   },
+   "_Address": {
+      "message": "نشانی"
+   },
+   "_Address_1": {
+      "message": "نشانی ۱"
+   },
+   "_Address_2": {
+      "message": "نشانی ۲"
+   },
+   "_Address_3": {
+      "message": "نشانی ۳"
+   },
+   "_Adelaide": {
+      "message": "آدلاید"
+   },
+   "_Admin__Console": {
+      "message": "کنسول مدیریت"
+   },
+   "_Admin__Tools": {
+      "message": "ابزارهای مدیریت"
+   },
+   "_Administrator": {
+      "message": "مدیر"
+   },
+   "_Advanced": {
+      "message": "پیشرفته"
+   },
+   "_Advanced__Options": {
+      "message": "گزینه‌های پیشرفته"
+   },
+   "_Advanced__Settings": {
+      "message": "تنظیمات پیشرفته"
+   },
+   "_Advanced__Tools": {
+      "message": "ابزارهای پیشرفته"
+   },
+   "_Afghanistan": {
+      "message": "افغانستان"
+   },
+   "_Agent__Name": {
+      "message": "نام نماینده"
+   },
+   "_Agent__Phone": {
+      "message": "تلفن نماینده"
+   },
+   "_Aland__Islands": {
+      "message": "جزایر اولند"
+   },
+   "_Alaska": {
+      "message": "آلاسکا"
+   },
+   "_Albania": {
+      "message": "آلبانی"
+   },
+   "_Alerts": {
+      "message": "هشدارها"
+   },
+   "_Algeria": {
+      "message": "الجزایر"
+   },
+   "_Alias": {
+      "message": "نام مستعار"
+   },
+   "_All": {
+      "message": "همه"
+   },
+   "_Allow__Last_Pass_to_find_insecure_data_on_your_computer_": {
+      "message": "اجازه‌ی یافتن داده‌های ناامن در رایانه‌ی شما به لَست‌پس"
+   },
+   "_Almaty": {
+      "message": "آلماتی"
+   },
+   "_Alt": {
+      "message": "Alt"
+   },
+   "_Alternatively__enter_a_passcode_in_the_box_below_": {
+      "message": "به عنوان راه جایگزین، کد عبور را در جای خالی زیر وارد کنید:"
+   },
+   "_Always__Choose__Profile_and__Credit__Card": {
+      "message": "همیشه مشخصات و کارت اعتباری را انتخاب کنید"
+   },
+   "_American__Samoa": {
+      "message": "ساموآی آمریکا"
+   },
+   "_Amman___Athens___Istanbul___Beirut___Cairo___Jerusalem": {
+      "message": "عمان، آتن، استانبول، بیروت، قاهره، بیت‌المقدس"
+   },
+   "_Amsterdam___Berlin___Rome___Vienna___Prague___Brussels": {
+      "message": "آمستردام، برلین، رم، وین، پراگ، بروکسل"
+   },
+   "_An__Update_is__Available___Would_you_like_to_install_": {
+      "message": "یک روزآوری موجود است. آیا می‌خواهید آن را نصب کنید؟"
+   },
+   "_An_error_has_been_encountered_while_loading_your_sites___Please_relogin_": {
+      "message": "در بارگیری وبگاه‌های شما، خطایی رخ داد. لطفاً دوباره وارد شوید."
+   },
+   "_An_error_occurred": {
+      "message": "خطایی رخ داده است"
+   },
+   "_An_error_occurred_while_re_encrypting_your_data": {
+      "message": "هنگام بازرمزگذاری داده‌های شما خطایی رخ داد‫."
+   },
+   "_An_error_occurred_while_uploading_your_data____Would_you_like_to_retry_": {
+      "message": "هنگام بارگذاری داده‌های شما خطایی رخ داد. می‌خواهید دوباره بکوشید؟"
+   },
+   "_Andorra": {
+      "message": "آندورا"
+   },
+   "_Angola": {
+      "message": "آنگولا"
+   },
+   "_Anguilla": {
+      "message": "آنگویلا"
+   },
+   "_Antarctica": {
+      "message": "قطب جنوب"
+   },
+   "_Antigua_and__Barbuda": {
+      "message": "آنتیگوا و باربودا"
+   },
+   "_Appearance": {
+      "message": "سیما"
+   },
+   "_Application_": {
+      "message": "برنامه‫:"
+   },
+   "_Applications": {
+      "message": "برنامه‌ها"
+   },
+   "_April": {
+      "message": "آوریل"
+   },
+   "_Are_you_sure_you_want_to_delete_this_": {
+      "message": "آیا بی‌تردید می‌خواهید این وب‌گاه را حذف کنید؟"
+   },
+   "_Are_you_sure_you_want_to_delete_this_identity_": {
+      "message": "آیا شما مطمئن هستید که می خواهید این هویت را حذف کنید؟"
+   },
+   "_Are_you_sure_you_want_to_delete_this_site_": {
+      "message": "از حذف این سایت مطمئن هستید؟"
+   },
+   "_Are_you_sure_you_want_to_have__Last_Pass_remember_your_password____This_will_significantly_decrease_the_security_of_your__Last_Pass_account_": {
+      "message": "آیا مطمئن هستید که می‌خواهید لست‌پس گذرواژه‌ی شما را به یاد بسپارد؟ این کار امنیت حساب شما را به‌شدت می‌کاهد‫."
+   },
+   "_Are_you_sure_you_would_like_to_copy_your__Last_Pass_site_s__U_R_L_to_the_clipboard_": {
+      "message": "آیا از کپی آدرس سایت LastPass در کلیپ بورد اطمینان دارید؟"
+   },
+   "_Are_you_sure_you_would_like_to_copy_your__Last_Pass_site_s_password_to_the_clipboard_": {
+      "message": "آیا از کپی کردن رمز عبور LastPass در کلیپ بورد اطمینان دارید؟"
+   },
+   "_Are_you_sure_you_would_like_to_copy_your__Last_Pass_site_s_username_to_the_clipboard_": {
+      "message": "آیا از کپی کردن نام کاربری سایت LastPass در کلیپ بورد اطمینان دارید؟"
+   },
+   "_Are_you_sure_you_would_like_to_delete_": {
+      "message": "آیا مطمئن هستید که می خواهید حذف کنید؟"
+   },
+   "_Are_you_sure_you_would_like_to_delete_the_selected_items_": {
+      "message": "آیا بی‌تردید می‌خواهید موارد انتخابی را حذف کنید؟"
+   },
+   "_Are_you_sure_you_would_like_to_delete_the_selected_sites_": {
+      "message": "آیا بی‌تردید می‌خواهید وب‌گاه‌های انتخاب‌شده را حذف کنید؟"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_application_": {
+      "message": "آیا بی‌تردید می‌خواهید این برنامه را حذف کنید؟"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_field_": {
+      "message": "آیا مطمئن هستید که می خواهید این ردیف را حذف کنید؟"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_form_fill_profile_": {
+      "message": "آیا بی‌نردید می‌خواهید این نمایه‌ی پُرکردن فرم را حذف کنید؟"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_generated_password_": {
+      "message": "آیا از حذف گذرواژه‌ی ایجادشده مطمئن هستید؟"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_group_": {
+      "message": "پوشه حذف شود؟"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_never__U_R_L_": {
+      "message": "آیا مایل به حذف این لینک هستید؟"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_secure_note_": {
+      "message": "آیا از حذف یادداشت امن مطمئن هستید؟"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_site_": {
+      "message": "آیا از حذف سایت مطمئن هستید؟"
+   },
+   "_Are_you_sure_you_would_like_to_remove_this_attachment_": {
+      "message": "آیا از حذف این پیوست مطمئن هستید؟"
+   },
+   "_Are_you_sure_you_would_like_to_save_a_new_site_to_your__Last_Pass_vault_": {
+      "message": "آیا مطمئن هستید که می خواهید وبسایت جدیدی را به صندوق LastPass خود اضافه کنید؟"
+   },
+   "_Are_you_sure_you_would_like_your__Last_Pass__Form__Fill_information_to_be_filled_into_the_following_site_": {
+      "message": "آیا تمایل دارید که اطلاعات فرم پر شده در LastPass در سایت مورد نظر قرار داده شوند؟"
+   },
+   "_Are_you_sure_you_would_like_your__Last_Pass_site_information_to_be_filled_into_the_following_site_": {
+      "message": "آیا تمایل دارید که اطلاعات سایت LastPass در سایت مورد نظر قرار داده شود؟"
+   },
+   "_Argentina": {
+      "message": "آرژانتین"
+   },
+   "_Arizona": {
+      "message": "آریزونا"
+   },
+   "_Armenia": {
+      "message": "ارمنستان"
+   },
+   "_Arts": {
+      "message": "هنری"
+   },
+   "_Aruba": {
+      "message": "آروبا"
+   },
+   "_Atlantic__Time___Canada____Manaus___Santiago": {
+      "message": "وقت آتلانتیک (کانادا)، ماناوس، سانتیاگو"
+   },
+   "_Auckland___Wellington": {
+      "message": "اوکلند ، ولینگتون"
+   },
+   "_August": {
+      "message": "اوت"
+   },
+   "_Australia": {
+      "message": "استرالیا"
+   },
+   "_Austria": {
+      "message": "اتریش"
+   },
+   "_Authenticate": {
+      "message": "تأیید هویت"
+   },
+   "_Authentication": {
+      "message": "احراز هویت"
+   },
+   "_Authentication__Failed_": {
+      "message": "احراز هویت شکست خورد‫."
+   },
+   "_Auto_Fill": {
+      "message": "پرکردن خودکار"
+   },
+   "_Auto_Login": {
+      "message": "ورود خودکار"
+   },
+   "_Automatically__Fill__Login__Information": {
+      "message": "پرکردن خودکار اطلاعات ورود"
+   },
+   "_Automatically__Logoff_after_idle__mins_": {
+      "message": "خروج خودکار پس از ... دقیقه بیکاری"
+   },
+   "_Automatically__Logoff_when_all_browsers_are_closed_and__Chrome_has_been_closed_for__mins_": {
+      "message": "خروج پس از بسته‌بودن همه‌ی مرورگرها و بسته‌شدن کروم پس از ... دقیقه"
+   },
+   "_Automatically_login_to_sites_if_time_since_last_login____seconds_": {
+      "message": "ورود خودکار به سایت اگر از آخرین ورود گذشته باشد > (ثانیه‫)"
+   },
+   "_Avoid__Ambiguous__Characters": {
+      "message": "خودداری از نویسه‌های مبهم"
+   },
+   "_Azerbaijan": {
+      "message": "آذربایجان"
+   },
+   "_Azores": {
+      "message": "Azores"
+   },
+   "_B_A_C_K_U_P_P_E_R": {
+      "message": "بازگشت"
+   },
+   "_Back": {
+      "message": "بازگشت"
+   },
+   "_Baghdad": {
+      "message": "بغداد"
+   },
+   "_Bahamas": {
+      "message": "باهاما"
+   },
+   "_Bahrain": {
+      "message": "بحرین"
+   },
+   "_Baku___Yerevan": {
+      "message": "(باکو ، ایروان (ارمنستان"
+   },
+   "_Bangladesh": {
+      "message": "بنگلادش"
+   },
+   "_Bank__Account": {
+      "message": "حساب بانکی"
+   },
+   "_Bank__Name": {
+      "message": "نام بانک"
+   },
+   "_Bank_accountformfill": {
+      "message": "حساب بانکی"
+   },
+   "_Bank_name": {
+      "message": "نام بانک"
+   },
+   "_Barbados": {
+      "message": "باربادوس"
+   },
+   "_Before_you_can_use__Last_Pass__you_must_first_connect_your_fingerprint_reader_and_enroll_one_or_more_fingers_": {
+      "message": "پیش از به‌کارگیری لَست‌پس، نخست باید اثرانگشت‌خوان خود را وصل کنید و یک پا چند انگشت را ثبت کنید‫."
+   },
+   "_Belarus": {
+      "message": "بلاروس"
+   },
+   "_Belgium": {
+      "message": "بلژیک"
+   },
+   "_Belize": {
+      "message": "بلیز"
+   },
+   "_Benin": {
+      "message": "بنین"
+   },
+   "_Bermuda": {
+      "message": "برمودا"
+   },
+   "_Bhutan": {
+      "message": "بوتان"
+   },
+   "_Binary__Component_": {
+      "message": "جز دودویی‫:"
+   },
+   "_Birthday": {
+      "message": "زادروز"
+   },
+   "_Bit__Strength": {
+      "message": "قدرت بیت"
+   },
+   "_Blacklist": {
+      "message": "به‌علت ورود به‌دفعات گذرواژه‌ی نادرست، حساب شما (برای ۵ دقیقه) معلق شده‌است‫."
+   },
+   "_Blog": {
+      "message": "بلاگ"
+   },
+   "_Bolivia": {
+      "message": "بولیوی"
+   },
+   "_Bookmarklets": {
+      "message": "Bookmarklets"
+   },
+   "_Bosnia_and__Herzegovina": {
+      "message": "بوسنی و هرزگوین"
+   },
+   "_Botswana": {
+      "message": "بوتسوانا"
+   },
+   "_Bouvet__Island": {
+      "message": "شرکت بووه جزیره"
+   },
+   "_Branch__Address": {
+      "message": "نشانی شعبه"
+   },
+   "_Branch__Phone": {
+      "message": "تلفن شعبه"
+   },
+   "_Brazil": {
+      "message": "برزیل"
+   },
+   "_British__Indian__Ocean__Territory": {
+      "message": "مستعمرات انگلیسی اقیانوس هند"
+   },
+   "_Browse_the_web_as_you_normally_would_and__Last_Pass_will_automatically_remember_passwords_as_you_enter_them_": {
+      "message": "مانند همیشه در وب بگردید و ‫LastPass خودکار رمزهای واردشده‌ی شما را ذخیره خواهد کرد."
+   },
+   "_Brunei__Darussalam": {
+      "message": "برونئی دارالسلام"
+   },
+   "_Buenos__Aires___Georgetown": {
+      "message": "بوئنوس آیرس، جورج تاون"
+   },
+   "_Built_": {
+      "message": "ساخته‌شده‫:"
+   },
+   "_Bulgaria": {
+      "message": "بلغارستان"
+   },
+   "_Burkina__Faso": {
+      "message": "بورکینا فاسو"
+   },
+   "_Burundi": {
+      "message": "بوروندی"
+   },
+   "_Business": {
+      "message": "تجارت"
+   },
+   "_But__I_m_a_forgetful_person___what_should__I_do_if__I_forget_my_password_": {
+      "message": "من فراموش‌کار هستم... اگر گذرواژه‌ام را فراموش کردم، چه کنم؟"
+   },
+   "_C_S_V__Files": {
+      "message": "فایل‫ CSV"
+   },
+   "_Cambodia": {
+      "message": "کامبوج"
+   },
+   "_Cameroon": {
+      "message": "کامرون"
+   },
+   "_Can_t_find_hidden__Last_Pass_window": {
+      "message": "پنجره مخفی لست‌پس پیدا نشد"
+   },
+   "_Canada": {
+      "message": "کانادا"
+   },
+   "_Canary__Islands": {
+      "message": "جزایر قناری"
+   },
+   "_Canberra___Melbourne___Sydney___Hobart": {
+      "message": "کانبرا، ملبورن، سیدنی، هوبارت"
+   },
+   "_Cancel": {
+      "message": "انصراف"
+   },
+   "_Cape__Verde": {
+      "message": "کیپ ورد"
+   },
+   "_Cape__Verde__Is_": {
+      "message": "جزایر کیپ ورد"
+   },
+   "_Caracas": {
+      "message": "کاراکاس"
+   },
+   "_Casablanca___Monrovia___Reykjavik": {
+      "message": "کازابلانکا، مونروویا، ریکیاویک"
+   },
+   "_Catalan": {
+      "message": "کاتالانی"
+   },
+   "_Cayman__Islands": {
+      "message": "جزایر کیمن"
+   },
+   "_Central__African__Republic": {
+      "message": "جمهوری آفریقای مرکزی"
+   },
+   "_Central__America___Saskatchewan": {
+      "message": "آمریکای مرکزی، ساسکاچوان"
+   },
+   "_Central__Time___U_S____Canada____Guadalajara___Mexico__City": {
+      "message": "وقت مرکزی (ایالات متحده و کانادا)، گوادالاخارا، مکزیکوسیتی"
+   },
+   "_Chad": {
+      "message": "چاد"
+   },
+   "_Change": {
+      "message": "تغییر"
+   },
+   "_Change__Group__Name": {
+      "message": "تغییر نام پوشه"
+   },
+   "_Change__Master__Password": {
+      "message": "تغییر رمز ورود مادر"
+   },
+   "_Change__Password": {
+      "message": "تغییر گذرواژه"
+   },
+   "_Change__Password__Now": {
+      "message": "تغییر رمز"
+   },
+   "_Check__For__Updates": {
+      "message": "بررسی روزآوری‌ها"
+   },
+   "_Checkbox": {
+      "message": "جعبه‌ی"
+   },
+   "_Checking__For__Updates___": {
+      "message": "بررسی به‌روزرسانی‌ها‫..."
+   },
+   "_Chennai___Kolkata___Mumbai___New__Delhi___Sri__Jayawardenepura": {
+      "message": "چنای، کلکته، بمبئی، دهلی نو، ‫Sri Jayawardenepura"
+   },
+   "_Chile": {
+      "message": "شیلی"
+   },
+   "_China": {
+      "message": "چین"
+   },
+   "_Chinese___Simplified_": {
+      "message": "چینی (ساده‌شده‫)"
+   },
+   "_Chinese___Traditional_": {
+      "message": "چینی (سنتی‫)"
+   },
+   "_Choose__Profile_and__Credit__Card": {
+      "message": "انتخاب نمایه و کارت اعتباری"
+   },
+   "_Choose_a_source_above_": {
+      "message": "یکی از منابع بالا را برگزینید"
+   },
+   "_Christmas__Island": {
+      "message": "جزیره کریسمس"
+   },
+   "_Chrome": {
+      "message": "کروم"
+   },
+   "_City____Town": {
+      "message": "شهرستان / شهر"
+   },
+   "_Clear": {
+      "message": "پارک‌کردن"
+   },
+   "_Clear__Clipboard_after_use__seconds_": {
+      "message": "پاک‌کردن حافظه‌ی کلیپ‌بورد پس از استفاده (ثانیه)‫"
+   },
+   "_Clear__Forms": {
+      "message": "پاک‌کردن فرم"
+   },
+   "_Clear__Local__Cache": {
+      "message": "پاک کردن حافظه‌ی داخلی"
+   },
+   "_Clear__Recent": {
+      "message": "پاک کردن مورداخیر"
+   },
+   "_Clear_filled_fields_on_logoff": {
+      "message": "به هنگام خروج از برنامه ، تمام کادر های پرشده را پاک کن"
+   },
+   "_Click__Continue_to_start_using__Last_Pass_": {
+      "message": "برای آغاز بهره‌گیری از ‫LastPass، ادامه را بفشارید."
+   },
+   "_Click_here_to_initiate_multifactor_authentication_on_your_phone_or_mobile_device_": {
+      "message": "برای آغاز شناسایی چندعاملی در دستگاه یا گوشی همراه خود، این‌جا کلیک کنید."
+   },
+   "_Click_here_to_launch_account_settings": {
+      "message": "برای باز کردن تنظیمات حساب این‌جا را کلیک کنید"
+   },
+   "_Click_here_to_launch_feedback": {
+      "message": "برای باز کردن بازخورد این‌جا را کلیک کنید"
+   },
+   "_Click_here_to_view_the__Last_Pass__User__Manual": {
+      "message": "برای دیدن راهنمای ‫LastPass این‌جا را کلیک کیند"
+   },
+   "_Click_to_hide_advanced_options_": {
+      "message": "برای پنهان‌سازی گزینه‌های پیشرفته، بفشارید‫."
+   },
+   "_Clipperz": {
+      "message": "Clipperz"
+   },
+   "_Close": {
+      "message": "بستن"
+   },
+   "_Close_this_window": {
+      "message": "بستن این پنجره"
+   },
+   "_Co_pay": {
+      "message": "شرکت پرداخت"
+   },
+   "_Cocos___Keeling___Islands": {
+      "message": "کوکوس (Keeling) جزایر"
+   },
+   "_Collapse__All": {
+      "message": "بستن همه"
+   },
+   "_Colombia": {
+      "message": "کلمبیا"
+   },
+   "_Comoros": {
+      "message": "کومور"
+   },
+   "_Company": {
+      "message": "شرکت"
+   },
+   "_Company_Policy_Prohibits": {
+      "message": "سیاست‌های شرکت این کار را ممنوع کرده‌است‫."
+   },
+   "_Company__Phone": {
+      "message": "تلفن شرکت"
+   },
+   "_Company_policy_prevents_changing_some_settings__not_all_updates_have_been_saved_": {
+      "message": "سیاست‌های شرکت از بعضی تغییرات جلوگیری می‌کند؛ همه‌ی روزآوری‌ها ذخیره نشده‌اند‫."
+   },
+   "_Configure__Form__Fill": {
+      "message": "پیکربندی پُرکردن خودکار"
+   },
+   "_Confirm": {
+      "message": "تأیید"
+   },
+   "_Confirm__Password": {
+      "message": "تأیید گذرواژه"
+   },
+   "_Congo": {
+      "message": "کّنگو"
+   },
+   "_Congo__the__Democratic__Republic_of__The": {
+      "message": "کّنگو، جمهوری دموکراتیک"
+   },
+   "_Congratulations": {
+      "message": "شادباش"
+   },
+   "_Connection__Mode": {
+      "message": "حالت اتصال"
+   },
+   "_Connection__Type": {
+      "message": "نوع اتصال"
+   },
+   "_Contact": {
+      "message": "تماس"
+   },
+   "_Continue": {
+      "message": "ادامه"
+   },
+   "_Control_characters_found_in_selected_filename__will_not_process_it": {
+      "message": "کاراکترهای کنترلی موجود در نام پرونده انتخاب شده، آن را پردازش نمی کند"
+   },
+   "_Cook__Islands": {
+      "message": "جزایر کوک"
+   },
+   "_Copy": {
+      "message": "رونوشت"
+   },
+   "_Copy__Note": {
+      "message": "رونوشت یادداشت"
+   },
+   "_Copy__Password": {
+      "message": "رونوشت گذرواژه"
+   },
+   "_Copy__U_R_L": {
+      "message": "رونوشت نشانی"
+   },
+   "_Copy__Username": {
+      "message": "رونوشت کاربرنام"
+   },
+   "_Copyright_2008__Last_Pass___All__Rights__Reserved___Portions_of_this_software_were_licensed_from_third_parties_as_described_at_": {
+      "message": "Copyright 2008 LastPass. All Rights Reserved.\nPortions of this software were licensed from third parties as described at:"
+   },
+   "_Cost": {
+      "message": "هزینه"
+   },
+   "_Costa__Rica": {
+      "message": "کاستاریکا"
+   },
+   "_Cote__D_ivoire": {
+      "message": "ساحل عاج"
+   },
+   "_Country": {
+      "message": "کشور"
+   },
+   "_County": {
+      "message": "شهرستان"
+   },
+   "_Create__Account": {
+      "message": "ایجاد حساب کاربری"
+   },
+   "_Create__Group": {
+      "message": "ساخت پوشه"
+   },
+   "_Create__Sub__Group": {
+      "message": "ساخت زیر پوشه"
+   },
+   "_Create_an__Account": {
+      "message": "ساختن حساب کاربری"
+   },
+   "_Creating__Account___": {
+      "message": "ساخت حساب‫..."
+   },
+   "_Credit__Card": {
+      "message": "کارت اعتباری"
+   },
+   "_Credit__Card__Number": {
+      "message": "شماره کارت اعتباری"
+   },
+   "_Credit__Monitoring": {
+      "message": "نظارت بر کارت اعتباری"
+   },
+   "_Credit_card_number": {
+      "message": "شماره کارت اعتباری"
+   },
+   "_Credit_cardformfill": {
+      "message": "کارت اعتباری"
+   },
+   "_Croatia": {
+      "message": "کرواسی"
+   },
+   "_Ctrl": {
+      "message": "Ctrl"
+   },
+   "_Cuba": {
+      "message": "کوبا"
+   },
+   "_Custom__Value": {
+      "message": "مقدار سفارشی"
+   },
+   "_Custom_field__": {
+      "message": "‫فیلد سفارشی #"
+   },
+   "_Custom_fields": {
+      "message": "زمینه های دلخواه"
+   },
+   "_Cyprus": {
+      "message": "قبرس"
+   },
+   "_Czech__Republic": {
+      "message": "جمهوری چک"
+   },
+   "_Danish": {
+      "message": "دانمارکی"
+   },
+   "_Darn___Passwords_": {
+      "message": "Darn! Passwords!"
+   },
+   "_Darwin": {
+      "message": "داروین"
+   },
+   "_Dashlane": {
+      "message": "Dashlane"
+   },
+   "_Database": {
+      "message": "بانک‌داده"
+   },
+   "_Date": {
+      "message": "تاریخ"
+   },
+   "_Date_of__Birth": {
+      "message": "تاریخ تولد"
+   },
+   "_December": {
+      "message": "دسامبر"
+   },
+   "_Default": {
+      "message": "پیش فرض"
+   },
+   "_Default__Form__Fill__Profile": {
+      "message": "نمایه‌ی پیش‌فرض پُرکردن خودکار"
+   },
+   "_Delete": {
+      "message": "حذف"
+   },
+   "_Delete__Cache": {
+      "message": "پاک‌کردن حافظه‌ی درونی"
+   },
+   "_Delete__Formfill__Profile": {
+      "message": "حذف نمایه‌ی پُرکردن خودکار"
+   },
+   "_Delete__Group": {
+      "message": "حذف پوشه"
+   },
+   "_Delete__Identity_": {
+      "message": "حذف هویت؟"
+   },
+   "_Delete__Selected": {
+      "message": "حذف انتخاب‌شده"
+   },
+   "_Delete__Site": {
+      "message": "حذف وب‌گاه"
+   },
+   "_Delete__Site_": {
+      "message": "حذف سایت؟"
+   },
+   "_Delete_this_form_fill_profile": {
+      "message": "حذف این نمایه‌ی پُرکردن فرم"
+   },
+   "_Denmark": {
+      "message": "دانمارک"
+   },
+   "_Description": {
+      "message": "توضیحات"
+   },
+   "_Dining": {
+      "message": "غذاخوری"
+   },
+   "_Disable": {
+      "message": "غیرفعال‌کردن"
+   },
+   "_Disable__Insecure__Chrome__Password__Manager": {
+      "message": "غیر فعال کردن مدیریت ناامن گذرواژه‌های توسط کروم"
+   },
+   "_Disable__Last_Pass": {
+      "message": "غیرفعال‌کردن لَست‌پس"
+   },
+   "_Disable__Last_Pass_for_this_page_or_the_entire_site_": {
+      "message": "غیرفعال‌سازی لَست‌پس برای این برگه یا کل وب‌گاه؟"
+   },
+   "_Disable__Multifactor__Authentication": {
+      "message": "غیرفعال‌کردن شناسایی چندعاملی"
+   },
+   "_Disable__Page": {
+      "message": "غیرفعال‌سازی برگه"
+   },
+   "_Disable__Single_factor__Authentication": {
+      "message": "غیرفعال‌کردن شناسایی تک‌عاملی"
+   },
+   "_Disable__Site": {
+      "message": "غیرفعال‌سازی وب‌گاه"
+   },
+   "_Disable_alert___": {
+      "message": "غیرفعال کردن هشدارها"
+   },
+   "_Disable_alert_for_this_site": {
+      "message": "هشدار ها را برای این وبسایت غیرفعال کنید "
+   },
+   "_Disable_all_weak_duplicate_site_alerts": {
+      "message": "تمام هشدارها پیرامون سایت ها با رمز عبور ضعیف یا تکراری را غیرفعال کنید "
+   },
+   "_Disable_for_all_sites": {
+      "message": "غیرفعال‌سازی برای همه‌ی وب‌گاه‌ها"
+   },
+   "_Discard_changes_and_close_this_window": {
+      "message": "نادیده‌گرفتن تغییرات و بستن این پنجره"
+   },
+   "_Djibouti": {
+      "message": "جیبوتی"
+   },
+   "_Do_not_overwrite_fields_that_are_already_filled": {
+      "message": "بازنویسی‌نکردن فیلدهای پرشده"
+   },
+   "_Do_not_re_prompt_for_": {
+      "message": "نپرسیدن دوباره "
+   },
+   "_Do_not_show_this_message_for_this_domain": {
+      "message": "این پیغام را دیگر برای این دامنه نشان نده"
+   },
+   "_Do_you_like__Last_Pass_": {
+      "message": "را دوست دارید؟ LastPass آیا"
+   },
+   "_Do_you_really_want_to_quit____You_cannot_use__Last_Pass_without_creating_an_account_": {
+      "message": "آیا بی‌تردید می‌خواهید خارج شوید؟ بدون ساخت حساب نمی‌توانید از لَست‌پس بهره ببرید‫."
+   },
+   "_Dominica": {
+      "message": "دومینیکا"
+   },
+   "_Dominican__Republic": {
+      "message": "جمهوری دومینیکن"
+   },
+   "_Down": {
+      "message": "پایین"
+   },
+   "_Dr": {
+      "message": "دکتر"
+   },
+   "_Driver_s__License": {
+      "message": "گواهینامه رانندگی"
+   },
+   "_Duplicate_password": {
+      "message": "رمز عبور تکراری"
+   },
+   "_Dutch": {
+      "message": "هلندی"
+   },
+   "_E_R_R_O_R___Moving_sites_between_shared_folders_is_currently_not_supported_": {
+      "message": "خطا: انتقال وبگاه‌ها بین پوشه‌های اشتراکی هم‌اکنون پشتیبانی نمی‌شود‫."
+   },
+   "_E_R_R_O_R___You_are_not_allowed_to_move_sites_out_of_shared_folders___Delete_is_the_only_supported_operation_": {
+      "message": "خظا: شما مجاز به انتقال وبگاه‌ها به خارج از پوشه‌های اشتراکی نیستید. پاک‌کردن تنها عملیات مجاز است‫."
+   },
+   "_Eastern__Time___U_S____Canada_": {
+      "message": "وقت شرقی (ایالات متحده و کانادا‫)"
+   },
+   "_Ecuador": {
+      "message": "اکوادور"
+   },
+   "_Edit": {
+      "message": "ویرایش"
+   },
+   "_Edit__Access": {
+      "message": "ویرایش دسترسی"
+   },
+   "_Edit__Application__Fields": {
+      "message": "ویرایش فیلدهای برنامه"
+   },
+   "_Edit__Credit__Card_profile": {
+      "message": "ویرایش نمایه‌ی کارت اعتباری"
+   },
+   "_Edit__Form__Fields": {
+      "message": "ویرایش فیلدهای فرم"
+   },
+   "_Edit__Form__Fill_profile": {
+      "message": "ویرایش پروفایل فرم پر کن"
+   },
+   "_Edit__Secure__Note": {
+      "message": "ویرایش یادداشت امن"
+   },
+   "_Edit__Secure__Notes": {
+      "message": "ویرایش یاددشت‌های امن"
+   },
+   "_Edit__Site": {
+      "message": "ویرایش وبسایت"
+   },
+   "_Edit__Site__Fields": {
+      "message": "ویرایش ردیف های سایت"
+   },
+   "_Education": {
+      "message": "تحصیلات"
+   },
+   "_Egypt": {
+      "message": "مصر"
+   },
+   "_El__Salvador": {
+      "message": "السالوادور"
+   },
+   "_Email": {
+      "message": "رایانامه"
+   },
+   "_Email_": {
+      "message": ":پست الکترونیکی"
+   },
+   "_Email__Account": {
+      "message": "حساب رایانامه"
+   },
+   "_Email__Address": {
+      "message": "آدرس پست الکترونیک"
+   },
+   "_Email_address": {
+      "message": "رایانشانی"
+   },
+   "_Email_already_in_use__have_you_forgotten_your_password_": {
+      "message": "این رایانامه پیش‌تر به کار رفته است؛ آیا گذرواژه‌ی خود را فراموش کرده‌اید؟"
+   },
+   "_Enable": {
+      "message": "فعال"
+   },
+   "_Enable__Credit__Monitoring": {
+      "message": "فعال‌کردن پایش اعتبار"
+   },
+   "_Enable__Free__Credit__Monitoring": {
+      "message": "فعال‌کردن پایش اعتبار رایگان"
+   },
+   "_Enable_new_login_screen": {
+      "message": "فعال کردن صفحه‌ی ورود جدید"
+   },
+   "_Enabled": {
+      "message": "فعال شده"
+   },
+   "_Encryption": {
+      "message": "رمزگذاری"
+   },
+   "_End": {
+      "message": "پایان"
+   },
+   "_English": {
+      "message": "انگلیسی"
+   },
+   "_English___United__Kingdom_": {
+      "message": "(انگلیسی (انگلستان"
+   },
+   "_Enter__Code_": {
+      "message": "کد را وارد کنید‫:"
+   },
+   "_Enter__P_I_N": {
+      "message": "پین را وارد کنید"
+   },
+   "_Enter_a_passcode_in_the_box_below_": {
+      "message": "در جعبه‌ی زیر یک کد عبور بنویسید‫:"
+   },
+   "_Enter_arbitrary_notes": {
+      "message": "یادداشت‌هایی شخصی وارد کنید"
+   },
+   "_Enter_your_smart_card__P_I_N_": {
+      "message": "پین کارت هوشمند خود را بنویسید‫:"
+   },
+   "_Enterprise": {
+      "message": "انترپرایز"
+   },
+   "_Entertainment": {
+      "message": "سرگرمی"
+   },
+   "_Equatorial__Guinea": {
+      "message": "گینه استوایی"
+   },
+   "_Eritrea": {
+      "message": "اریتره"
+   },
+   "_Error_Get_Accts_Msg": {
+      "message": "در دریافت وب‌گاه‌های شما از لَست‌پس، خطایی رخ داد. برای دریافت داده‌های خود، لطفاً دوباره وارد شوید‫."
+   },
+   "_Error_Login_Msg": {
+      "message": "در ورود به لست‌پس خطایی رخ داد.\nلطفاً اتصال اینترنت خود را بررسی کنید‫."
+   },
+   "_Error_Sending_Msg": {
+      "message": "در ارتباط با سرور خطایی رخ داد. لطفا اتصال اینترنت خود را بررسی کنید‫."
+   },
+   "_Error_Session_Msg": {
+      "message": "ظاهراً جلسه‌ی لست‌پس شما منقضی شده‌است. لطفاً دوباره وارد شوید‫."
+   },
+   "_Error_opening_attachment_": {
+      "message": "خطا در باز کردن فایل پیوست."
+   },
+   "_Estonia": {
+      "message": "استونی"
+   },
+   "_Ethiopia": {
+      "message": "اتیوپی"
+   },
+   "_Evening__Number": {
+      "message": "شماره تماس عصرها"
+   },
+   "_Evening_number": {
+      "message": "شماره‌ی عصر"
+   },
+   "_Existing_Users_O_T_P_Prompt": {
+      "message": "اکنون لست‌پس می‌تواند یک گذرواژه‌ی بومی یک‌بارمصرف ذخیره کند. اگر گذرواژه‌ی مادر خود را فراموش کردید، این گذرواژه می‌تواند در بازیابی حساب به شما کمک کند. این گذرواژه‌ی یک‌بارمصرف تا فعال‌سازی آن بر کارساز، غیرفعال می‌ماند.\n\nآیا می‌خواید بازیابی حساب را فعال کنید؟"
+   },
+   "_Expand__All": {
+      "message": "گشودن همه"
+   },
+   "_Expiration": {
+      "message": "انقضاء"
+   },
+   "_Expiration__Date": {
+      "message": "تاریخ انقضا"
+   },
+   "_Expiration_date": {
+      "message": "تاریخ انقضا"
+   },
+   "_Export": {
+      "message": "صدور"
+   },
+   "_Export__To": {
+      "message": "صادر به"
+   },
+   "_Export__To__Last_Pass__C_S_V__File": {
+      "message": "صدور به پرونده‌ی ‫CSV لَست‌پس"
+   },
+   "_F_I_P_S__Mode": {
+      "message": "FIPS حالت"
+   },
+   "_Falkland__Islands___Malvinas_": {
+      "message": "جزایر فالکلند (Malvinas)"
+   },
+   "_Faroe__Islands": {
+      "message": "جزایر فارو"
+   },
+   "_Favorite": {
+      "message": "علاقه‌مندی‌ها"
+   },
+   "_Favoritesproper": {
+      "message": "علاقه‌مندی‌ها"
+   },
+   "_Fax__Number": {
+      "message": "شماره فکس"
+   },
+   "_Fax_number": {
+      "message": "شماره‌ی دورنگار"
+   },
+   "_Features": {
+      "message": "امکانات"
+   },
+   "_February": {
+      "message": "فوریه"
+   },
+   "_Feedback": {
+      "message": "بازخورد"
+   },
+   "_Female": {
+      "message": "زن"
+   },
+   "_Fields_": {
+      "message": "فیلدها‫:"
+   },
+   "_Fiji": {
+      "message": "فیجی"
+   },
+   "_Fiji___Kamchatka___Marshall__Is_": {
+      "message": "فیجی، کامچاتکا، جزايرمارشال"
+   },
+   "_File": {
+      "message": "پرونده"
+   },
+   "_File_too_large__it_must_be_less_than_10_M_B_": {
+      "message": "فایل خیلی بزرگ است و باید کمتر از ۱۰ مگابایت باشد"
+   },
+   "_Files": {
+      "message": "پرونده‌ها"
+   },
+   "_Fill": {
+      "message": "پُر‌کردن"
+   },
+   "_Fill__Current": {
+      "message": "پُرکردن کنونی"
+   },
+   "_Fill__Form": {
+      "message": "پُرکردن فرم"
+   },
+   "_Fill__Forms": {
+      "message": "پرکردن فرم‌ها"
+   },
+   "_Fill__In__Default__Form__Fill__Profile": {
+      "message": "پُرکدن فرم با نمایه‌ی پیش‌فرض"
+   },
+   "_Fill__In__Next__Login___When__Multiple_": {
+      "message": "پرکردن در ورود پسین (اگر چند مورد باشد‫)"
+   },
+   "_Fill__In__Previous__Login___When__Multiple_": {
+      "message": "پرکردن در ورود پیشین (اگر چند مورد باشد‫)"
+   },
+   "_Fill_every_form": {
+      "message": "پر کردن همه ی فرمها"
+   },
+   "_Fill_or__Edit__Form__Fill__Data": {
+      "message": "پُرکردن یا ویرایش داده‌های پُرکردن فرم"
+   },
+   "_Fill_with": {
+      "message": "پُرکردن با"
+   },
+   "_Fillable_Form_Detected": {
+      "message": "یک فرم پرکردنی در این برگه شناسایی شد‫."
+   },
+   "_Filter": {
+      "message": "فیلتر"
+   },
+   "_Finance": {
+      "message": "اقتصادی"
+   },
+   "_Find_a_site": {
+      "message": "یافتن سایت"
+   },
+   "_Finland": {
+      "message": "فنلاند"
+   },
+   "_Finnish": {
+      "message": "فنلاندی"
+   },
+   "_Fire_Form": {
+      "message": "FireForm"
+   },
+   "_Firefox": {
+      "message": "فایرفاکس"
+   },
+   "_Firefox__Password__Manager": {
+      "message": "مدیر گذرواژه‌های فایرفاکس"
+   },
+   "_First_3_digits_of_your_phone_number": {
+      "message": "‫۳ رقم نخست شماره‌ی تلفن شما"
+   },
+   "_First__Name": {
+      "message": "نام"
+   },
+   "_First_name": {
+      "message": "نام"
+   },
+   "_For_each_coordinate_listed_below__find_the_value_on_your_grid_and_enter_the_value_": {
+      "message": "برای هر مختصات زیر، مقدار آن را از روی شبکه بیابید و وارد کنید‫."
+   },
+   "_Forgot__Password_": {
+      "message": "گذرواژه را فراموش کرده‌اید؟"
+   },
+   "_Form_Fill": {
+      "message": "پُرکردن فرم"
+   },
+   "_Form_Fill__Profiles": {
+      "message": "نمایه‌های پُرکردن فرم"
+   },
+   "_Form__Fill": {
+      "message": "فرم پُرکن"
+   },
+   "_Form__Fill__Profile": {
+      "message": "مشخصات فرم پرکن"
+   },
+   "_Form__Fill__Profiles": {
+      "message": "پروفایل های پر کردن فرم"
+   },
+   "_Form__Fills": {
+      "message": "پُرکردن فرم"
+   },
+   "_Form__Name_": {
+      "message": "نام فرم:"
+   },
+   "_Format": {
+      "message": "قالب"
+   },
+   "_Forums": {
+      "message": "انجمن‌ها"
+   },
+   "_France": {
+      "message": "فرانسه"
+   },
+   "_French": {
+      "message": "فرانسوی"
+   },
+   "_French__Guiana": {
+      "message": "گویان فرانسه"
+   },
+   "_French__Polynesia": {
+      "message": "پلینزی فرانسه"
+   },
+   "_French__Southern__Territories": {
+      "message": "مناطق جنوبی فرانسوی"
+   },
+   "_French___Canada_": {
+      "message": "(فرانسوی (کانادا"
+   },
+   "_Full_path_of_file_to_import_": {
+      "message": "مسیر کامل برای وارد‌کردن پرونده‫:"
+   },
+   "_G_E_T__F_R_E_E__P_R_E_M_I_U_M": {
+      "message": "رایگان صاحب حساب ممتاز شوید"
+   },
+   "_G_M_T_5": {
+      "message": "GMT+5"
+   },
+   "_G_M_T_7": {
+      "message": "GMT+7"
+   },
+   "_G_M_T_9": {
+      "message": "GMT+9"
+   },
+   "_G_M_T__Dublin___Edinburgh___Lisbon___London": {
+      "message": "‫GMT دوبلین، ادینبورگ، لیسبون، لندن"
+   },
+   "_G_M_T___Dublin___Edinburgh___Lisbon___London": {
+      "message": "گرین‌ویچ: دوبلین، ادینبرگ، لیسبون، لندن"
+   },
+   "_Gabon": {
+      "message": "گابن"
+   },
+   "_Gambia": {
+      "message": "گامبیا"
+   },
+   "_Games": {
+      "message": "بازی ها"
+   },
+   "_Gender": {
+      "message": "جنسیت"
+   },
+   "_General": {
+      "message": "عمومی"
+   },
+   "_Generate": {
+      "message": "ساختن"
+   },
+   "_Generate_Password": {
+      "message": "اگر یک حساب می‌سازید یا گذرواژه‌ی خود را تغییر می‌دهید، برای ساخت یک گذرواژه‌ی یکتا و امن با لَست‌پس، دکمه‌ی ایجاد را بفشارید‫."
+   },
+   "_Generate__Password": {
+      "message": "ساخت گذرواژه"
+   },
+   "_Generate__Secure__Password": {
+      "message": "ایجاد گذرواژه‌ی امن"
+   },
+   "_Generated__Password_for": {
+      "message": "گذرواژه‌ی ساخته‌شده برای"
+   },
+   "_Generic": {
+      "message": "عمومی"
+   },
+   "_Generic__C_S_V__File": {
+      "message": "پرونده‌ی ‫CSV عمومی"
+   },
+   "_Georgia": {
+      "message": "گرجستان"
+   },
+   "_German": {
+      "message": "آلمانی"
+   },
+   "_Germany": {
+      "message": "آلمان"
+   },
+   "_Get__Started": {
+      "message": "شروع کنید"
+   },
+   "_Ghana": {
+      "message": "غنا"
+   },
+   "_Gibraltar": {
+      "message": "جبل الطارق"
+   },
+   "_Go__Back": {
+      "message": "بازگشت"
+   },
+   "_Go__Back_": {
+      "message": "بازگشت؟"
+   },
+   "_Go__Premium_": {
+      "message": "ممتاز شوید‫!"
+   },
+   "_Go_to__U_R_L": {
+      "message": "رفتن به نشانی"
+   },
+   "_Google__Authenticator": {
+      "message": "تعیین هویت گوگل"
+   },
+   "_Google__Authenticator__Multifactor__Authentication": {
+      "message": "‫شناسایی چندعاملی با Google Authenticator"
+   },
+   "_Google__Chrome": {
+      "message": "گوگل کروم"
+   },
+   "_Google__Chrome__Password__Manager": {
+      "message": "مدیریت گذرواژه گوگل کروم"
+   },
+   "_Google__Chrome_requires_that_extensions_use_the_same_language_as_the_browser__so_in_order_to_switch__Last_Pass_s_language__please_change_the_main_browser_language_under__Chrome_s__Options_": {
+      "message": "در گوگل کروم، زبان افزودنی‌ها باید با زبان مرورگر یکسان باشد؛ پس برای تغییر زبان لَست‌پس، زبان اصلی مرورگر خود را در تنظیمات کروم تغییر دهید‫."
+   },
+   "_Greece": {
+      "message": "یونان"
+   },
+   "_Greenland": {
+      "message": "گرینلند"
+   },
+   "_Greenland___Brasilia___Montevideo": {
+      "message": "گرینلند، برازیلیا، مونته‌ویدئو"
+   },
+   "_Grenada": {
+      "message": "گرنادا"
+   },
+   "_Group_": {
+      "message": "پوشه:"
+   },
+   "_Group__I_D": {
+      "message": "شماره گروه"
+   },
+   "_Group__Name": {
+      "message": "نام پوشه"
+   },
+   "_Guadeloupe": {
+      "message": "جزیره گوادلوپ"
+   },
+   "_Guam": {
+      "message": "گوام"
+   },
+   "_Guatemala": {
+      "message": "گواتمالا"
+   },
+   "_Guernsey": {
+      "message": "گرنسي"
+   },
+   "_Guinea": {
+      "message": "گینه"
+   },
+   "_Guinea__Bissau": {
+      "message": "گینه بیسائو"
+   },
+   "_Guyana": {
+      "message": "گویان"
+   },
+   "_H_P__Password__Safe": {
+      "message": "HP Password Safe"
+   },
+   "_Haiti": {
+      "message": "هائیتی"
+   },
+   "_Harare___Pretoria": {
+      "message": "حراره، پرتوریا"
+   },
+   "_Hawaii": {
+      "message": "هاوایی"
+   },
+   "_Health": {
+      "message": "سلامت"
+   },
+   "_Health__Insurance": {
+      "message": "بیمه بهداشت و درمان"
+   },
+   "_Heard__Island_and__Mcdonald__Islands": {
+      "message": "جزیره هِرد و جزایر مک دونالد"
+   },
+   "_Height": {
+      "message": "قد"
+   },
+   "_Help": {
+      "message": "راهنما"
+   },
+   "_Help__Center": {
+      "message": "مرکز کمک رسانی"
+   },
+   "_Help__Translate": {
+      "message": "به ترجمه  کمک کنید"
+   },
+   "_Help___": {
+      "message": "راهنمایی‫..."
+   },
+   "_Help_spread_the_word": {
+      "message": "کمک به گسترش این کلمه"
+   },
+   "_Hide__Advanced__Options": {
+      "message": "پنهان‌سازی گزینه‌های پیشرفته"
+   },
+   "_Hide__All": {
+      "message": "پنهان کردن همه"
+   },
+   "_Hide__Context__Menu__Options": {
+      "message": "پنهان‌سازی گزینه‌های فهرست راست (کانتکست‫)"
+   },
+   "_Hide__Password": {
+      "message": "پنهان‌سازی گذرواژه"
+   },
+   "_Hide__Passwords": {
+      "message": "رمزها را پنهان کن"
+   },
+   "_Highlight_input_boxes": {
+      "message": "سایه‌روشن‌کردن جعبه‌های ورودی"
+   },
+   "_History": {
+      "message": "تاریخچه"
+   },
+   "_Holy__See___Vatican__City__State_": {
+      "message": "سریر مقدس (ناحیه شهر واتیکان)"
+   },
+   "_Honduras": {
+      "message": "هندوراس"
+   },
+   "_Hong__Kong": {
+      "message": "هنگ کنگ"
+   },
+   "_Hostname": {
+      "message": "نام میزبان"
+   },
+   "_Hot_Keys": {
+      "message": "کلیدهای میان‌بر"
+   },
+   "_Hungarian": {
+      "message": "مجارستانی"
+   },
+   "_Hungary": {
+      "message": "مجارستان"
+   },
+   "_I_B_A_N__Number": {
+      "message": "IBAN شماره"
+   },
+   "_I_M_P_O_R_T_": {
+      "message": "وارد کردن؟"
+   },
+   "_I_T__I_S__C_R_I_T_I_C_A_L__T_H_A_T__Y_O_U__N_E_V_E_R__F_O_R_G_E_T__Y_O_U_R__N_E_W__L_A_S_T_P_A_S_S__P_A_S_S_W_O_R_D_": {
+      "message": "‫«بسیار مهم است گذرواژه‌ی تازه‌ی لَست‌پس خود را هرگز فراموش نکنید.‫»"
+   },
+   "_I__Forgot_my__Password": {
+      "message": "گذرواژه‌ام را فراموش کرده‌ام"
+   },
+   "_I_forgot_my_password___Help_": {
+      "message": "کمک! گذرواژه‌ام را فراموش کرده‌ام"
+   },
+   "_I_have_read_and_agree_with_the": {
+      "message": "من این را خوانده‌ام و می‌پذیریم"
+   },
+   "_I_understand_that_my_encrypted_data_will_be_sent_to__Last_Pass": {
+      "message": "آگاه هستم که داده‌های رمزگذاری‌شده‌ی من به لَست‌پس فرستاده می‌شوند"
+   },
+   "_I_ve_forgot_the_answer": {
+      "message": "پاسخ را فراموش کرده‌ام"
+   },
+   "_I_ve_forgotten_my_password_": {
+      "message": "رمزم را فراموش کردم."
+   },
+   "_I_ve_lost_my__Google__Authenticator_device": {
+      "message": "دستگاه ‫Google Authenticator خود را گم کرده‌ام؟"
+   },
+   "_I_ve_lost_my__Sesame_device": {
+      "message": "دستگاه ‫Sesame خود را گم کرده‌ام"
+   },
+   "_I_ve_lost_my__Yubi_Key_device": {
+      "message": "دستگاه ‫YubiKey خود را گم کرده‌ام"
+   },
+   "_I_ve_lost_my_device": {
+      "message": "دستگاه خود را گم کرده‌ام"
+   },
+   "_I_ve_lost_my_grid": {
+      "message": "شبکه‌ی خود را گم کرده‌ام"
+   },
+   "_Iceland": {
+      "message": "ایسلند"
+   },
+   "_Icons": {
+      "message": "نشانک ها"
+   },
+   "_Identities": {
+      "message": "هویت‌ها"
+   },
+   "_Identity": {
+      "message": "هویت"
+   },
+   "_If_checked__your_credit_report_will_be_regularly_monitored_and_you_will_be_alerted_if_any_suspicious_activity_occurs_": {
+      "message": "در صورت انتخاب، گزارش اعتبار شما پیوسته پایش می‌شود و در صورت بروز کنش‌های مشکوک، به شما هشدار داده‌می‌شود‫."
+   },
+   "_If_you_already_have_a__Last_Pass_account_you_can_close_this_window_and_login_": {
+      "message": "اگر پیش‌تر حساب ‫LastPass دارید، می‌توانید این پنجره را ببندید و وارد شوید."
+   },
+   "_If_you_do_end_up_forgetting_your__Last_Pass_master_password_": {
+      "message": "‫اگر گذرواژه‌ی مادر لَست‌پس خود را فراموش کنید،"
+   },
+   "_If_you_forgot_your_answer__click_here_to_reset_your_security_question": {
+      "message": "در صورت فراموشی پاسخ، اینجا کلیک کرده تا سوال امنیتی خود را از نو تنظیم کنید"
+   },
+   "_If_you_lost_your__Google__Authenticator_device__click_here_to_disable__Google__Authenticator_authentication": {
+      "message": "اگر دستگاه ‫Google Authenticator خود را گم کرده‌اید، برای غیرفعال‌کردن احراز هویت با آن، این‌جا را بفشارید‫."
+   },
+   "_If_you_lost_your__Sesame_device__click_here_to_disable__Sesame_authentication": {
+      "message": "اگر دستگاه ‫Sesame خود را گم کرده‌اید، برای غیرفعال‌کردن احراز هویت با Sesame این‌جا را بفشارید."
+   },
+   "_If_you_lost_your__Yubi_Key_device__click_here_to_disable__Yubi_Key_authentication": {
+      "message": "اگر دستگاه ‫YubiKey خود را گم کرده‌اید، برای غیرفعال‌کردن احراز هویت با YubiKey این‌جا را بفشارید."
+   },
+   "_If_you_lost_your_device__click_here_to_disable_multifactor_authentication": {
+      "message": "اگر دستگاه خود را گم کرده اید برای غیر  فعال کردن تایید هویت چند عاملی این جا را کلیک کنید"
+   },
+   "_If_you_lost_your_grid__click_here_to_disable_grid_authentication": {
+      "message": "اگر شبکه‌ی خود را گم کرده‌اید، برای غیرفعال‌کردن احراز هویت با شبکه، این‌جا را بفشارید"
+   },
+   "_Import": {
+      "message": "وارد کردن"
+   },
+   "_Import__From": {
+      "message": "وارد کردن از"
+   },
+   "_Import__Your__Data": {
+      "message": "وارد کردن اطلاعات شما"
+   },
+   "_In_order_for__Last_Pass_to_fill_into_basic_authentication_dialogs__you_need_to_install_the_binary_version_of__Last_Pass_for__Chrome_": {
+      "message": "برای این‌که لَست‌پس بتواند اطلاعات احراز هویتی پایه را پر کند، باید نسخه‌ی دودویی لَست‌پس را روی کروم نصب کنید‫."
+   },
+   "_India": {
+      "message": "هندوستان"
+   },
+   "_Indiana___Bogota___Lima___Quito___Rio__Branco": {
+      "message": "ایندیانا، بوگوتا، لیما، کیتو، ریو برانکو"
+   },
+   "_Indonesia": {
+      "message": "اندونزی"
+   },
+   "_Install": {
+      "message": "نصب"
+   },
+   "_Install_the_binary_version_of__Last_Pass_for__Chrome_to_enable_automatic_logoff_after_idle": {
+      "message": "برای فعال‌سازی خروج خودکار بعد بی‌کاری، نسخه‌ی دودویی لَست‌پس را روی کروم نصب کنید"
+   },
+   "_Install_the_binary_version_of__Last_Pass_for__Chrome_to_enable_sharing_login_state_between_other_browsers": {
+      "message": "برای فعال‌سازی درمیان‌گذاری وضعیت بین دیگر مرورگرها، نسخه‌ی دودویی لَست‌پس را روی کروم نصب کنید"
+   },
+   "_Instant__Messenger": {
+      "message": "چت"
+   },
+   "_Instructions": {
+      "message": "دستورالعمل‌ها"
+   },
+   "_Insurance": {
+      "message": "بیمه"
+   },
+   "_International__Date__Line__West": {
+      "message": "خط غربی تاریخ جهانی"
+   },
+   "_Invalid__Password_": {
+      "message": "گذرژاوه‌ی نامعتبر"
+   },
+   "_Invalid_email_address__try_again": {
+      "message": "رایانشانی درست نیست؛ دوباره بکوشید"
+   },
+   "_Iran___Islamic__Republic__Of_": {
+      "message": "ایران (جمهوری اسلامی)"
+   },
+   "_Iraq": {
+      "message": "عراق"
+   },
+   "_Ireland": {
+      "message": "ایرلند"
+   },
+   "_Isle_of__Man": {
+      "message": "جزیره من"
+   },
+   "_Israel": {
+      "message": "اسرائيل"
+   },
+   "_Issue__Number": {
+      "message": "شماره مورد"
+   },
+   "_Issue_number": {
+      "message": "شماره نشر"
+   },
+   "_Issued__Date": {
+      "message": "تاریخ صدور"
+   },
+   "_Issuing__Authority": {
+      "message": "منتشرکننده"
+   },
+   "_It_is_recommended_that_you_delete_the_attachment_file_after_you_use_it_": {
+      "message": "پيشنهادمی شود که فایل ضمیمه را بعد از استفاده     حذف كنيد"
+   },
+   "_Italian": {
+      "message": "ایتالیایی"
+   },
+   "_Italy": {
+      "message": "ایتالیا"
+   },
+   "_Iterations_Reduction": {
+      "message": "به نظر می‌رسد تعدادِ دفعات لازم برای تولید گذرواژه‌ی مادرِ LastPass شما \nاز نسخه‌ی ذخیره‌شده کاسته شده است. با این وجود همچنان می‌خواهید وارد شوید؟"
+   },
+   "_Jamaica": {
+      "message": "جامائیکا"
+   },
+   "_January": {
+      "message": "ژانویه"
+   },
+   "_Japan": {
+      "message": "ژاپن"
+   },
+   "_Japanese": {
+      "message": "ژاپنی"
+   },
+   "_Jersey": {
+      "message": "جرسی"
+   },
+   "_Jordan": {
+      "message": "اردن"
+   },
+   "_July": {
+      "message": "ژوئیه"
+   },
+   "_June": {
+      "message": "ژوئن"
+   },
+   "_Kabul": {
+      "message": "کابل"
+   },
+   "_Kathmandu": {
+      "message": "کاتماندو"
+   },
+   "_Kazakhstan": {
+      "message": "قزاقستان"
+   },
+   "_Kee_Pass": {
+      "message": "KeePass"
+   },
+   "_Keep_a_history_of_my_logins_and_form_fills": {
+      "message": "نگهداری تاریخچه‌ی ورودهای و فرم‌های پرشده‌ی من"
+   },
+   "_Keep_an__Eye_on__Your__Credit__Report": {
+      "message": "نگاهی به حساب اعتباری خود داشته باشید"
+   },
+   "_Kenya": {
+      "message": "کنیا"
+   },
+   "_Key__Index": {
+      "message": "شاخص کلید"
+   },
+   "_Key__Type": {
+      "message": "نوع کلید"
+   },
+   "_Kiribati": {
+      "message": "کیریباتی"
+   },
+   "_Korea___Democratic__People_s__Republic__Of": {
+      "message": "کره ، جمهوری دموکراتیک خلق"
+   },
+   "_Korea___Republic__Of": {
+      "message": "جمهوری کره"
+   },
+   "_Korean": {
+      "message": "کره‌ای"
+   },
+   "_Kuwait": {
+      "message": "کویت"
+   },
+   "_Kyrgyzstan": {
+      "message": "قرقیزستان"
+   },
+   "_La__Paz": {
+      "message": "لاپاز"
+   },
+   "_Language": {
+      "message": "زبان"
+   },
+   "_Language_": {
+      "message": "زبان :"
+   },
+   "_Lao__People_s__Democratic__Republic": {
+      "message": "جمهوری دموکراتیک خلق لائو"
+   },
+   "_Last_4_digits_of_your_phone_number": {
+      "message": "‫۴ رقم آخر شماره‌ی تلفن شما"
+   },
+   "_Last_Pass": {
+      "message": "لست پس"
+   },
+   "_Last_Pass__C_S_V__File": {
+      "message": "پرونده ‫LastPass / CSV"
+   },
+   "_Last_Pass__Chrome__Toolbar": {
+      "message": "نوار ابزار لست‌پس برای کروم"
+   },
+   "_Last_Pass__Encrypted__File": {
+      "message": "پرونده‌ی رمزگذاری‌شده‌ی لست‌پس"
+   },
+   "_Last_Pass__Grid__Multifactor__Authentication": {
+      "message": "شناسایی چندعاملی با شبکه‌ی لَست‌پس"
+   },
+   "_Last_Pass__Menu": {
+      "message": "فهرست ‫LastPass"
+   },
+   "_Last_Pass_can_automatically_fill_web_page_forms_with_a_single_click____Using_automatic___Form__Filling__will_not_only_save_you_time__but_will_also_enhance_your_security_when_shopping_online_": {
+      "message": "لَست‌پس می‌تواند با یک کلیک، فرم‌های برگه‌های وب را خودکار پر کند. بهره‌گیری از «پرکردن فرم»، افزودن بر صرفه‌جویی زمان، امنیت شما را هم در خرید برخط می‌افزاید‫."
+   },
+   "_Last_Pass_cannot_login_until_cookies_are_allowed_from_lastpass_com": {
+      "message": "تا وفتی کوکی‌های ‫LastPass.com مجوز نداشته باشند، لست‌پس نمی‌تواند وارد شود‫."
+   },
+   "_Last_Pass_detected_a_login_form_that_is_insecure____Would_you_like_to_continue_": {
+      "message": "لست فرم ورود غیرامنی را شناسایی کرده‌است‫.\n\nآیا می‌خواهید ادامه دهید؟"
+   },
+   "_Last_Pass_detected_a_login_form_that_is_insecure____Would_you_still_like__Last_Pass_to_fill_the_form_": {
+      "message": "لست‌پس فرم ورود غیرامنی را شناسایی کرده‌است‫.\n\nآیا می‌خواهید لست‌پس فرم را پر کند؟"
+   },
+   "_Last_Pass_detected_a_password_change_for": {
+      "message": "شناسایی تغییر گذرواژه‌ی"
+   },
+   "_Last_Pass_detected_a_password_change_for_domain_": {
+      "message": "شناسایی تغییر گذرواژه‌ی دامنه‫:"
+   },
+   "_Last_Pass_detected_a_password_change_for_user_": {
+      "message": "شناسایی تغییر گذرواژه‌ی کاربر‫:"
+   },
+   "_Last_Pass_has_detected_an_installation_error____Please_reinstall__Last_Pass_": {
+      "message": "لَست‌پس در نصب خطایی را شناسایی کرد. لطفاً لَست‌پس را دوباره نصب کنید."
+   },
+   "_Last_Pass_has_detected_that_you_are_using_a_weak_password_for_the_site_below___We_recommend_going_to_your_account_settings_for_this_site__and_creating_a_new_password___Use__Last_Pass_to_generate_a_unique__strong_password_for_this_account___You_can_then_save_the_changes_on_the_site__and_to__Last_Pass_": {
+      "message": "لست پس دریافته است شما برای این سایت یک پسورد ضعیف را انتخاب کرده اید \nما پیشنهاد میکنیم در این سایت به اکانتتان  بروید و یک پسورد جدید بسازید \nو از لست پس برای ساخت یک پسورد یکتا و قوی برای این نام کاربری استفاده کنید و میتوانید تغییرات را در سایت و نیز لست پس ذخیره کنید."
+   },
+   "_Last_Pass_has_filled_your_login_information_into_the_form_on_this_page_": {
+      "message": "‫LastPass اطلاعات ورودی شما را در این برگه پر کرده‌است."
+   },
+   "_Last_Pass_is_fully_installed____When_you_install__Last_Pass_on_other_computers_you_will_not_have_to_go_through_this_process_again__you_ll_simply_be_able_to_login_____Do_not_share_your__Master__Password_with_anyone__including__Last_Pass_employees__we_ll_never_ask_for_it____Last_Pass_encrypts_your_sensitive_data_locally_so_even__Last_Pass_employees_do_not_have_access_to_it____You_can_get_help_by_clicking_on_the__Last_Pass_icon_and_going_to__Help_": {
+      "message": "‫LastPass کامل نصب شد! هنگام نصب لَست‌پس روی دیگر رایانه‌ها، نیاز به تکرار این فرآیند نیست و تنها کافی است وارد شوید.  گذرواژه‌ی مادر لَست‌پس را با هیچ‌کس درمیان نگذارید، از جمله با کارکنان لَست‌پس؛ ما هرگز چنین درخواستی نخواهیم داشت! لَست‌پس داده‌های حساس شما را در رایانه‌ی خودتان رمزگذاری می‌کند، پس حتی کارکنان لَست‌پس هم به آن‌ها دسترسی ندارد. با فشردن نشان لَست‌پس و بخش «کمک» می‌توانند یاری بجویید‫."
+   },
+   "_Last_Pass_is_the_last_password_you_ll_ever_have_to_remember____If_you_re_new_to__Last_Pass__we_ll_just_need_a_few_minutes_of_your_time_to_setup_your_account____You_ll_be_able_to_use_this_account_on_any_other__P_C_you_use_to_always_keep_your_personal_data_in_sync____Hit_create_account_to_begin_": {
+      "message": "‫LastPass آخرین گذرواژه‌ای است که به یاد می‌سپارید. اگر تازه‌واردید، ما تنها چند دقیقه از وقت شما را، برای برپایی حساب‌تان، نیازمندیم. از این حساب، می‌توانید در همه‌ی رایانه‌ها بهره ببرید و همواره داده‌های شخصی خود را به‌روز نگه دارید. برای آغاز، ساخت حساب را بزنید."
+   },
+   "_Last_Pass_must_reencrypt_all_of_your_data_because_of_a_key_change_": {
+      "message": ". باید تمام داده های شما را دوباره رمز گذاری کند LastPassبه خاطر تغییر اساسی"
+   },
+   "_Last__Name": {
+      "message": "نام خانوادگی"
+   },
+   "_Last__Name2": {
+      "message": "نام‌خانوادگی ۲"
+   },
+   "_Last__Touch": {
+      "message": "تاریخ و زمان آخرین لمس / تماس"
+   },
+   "_Last_name": {
+      "message": "نام خانوادگی"
+   },
+   "_Latvia": {
+      "message": "لتونی"
+   },
+   "_Launch": {
+      "message": "اجرا کردن"
+   },
+   "_Launch__Site": {
+      "message": "اجرا سایت"
+   },
+   "_Lebanon": {
+      "message": "لبنان"
+   },
+   "_Left": {
+      "message": "چپ"
+   },
+   "_Lesotho": {
+      "message": "لسوتو"
+   },
+   "_Liberia": {
+      "message": "لیبریا"
+   },
+   "_Libyan__Arab__Jamahiriya": {
+      "message": "جماهیر عرب لیبی"
+   },
+   "_License__Class": {
+      "message": "طبقه‌بندی مجوز"
+   },
+   "_License__Key": {
+      "message": "کلید مجوز"
+   },
+   "_Liechtenstein": {
+      "message": "لیختن اشتاین"
+   },
+   "_Link__Personal__Account": {
+      "message": "لینک حساب شخصی"
+   },
+   "_Lithuania": {
+      "message": "لیتوانی"
+   },
+   "_Local": {
+      "message": "بومی"
+   },
+   "_Log_into_a__Site": {
+      "message": "ورود به یک وب‌گاه"
+   },
+   "_Login": {
+      "message": "ورود"
+   },
+   "_Login_Error": {
+      "message": "خطا در ورود به لست‌پس. لطفا دوباره بکوشید‫."
+   },
+   "_Login_to__Last_Pass": {
+      "message": "ورود به لَست‌پَس"
+   },
+   "_Logoff": {
+      "message": "خروج"
+   },
+   "_Logoff_": {
+      "message": "خروج‫:"
+   },
+   "_Logoff_after_logged_in_for_minutes": {
+      "message": "خروج پس از ورود براي چند دقيقه"
+   },
+   "_Logoff_on_browser_close": {
+      "message": "خروج با بستن مرورگر"
+   },
+   "_Logout": {
+      "message": "خروج"
+   },
+   "_Lose_Changes": {
+      "message": "آیا بی‌تردید می‌خواهید فیلدهای این وب‌گاه را ویرایش کنید؟ با این کار شاید همه‌ی تغییرات از دست برود‫..."
+   },
+   "_Lose_Changes_App": {
+      "message": "آیا شما مطمئنید می خواهید فیلدهای این برنامه را تغییر دهید؟ این امر منجر به از دست دادن تغییراتی خواهد شد که قبلا در این برنامه ساخته اید"
+   },
+   "_Luxembourg": {
+      "message": "لوکزامبورگ"
+   },
+   "_M_S_I__Password_Keeper": {
+      "message": "MSI PasswordKeeper"
+   },
+   "_Macao": {
+      "message": "ماکائو"
+   },
+   "_Macedonia__the__Former__Yugoslav__Republic__Of": {
+      "message": "مقدونیه، جمهوری سابق یوگسلاوی"
+   },
+   "_Madagascar": {
+      "message": "ماداگاسکار"
+   },
+   "_Make__Pronounceable": {
+      "message": "قابل‌تلفظ"
+   },
+   "_Malawi": {
+      "message": "مالاوی"
+   },
+   "_Malaysia": {
+      "message": "مالزی"
+   },
+   "_Maldives": {
+      "message": "مالدیو"
+   },
+   "_Male": {
+      "message": "مرد"
+   },
+   "_Mali": {
+      "message": "مالی"
+   },
+   "_Malta": {
+      "message": "مالت (جزیره)"
+   },
+   "_Manage__Shared__Folder": {
+      "message": "مدیریت پوشه های به اشتراک گذاری شده"
+   },
+   "_Manage__Shared__Folders": {
+      "message": "پوشه هاي به اشتراک گذاشته شده را مديريت كنيد"
+   },
+   "_March": {
+      "message": "مارس"
+   },
+   "_Marshall__Islands": {
+      "message": "جزایر مارشال"
+   },
+   "_Martinique": {
+      "message": "مارتینیک"
+   },
+   "_Master__Password": {
+      "message": "گذرواژه‌ی مادر"
+   },
+   "_Master__Password_": {
+      "message": ":رمز اصلی"
+   },
+   "_Matching__Sites": {
+      "message": "وب‌گاه‌های منطبق"
+   },
+   "_Mauritania": {
+      "message": "موریتانی"
+   },
+   "_Mauritius": {
+      "message": "موریس"
+   },
+   "_Maxthon": {
+      "message": "مرورگر مکستون"
+   },
+   "_May": {
+      "message": "مه"
+   },
+   "_Mayotte": {
+      "message": "مایوت"
+   },
+   "_Member__I_D": {
+      "message": "شماره عضویت"
+   },
+   "_Member__Name": {
+      "message": "نام عضو"
+   },
+   "_Membership": {
+      "message": "عضویت"
+   },
+   "_Membership__Number": {
+      "message": "شماره عضویت"
+   },
+   "_Message_": {
+      "message": "پیام:"
+   },
+   "_Meta": {
+      "message": "متا"
+   },
+   "_Mexico": {
+      "message": "مکزیک"
+   },
+   "_Micronesia___Federated__States__Of": {
+      "message": "میکرونزی، ایالات فدرال"
+   },
+   "_Mid__Atlantic": {
+      "message": "میانه اقیانوس اطلس"
+   },
+   "_Middle_3_digits_of_your_phone_number": {
+      "message": "‫۳ رقم میانی شماره‌ی تلفن شما"
+   },
+   "_Middle__Name": {
+      "message": "نام خانوادگی میانی"
+   },
+   "_Middle_name": {
+      "message": "نام میانی"
+   },
+   "_Midway__Island___Samoa": {
+      "message": "جزیره میدوی، ساموا"
+   },
+   "_Minimum__Digit__Count": {
+      "message": "حداقل ارقام عددی"
+   },
+   "_Mobile__Email__Address": {
+      "message": "رایانشانی تلفن‌همراه"
+   },
+   "_Mobile__Number": {
+      "message": "شماره موبایل"
+   },
+   "_Mobile_number": {
+      "message": "شماره تلفن همراه"
+   },
+   "_Moldova___Republic__Of": {
+      "message": "مولداوی، جمهوری"
+   },
+   "_Monaco": {
+      "message": "موناکو"
+   },
+   "_Mongolia": {
+      "message": "مغولستان"
+   },
+   "_Montenegro": {
+      "message": "مونته نگرو"
+   },
+   "_Montserrat": {
+      "message": "مونتسرات"
+   },
+   "_More": {
+      "message": "بیشتر"
+   },
+   "_More__Information": {
+      "message": "اطلاعات بیشتر"
+   },
+   "_More__Options": {
+      "message": "گزینه‌های بیش‌تر"
+   },
+   "_Morocco": {
+      "message": "مراکش"
+   },
+   "_Mountain__Time___U_S____Canada_": {
+      "message": "وقت کوهستانی (آمریکا و کانادا‫)"
+   },
+   "_Move__Selected_to__Group": {
+      "message": "انتقال مورد انتخاب شده به پوشه"
+   },
+   "_Move_to__Group": {
+      "message": "انتقال به پوشه"
+   },
+   "_Move_to__Sub__Group": {
+      "message": "انتقال به زیرپوشه"
+   },
+   "_Mozambique": {
+      "message": "موزامبیک"
+   },
+   "_Mr": {
+      "message": "آقای"
+   },
+   "_Mrs": {
+      "message": "خانم"
+   },
+   "_Ms": {
+      "message": "خانم"
+   },
+   "_Multifactor__Authentication": {
+      "message": "تأیید هویت چند عاملی"
+   },
+   "_My_Password_Safe": {
+      "message": "MyPasswordSafe"
+   },
+   "_My__Account": {
+      "message": "حساب من"
+   },
+   "_My__Last_Pass__Vault": {
+      "message": "گاوصندوق لَست‌پَس من"
+   },
+   "_Myanmar": {
+      "message": "میانمار"
+   },
+   "_N_A_M_E": {
+      "message": "نام"
+   },
+   "_Name_": {
+      "message": "نام‫:"
+   },
+   "_Name_on__Card": {
+      "message": "نام روی کارت"
+   },
+   "_Name_on_card": {
+      "message": "نام روی کارت"
+   },
+   "_Nameproper": {
+      "message": "نام"
+   },
+   "_Namibia": {
+      "message": "نامیبیا"
+   },
+   "_Nationality": {
+      "message": "ملیت"
+   },
+   "_Nauru": {
+      "message": "نائورو"
+   },
+   "_Nepal": {
+      "message": "نپال"
+   },
+   "_Netherlands": {
+      "message": "هلند"
+   },
+   "_Netherlands__Antilles": {
+      "message": "آنتیل هلند"
+   },
+   "_Never": {
+      "message": "هرگز"
+   },
+   "_Never__Add__Site": {
+      "message": "غیرفعال‌سازی افزودن وب‌گاه"
+   },
+   "_Never__Ask__Again": {
+      "message": "هرگز دیگر نپرس"
+   },
+   "_Never__Auto_Fill": {
+      "message": "غیرفعال‌سازی پُرکردن خوکار"
+   },
+   "_Never__Auto_Login": {
+      "message": "غیرفعال‌سازی ورود خودکار"
+   },
+   "_Never__Fill__Forms": {
+      "message": "غیرفعال‌سازی پُرکردن خودکار"
+   },
+   "_Never__For__This__Domain": {
+      "message": "غیرفعال‌سازی برای این دامنه"
+   },
+   "_Never__For__This__Page": {
+      "message": "غیرفعال برای این برگه"
+   },
+   "_Never__For__This__Site": {
+      "message": "غیرفعال برای این وب‌گاه"
+   },
+   "_Never__Generate__Password": {
+      "message": "غیرفعال‌سازی ساخت گذرواژه"
+   },
+   "_Never__Show__Again": {
+      "message": "دیگر هرگز نشان‌ندادن"
+   },
+   "_Never___": {
+      "message": "هرگز‫..."
+   },
+   "_Never_show_me_this_message_again_": {
+      "message": "این پیغام را دیگر نشان نده*"
+   },
+   "_New__Caledonia": {
+      "message": "کالدونیای جدید"
+   },
+   "_New__Master__Password": {
+      "message": "گذرواژه‌ی مادر تازه"
+   },
+   "_New__Zealand": {
+      "message": "نیوزیلند"
+   },
+   "_New_here___Create_an__Account_": {
+      "message": "تازه‌واردید؟ یک حساب بسازید."
+   },
+   "_New_to__Last_Pass_": {
+      "message": "با ‫LastPass تازه آشنا شده‌اید؟"
+   },
+   "_Newfoundland": {
+      "message": "جزیره نیوفاوندلند"
+   },
+   "_News__Reference": {
+      "message": "اخبار و مراجع"
+   },
+   "_Next__S_M_S_passcode_starts_with": {
+      "message": "کد عبور پیامکی بعدی آغاز می‌شود با‫"
+   },
+   "_Nicaragua": {
+      "message": "نیکاراگوئه"
+   },
+   "_Niger": {
+      "message": "نیجر"
+   },
+   "_Nigeria": {
+      "message": "نیجریه"
+   },
+   "_Niue": {
+      "message": "نیوئه"
+   },
+   "_No": {
+      "message": "نه"
+   },
+   "_No_Favorites": {
+      "message": ".هنوز شما هیچ علاقه مندی ندارید"
+   },
+   "_No__Matching__Sites_": {
+      "message": "هیچ وب‌گاهی مطابقت ندارد‫!"
+   },
+   "_No__Thanks": {
+      "message": "نه، سپاس‌گزارم"
+   },
+   "_No__Updates__Are__Available": {
+      "message": "روزآوری نبود."
+   },
+   "_No___I_do_not_want__Last_Pass_to_help_me_fill_forms_automatically": {
+      "message": "نه، نمی‌خواهم لَست‌پس فرم‌هایم را خودکار پر کند"
+   },
+   "_No___Save_as__New__Entry": {
+      "message": "نه، ذخیره‌ی ورودی تازه"
+   },
+   "_No___Thanks": {
+      "message": "خیر، ممنون"
+   },
+   "_No__do_not_import_any_of_my_insecure_items": {
+      "message": "نه. هیچیک از اطلاعات غیر امن مرا منتقل نکن"
+   },
+   "_None__Available": {
+      "message": "هیچ‌کدام نیست"
+   },
+   "_Norfolk__Island": {
+      "message": "جزیره نورفولک"
+   },
+   "_Northern__Mariana__Islands": {
+      "message": "جزایر ماریانای شمالی"
+   },
+   "_Norway": {
+      "message": "نروژ"
+   },
+   "_Norwegian": {
+      "message": "نروژی"
+   },
+   "_Norwegian__Nynorsk": {
+      "message": "نروژی"
+   },
+   "_Not__Now": {
+      "message": "اکنون نه"
+   },
+   "_Note": {
+      "message": "یادداشت"
+   },
+   "_Note__Type": {
+      "message": "گونه‌ی یادداشت"
+   },
+   "_Note__Type_": {
+      "message": ":نوع يادداشت"
+   },
+   "_Notes": {
+      "message": "یادداشت‌ها"
+   },
+   "_Notes_": {
+      "message": "نکته‌ها‫:"
+   },
+   "_Notifications": {
+      "message": "آگاهی‌ ها"
+   },
+   "_November": {
+      "message": "نوامبر"
+   },
+   "_Nuku_alofa": {
+      "message": "نوکوآلوفا(پایتخت کشور تونگا)"
+   },
+   "_Number": {
+      "message": "شماره"
+   },
+   "_Number_of__Licenses": {
+      "message": "شمار پروانه‌ها"
+   },
+   "_O_K": {
+      "message": "پذیرفتن"
+   },
+   "_October": {
+      "message": "اکتبر"
+   },
+   "_Offer_to__Generate__Secure__Passwords": {
+      "message": "پیشنهاد ساخت گذرواژه‌ی امن"
+   },
+   "_Old__Password": {
+      "message": "گذرواژه‌ی قدیمی"
+   },
+   "_Oman": {
+      "message": "عمان"
+   },
+   "_One__Time__Passwords": {
+      "message": "رمزهای عبور یک بار مصرف"
+   },
+   "_Open__All": {
+      "message": "گشودن همه"
+   },
+   "_Open__Favorites": {
+      "message": "گشودن علاقه‌مندی‌ها"
+   },
+   "_Open__Favorites_in__Tabs": {
+      "message": "بازکردن مورد علاقه ها"
+   },
+   "_Open__File": {
+      "message": "باز کردن فایل"
+   },
+   "_Open__My__Last_Pass__Vault": {
+      "message": "گشودن صندوق لَست‌پس من"
+   },
+   "_Open__New__Pages_in": {
+      "message": "گشودن برگه‌های تازه در‫"
+   },
+   "_Open__Security__Challenge": {
+      "message": "آغاز چالش امنیتی"
+   },
+   "_Open__Sticky__Password____Manage__Database____Export____Export_as_text___Import_this_file": {
+      "message": "‫چنین کنید: Sticky Password - Manage Database - Export - Export as text\nاین فایل را وارد کنید"
+   },
+   "_Open_login_dialog_when_browser_starts": {
+      "message": "باز کردن گذاره ی ورود هنگام باز شدن مرورگر"
+   },
+   "_Open_to_fine_tune_how_your_password_is_generated_": {
+      "message": "برای آگاهی دقیق درباره‌ی چگونگی ساخت گذرواژه، باز کنید‫."
+   },
+   "_Opera": {
+      "message": "اپرا"
+   },
+   "_Opera__Password__Manager": {
+      "message": "مدیر رمز عبور اپرا"
+   },
+   "_Order__Number": {
+      "message": "شماره سفارش"
+   },
+   "_Order__Total": {
+      "message": "تعداد سفارش"
+   },
+   "_Organization": {
+      "message": "سازمان"
+   },
+   "_Other": {
+      "message": "دیگر"
+   },
+   "_Other__Sessions": {
+      "message": "دیگر جلسه‌ها"
+   },
+   "_Overall__Progress_": {
+      "message": "پیشرفت کلی:"
+   },
+   "_P_A_S_S_W_O_R_Dupper": {
+      "message": "گذرواژه"
+   },
+   "_P_I_Ns__Password__Manager": {
+      "message": "PINs Password Manager"
+   },
+   "_Pacific__Time___U_S____Canada_": {
+      "message": "وقت اقیانوس آرام (ایالات متحده و کانادا‫)"
+   },
+   "_Page__Down": {
+      "message": "صفحه پایین"
+   },
+   "_Page__Up": {
+      "message": "صفحه بالا"
+   },
+   "_Pakistan": {
+      "message": "پاکستان"
+   },
+   "_Palau": {
+      "message": "پالائو"
+   },
+   "_Palestinian__Territories": {
+      "message": "سرزمین های فلسطین"
+   },
+   "_Panama": {
+      "message": "پاناما"
+   },
+   "_Papua__New__Guinea": {
+      "message": "گینه جدید پاپوآ"
+   },
+   "_Paraguay": {
+      "message": "پاراگوئه"
+   },
+   "_Passpack": {
+      "message": "Passpack"
+   },
+   "_Passphrase": {
+      "message": "کلمه عبور"
+   },
+   "_Passport": {
+      "message": "گذرنامه"
+   },
+   "_Password": {
+      "message": "گذرواژه"
+   },
+   "_Password_": {
+      "message": "گذرواژه‫:"
+   },
+   "_Password__Agent": {
+      "message": "Password Agent"
+   },
+   "_Password__Corral": {
+      "message": "Password Corral"
+   },
+   "_Password__Depot": {
+      "message": "Password Depot"
+   },
+   "_Password__Dragon": {
+      "message": "Password Dragon"
+   },
+   "_Password__History": {
+      "message": "تاریخچه کلمه عبور"
+   },
+   "_Password__Keeper": {
+      "message": "Password Keeper"
+   },
+   "_Password__Length": {
+      "message": "بلندی گذرواژه"
+   },
+   "_Password__Length_": {
+      "message": "درازی گذرواژه‫:"
+   },
+   "_Password__Reminder": {
+      "message": "یادآور گذرواژه"
+   },
+   "_Password__Reminder_": {
+      "message": ":یادآور کلمه عبور"
+   },
+   "_Password__Safe": {
+      "message": "Password Safe"
+   },
+   "_Password_reminder_cannot_match_password": {
+      "message": "یادآور گذرواژه نمی‌تواند با گذرواژه یکسان باشد"
+   },
+   "_Password_updated_": {
+      "message": "گذرواژه به‌روز شد‫!"
+   },
+   "_Passwords__Max": {
+      "message": "Passwords Max"
+   },
+   "_Pending": {
+      "message": "در انتظار"
+   },
+   "_Personal": {
+      "message": "شخصی"
+   },
+   "_Peru": {
+      "message": "پرو"
+   },
+   "_Philippines": {
+      "message": "فیلیپین"
+   },
+   "_Phone__Number": {
+      "message": "شماره تلفن"
+   },
+   "_Phone_number": {
+      "message": "شماره تلفن"
+   },
+   "_Physician__Address": {
+      "message": "آدرس حقیقی"
+   },
+   "_Physician__Name": {
+      "message": "نام حقیقی"
+   },
+   "_Physician__Phone": {
+      "message": "تلفن حقیقی"
+   },
+   "_Pin": {
+      "message": "پین"
+   },
+   "_Pitcairn": {
+      "message": "پیتکارین"
+   },
+   "_Please__Make_a__Selection": {
+      "message": "لطفاً انتخاب کنید"
+   },
+   "_Please__Wait___": {
+      "message": "... لطفا صبر کنید"
+   },
+   "_Please_answer_the_following_question_": {
+      "message": "لطفا سوال زیر پاسخ دهید:"
+   },
+   "_Please_choose_the_type_of_print_you_would_like_to_perform_": {
+      "message": "لطفا نوع چاپی را می‌خواهید برگزینید‫:"
+   },
+   "_Please_complete_multifactor_authentication_on_your_phone_or_mobile_device_": {
+      "message": "لطفاً شناسایی چندعاملی را بر دستگاه یا گوشی همراه‌تان کامل کنید‫."
+   },
+   "_Please_enter_your_multifactor_authentication_code_": {
+      "message": "لطفا کد اعتبارسنجی چندگانه خود را وارد کنید."
+   },
+   "_Please_keep_this_page_open_until_the_operation_completes_": {
+      "message": ". لطفا این صفحه را  تا اتمام عملیات باز نگه دارید"
+   },
+   "_Please_note_that_upgrading_from__Last_Pass__Local_to__Last_Pass__Online_will_result_in_your_password_data_being_uploaded_in_its_encrypted_format_to__Last_Pass_servers____You_will_be_able_to_access_your_data_from_anywhere__and__Last_Pass_will_not_be_able_to_read_it____Would_you_like_to_continue_": {
+      "message": "ارتقا از لَست‌پس بومی به لَست‌پس برخط، داده‌های شما را به‌طور رمزگذاری‌شده به سرویس‌دهنده‌های لَست‌پس خواهد فرستاد. شما خواهید توانست از هرجایی به داده‌های‌تان دسترسی داشته باشد، و لَست‌پس نمی‌تواند آن‌ها را بخواند‫.\nمی‌خواهید ادامه دهید؟"
+   },
+   "_Please_provide_this_computer_a_name": {
+      "message": "لطفاً برای این رایانه نامی بنویسید"
+   },
+   "_Please_reload_the_page_to_view_your_changes_": {
+      "message": "برای دیدن تغییرات خود، برگه را بازآوری کنید‫."
+   },
+   "_Please_restart_all_your_browsers_to_begin_using__Last_Pass__Online_": {
+      "message": "برای آغاز به‌کارگیری برخط لَست‌پس، لطفاً همه‌ی مرورگرهای خود را دوباره بگشایید‫."
+   },
+   "_Please_select": {
+      "message": "لطفا انتخاب کنید"
+   },
+   "_Please_select_which_sites_you_wish_to_apply_this_change_": {
+      "message": "وب‌گاه‌هایی که می‌خواهید این تغییر را در آن‌ها اعمال کنید برگزینید‫."
+   },
+   "_Please_visit_https___lastpass_com_to_create_an_account_at_a_later_time_": {
+      "message": "برای ساخت حساب در آینده، به‫ https://lastpass.com بروید."
+   },
+   "_Poland": {
+      "message": "لهستان"
+   },
+   "_Policy__Number": {
+      "message": "شماره خطی مشی"
+   },
+   "_Policy__Type": {
+      "message": "نوع خطی مشی"
+   },
+   "_Polish": {
+      "message": "لهستانی"
+   },
+   "_Poll__Server_for_account_changes__mins_": {
+      "message": "بررسی سرور برای تغییرات حساب (دقیقه‫)"
+   },
+   "_Port": {
+      "message": "درگاه"
+   },
+   "_Portugal": {
+      "message": "پرتغال"
+   },
+   "_Portuguese": {
+      "message": "پرتغالی"
+   },
+   "_Portuguese___Brazilian_": {
+      "message": "(پرتغالی (برزیل"
+   },
+   "_Preferences": {
+      "message": "ترجیحات"
+   },
+   "_Price": {
+      "message": "قیمت"
+   },
+   "_Print": {
+      "message": "چاپ"
+   },
+   "_Print__Screen": {
+      "message": "عکس از صفحه نمایش"
+   },
+   "_Print__Secure__Notes": {
+      "message": "چاپ یادداشت‌های امن"
+   },
+   "_Print__Sites": {
+      "message": "چاپ وب‌گاه‌ها"
+   },
+   "_Privacy": {
+      "message": "حریم شخصی"
+   },
+   "_Private__Key": {
+      "message": "کلید خصوصی"
+   },
+   "_Product": {
+      "message": "محصول"
+   },
+   "_Productivity__Tools": {
+      "message": "ابزار های مفید"
+   },
+   "_Profile": {
+      "message": "نمایه"
+   },
+   "_Profile_language": {
+      "message": "زبان نمایه"
+   },
+   "_Profile_name": {
+      "message": "نام نمایه"
+   },
+   "_Pronounceable": {
+      "message": "قابل تلفظ"
+   },
+   "_Protected": {
+      "message": "محفوظ"
+   },
+   "_Public__Key": {
+      "message": "کلید عمومی"
+   },
+   "_Publisher": {
+      "message": "منتشرکننده"
+   },
+   "_Puerto__Rico": {
+      "message": "پورتوریکو"
+   },
+   "_Purchase__Date": {
+      "message": "تاریخ خرید"
+   },
+   "_Purge": {
+      "message": "پاکسازی"
+   },
+   "_Qatar": {
+      "message": "قطر"
+   },
+   "_Recent__Sites": {
+      "message": "واپسین وب‌گاه‌ها"
+   },
+   "_Recently__Used": {
+      "message": "واپسین کاربرده‌ها"
+   },
+   "_Recently__Used_list_size": {
+      "message": "اندازه‌ی فهرست واپسین به‌کاررفته‌ها"
+   },
+   "_Recheck__Page": {
+      "message": "بازبررسی برگه"
+   },
+   "_Reencrypting__Data___": {
+      "message": "بازرمزگذاری داده‌ها‫..."
+   },
+   "_Refresh": {
+      "message": "بازآوری"
+   },
+   "_Refresh__Sites": {
+      "message": "بازبررسی وب‌گاه‌ها"
+   },
+   "_Reject": {
+      "message": "رد کردن"
+   },
+   "_Remember__Email": {
+      "message": "به‌یادسپاری رایانامه"
+   },
+   "_Remember__Password": {
+      "message": "به‌یادسپاری گذرواژه"
+   },
+   "_Remember_every_password": {
+      "message": "به‌یادسپاری همه‌ی گذرواژه‌ها"
+   },
+   "_Remove": {
+      "message": "برداشتن"
+   },
+   "_Remove__Personal__Account": {
+      "message": "حذف حساب شخصی"
+   },
+   "_Rename__Group": {
+      "message": "تغییر نام پوشه"
+   },
+   "_Replace__Existing__Site": {
+      "message": "جایگزینی وب‌گاه موجود"
+   },
+   "_Request_failed__is_your__Internet_connection_down_": {
+      "message": "درخواست ناموفق بود، اتصال به اینترنت شما قطع شده است؟"
+   },
+   "_Require__All__Character__Type": {
+      "message": "نیاز به همه‌گونه نویسه"
+   },
+   "_Require__All__Character__Types": {
+      "message": "نیاز به همه‌گونه نویسه"
+   },
+   "_Require__Every__Character__Type": {
+      "message": "نیازمند همه‌نوع نویسه"
+   },
+   "_Require__Password__Reprompt": {
+      "message": "نیازمند تکرار گذرواژه"
+   },
+   "_Require_security_reprompt_when_": {
+      "message": "نیازمند هشدار امنیتی هنگام‫:"
+   },
+   "_Respect__Auto_Complete_off__allow_websites_to_disable__Auto_Fill": {
+      "message": "پیروی از «فرم‌پرکن=خاموش»: اجازه‌ی غیرفعال‌کردن فرم‌پرکن خودکار"
+   },
+   "_Reunion": {
+      "message": "تجدید دیدار"
+   },
+   "_Revert__Password__Change": {
+      "message": "بازگرداندن تغییر رمز عبور"
+   },
+   "_Right": {
+      "message": "راست"
+   },
+   "_Robo_Form": {
+      "message": "RoboForm"
+   },
+   "_Romania": {
+      "message": "رومانی"
+   },
+   "_Routing__Number": {
+      "message": "شماره مسیریابی"
+   },
+   "_Routing_number": {
+      "message": "شماره‌ی روتینگ"
+   },
+   "_Run_the__Google__Authenticator_application_on_your_mobile_device_and_enter_the_verification_code_in_the_input_box_below_": {
+      "message": "برنامه‌ی Google Authenticator را در دستگاه همراه‌تان اجرا کنید و کد تأیید را در جعبه‌ی زیر بنویسید‫."
+   },
+   "_Russian": {
+      "message": "روسی"
+   },
+   "_Russian__Federation": {
+      "message": "فدراسیون روسیه"
+   },
+   "_Rwanda": {
+      "message": "رواندا"
+   },
+   "_S_I_D": {
+      "message": "SID"
+   },
+   "_S_I_T_E": {
+      "message": "وب‌گاه"
+   },
+   "_S_M_T_P__Port": {
+      "message": "درگاه ‫SMTP"
+   },
+   "_S_M_T_P__Server": {
+      "message": "سرویس‌دهنده‌ی ‫SMTP"
+   },
+   "_S_P_B__Wallet": {
+      "message": "SPB Wallet"
+   },
+   "_S_S_H__Key": {
+      "message": "SSH کلید"
+   },
+   "_S_S_I_D": {
+      "message": "SSID"
+   },
+   "_S_W_I_F_T__Code": {
+      "message": "کد ‫SWIFT"
+   },
+   "_Safari": {
+      "message": "سفری"
+   },
+   "_Safari__Password__Manager": {
+      "message": "مدیر گذرواژه‌های ‫Safari"
+   },
+   "_Saint__Barthelemy": {
+      "message": "جزیره سن بارتلمی"
+   },
+   "_Saint__Helena": {
+      "message": "سنتت هلن"
+   },
+   "_Saint__Kitts_and__Nevis": {
+      "message": "سنت کیتس و نویس"
+   },
+   "_Saint__Lucia": {
+      "message": "سنت لوسیا"
+   },
+   "_Saint__Martin___French__Part_": {
+      "message": "مارتین سنت (قسمت فرانسوی)"
+   },
+   "_Saint__Pierre_and__Miquelon": {
+      "message": "سنت پیر و میکلون"
+   },
+   "_Saint__Vincent_and_the__Grenadines": {
+      "message": "سنت وینسنت و گرنادین"
+   },
+   "_Samoa": {
+      "message": "ساموآ"
+   },
+   "_San__Marino": {
+      "message": "سن مارینو"
+   },
+   "_Sao__Tome_and__Principe": {
+      "message": "سائو تومه و پرنسیپ"
+   },
+   "_Saudi__Arabia": {
+      "message": "عربستان سعودی"
+   },
+   "_Save": {
+      "message": "ذخیره"
+   },
+   "_Save__All__Entered__Data": {
+      "message": "ذخیره‌ی همه‌ی داده‌های واردشده"
+   },
+   "_Save__Credit__Card_profile": {
+      "message": "ذخیره‌ی نمایه‌ی کارت اعتبای"
+   },
+   "_Save__File": {
+      "message": "ذخیره فایل"
+   },
+   "_Save__New__Site": {
+      "message": "ذخیره‌ی وب‌گاه تازه"
+   },
+   "_Save__Password_to__Vault": {
+      "message": "ذخیره‌ی گذرواژه در صندوق"
+   },
+   "_Save__Password_to__Vault_": {
+      "message": "ذخیره‌ی گذرواژه در صندوق؟"
+   },
+   "_Save__Site": {
+      "message": "ذخیره‌ی وب‌گاه"
+   },
+   "_Save_a_disabled__One__Time__Password_locally_for__Account__Recovery": {
+      "message": "ذخیره‌ی یک پسورد غیرفعال یک‌بارمصرف برای بازیابی حساب کاربری شما"
+   },
+   "_Save_the_password_to_your__Last_Pass__Vault_": {
+      "message": "ذخیره‌ی این گذرواژه در صندوق لَست‌پس شما"
+   },
+   "_Save_this_password_as_a_new_entry": {
+      "message": "ذخیره‌ی این گذرواژه به‌عنوان ورودی تازه"
+   },
+   "_Save_this_website_into_your__Last_Pass__Vault_": {
+      "message": "ذخیره‌ی این گذرواژه در صندوق لَست‌پس شما‫!"
+   },
+   "_Save_your_changes_and_close_this_window": {
+      "message": "ذخیره‌ی داده‌های شما و بستن این پنجره"
+   },
+   "_Save_your_password_to_your__Last_Pass__Vault_": {
+      "message": "ذخیره‌ی این گذرواژه در صندوق لَست‌پس شما؟"
+   },
+   "_Saved__Passwords": {
+      "message": "گذرواژه‌های ذخیره‌شده"
+   },
+   "_Screen__Keyboard": {
+      "message": "صفحه کلید تصویری"
+   },
+   "_Search__All__Data": {
+      "message": "جست‌وجوی همه‌ی داده‌ها"
+   },
+   "_Search__All__Notes": {
+      "message": "جست‌وجوی همه‌ی یادداشت‌ها"
+   },
+   "_Search__All__Sites": {
+      "message": "جست‌وجوی همه‌ی وب‌گاه‌ها"
+   },
+   "_Search__Last_Pass__Vault": {
+      "message": "جست‌وجوی صندوق لَست‌پس"
+   },
+   "_Search__Vault": {
+      "message": "جستجوی گاوصندوق"
+   },
+   "_Search_within_secure_notes": {
+      "message": "جست‌وجو در یادداشت‌های امن"
+   },
+   "_Searchproper": {
+      "message": "جست‌وجو"
+   },
+   "_Secure__Note": {
+      "message": "یادداشت امن"
+   },
+   "_Secure__Notes": {
+      "message": "یادداشت‌های امن"
+   },
+   "_Security": {
+      "message": "امنیت"
+   },
+   "_Security__Challenge": {
+      "message": "چالش امنیتی"
+   },
+   "_Security__Check": {
+      "message": "ارزیابی امنیت"
+   },
+   "_Security__Code": {
+      "message": "کد امنیتی:"
+   },
+   "_Security__Notice": {
+      "message": "نکات امنیتی"
+   },
+   "_Security__Question__Multifactor__Authentication": {
+      "message": "سوال امنیتی تأیید هویت چند عاملی"
+   },
+   "_Security_code": {
+      "message": "کد امنیتی"
+   },
+   "_Select": {
+      "message": "انتخاب"
+   },
+   "_Select__All": {
+      "message": "انتخاب همه"
+   },
+   "_Select__Identity": {
+      "message": "انتخاب هویت"
+   },
+   "_Select_a_preference_to_edit__then_tap__O_K_": {
+      "message": "گزینه ترجیچی ای را برای ویراش انتخاب کرده سپس کلید OK را بفشارید"
+   },
+   "_Select_or_enter_a_new_group_name": {
+      "message": "انتخاب یا وارد کردن یک نام پوشه جدید"
+   },
+   "_Send__Email": {
+      "message": "ایمیل را ارسال کن"
+   },
+   "_Send__S_M_S_passcodes": {
+      "message": "فرستادن کدهای عبور پیامکی"
+   },
+   "_Send_anonymous_error_reporting_data_to_help_improve__Last_Pass": {
+      "message": "فرستان ناشناس گزارش خطا، برای بهبود لَست‌پس"
+   },
+   "_Senegal": {
+      "message": "سنگال"
+   },
+   "_September": {
+      "message": "سپتامبر"
+   },
+   "_Serbia": {
+      "message": "صربستان"
+   },
+   "_Server": {
+      "message": "سرویس‌دهنده"
+   },
+   "_Sesame_Wrong_Button": {
+      "message": "برای دیدن داده‌های خود در حالت آفلاین، باید پس از اجرای ‫Sesame، به‌جای دکمه‌ی «ایجاد گذرواژه‌ی یکبارمصرف»، از دکمه‌ی «گذرواژه‌ی رونوشت آفلاین» استفاده کنید."
+   },
+   "_Sesame__Multifactor__Authentication": {
+      "message": "شناسایی چندعاملی ‫Sesame"
+   },
+   "_Sessions": {
+      "message": "جلسه‌ها"
+   },
+   "_Set_up_custom_form_fields": {
+      "message": "پیکربندی فیلدهای فرم خودکار"
+   },
+   "_Settings": {
+      "message": "تنظیمات"
+   },
+   "_Sex": {
+      "message": "جنسیت"
+   },
+   "_Seychelles": {
+      "message": "سیشل"
+   },
+   "_Share": {
+      "message": "درمیان‌گذاری"
+   },
+   "_Share__Folder": {
+      "message": "به اشتراک گذاری پوشه"
+   },
+   "_Share__Item": {
+      "message": "اشتراک مورد"
+   },
+   "_Share__Selected": {
+      "message": "درمیان‌گذاری انتخاب‌شده‌ها"
+   },
+   "_Share_login_state_between_other_browsers": {
+      "message": "درمیان‌گذاری وضعیت ورود بین دیگر مرورگرها"
+   },
+   "_Share_offer_from": {
+      "message": "درمیان‌گذاری پیشنهاد از"
+   },
+   "_Shared__Folders": {
+      "message": "پوشه های اشتراکی"
+   },
+   "_Shares": {
+      "message": "به اشتراک گذاری"
+   },
+   "_Shift": {
+      "message": "Shift"
+   },
+   "_Shopping": {
+      "message": "خرید"
+   },
+   "_Should__Last_Pass_remember_this_password_": {
+      "message": "آیا لست‌پس این گذرواژه را ذخیره کند؟"
+   },
+   "_Show": {
+      "message": "نمایش"
+   },
+   "_Show__Advanced__Options": {
+      "message": "نمایش تنظیمات پیشرفته"
+   },
+   "_Show__All": {
+      "message": "نمایش همه"
+   },
+   "_Show__Change__Password__Notification__Bar": {
+      "message": "نمایش نوار آگاهی تغییر گذواژه"
+   },
+   "_Show__Deleted__Items": {
+      "message": "نمایش ایتم های حذف شده"
+   },
+   "_Show__Deleted__Sites": {
+      "message": "نمایش وب‌گاه‌های زودوده‌شده"
+   },
+   "_Show__Fill__Notification__Bar": {
+      "message": "نمایش نوار آگاهی پُرکردن"
+   },
+   "_Show__Form__Fill__Notifications": {
+      "message": "نمایش آگاهی‌های پُرکردن خودکار فرم"
+   },
+   "_Show__Matching__Sites": {
+      "message": "نمایش وب‌گاه‌های منطبق"
+   },
+   "_Show__My__Last_Pass__Vault__After__Login": {
+      "message": "نمایش صندوق ‫LastPass پس از ورود"
+   },
+   "_Show__Notifications": {
+      "message": "نمایش آگاهی‌ها"
+   },
+   "_Show__Password": {
+      "message": "نمایش گذرواژه"
+   },
+   "_Show__Save__Site__Notification__Bar": {
+      "message": "نمایش نوار آگاهی ذخیره‌ی وب‌گاه"
+   },
+   "_Show__Save__Site__Notifications": {
+      "message": "نمایش آگاه‌های ذخیره‌ساز وب‌گاه"
+   },
+   "_Show__Sites_in__Groups": {
+      "message": "سایت ها را در قالب پوشه ها نمایش دهید"
+   },
+   "_Show__Vault__After__Login": {
+      "message": "نمایش صندوق بعد ورود"
+   },
+   "_Show_all_sites": {
+      "message": "نمایش همه‌ی وب‌گاه‌ها"
+   },
+   "_Show_certain_notifications_only_after_click": {
+      "message": "نمایش بعضی آگاهی‌ها را تنها بعد کلیک"
+   },
+   "_Show_notifications_below_browser": {
+      "message": "نمایش تذکرات در پایین مرورگر"
+   },
+   "_Show_or__Hide__Password": {
+      "message": "نمایش یا پنهان‌سازی گذرواژه"
+   },
+   "_Shows_another_custom_field_entry": {
+      "message": "نمایش یک ورودی دیگر فیلد سفارشی"
+   },
+   "_Sierra__Leone": {
+      "message": "سیرالئون"
+   },
+   "_Sign__In": {
+      "message": "ورود"
+   },
+   "_Simplify_your_life___Use__Last_Pass_to_autofill_in_this_site_s_login_info_": {
+      "message": "زندگی را ساده کند: برای پرُکردن خودکار اطلاعات ورود این وب‌گاه، از ‫LastPass استفاده کنید‫!"
+   },
+   "_Singapore": {
+      "message": "سنگاپور"
+   },
+   "_Site": {
+      "message": "سایت"
+   },
+   "_Site__Search": {
+      "message": "جست‌وجوی وب‌گاه"
+   },
+   "_Sites": {
+      "message": "وب‌گاه‌ها"
+   },
+   "_Slovak": {
+      "message": "اسلواکی"
+   },
+   "_Slovakia": {
+      "message": "اسلواکی"
+   },
+   "_Slovenia": {
+      "message": "اسلوونی"
+   },
+   "_Social": {
+      "message": "اجتماعی"
+   },
+   "_Social__Security": {
+      "message": "تأمین اجتماعی (ملی‫)"
+   },
+   "_Social__Security__Number": {
+      "message": "شماره تامین اجتماعی"
+   },
+   "_Social_security_number": {
+      "message": "شماره ملی"
+   },
+   "_Software__License": {
+      "message": "پروانه‌ی نرم‌افزار"
+   },
+   "_Solomon__Islands": {
+      "message": "جزایر سلیمان"
+   },
+   "_Somalia": {
+      "message": "سومالی"
+   },
+   "_Sorry__this_shared_folder_is_read_only_": {
+      "message": "با پوزش، پوشه‌ی اشتراک تنها خواندنی است‫."
+   },
+   "_Sorry__you_cannot_perform_this_operation_on_a_mix_of_shared_and_non_shared_folders__or_multiple_shared_folders_at_once_": {
+      "message": "با پوزش، نمی‌توانید این کار را هم‌زمان بر آمیزه‌ای از پوشه‌های اشتراکی و غیراشتراکی، یا چند پوشه‌ی اشتراکی انجام دهید‫."
+   },
+   "_Source": {
+      "message": "منبع"
+   },
+   "_Source_": {
+      "message": "منبع‫:"
+   },
+   "_South__Africa": {
+      "message": "آفریقای جنوبی"
+   },
+   "_South__Georgia": {
+      "message": "جورجیای جنوبی"
+   },
+   "_South__Georgia_and_the__South__Sandwich__Islands": {
+      "message": "جورجیای جنوبی و جزایر ساندویچ جنوبی"
+   },
+   "_Spain": {
+      "message": "اسپانیا"
+   },
+   "_Spanish": {
+      "message": "اسپانیایی"
+   },
+   "_Spanish___Mexico_": {
+      "message": "(اسپانیایی (مکزیک"
+   },
+   "_Special": {
+      "message": "ویژه"
+   },
+   "_Splash_I_D": {
+      "message": "SplashID"
+   },
+   "_Sports": {
+      "message": "ورزش"
+   },
+   "_Sri__Lanka": {
+      "message": "سری لانکا"
+   },
+   "_Start__Date": {
+      "message": "تاریخ شروع"
+   },
+   "_Start__Trial": {
+      "message": "شروع دوره ی آزمایشی"
+   },
+   "_Start_date": {
+      "message": "تاریخ شروع"
+   },
+   "_State": {
+      "message": "استان"
+   },
+   "_State____Province": {
+      "message": "ایالت / استان"
+   },
+   "_Status": {
+      "message": "وضعیت"
+   },
+   "_Sticky__Password": {
+      "message": "Sticky Password"
+   },
+   "_Store_every_note": {
+      "message": "همه ی یادداشت ها را ذخیره کن"
+   },
+   "_Submit__Form": {
+      "message": "فرستادن فرم"
+   },
+   "_Submitting___": {
+      "message": "..درحال تائید"
+   },
+   "_Sudan": {
+      "message": "سودان"
+   },
+   "_Support__Email": {
+      "message": "رایانشانی پشتیبانی"
+   },
+   "_Suriname": {
+      "message": "سورینام"
+   },
+   "_Suspicious_characters_found_in_selected_filename__will_not_process_it": {
+      "message": "کاراکتر مشکوک پیدا شده در نام فایل انتخاب شده، آن را پردازش نمی کند"
+   },
+   "_Svalbard_and__Jan__Mayen": {
+      "message": "سوالبارد و یان ماین"
+   },
+   "_Swaziland": {
+      "message": "سوازیلند"
+   },
+   "_Sweden": {
+      "message": "سوئد"
+   },
+   "_Swedish": {
+      "message": "سوئدی"
+   },
+   "_Swipe_finger": {
+      "message": "انگشت را بکشید"
+   },
+   "_Swipe_your_finger_on_the_fingerprint_sensor": {
+      "message": "انگشت خود را بر روی حس‌گر اثر انگشت بکشید"
+   },
+   "_Switzerland": {
+      "message": "سویس"
+   },
+   "_Syrian__Arab__Republic": {
+      "message": "جمهوری عربی سوریه"
+   },
+   "_Tabs": {
+      "message": "زبانه‌ها"
+   },
+   "_Taiwan": {
+      "message": "تایوان"
+   },
+   "_Tajikistan": {
+      "message": "تاجیکستان"
+   },
+   "_Tanzania___United__Republic__Of": {
+      "message": "تانزانیا ، جمهوری متحده"
+   },
+   "_Tehran": {
+      "message": "تهران"
+   },
+   "_Telephone": {
+      "message": "تلفن"
+   },
+   "_Tell_a_friend_": {
+      "message": "!به یک دوست بگویید"
+   },
+   "_Text": {
+      "message": "نوشتار"
+   },
+   "_Text_to_find": {
+      "message": "یافتن نوشتار"
+   },
+   "_Thailand": {
+      "message": "تایلند"
+   },
+   "_That_group_already_exists_": {
+      "message": "این پوشه وجود دارد."
+   },
+   "_The_4_digit_year_the_credit_card_was_issued": {
+      "message": "سال (۴ رقمی) که کارت اعتباری شما صادر شده‌است"
+   },
+   "_The__Last_Pass_master_password_you_reentered_does_not_match": {
+      "message": "گذرواژه‌ی مادر بازواردشده یکسان نیست"
+   },
+   "_The___Old__Password__you_entered_is_not_your_correct__Last_Pass_master_password": {
+      "message": "گذرواژه‌ی «قدیمی» که وارد کرده‌اید، گذرواژه‌ی مادر درست لَست‌پس شما نیست"
+   },
+   "_The_binary_version_of_the__Last_Pass_plugin_is_required_for_this_operation___It_can_be_downloaded_from_lastpass_com_": {
+      "message": "برای این کار، به نسخه‌ی دودویی افزونه‌ی لَست‌پس نیاز دارید. این برنامه می‌توانید از‫ lastpass.com دریافت کنید."
+   },
+   "_The_credit_card_number": {
+      "message": "شماره‌ی کارت اعتباری"
+   },
+   "_The_credit_card_s_4_digit_expiration_year": {
+      "message": "سال (۴ رقمی) که کارت اعتباری شما انقضا می‌یابد"
+   },
+   "_The_credit_card_s_expiration_month": {
+      "message": "ماه انقضای کارت اعتباری"
+   },
+   "_The_credit_card_s_issue_number___Only_applicable_to_certain__European_brands_of_debit_cards__such_as__Maestro_": {
+      "message": "شماره‌ی صدور کارت اعتباری\nتنها برای بعضی کارت‌های نقدی اروپایی، مثل ‫Maestro."
+   },
+   "_The_credit_card_s_security_code___For_most_credit_cards__this_is_the_last_3_digits_of_a_number_printed_on_the_back_of_the_card___For__American__Express_credit_cards__it_is_the_last_4_digits_of_a_number_printed_in_small_print_on_the_front_of_the_card_": {
+      "message": "‫کد امنیتی کارت اعتباری (CVV2).\nبرای بیش‌تر کارت‌ها، ۳ رقم آخر چا‌پشده در پشت آن‌ها است‫.\nبرای کارت‌های اعتباری آمریکن اکسپرس، ۴ رقم کوچکی است که  جلوی کارت چاپ شده‌است‫."
+   },
+   "_The_full_name_printed_on_the_credit_card": {
+      "message": "نام کامل چاپ‌شده بر کارت اعتباری"
+   },
+   "_The_month_the_credit_card_was_issued": {
+      "message": "ماهی که کارت اعتباری صادر شده‌است"
+   },
+   "_The_name_of_your_bank": {
+      "message": "نام بانک شما"
+   },
+   "_The_number_of_characters_in_the_generated_password_": {
+      "message": "شمار حرف‌ها در گذرواژه‌ی ساخته‌شده"
+   },
+   "_The_password_that_you_use_to_log_into_this_website_": {
+      "message": "گذرواژه‌ای که با آن وارد این وب‌گاه می‌شوید‫."
+   },
+   "_The_value_to_be_filled": {
+      "message": "مقداری که باید پر شود"
+   },
+   "_The_version_of__Chrome_you_are_currently_running_does_not_have__H_T_M_L5_database_support_enabled____As_such__this_login_page_will_not_remember_your_email_and_password__and_other_features_such_as_automatic_login_on_browser_restart_will_not_work_": {
+      "message": "پشتیبانی بانک‌داده‌های ‫HTML5 در نسخه‌ی کنونی کروم شما غیرفعال است‫. بنابراین، این برگه‌ی ورود، رایانامه و گذرواژه‌ی شما را به‌یاد نخواهد سپرد، و دیگر ویژگی‌هایی، مانند ورود خودکار در بازآغازی مرورگر کار نخواهد کرد‫."
+   },
+   "_The_version_of__Chrome_you_are_currently_running_does_not_have__H_T_M_L5_database_support_enabled____As_such__this_login_page_will_not_remember_your_email_and_password__and_other_features_such_as_automatic_login_on_browser_restart_will_not_work____You_may_be_able_to_fix_this_by_adding___enable_databases_as_a_parameter_to_your__Google__Chrome_browser_shortcut_": {
+      "message": "در این نسخه‌ی کروم شما،از بانک‌داده‌های ‫HTML5 پشتیبانی نمی‌کند. در نتیجه، این برگه‌ی ورود، رایانامه و گذرواژه‌ی شما و دیگر ویژگی‌های خودکار را به‌یاد نمی‌سپارد. با افزودن --enable-databases به پارامترهای میان‌بر آغاز مرورگر گوگل کروم، شاید بتوانید این کاستی را تعمیر کنید."
+   },
+   "_This_attachment_needs_to_be_saved_first_": {
+      "message": "اول باید این پیوست ذخیره شود‫."
+   },
+   "_This_can_only_be_handled_from_a_webpage": {
+      "message": "این فقط می تواند از یک صفحه وب به کار گرفته می شود"
+   },
+   "_This_computer_is_trusted__do_not_require_a_second_form_of_authentication_for_30_days_": {
+      "message": ".این رایانه مورد اعتماد است، تا 30 روز درخواست فرم احراز هویت ثانویه نکن"
+   },
+   "_This_feature_still_needs_to_be_implemented__to_read_directly_from_": {
+      "message": "این امکان هنوز ایجاد نشده‌است. برای خواندن مستقیم "
+   },
+   "_This_is_a_shared_site___You_are_not_permitted_to_view_the_password_": {
+      "message": "این یک سایت به‌اشتراک‌گذاشته‌شده است. شما مجاز به دیدن گذرواژه‌اش نیستید‫."
+   },
+   "_This_is_the_name_or__U_R_L_of_this_web_page_": {
+      "message": "این، نام یا نشانی برگه‌ی وب است‫."
+   },
+   "_This_may_take_a_while___": {
+      "message": ".. ممکن است کمی طول کشد"
+   },
+   "_This_password_you_use_to_log_into_this_website_": {
+      "message": "با این گذرواژه وارد این وب‌گاه می‌شوید‫."
+   },
+   "_Time__Zone": {
+      "message": "منطقه‌ی زمانی"
+   },
+   "_Timor__Leste": {
+      "message": "تیمور لسته"
+   },
+   "_Title": {
+      "message": "عنوان"
+   },
+   "_To_create_your_account__please_re_enter_your__Last_Pass_master_password": {
+      "message": "برای ایجاد حساب‌تان، لطفاً گذرواژه‌ی مادر لَست‌پس خود را دوباره وارد کنید‫."
+   },
+   "_To_get_started_with__Last_Pass__you_will_need_to_add_sites_to_your_account_": {
+      "message": "برای به‌کارگیری ‫LastPass باید وبگاه‌هایی را به حساب‌تان بیفزایید."
+   },
+   "_To_import__Wi__Fi_passwords__simply_click__Import_below_": {
+      "message": "برای وارد‌کردن گذرواژه‌های ‫Wi-Fi، کافی است «واردکردن» را در پایین بفشارید‫."
+   },
+   "_To_protect_your_privacy_and_keep_your_data_confidential_": {
+      "message": "‫برای پاسداری از حریم‌خصوصی و نگهبانی از محرمانگی داده‌های شما،"
+   },
+   "_Togo": {
+      "message": "توگو"
+   },
+   "_Tokelau": {
+      "message": "توکلائو"
+   },
+   "_Tonga": {
+      "message": "تونگا"
+   },
+   "_Tools": {
+      "message": "ابزارها"
+   },
+   "_Travel": {
+      "message": "سفر"
+   },
+   "_Trinidad_and__Tobago": {
+      "message": "ترینیداد و توباگو"
+   },
+   "_Trust_this_computer_for_30_days": {
+      "message": "اعتماد به این کامپیوتر برای 30 روز."
+   },
+   "_Try__Again": {
+      "message": "تلاش دوباره"
+   },
+   "_Tunisia": {
+      "message": "تونس"
+   },
+   "_Turbo_Passwords": {
+      "message": "TurboPasswords"
+   },
+   "_Turkey": {
+      "message": "ترکیه"
+   },
+   "_Turkmenistan": {
+      "message": "ترکمنستان"
+   },
+   "_Turks_and__Caicos__Islands": {
+      "message": "جزایر ترکها و"
+   },
+   "_Tutorials": {
+      "message": "آموزش"
+   },
+   "_Tuvalu": {
+      "message": "تووالو"
+   },
+   "_Type": {
+      "message": "نوع"
+   },
+   "_Type_": {
+      "message": "نوع :"
+   },
+   "_U_R_L": {
+      "message": "آدرس سایت (URL)"
+   },
+   "_U_R_L_": {
+      "message": "نشانی‫:"
+   },
+   "_U_S_E_R_N_A_M_E": {
+      "message": "نام کاربری"
+   },
+   "_Uganda": {
+      "message": "اوگاندا"
+   },
+   "_Ukraine": {
+      "message": "اوکراین"
+   },
+   "_Ulaan__Bataar___Perth": {
+      "message": "اولان باتار ، پرت"
+   },
+   "_Unexpected_data_type__": {
+      "message": "داده‌های غیرمنتظره‫:"
+   },
+   "_United__Arab__Emirates": {
+      "message": "امارات متحده عربی"
+   },
+   "_United__Kingdom": {
+      "message": "بریتانیا"
+   },
+   "_United__States": {
+      "message": "ایالات متحده"
+   },
+   "_United__States__Minor__Outlying__Islands": {
+      "message": "جزیره های کوچک دورافتاده ایالات متحده"
+   },
+   "_Unknown": {
+      "message": "ناشناخته"
+   },
+   "_Unselect__All": {
+      "message": "انتخاب هیچ‌کدام"
+   },
+   "_Up": {
+      "message": "بالا"
+   },
+   "_Upgrade_to__Last_Pass__Online_": {
+      "message": "ارتقا به ‫LastPass Online!"
+   },
+   "_Upgrade_to__Premium": {
+      "message": "Premium ارتقا به"
+   },
+   "_Uploading__Data___": {
+      "message": "بارگذاری داده‌ها‫..."
+   },
+   "_Uruguay": {
+      "message": "اروگوئه"
+   },
+   "_Use": {
+      "message": "استفاده"
+   },
+   "_Use_802_1_X": {
+      "message": "802.1X استفاده از"
+   },
+   "_Use__Password": {
+      "message": "به‌کارگیری گذرواژه"
+   },
+   "_Use__Special__Characters": {
+      "message": "بهره‌گیری از نویسه‌های ویژه"
+   },
+   "_Use__Special__Characters_": {
+      "message": "بهره‌گیری از نویسه‌های ویژه؟"
+   },
+   "_Use_this_password_now__for_this_site__": {
+      "message": "اکنون به‌کارگیری این گذرواژه (برای این وب‌گاه‫)"
+   },
+   "_User": {
+      "message": "کاربر"
+   },
+   "_User__Group": {
+      "message": "گروه کاربری"
+   },
+   "_User__Manual": {
+      "message": "کتابچه راهنمای کاربر"
+   },
+   "_User_name": {
+      "message": "شناسه‌ی کاربری"
+   },
+   "_Username_": {
+      "message": "نام کاربری‫:"
+   },
+   "_Username__History": {
+      "message": "تاریخچه نام کاربری"
+   },
+   "_Usernameproper": {
+      "message": "کاربرنام"
+   },
+   "_Uzbekistan": {
+      "message": "ازبکستان"
+   },
+   "_Value": {
+      "message": "ارزش"
+   },
+   "_Value_to_fill": {
+      "message": "مقداری که باید پر شود"
+   },
+   "_Vanuatu": {
+      "message": "وانواتو"
+   },
+   "_Vault": {
+      "message": "صندوق"
+   },
+   "_Venezuela": {
+      "message": "ونزوئلا"
+   },
+   "_Version": {
+      "message": "نسخه"
+   },
+   "_Version_": {
+      "message": "نسخه:"
+   },
+   "_Viet__Nam": {
+      "message": "ویتنام"
+   },
+   "_View__Deleted__Shared__Folders": {
+      "message": "دیدن پوشه‌های اشتراکی حذف‌شده"
+   },
+   "_View__History": {
+      "message": "مشاهده تاریخچه"
+   },
+   "_View__Image": {
+      "message": "دیدن عکس"
+   },
+   "_View__Passwords": {
+      "message": "نمایش گذرواژه‌ها"
+   },
+   "_Virgin__Islands___British_": {
+      "message": "جزایر ویرجین (بریتانیا)"
+   },
+   "_Virgin__Islands___U__S__": {
+      "message": "جزایر ویرجین (ایالات متحده)"
+   },
+   "_Wallis_and__Futuna": {
+      "message": "والیس و فوتونا"
+   },
+   "_Warn_before_filling_insecure_forms": {
+      "message": "اخطار پیش از پرکردن فرم‌های ناامن"
+   },
+   "_Watch_a_video_on_basic_usage": {
+      "message": "دیدن ویدئوی طرز استفاده ابتدایی"
+   },
+   "_We_also__D_O__N_O_T_keep_a_copy_or_backup_of_it_": {
+      "message": "ما همچنین یک کپی پشتیبان از آن را نگه نمیداریم."
+   },
+   "_Weak__Password": {
+      "message": "رمز ضعیف"
+   },
+   "_Website": {
+      "message": "وب‌گاه"
+   },
+   "_Welcome_to__Last_Pass_": {
+      "message": "!خوش آمدید LastPass به"
+   },
+   "_Welcome_to__Last_Pass_4_0": {
+      "message": "به LastPass 4.0 خوش آمدید"
+   },
+   "_West__Central__Africa": {
+      "message": "غرب آفریقای مرکزی"
+   },
+   "_Western__Sahara": {
+      "message": "صحرای غربی"
+   },
+   "_What_you_use_to_log_into_this_website_": {
+      "message": "آن‌جه برای ورود به این وب‌گاه به‌کار می‌برید‫."
+   },
+   "_When_this_box_is_checked__confusing_characters__1__I__L_0__O__are_not_used_": {
+      "message": "هرگاه این تیک زده شد، کاراکترهای گیج کننده (1,l,0,o) استفاده نمی‌شود."
+   },
+   "_When_this_box_is_checked__generate_a_password_that_is_easy_to_pronounce_": {
+      "message": "هرگاه این تیک زده شد،کلمه‌ی عبوری که تلفظ آن آسان است ایجاد کن."
+   },
+   "_Wi__Fi__Password": {
+      "message": "رمز عبور وای-فای"
+   },
+   "_Wi__Fi__Passwords": {
+      "message": "گذرواژه‌های وای-فای"
+   },
+   "_Windows": {
+      "message": "پنجره‌ها"
+   },
+   "_Would_you_like_to_set_up_a__Form__Filling_profile_now_": {
+      "message": "می‌خواهید اکنون یک نمایه‌ی پرُکردن خودکار بسازید؟"
+   },
+   "_X_M_L__Files": {
+      "message": "فایلهای XML"
+   },
+   "_Yangon___Rangoon_": {
+      "message": "یانگون (رانگون‫)"
+   },
+   "_Yemen": {
+      "message": "یمن"
+   },
+   "_Yes": {
+      "message": "بله"
+   },
+   "_Yes___Use_for_this__Site": {
+      "message": "بله، به‌کارگیری برای این وب‌گاه به‌کار"
+   },
+   "_Yes__let_me_choose_which_items__I_want_imported_into__Last_Pass": {
+      "message": "بله، بگذارید گزینه‌هایی را می‌خواهم، برای وارد‌کردن به لَست‌پس انتخاب کنم"
+   },
+   "_Yes__let_me_enter_and_review_data_that_will_be_used_when_filling_forms": {
+      "message": "بله، بگذارید داده‌های پُرکردن خودکار را وارد و بازبینی کنم"
+   },
+   "_You_are_moving_sites_to_a_shared_folder___This_will_potentially_make_them_available_to_others____Are_you_sure_you_would_like_to_continue_": {
+      "message": "وب‌گاه‌ها را به یک پوشته‌ی اشتراکی می‌برید. این کار شاید آن‌ها را در دسترس دیگران بگذارد‫.\n\nآیا بی‌تردید می‌خواهید ادامه دهید؟"
+   },
+   "_You_cannot_assign_more_than_one__Hot_Key_the_same_value_": {
+      "message": "نمی‌توانید برای یک مقدار، بیش از یک میان‌بر تخصیص دهید‫."
+   },
+   "_You_cannot_move_individually_shared_sites_into_a_shared_folder_": {
+      "message": "نمی‌توانید وب‌گاه‌هایی به‌تنهایی درمیان‌گذاری‌شده را به یک پوشته‌ی اشتراکی ببرید‫."
+   },
+   "_You_currently_have__Last_Pass_set_to_remember_your_password____Doing_so_essentially_makes_the_automatically_logoff_options_you_ve_chosen_useless____Would_you_like__Last_Pass_to_stop_remembering_your_password_": {
+      "message": "شما لَست‌پس را تنظیم کرده‌اید که گذرواژه‌تان را به‌یاد بسپارد. این کار، گزینه‌ی خروج خودکار شا را بی‌معنا می‌کند. آیا می‌خواهید لَست‌پس گذرواژه‌ی شما را به‌یاد نسپارد؟"
+   },
+   "_You_have_not_yet_chosen_a_default_form_fill_profile____Would_you_like_to_choose_one_now_": {
+      "message": "برای پُرکردن خودکار فرم، یک نمایه‌ی پیش‌فرض برنگزیده‌اید. اکنون می‌خواهید انتخاب کنید؟"
+   },
+   "_You_have_saved_your_password_to_your__Last_Pass__Vault_": {
+      "message": "گذرواژه‌ی خود را در صندوق لَست‌پس ذخیره کرده‌اید‫."
+   },
+   "_You_may_also_be_blocking_all_cookies__which_causes__Chrome_to_disallow__H_T_M_L5_database_access_": {
+      "message": "شاید هم همه‌ی کوکی‌ها را مسدود کرده‌اید، که سبب می‌شود کروم اجازه‌ی دسترسی به بانک‌داده‌های ‫HTML5 ندهد."
+   },
+   "_You_must_agree_to_send_your_encrypted_data_to__Last_Pass_com____Last_Pass_com_encrypts_your_data_and_sends_it_to_its_secure_servers___No_one_at__Last_Pass_can_read_your_confidential_data_since_it_is_encrypted_using_your_secret_password_and_you_are_the_only_one_who_knows_your_password_": {
+      "message": "‫باید با فرستادن داده‌های رمزگذاری‌شده‌ی خود به LastPass.com موافقت کنید.\n\nLastPass.com داده‌های شما را رمزگذاری کرده و به سرویس‌دهنده‌های امن خود می‌فرستد.\nدر ‫LastPass هیچ‌کس نمی‌تواند داده‌های محرمانه‌ی شما را بخواند؛ چون شما آن‌ها را با گذرواژه‌ی مخصوص خود رمزگذاری کرده‌اید و تنها شما این گذرواژه را می‌دانید."
+   },
+   "_You_must_agree_to_the_terms_to_continue": {
+      "message": "برای ادامه، باید با شرایط موافقت کنید"
+   },
+   "_You_must_enter_a_name_": {
+      "message": "شما باید یک نام وارد کنید‫."
+   },
+   "_You_must_enter_a_unique_name_": {
+      "message": "شما باید یک نام یکتا وارد کنید."
+   },
+   "_You_must_restart__Chrome_or_logoff_and_back_in_to_get_logoff_on_browser_close_changes_to_be_reflected": {
+      "message": "برای اعمال تغییرات، باید کروم را دوباره راه‌بیندازید"
+   },
+   "_You_must_restart_your_browser_before_all_of_the_changes_will_take_effect_": {
+      "message": "برای اعمال همه‌ی تغییرات، باید مرورگر خود دوباره بیآغازید‫."
+   },
+   "_Your_4_digit_birth_year": {
+      "message": "سال (چهار رقمی) تولد شما"
+   },
+   "_Your__Google__Chrome_passwords_have_been_imported_successfully_": {
+      "message": "گذرواژه‌های شما در کروم، به‌درستی وارد شدند‫."
+   },
+   "_Your__Z_I_P_or_postal_code": {
+      "message": "کدپستی"
+   },
+   "_Your_address_information": {
+      "message": "اطلاعات نشانی شما"
+   },
+   "_Your_attachment_is_located_at_": {
+      "message": ":ضميمه شما در اين محل قرار دارد"
+   },
+   "_Your_bank_account_information": {
+      "message": "اطلاعات بانک شما"
+   },
+   "_Your_bank_account_number___This_number_can_typically_be_found_to_the_right_of_the_routing_number_on_your_personal_checks_": {
+      "message": "شماره‌ی حساب بانکی شما‫.\nاین شماره را معمولاً می‌توانید در سمت راست شماره‌ی رهگیری چک‌های  خود بیابید‫."
+   },
+   "_Your_bank_s_routing_number___This_9_digit_number_can_typically_be_found_on_your_personal_checks_in_the_bottom_left_corner_": {
+      "message": "شماره‌ی رهگیری بانک‫.\nاین شماره‌ی ۹ رقمی را معمولاً می‌توانید در گوشه‌ی پایینی سمت چپ چک‌های خود بیابید‫."
+   },
+   "_Your_birth_day": {
+      "message": "زادروز شما"
+   },
+   "_Your_birth_month": {
+      "message": "زادماه شما"
+   },
+   "_Your_city_name": {
+      "message": "نام شهر شما"
+   },
+   "_Your_company_s_name": {
+      "message": "نام شرکت شما"
+   },
+   "_Your_contact_information": {
+      "message": "اطلاعات تماس با شما"
+   },
+   "_Your_country_name": {
+      "message": "نام کشور شما"
+   },
+   "_Your_county_name": {
+      "message": "نام استان شما"
+   },
+   "_Your_credit_card_information": {
+      "message": "اطلاعات کارت اعتباری شما"
+   },
+   "_Your_current_settings_require_you_to_enter_your__Last_Pass_password_to_complete_this_action_": {
+      "message": "براساس تنظیمات کنونی شما، برای این عمل باید گذرواژه‌ی لست‌پس خود را وارد کنید‫."
+   },
+   "_Your_data_has_been_exported_to": {
+      "message": "اطلاعات شما صادر شد به‫"
+   },
+   "_Your_email_address": {
+      "message": "رایانشانی شما"
+   },
+   "_Your_first_name": {
+      "message": "اسم شما"
+   },
+   "_Your_government__I_D_number": {
+      "message": "شماره پرسنلی دولتی شما"
+   },
+   "_Your_last_name": {
+      "message": "نام خانوادگی شما"
+   },
+   "_Your_middle_name": {
+      "message": "نام میانی شما"
+   },
+   "_Your_password_can_not_be_the_same_as_your_email_": {
+      "message": "گذرواژه‌ی شما نمی‌تواند با رایانامه‌ی شما یکسان باشد‫."
+   },
+   "_Your_password_is_easily_guessable_": {
+      "message": "گذرواژه‌ی شما به‌آسانی قابل‌حدس است‫."
+   },
+   "_Your_password_is_too_short___It_must_be_at_least_6_characters_long": {
+      "message": "گذرواژه‌ی شما بسیار کوتاه است. گذرواژه باید دست‌کم ۶ نویسه باشد"
+   },
+   "_Your_password_is_too_short___It_must_be_at_least_8_characters_long": {
+      "message": "گذرواژه‌ی شما بسیار کوتاه است. گذرواژه باید دست‌کم ۸ نویسه باشد"
+   },
+   "_Your_password_reminder_serves_to_remind_you_of_what_your": {
+      "message": "یادآور گذروژه‌ی شما، به شما در یادآوری گذرواژه‌تان کمک می‌کند"
+   },
+   "_Your_passwords_did_not_match_": {
+      "message": "گذرواژه های شما یکسان نبودند"
+   },
+   "_Your_personal_information": {
+      "message": "اطلاعات شخصی شما"
+   },
+   "_Your_phone_number": {
+      "message": "شماره تلفن شما"
+   },
+   "_Your_phone_number_extension": {
+      "message": "شماره‌ی تلفن داخلی شما"
+   },
+   "_Your_prefix_or_title": {
+      "message": "عنوان شما"
+   },
+   "_Your_selected__Identity_no_longer_exists___Defaulting_to___All__and_logging_off_": {
+      "message": "هویتی را برگزیده‌اید که دیگر موجود نیست. پیش‌فرض‌کردن «همه» و خروج‫."
+   },
+   "_Your_sex": {
+      "message": "جنسیت شما"
+   },
+   "_Your_state_or_province_name": {
+      "message": "نام استان شما"
+   },
+   "_Your_street_address": {
+      "message": "نشانی خیابان شما"
+   },
+   "_Your_time_zone": {
+      "message": "منطقه زمانی شما"
+   },
+   "_Your_trust_token_has_expired_": {
+      "message": "توکن شما منقضی شده است."
+   },
+   "_Your_username_when_signing_into__Web_sites": {
+      "message": "نام کاربری شما در ورود به وب‌گاه‌ها"
+   },
+   "_Yubi_Key": {
+      "message": "YubiKey"
+   },
+   "_Yubi_Key__Multifactor__Authentication": {
+      "message": "شناسایی چندعاملی ‫YubiKey"
+   },
+   "_Yugoslavia": {
+      "message": "یوگسلاوی"
+   },
+   "_Z_I_P____Postal__Code": {
+      "message": "کد پستی"
+   },
+   "_Z_I_P____Postal_code": {
+      "message": "کدپستی"
+   },
+   "_Zambia": {
+      "message": "زامبیا"
+   },
+   "_Zimbabwe": {
+      "message": "زیمبابوه"
+   },
+   "__Hide_": {
+      "message": "[پنهان]"
+   },
+   "__History_": {
+      "message": "[تاریخچه]"
+   },
+   "__New__Pending__Share__Offers_": {
+      "message": "‫(پیشنهادهای جدید اشتراک گذاری)"
+   },
+   "__Optional_": {
+      "message": "(دلخواه)"
+   },
+   "__Show_": {
+      "message": "[نمایش]"
+   },
+   "_domain_": {
+      "message": "(دامنه)"
+   },
+   "_none_": {
+      "message": "(هیچ)"
+   },
+   "_unknown_": {
+      "message": "[ناشناخته]"
+   },
+   "a_zlower": {
+      "message": "a-z"
+   },
+   "actual_password_is__while_still_maintaining_its_secrecy_": {
+      "message": "رمز ورود تا زمانی واقعی است که محرمانگی اش حفظ شود"
+   },
+   "ago": {
+      "message": "پیش"
+   },
+   "and": {
+      "message": "و"
+   },
+   "app_Name": {
+      "message": "مدیریت گذرواژه رایگان"
+   },
+   "contact_us_and_we_will_email_you_your_password_reminder_": {
+      "message": "برای دریافت یادآور گذرواژه، با ما تماس بگیرید‫."
+   },
+   "day": {
+      "message": "روز"
+   },
+   "days": {
+      "message": "روزها"
+   },
+   "dummy": {
+      "message": "dummy, leave this here so we don't mess up the trailing comma"
+   },
+   "e_Wallet": {
+      "message": "eWallet"
+   },
+   "ext_": {
+      "message": "داخلی"
+   },
+   "false": {
+      "message": "غلط"
+   },
+   "favorites": {
+      "message": "علاقه‌مندی‌ها"
+   },
+   "hour": {
+      "message": "ساعت"
+   },
+   "hours": {
+      "message": "ساعت"
+   },
+   "just_now": {
+      "message": "فقط الان"
+   },
+   "minute": {
+      "message": "دقیقه"
+   },
+   "minutes": {
+      "message": "دقیقه"
+   },
+   "month": {
+      "message": "ماه"
+   },
+   "months": {
+      "message": "ماه ها"
+   },
+   "privacy_statement": {
+      "message": "بیانیه‌ی حریم‌خصوصی"
+   },
+   "recently_usedlower": {
+      "message": "واپسین به‌کارگرفته‌ها"
+   },
+   "search": {
+      "message": "جست‌وجو"
+   },
+   "second": {
+      "message": "ثانیه"
+   },
+   "seconds": {
+      "message": "ثانبه"
+   },
+   "send_more": {
+      "message": "فرستادن بیش‌تر"
+   },
+   "terms_of_service": {
+      "message": "شرایط استفاده از خدمات"
+   },
+   "the_current_tab": {
+      "message": "زبانه‌ی کنونی"
+   },
+   "true": {
+      "message": "واقعی"
+   },
+   "we__D_O__N_O_T_know_what_your__Last_Pass_password_is_": {
+      "message": "ما «نمی‌دانیم» گذرواژه‌ی ‫LastPass شما چیست."
+   },
+   "week": {
+      "message": "هفته"
+   },
+   "weeks": {
+      "message": "هفته"
+   },
+   "year": {
+      "message": "سال"
+   },
+   "years": {
+      "message": "سال"
+   }
+}

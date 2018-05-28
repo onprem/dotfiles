@@ -1,0 +1,96 @@
+{
+   "add": {
+      "message": "Dodaj"
+   },
+   "cancel": {
+      "message": "Poništiti"
+   },
+   "continue": {
+      "message": "Nastavi"
+   },
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers."
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "Nije uspjelo, download neuspjeh"
+   },
+   "firstRun_abbButtonSubtitle": {
+      "message": "Dostupno za Android i iOS"
+   },
+   "firstRun_abbButtonTitle": {
+      "message": "Uzmi Adblock Browser ovdje"
+   },
+   "firstRun_abbPromotionHeadline": {
+      "message": "Imaš pametni telefon ili tablet?"
+   },
+   "firstRun_acceptableAdsHeadline": {
+      "message": "Dosadne reklame će sada biti blokirane"
+   },
+   "firstRun_contributor_credits": {
+      "message": "Lista saradnika"
+   },
+   "firstRun_donate": {
+      "message": "doniraj"
+   },
+   "firstRun_donate_label": {
+      "message": "Podržite naš projekat"
+   },
+   "firstRun_share": {
+      "message": "Preporučite nas prijateljima"
+   },
+   "firstRun_share_headline": {
+      "message": "\u003Ca>Pomozite nam\u003C/a> da web učinimo boljim"
+   },
+   "firstRun_title": {
+      "message": "Adblock Plus je instaliran"
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "notification_antiadblock_message": {
+      "message": "Ovaj site je poznato da pokaže ciljanih poruka korisnicima Adblock Plus. Želite li Adblock Plus da sakrije ciljane poruke?"
+   },
+   "notification_antiadblock_title": {
+      "message": "Sakriti ciljane poruke?"
+   },
+   "options_close": {
+      "message": "zatvori"
+   },
+   "options_customFilter_cancel": {
+      "message": "Poništiti"
+   },
+   "options_filterList_column_status": {
+      "message": "Status"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "Nije uspjelo, nepodudarnost checksum-a"
+   },
+   "options_filterList_lastDownload_connectionError": {
+      "message": "Nije uspjelo, download neuspjeh"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "Neuspjeh, adresa nije validna"
+   },
+   "options_filterList_state_disabled": {
+      "message": "Onemogućeno"
+   },
+   "options_language_header": {
+      "message": "Jezik"
+   },
+   "options_page_document_title": {
+      "message": "Postavke"
+   },
+   "options_page_title": {
+      "message": "Postavke"
+   },
+   "options_short": {
+      "message": "Opcije"
+   },
+   "overlay_notification_button_no": {
+      "message": "Ne"
+   },
+   "overlay_notification_button_yes": {
+      "message": "Da"
+   }
+}

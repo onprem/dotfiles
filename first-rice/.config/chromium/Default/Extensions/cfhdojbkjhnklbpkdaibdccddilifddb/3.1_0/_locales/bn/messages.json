@@ -1,0 +1,633 @@
+{
+   "add": {
+      "message": "যুক্ত করুন"
+   },
+   "add_filters_msg": {
+      "message": "ফিল্টার(সমূহ) যুক্ত করবেন?"
+   },
+   "block_element": {
+      "message": "উপাদান অবরুদ্ধ করুন"
+   },
+   "cancel": {
+      "message": "বাতিল"
+   },
+   "clickhide_instructions": {
+      "message": "এই পপআপটি বন্ধ করার পরে, পাতার (অথবা ডান-ক্লিক করে) একটি উপাদানে ক্লিক করুন।"
+   },
+   "common_feature_anti_adblock_title": {
+      "message": "Adblock সতর্কীকরণ বার্তাগুলি আড়াল করুন"
+   },
+   "common_feature_malware_title": {
+      "message": "ম্যালওয়্যার অবরুদ্ধ করুন"
+   },
+   "common_feature_privacy_title": {
+      "message": "অতিরিক্ত অনুসরণ বন্ধ করুন"
+   },
+   "common_feature_social_title": {
+      "message": "সামাজিক মিডিয়া আইকনগুলির অনুসরণ বন্ধ করুন"
+   },
+   "continue": {
+      "message": "চালিয়ে যান"
+   },
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers."
+   },
+   "disabled_for_site": {
+      "message": "এই সাইটে \u003Cstrong>নিষ্ক্রিয় করা আছে\u003C/strong>"
+   },
+   "easy_create_filter": {
+      "message": "উপাদান অবরুদ্ধ করুন"
+   },
+   "enabled_for_site": {
+      "message": "এই সাইটে \u003Cstrong>সক্রিয় করা আছে\u003C/strong>"
+   },
+   "filter_elemhideemulation_nodomain": {
+      "message": "বর্ধিত উপাদান লুকানোর ছাঁকনির জন্য কোনও সক্রিয় ডোমেইন নির্দিষ্ট করা নেই"
+   },
+   "filter_invalid_domain": {
+      "message": "অকার্যকর (বা ফাঁকা) ডোমেইন নির্দিষ্ট করা হয়েছে"
+   },
+   "filter_invalid_regexp": {
+      "message": "অকার্যকর নিয়মিত অভিব্যক্তি"
+   },
+   "filter_unknown_option": {
+      "message": "অজানা ফিল্টার অপশন"
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "ব্যর্থ, ডাউনলোড ব্যর্থতা"
+   },
+   "firstRun_abbButtonSubtitle": {
+      "message": "Android ও iOS-এর জন্য উপলভ্য"
+   },
+   "firstRun_abbButtonTitle": {
+      "message": "এখান থেকে Adblock Browser নিয়ে নিন"
+   },
+   "firstRun_abbPromotionHeadline": {
+      "message": "আপনার কি একটা স্মার্টফোন বা ট্যাবলেট আছে?"
+   },
+   "firstRun_acceptableAdsExplanation": {
+      "message": "আমরা ওয়েবসাইটকে সহজবোধ্য, অ-অনধিকারমূলক বিজ্ঞাপন ব্যবহার করতে উত্সাহিত করতে চাই। এ কারণেই আমরা গ্রহণযোগ্য বিজ্ঞাপন চিহ্নিত করতে \u003Ca>নিয়মনীতি\u003C/a> প্রতিষ্ঠিত করেছি, যা ডিফল্ট সেটিংসের অধীনে প্রদর্শন করা হয়। আপনি যদি সবগুলি বিজ্ঞাপন অবরুদ্ধ করতে চান, আপনি কয়েক সেকেন্ডে এটি \u003Ca>নিষ্ক্রিয়\u003C/a> করতে পারেন।"
+   },
+   "firstRun_acceptableAdsHeadline": {
+      "message": "বিরক্তিকর বিজ্ঞাপনগুলি এখন থেকে বন্ধ করা হবে"
+   },
+   "firstRun_contributor_credits": {
+      "message": "অবদানকারী কৃতিত্ব"
+   },
+   "firstRun_donate": {
+      "message": "দান করুন"
+   },
+   "firstRun_donate_label": {
+      "message": "আমাদের প্রকল্প সমর্থন করুন"
+   },
+   "firstRun_filterlistsReinitializedWarning": {
+      "message": "মনে হচ্ছে একটি সমস্যার কারণে সব ছাঁকনি মুছে গেছে এবং আমরা ব্যাকআপ পুনরুদ্ধার করতে পারিনি। তাই আমাদের আপনার ছাঁকনি এবং গ্রহণযোগ্য বিজ্ঞাপন সেটিংস পুনরায় স্থাপন করতে হবে। দয়া করে \u003Ca>Adblock Plus বিকল্পগুলিতে\u003C/a> আপনার ছাঁকনির তালিকা এবং গ্রহণযোগ্য বিজ্ঞাপন সেটিং পরীক্ষা করুন।"
+   },
+   "firstRun_share": {
+      "message": "আপনার বন্ধুদের বলুন"
+   },
+   "firstRun_share_headline": {
+      "message": "ওয়েবকে আরো ভালো স্থান করে গড়ে তুলতে \u003Ca>আমাদের সাহায্য করুন\u003C/a>"
+   },
+   "firstRun_title": {
+      "message": "Adblock Plus ইনস্টল করা হয়েছে"
+   },
+   "invalid_css_selector": {
+      "message": "$selector$ একটি বৈধ CSS নির্বাচক নয়",
+      "placeholders": {
+         "selector": {
+            "content": "$1"
+         }
+      }
+   },
+   "issueReporter_anonymousSubmission_label": {
+      "message": "নামবিহীন জমা"
+   },
+   "issueReporter_anonymousSubmission_warning": {
+      "message": "আমরা আপনার কাছে ফিরে আসতে সক্ষম না এবং সম্ভাবত রিপোর্টের অগ্রাধিকার কম দেয়া হবে।"
+   },
+   "issueReporter_commentPage_heading": {
+      "message": "মন্তব্য লিখুন"
+   },
+   "issueReporter_comment_description": {
+      "message": "নিচের লেখার ক্ষেত্রটি আপনাকে মন্তব্য লিখতে দিবে যা আমাদের সমস্যাটি বুঝতে সাহায্য করবে। এই ধাপটি ঐচ্ছিক কিন্তু সুপারিশকৃত যদি সমস্যাটি প্রকট হয়। এছাড়া আপনি এটি প্রেরণ করা পূর্বে প্রতিবেদনের উপাত্ত পর্যালোচনা করতে পারেন।"
+   },
+   "issueReporter_comment_label": {
+      "message": "মন্তব্য (ঐচ্ছিক):"
+   },
+   "issueReporter_comment_lengthWarning": {
+      "message": "আপনার মন্তব্যের দৈর্ঘ্য ১০০০ অক্ষর অতিক্রম করেছেন। শুধুমাত্র প্রথম ১০০০ অক্ষর প্রেরণ করা হবে।"
+   },
+   "issueReporter_confirmationMessage": {
+      "message": "আপনার প্রতিবেদন সংরক্ষণ করা হয়েছে। আপনি এটি নিচের ঠিকানায় দেখতে পারেন:"
+   },
+   "issueReporter_dataCollector_description": {
+      "message": "অনুগ্রহপূর্বক কিছুক্ষণ অপেক্ষা করুন Adblock Plus প্রয়োজনীয় তথ্য সংরক্ষণ করছে।"
+   },
+   "issueReporter_dataCollector_heading": {
+      "message": "ইস্যু রিপোর্টারে স্বাগতম"
+   },
+   "issueReporter_doneButton_label": {
+      "message": "সম্পন্ন"
+   },
+   "issueReporter_email_description": {
+      "message": "আমরা আপনাকে একটি বৈধ ই-মেইল ঠিকানা প্রবেশ করাতে উত্সাহিত করছি তাহলে আমরা আপনার সাথে যোগাযোগ করতে পারবো যদি আপনার রিপোর্ট সম্পর্কে কোন প্রশ্ন থাকে। ছাড়াও এটি আমাদের আপনার অবদান স্বীকৃতি এবং তাঁদের উচ্চ অগ্রাধিকার দিতে মঞ্জুরি দেয়।"
+   },
+   "issueReporter_email_label": {
+      "message": "ইমেইল:"
+   },
+   "issueReporter_errorMessage": {
+      "message": "ত্রুটি কোড \"?1?\" সহ রিপোর্ট প্রেরণ করার চেষ্টা ব্যর্থ হয়েছে। অনুগ্রহ করে নিশ্চিত করুন আপনার ইন্টারনেট সংযোগ আছে এবং পুনঃচেষ্টা করুন। যদি সমস্যাটি থেকে যায়, তাহলে দয়া করে [link]Adblock Plus ফোরামে[/link] সহায়তার অনুরোধ করুন।"
+   },
+   "issueReporter_falseNegative_description": {
+      "message": "এই অপশন নির্বাচন করুন যদি Adblock Plus সক্রিয় থাকা সত্ত্বেও বিজ্ঞাপন প্রদর্শিত হয়।"
+   },
+   "issueReporter_falseNegative_label": {
+      "message": "Adblock Plus বিজ্ঞাপন অবরুদ্ধ করেনি"
+   },
+   "issueReporter_falsePositive_description": {
+      "message": "এই অপশনটি নির্বাচন করুন যদি পাতাটিতে গুরুত্বপূর্ণ বিষয়বস্তুর অভাব, ভুলভাবে প্রদর্শন করা বা সঠিকরূপে চালাতে ব্যর্থ হয়। এই সমস্যা Adblock Plus-এর কারণে হয়েছি কিনা তা আপনি এটি সাময়িকভাবে নিষ্ক্রিয় করে নির্ধারণ করতে পারবেন।"
+   },
+   "issueReporter_falsePositive_label": {
+      "message": "অ্যাডব্লক প্লাস অনেক বেশি অবরুদ্ধ করেছে"
+   },
+   "issueReporter_knownIssueMessage": {
+      "message": "আপনার রিপোর্টকৃত সমস্যাটি হয়তো ইতিমধ্যে জানা। আরও তথ্য:"
+   },
+   "issueReporter_page_title": {
+      "message": "ইস্যু রিপোর্টার"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "গোপনীয়তার নীতি"
+   },
+   "issueReporter_sendButton_label": {
+      "message": "প্রতিবেদন পাঠান"
+   },
+   "issueReporter_sendPage_heading": {
+      "message": "প্রতিবেদন পাঠান"
+   },
+   "issueReporter_sending": {
+      "message": "Adblock প্লাস আপনার প্রতিবেদন দাখিল করা পর্যন্ত দয়া করে অপেক্ষা করুন।"
+   },
+   "issueReporter_showData_label": {
+      "message": "রিপোর্টের ডাটা দেখান"
+   },
+   "issueReporter_typeSelector_description": {
+      "message": "এই উইন্ডোটি Adblock Plus এর ইস্যু রিপোর্ট করতে প্রয়োজনীয় প্রদক্ষেপগুলোর নির্দেশনা দিবে। প্রথমে, আপনি এই পাতায় যেই ধরণের ইস্যুর সম্মুখিন হচ্ছেন অনুগ্রহপূর্বক তার ধরণ নির্বাচন করুন:"
+   },
+   "issueReporter_typeSelector_heading": {
+      "message": "ইস্যুর ধরণ নির্ধারণ করুন"
+   },
+   "line": {
+      "message": "$number$ নং লাইন",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "loading": {
+      "message": "লোড করা হচ্ছে..."
+   },
+   "name": {
+      "message": "এ্যাডব্লক প…"
+   },
+   "name_devbuild": {
+      "message": "Adblock Plus উন্নয়ন গঠন"
+   },
+   "notification_antiadblock_message": {
+      "message": "এই সাইট অ্যাডব্লক প্লাস ব্যবহারকারীদের লক্ষ্যিত বার্তা দেখানর জন্য পরিচিত। আপনি কি অ্যাডব্লক প্লাসকে এই বার্তা লুকাতে বলতে চান?"
+   },
+   "notification_antiadblock_title": {
+      "message": "লক্ষ্যিত বার্তা লুকান?"
+   },
+   "notification_configure": {
+      "message": "বিজ্ঞপ্তি সেটিংস ঠিক করুন"
+   },
+   "notification_open_all": {
+      "message": "এই বিজ্ঞপ্তি থেকে সমস্ত লিঙ্ক খুলুন"
+   },
+   "notification_with_buttons": {
+      "message": "এই বিজ্ঞপ্তিতে সব লিঙ্ক খোলার জন্য 'ঠিক আছে' ক্লিক করুন।"
+   },
+   "notification_without_buttons": {
+      "message": "এটিতে সকল লিংক খোলার জন্য বিজ্ঞপ্তিতে ক্লিক করুন।"
+   },
+   "options_acceptableAds_ads_description_1": {
+      "message": "গ্রহণযোগ্য বিজ্ঞাপনগুলি বিরক্তিকর নয় এবং আপনি যে সামগ্রী দেখছেন তা হস্তক্ষেপ করে না। \u003Ca>গ্রহণযোগ্য বিজ্ঞাপনের শর্তাবলী সম্পর্কে আরও পড়ুন\u003C/a>"
+   },
+   "options_acceptableAds_ads_label": {
+      "message": "গ্রহনযোগ্য বিজ্ঞাপনের অনুমতি দিন"
+   },
+   "options_acceptableAds_description": {
+      "message": "গ্রহণযোগ্য বিজ্ঞাপনগুলি অ-বিরক্তিকর বিজ্ঞাপন।"
+   },
+   "options_acceptableAds_dnt_notification": {
+      "message": "\u003Cstrong>টীকা:\u003C/strong> আপনার ব্রাউজারের সেটিংসে \u003Cstrong>অনুসরণ করবেন না(DNT)\u003C/strong> সক্রিয় করা আছে। এই বৈশিষ্ট্যটি সঠিকভাবে কাজ করার জন্য, অনুগ্রহ করে আপনার ব্রাউজারে \u003Cstrong>DNT\u003C/strong> সক্রিয় করুন।\n \u003Ca>জানুন কিভাবে DNT সক্রিয় করবেন\u003C/a>।"
+   },
+   "options_acceptableAds_header": {
+      "message": "গ্রহণযোগ্য বিজ্ঞাপন"
+   },
+   "options_acceptableAds_privacy_label": {
+      "message": "তৃতীয়-পক্ষের অনুসরণহীন বিজ্ঞাপনগুলিকে শুধু অনুমতি দিন"
+   },
+   "options_advanced_description": {
+      "message": "অ্যাডব্লক প্লাস স্ব-নির্ধারণ করুন, ফিল্টার তালিকা যুক্ত করুন বা অপসারণ করুন, নিজের ফিল্টার তালিকা তৈরি এবং বজায় রাখুন"
+   },
+   "options_close": {
+      "message": "বন্ধ করুন"
+   },
+   "options_control_remove_title": {
+      "message": "সরান"
+   },
+   "options_customFilter_cancel": {
+      "message": "বাতিল"
+   },
+   "options_customFilter_edit": {
+      "message": "ফিল্টার সম্পাদনা করুন"
+   },
+   "options_customFilter_save": {
+      "message": "সংরক্ষণ করুন"
+   },
+   "options_customFilters_description": {
+      "message": "আরো নিয়ন্ত্রণ করতে আপনার নিজস্ব স্ব-নির্ধারিত ফিল্টার লিখুন।"
+   },
+   "options_customFilters_edit_placeholder": {
+      "message": "যেমন: $filter$",
+      "placeholders": {
+         "filter": {
+            "content": "$1",
+            "example": "/ads/track/*"
+         }
+      }
+   },
+   "options_customFilters_learn": {
+      "message": "কিভাবে ফিল্টার তালিকা লিখবেন তা শিখুন"
+   },
+   "options_customFilters_start": {
+      "message": "আমার ফিল্টার তালিকা লিখতে শুরু করুন"
+   },
+   "options_customFilters_tip": {
+      "message": "আপনার তৈরি করা ফিল্টার এখানে দেখাবে।"
+   },
+   "options_customFilters_title": {
+      "message": "আপনার ফিল্টার তালিকা তৈরি ও সম্পাদনা করুন"
+   },
+   "options_customFilters_widget_title": {
+      "message": "আমার ফিল্টারের তালিকা"
+   },
+   "options_customize_blockElement": {
+      "message": "ডান-ক্লিক মেনু আইটেমে 'উপাদান অবরুদ্ধ করুন' প্রদর্শন করান"
+   },
+   "options_customize_blockElement_tooltip": {
+      "message": "অস্থায়ীভাবে একটি ওয়েবপৃষ্ঠার বিরক্তিকর আইটেম অবরুদ্ধ করে, যেমন চিত্র বা অ্যানিমেশন স্লাইডশো।"
+   },
+   "options_customize_header": {
+      "message": "পাতার কর্ম স্ব-নির্ধারণ করুন"
+   },
+   "options_customize_showDevToolsPanel": {
+      "message": "বিকাশকারী সরঞ্জামে 'Adblock Plus' প্যানেল দেখান"
+   },
+   "options_customize_showDevToolsPanel_tooltip": {
+      "message": "আপনার ব্রাউজারের বিকাশকারী সরঞ্জাম প্যানেল থেকে অবরুদ্ধ এবং সাদাতালিকাভুক্ত আইটেমগুলি দেখুন।"
+   },
+   "options_customize_showNotifications": {
+      "message": "দরকারী বিজ্ঞপ্তি দেখান"
+   },
+   "options_customize_showNotifications_tooltip": {
+      "message": "অ্যাডব্লক প্লাস থেকে সকল বিজ্ঞপ্তি বন্ধ করুন।"
+   },
+   "options_dialog_about_copyright": {
+      "message": "কপিরাইট © $currentYear$ eyeo GmbH",
+      "placeholders": {
+         "currentYear": {
+            "content": "2017",
+            "example": "2017"
+         }
+      }
+   },
+   "options_dialog_about_title": {
+      "message": "অ্যাডব্লক প্লাস সম্পর্কে"
+   },
+   "options_dialog_about_trademark": {
+      "message": "সর্বস্বত্ব সংরক্ষিত। Adblock Plus® হল eyeo GmbH-এর একটি নিবন্ধিত ট্রেডমার্ক।"
+   },
+   "options_dialog_about_version": {
+      "message": "সংস্করণ নম্বর $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": "2.6.7"
+         }
+      }
+   },
+   "options_dialog_import_subscription_location": {
+      "message": "ছাঁকন তালিকার URL"
+   },
+   "options_dialog_import_subscription_location_error": {
+      "message": "একটি বৈধ URL প্রবেশ করান"
+   },
+   "options_dialog_import_subscription_title": {
+      "message": "ছাঁকন তালিকার নাম"
+   },
+   "options_dialog_import_subscription_title_error": {
+      "message": "অনুগ্রহ করে ঘরটি ভরাট করুন"
+   },
+   "options_dialog_import_title": {
+      "message": "একটি ফিল্টার তালিকা যুক্ত করুন"
+   },
+   "options_dialog_language_other_empty": {
+      "message": "এখানে কোন উপলব্ধ ভাষা নেই।"
+   },
+   "options_dialog_language_title": {
+      "message": "একটি ভাষা নির্বাচন করুন"
+   },
+   "options_dialog_predefined_confirm": {
+      "message": "হ্যাঁ, এই ফিল্টার তালিকা ব্যবহার করুন"
+   },
+   "options_dialog_predefined_title": {
+      "message": "আপনি কি নিশ্চিত যে আপনি এই ফিল্টার তালিকা যুক্ত করতে চান?"
+   },
+   "options_email": {
+      "message": "ইমেইল:"
+   },
+   "options_english": {
+      "message": "ইংরেজি"
+   },
+   "options_filterList_add": {
+      "message": "+ নতুন ফিল্টার তালিকা যুক্ত করুন"
+   },
+   "options_filterList_column_name": {
+      "message": "ফিল্টারের তালিকা"
+   },
+   "options_filterList_column_status": {
+      "message": "অবস্থা"
+   },
+   "options_filterList_column_update": {
+      "message": "শেষ হালনাগাদ হয়েছে"
+   },
+   "options_filterList_description": {
+      "message": "একটি ফিল্টার তালিকার কারণে প্রতিটি অ্যাডব্লক সেটিংস কাজ করে। নীচে আপনার অ্যাডব্লক প্লাস সেটিংসগুলির সাথে সংশ্লিষ্ট ফিল্টারের তালিকাগুলি দেয়া হয়েছে। আপনি আমাদের বিশ্বস্ত সম্প্রদায়ের তৈরি এবং পরিচালিত অতিরিক্ত ফিল্টারগুলিও যোগ করতে পারেন।"
+   },
+   "options_filterList_empty": {
+      "message": "আপনি অ্যাডব্লক প্লাসের জন্য কোনও ফিল্টার তালিকা যুক্ত করেননি। আপনার যোগ করা ফিল্টার তালিকা এখানে দেখানো হবে।"
+   },
+   "options_filterList_hours": {
+      "message": "ঘণ্টা আগে"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "ব্যর্থ, ত্রুটিনির্ধারক মেলেনি"
+   },
+   "options_filterList_lastDownload_connectionError": {
+      "message": "ব্যর্থ, নামানো ব্যর্থতা"
+   },
+   "options_filterList_lastDownload_inProgress": {
+      "message": "হালনাগাদ হচ্ছে"
+   },
+   "options_filterList_lastDownload_invalidData": {
+      "message": "ব্যর্থ, একটি বৈধ ছাঁকন তালিকা নয়"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "ব্যর্থ, যুক্তিযুক্ত ঠিকানা নয়"
+   },
+   "options_filterList_minutes": {
+      "message": "মিনিট আগে"
+   },
+   "options_filterList_now": {
+      "message": "এই মাত্র"
+   },
+   "options_filterList_source": {
+      "message": "উৎস"
+   },
+   "options_filterList_state_active": {
+      "message": "সক্রিয়"
+   },
+   "options_filterList_state_disabled": {
+      "message": "নিষ্ক্রিয়"
+   },
+   "options_filterList_title": {
+      "message": "ফিল্টারের তালিকা"
+   },
+   "options_filterList_update": {
+      "message": "সকল ছাঁকন তালিকা হালনাগাদ করুন"
+   },
+   "options_filterList_updateNow": {
+      "message": "এখন হালনাগাদ করুন"
+   },
+   "options_filterList_website": {
+      "message": "ওয়েবসাইট"
+   },
+   "options_footer_about": {
+      "message": "অ্যাডব্লক প্লাস সম্পর্কে"
+   },
+   "options_footer_contribute": {
+      "message": "অবদান"
+   },
+   "options_general_description": {
+      "message": "ওয়েবসাইটে অ্যাডব্লক প্লাস কি দেখাবে এবং লুকাবে তা নির্ধারণ করুন"
+   },
+   "options_help_description": {
+      "message": "সাহায্য পান বা আমাদের সাথে যোগাযোগ করুন"
+   },
+   "options_language_add": {
+      "message": "+ একটি ভাষা যোগ করুন"
+   },
+   "options_language_change": {
+      "message": "পরিবর্তন করুন"
+   },
+   "options_language_description": {
+      "message": "ওয়েবসাইট ব্রাউজের সময় অ্যাডব্লকের যে ভাষা ব্যবহার করেন তা অপ্টিমাইজ করুন।"
+   },
+   "options_language_empty": {
+      "message": "আপনার কোন ভাষা-নির্দিষ্ট ফিল্টার নেই।"
+   },
+   "options_language_header": {
+      "message": "ভাষা"
+   },
+   "options_language_tip": {
+      "message": "\u003Cstrong>পরামর্শ:\u003C/strong> শুধুমাত্র আপনার প্রয়োজনীয় ভাষা নির্বাচন করুন। বেশী নির্বাচন করলে তা আপনার অ্যাডব্লক প্লাসের গতি গমিয়ে দিবে ও সেইসাথে ইন্টারনেটেও।"
+   },
+   "options_learn_more": {
+      "message": "আরও জানুন"
+   },
+   "options_more_filters_description": {
+      "message": "এই অতিরিক্ত ফিল্টারগুলি আপনি পূর্বে অ্যাডব্লক প্লাসে যোগ করেছেন।"
+   },
+   "options_more_filters_header": {
+      "message": "আরো ফিল্টার"
+   },
+   "options_more_filters_note": {
+      "message": "\u003Cstrong>টীকা:\u003C/strong> আপনার সেইসব তৃতীয় পক্ষের ফিল্টার তালিকা ব্যবহার করা উচিত যা আপনি বিশ্বাস করেন।"
+   },
+   "options_new_label": {
+      "message": "নতুন"
+   },
+   "options_notification_hide": {
+      "message": "বিজ্ঞপ্তি বন্ধ করুন"
+   },
+   "options_page_document_title": {
+      "message": "সেটিংস"
+   },
+   "options_page_title": {
+      "message": "সেটিংস"
+   },
+   "options_privacy_header": {
+      "message": "গোপনীয়তা ও সুরক্ষা"
+   },
+   "options_protection_privacy_tooltip": {
+      "message": "তথ্য সংগ্রহকারী সহ ইন্টারনেট থেকে সমস্ত ধরনের অনুসরণ অপসারণ করে আপনার ব্যক্তিগত তথ্য রক্ষা করুন।"
+   },
+   "options_protection_social_tooltip": {
+      "message": "আপনি যে ওয়েবসাইটগুলিতে যান সেখানের সামাজিক মিডিয়া আইকনগুলি সামাজিক প্রচার মাধ্যমের নেটওয়ার্কে আপনার ব্রাউজিং অভ্যাসের উপর ভিত্তি করে আপনার প্রোফাইল তৈরি করে - এমনকি যখন আপনি তাদের উপর ক্লিক করেন না। এই আইকন লুকিয়ে আপনার প্রোফাইল রক্ষা করতে পারেন।"
+   },
+   "options_report_bug": {
+      "message": "কোন বাগ খুঁজে পেয়েছেন? \u003Ca>আমাদের একটি প্রতিবেদন প্রেরণ করুন\u003C/a>"
+   },
+   "options_report_forum": {
+      "message": "আমাদের সম্প্রদায় থেকে সহায়তা চান? \u003Ca>ফোরামে যান\u003C/a>"
+   },
+   "options_short": {
+      "message": "বিকল্পসমূহ"
+   },
+   "options_social_description": {
+      "message": "নতুন আইডিয়া বা প্রশ্ন আছে? আমরা এখানে সাহায্য করতে আছি।"
+   },
+   "options_social_title": {
+      "message": "যোগাযোগ করুন"
+   },
+   "options_support_title": {
+      "message": "সমর্থন"
+   },
+   "options_tab_advanced": {
+      "message": "উন্নত"
+   },
+   "options_tab_general": {
+      "message": "সাধারণ"
+   },
+   "options_tab_help": {
+      "message": "সাহায্য"
+   },
+   "options_tab_whitelist": {
+      "message": "সাদাতালিকাভুক্ত ওয়েবসাইট"
+   },
+   "options_tracking_warning_1": {
+      "message": "আমরা লক্ষ্য করেছি যে আপনার \u003Cstrong>$tracking$\u003C/strong> ও \u003Cstrong>$acceptableAds$\u003C/strong> সক্রিয় করা আছে।",
+      "placeholders": {
+         "acceptableAds": {
+            "content": "$2",
+            "example": "Allow Acceptable Ads"
+         },
+         "tracking": {
+            "content": "$1",
+            "example": "Block additional tracking"
+         }
+      }
+   },
+   "options_tracking_warning_2": {
+      "message": "আমরা আপনাকে জানাতে চাই যে আপনাকে আরো গ্রহণযোগ্য বিজ্ঞাপন দেখাতে, গ্রহণযযোগ্য বিজ্ঞাপণের সাথে কিছু অনুসরণ \u003Cstrong>থাকতে\u003C/strong> পারে।"
+   },
+   "options_tracking_warning_3": {
+      "message": "যদি আপনি অতিরিক্ত গোপনীয়তা চান, তবে \u003Cstrong>$acceptableAdsPrivacy$\u003C/strong> বাক্সটি টিক দিন।",
+      "placeholders": {
+         "acceptableAdsPrivacy": {
+            "content": "$1",
+            "example": "Only allow ads without third-party tracking"
+         }
+      }
+   },
+   "options_tracking_warning_acknowledgment": {
+      "message": "আচ্ছা, বুঝেছি"
+   },
+   "options_whitelist_add": {
+      "message": "ওয়েবসাইট যুক্ত করুন"
+   },
+   "options_whitelist_description": {
+      "message": "আপনি এই ওয়েবসাইটগুলিতে বিজ্ঞাপন বন্ধকরণ বন্ধ করেছেন এবং, তাই আপনি এগুলি থেকে বিজ্ঞাপন দেখতে পাবেন।"
+   },
+   "options_whitelist_empty_1": {
+      "message": "আপনি কোন সাদাতালিকাভুক্ত ওয়েবসাইট নেই।"
+   },
+   "options_whitelist_empty_2": {
+      "message": "আপনি যে ওয়েবসাইটগুলি বিশ্বাস করেন এবং যেগুলিতে বিজ্ঞাপনকে অনুমতি দিতে চান তা এখানে দেখানো হবে।"
+   },
+   "options_whitelist_notification": {
+      "message": "\"$website$\" সাদাতালিকাভুক্ত করা হয়েছে।",
+      "placeholders": {
+         "website": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "options_whitelist_placeholder_example": {
+      "message": "যেমন: $domain$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "www.example.com"
+         }
+      }
+   },
+   "overlay_notification_button_no": {
+      "message": "না"
+   },
+   "overlay_notification_button_yes": {
+      "message": "হ্যাঁ"
+   },
+   "overlay_notification_closing_button_hide": {
+      "message": "এই বিজ্ঞপ্তি বন্ধ করুন"
+   },
+   "overlay_notification_closing_button_optout": {
+      "message": "বিজ্ঞপ্তি দেখানো বন্ধ করুন"
+   },
+   "sendReport": {
+      "message": "এই পাতায় সমস্যা জানান"
+   },
+   "stats_label_page": {
+      "message": "এই পৃষ্ঠায় \u003Cstrong>$number$টি\u003C/strong>",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_label_total": {
+      "message": "সর্বমোট \u003Cstrong>$number$টি\u003C/strong>",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_show_iconnumber": {
+      "message": "আইকনে সংখ্যা দেখান"
+   },
+   "stats_title": {
+      "message": "বিজ্ঞাপন অবরুদ্ধ হয়েছে"
+   },
+   "unexpected_filter_list_header": {
+      "message": "ফিল্টার তালিকার শীর্ষচরণ এখানে অনুমোদিত নয়"
+   },
+   "updates_adblockBrowser": {
+      "message": "আপনি যদি আপনার ডেক্সটপের নিয়ন্ত্রণ ফিরে পান, তবে আপনি আপনার মোবাইলেও বিজ্ঞাপন অবরোধ করতে, গোপনীয়তা ও নিরাপত্তা উন্নত করতে পারেন। নিচে আপনার \u003Ca>অ্যাডব্লক ব্রাউজার অ্যাপটি পান\u003C/a>।"
+   },
+   "updates_blockAds": {
+      "message": "উন্মুক্ত উৎস বিদ্রোহী জোট নতুন অবরোধ ছাঁকনি তৈরি করেছে যা আপনাকে ফেসবুকের মত ওয়েবসাইটগুলিতে লুকানো বিজ্ঞাপনে বিস্ফোরণ করতে দেয়, এমনকি যদি সাম্রাজ্য আবার আঘাত হানে।"
+   },
+   "updates_heading": {
+      "message": "Adblock Plus হালনাগাদ করা হয়েছে!"
+   },
+   "updates_optionsPageNews": {
+      "message": "ব্র্যান্ডের নতুন সেটিংস পৃষ্ঠা - আরও গোপনীয়তা এবং নিরাপত্তা বিকল্পগুলিসহ পুনর্বিন্যাসিত এবং পুনর্গঠিত - অতি সহজেই \u003Ca>আপনার মনের মত অ্যাডব্লক প্লাস স্বনির্ধারণ করুন\u003C/a>।"
+   },
+   "updates_phone": {
+      "message": "কিন্তু দাঁড়ান! আপনার মোবাইল ফোন?"
+   },
+   "updates_status": {
+      "message": "হালনাগাদ সম্পন্ন"
+   },
+   "updates_subheading": {
+      "message": "নতুন কি?"
+   }
+}

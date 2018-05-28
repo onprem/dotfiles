@@ -1,0 +1,1919 @@
+{
+   "0_9": {
+      "message": "0-9"
+   },
+   "1_Password": {
+      "message": "1പാസ്സ്‌വേർഡ്‌ "
+   },
+   "1___Insert_your__Yubi_Key_in_the__U_S_B_port_with_the__U_S_B_contact_facing_upward": {
+      "message": "1. താങ്കളുടെ YubiKey USB ഭാഗം മുന്നോട്ട് വരത്തക്കവണ്ണം USB പോർട്ടിൽ കടത്തുക"
+   },
+   "1___Run_the__Last_Pass__Sesame_application_to_generate_a_one_time_password": {
+      "message": "LastPass Sesame ആപ്ലിക്കേഷൻ ഓടിച്ച് ഒരു ഒറ്റത്തവണ പാസ്സ്‌വേർഡ്‌ ഉളവാക്കുക"
+   },
+   "2___Paste_the_one_time_password_in_the_input_box_below_and_click___Authenticate_": {
+      "message": "താഴെയുള്ള ബോക്സിൽ ഒറ്റത്തവണ പാസ്സ്‌വേർഡ്‌  പേസ്റ്റ് ചെയ്തിട്ട് 'പ്രാമാണീകരിക്കുക' എന്ന ബട്ടണ്‍ ക്ലിക്ക് ചെയ്യുക"
+   },
+   "2___Wait_until_your__Yubi_Key_touch_button_shines_with_a_steady_light": {
+      "message": "2. താങ്കളുടെ YubiKey റ്റച്ച് ബട്ടണ്‍ സ്ഥിരമായ ലൈറ്റ് കാണിക്കുന്നത് വരെ കാത്തിരിക്കുക"
+   },
+   "_A_C_T_I_O_N": {
+      "message": "പ്രവര്‍ത്തി"
+   },
+   "_A__Zupper": {
+      "message": "A-Z"
+   },
+   "_A_batch_of__S_M_S_passcodes_have_been_sent_to_your_mobile_device_": {
+      "message": "ഒരു കൂട്ടം SMS പാസ്‌കോഡുകൾ താങ്കളുടെ മൊബൈൽ ഉപകരണത്തിലേക്ക് അയക്കപ്പെട്ടു."
+   },
+   "_A_required_update_is_available_for__Last_Pass___Please_press__O_K_to_begin_download_and_installation_": {
+      "message": "LastPass ന് ആവശ്യമായ ഒരു പരിഷ്കാരം ലഭ്യമാണ്. ഡൗണ്‍ലോഡ് ചെയ്ത് അവരോധിക്കുവാൻ ദയവായി OK ക്ലിക്ക് ചെയ്യുക."
+   },
+   "_A_retry_file_has_been_found___This_likely_means_that_not_all_of_your_site_changes_have_been_saved___Would_you_like_to_delete_this_file_and_potentially_lose_some_changes_": {
+      "message": "ഒരു റീട്രൈ ഫയല്‍ കണ്ടുപിടിച്ചു. മിക്കവാറും ഇതിന്‍റെ അര്‍ഥം നിങ്ങള്‍ സൈറ്റില്‍ വരുത്തിയ മാറ്റങ്ങള്‍ മുഴുവനായി സേവ് ചെയ്തിട്ടില്ലെന്നാണ്. കുറച്ചു മാറ്റങ്ങള്‍ പോകട്ടെ എന്ന് വെച്ച് ഈ ഫയല്‍ കളഞ്ഞേക്കട്ടെ?"
+   },
+   "_A_server_error_occurred_while_processing_your_request_": {
+      "message": "താങ്കളുടെ അഭ്യര്‍ത്ഥന കൈകാര്യം ചെയ്യുന്നതിനിടയിൽ സർവറിന് ഒരു തകരാർ സംഭവിച്ചു."
+   },
+   "_About___": {
+      "message": "സംബന്ധിച്ച്"
+   },
+   "_Accept": {
+      "message": "സ്വീകരിക്കുക"
+   },
+   "_Account__Number": {
+      "message": "അക്കൗണ്ട് നമ്പർ"
+   },
+   "_Account__Settings": {
+      "message": "അക്കൗണ്ട്‌ ക്രമീകരണങ്ങള്‍"
+   },
+   "_Actionproper": {
+      "message": "നടപടി"
+   },
+   "_Add": {
+      "message": "ചേർക്കുക"
+   },
+   "_Add__Credit__Card": {
+      "message": "ക്രെഡിറ്റ്‌ കാര്‍ഡ് കൂട്ടിച്ചേര്‍ക്കുക"
+   },
+   "_Add__Field": {
+      "message": "ഫീൽഡ് ചേർക്കുക "
+   },
+   "_Add__Identity": {
+      "message": "വ്യക്തിത്വം കൂട്ടിച്ചേര്‍ക്കുക"
+   },
+   "_Add__New__Site": {
+      "message": "പുതിയ സൈറ്റ് ചേർക്കുക"
+   },
+   "_Add__Profile": {
+      "message": "പ്രൊഫൈല്‍ കൂട്ടിച്ചേര്‍ക്കുക"
+   },
+   "_Add__Secure__Note": {
+      "message": "സുരക്ഷിതമായ കുറിപ്പ് കൂട്ടിച്ചേര്‍ക്കുക"
+   },
+   "_Add__Site": {
+      "message": "സൈറ്റ് കൂട്ടിച്ചേര്‍ക്കുക"
+   },
+   "_Address_1": {
+      "message": "അഡ്രസ്സ് 1 "
+   },
+   "_Address_2": {
+      "message": "അഡ്രസ്‌ 2 "
+   },
+   "_Address_3": {
+      "message": "അഡ്രസ്‌ 3 "
+   },
+   "_Admin__Console": {
+      "message": "ഭരണസ്ഥലം"
+   },
+   "_Admin__Tools": {
+      "message": "അഡ്മിൻ ഉപകരണങ്ങള്‍"
+   },
+   "_Advanced": {
+      "message": "വിശദമായത്"
+   },
+   "_Advanced__Options": {
+      "message": "കൂടുതൽ വരണാധികാരങ്ങൾ"
+   },
+   "_Advanced__Tools": {
+      "message": "സങ്കീര്‍ണ്ണമായ ഉപാധികള്‍"
+   },
+   "_Afghanistan": {
+      "message": "Afghanistan"
+   },
+   "_Aland__Islands": {
+      "message": "Aland Islands"
+   },
+   "_Albania": {
+      "message": "Albania"
+   },
+   "_Algeria": {
+      "message": "Algeria"
+   },
+   "_All": {
+      "message": "എല്ലാം"
+   },
+   "_Allow__Last_Pass_to_find_insecure_data_on_your_computer_": {
+      "message": "സുരക്ഷിതമല്ലാത്ത വിവരം താങ്കളുടെ കമ്പ്യൂട്ടറിൽ സൂക്ഷിക്കുവാൻ LastPass അനുവദിക്കുന്നുവോ?"
+   },
+   "_Alt": {
+      "message": "Alt"
+   },
+   "_Always__Choose__Profile_and__Credit__Card": {
+      "message": "എപ്പോഴും പ്രൊഫൈലും ക്രെഡിറ്റ് കാർഡ് വിവരവും തിരഞ്ഞെടുക്കുക."
+   },
+   "_American__Samoa": {
+      "message": "American Samoa"
+   },
+   "_An__Update_is__Available___Would_you_like_to_install_": {
+      "message": "ഒരു മെച്ചപ്പെടുത്തല്‍ ലഭ്യമാണ്. അത് ചെയ്തേക്കട്ടെ?"
+   },
+   "_An_error_has_been_encountered_while_loading_your_sites___Please_relogin_": {
+      "message": "താങ്കളുടെ സൈറ്റുകൾ ലോഡ് ചെയ്യുന്നതിൽ പിഴവുണ്ടായി. ദയവായി വീണ്ടും ലോഗിൻ ചെയ്താലും."
+   },
+   "_Andorra": {
+      "message": "Andorra"
+   },
+   "_Angola": {
+      "message": "Angola"
+   },
+   "_Anguilla": {
+      "message": "Anguilla"
+   },
+   "_Antarctica": {
+      "message": "Antarctica"
+   },
+   "_Antigua_and__Barbuda": {
+      "message": "Antigua and Barbuda"
+   },
+   "_Appearance": {
+      "message": "ബാഹ്യരൂപം"
+   },
+   "_April": {
+      "message": "ഏപ്രിൽ"
+   },
+   "_Are_you_sure_you_want_to_have__Last_Pass_remember_your_password____This_will_significantly_decrease_the_security_of_your__Last_Pass_account_": {
+      "message": "താങ്കളുടെ പാസ്‌വേഡ് LastPass ഓർത്തിരിക്കേണമെന്നത് ഉറപ്പാണോ? ഇത് നിങ്ങളുടെ  LastPass അക്കൗണ്ടിന്റെ സുരക്ഷിതത്വത്തെ സാരമായി ബാധിക്കും."
+   },
+   "_Are_you_sure_you_would_like_to_change_your__Last_Pass_password_for_this_site_": {
+      "message": "ഈ സൈറ്റിനു LastPass ലുള്ള പാസ്സ്‌വേർഡ്‌ മാറ്റണമെന്നത് ഉറപ്പാണോ?"
+   },
+   "_Are_you_sure_you_would_like_to_copy_your__Last_Pass_site_s__U_R_L_to_the_clipboard_": {
+      "message": "LastPass സൈറ്റിന്റെ URL ക്ലിപ്പ്ബോർഡിലേക്ക് പകർത്തണമെന്നത് ഉറപ്പാണോ?"
+   },
+   "_Are_you_sure_you_would_like_to_copy_your__Last_Pass_site_s_password_to_the_clipboard_": {
+      "message": "LastPass സൈറ്റിന്റെ പാസ്സ്‌വേർഡ്‌ ക്ലിപ്പ്ബോർഡിലേക്ക് പകർത്തണമെന്നത് ഉറപ്പാണോ?"
+   },
+   "_Are_you_sure_you_would_like_to_copy_your__Last_Pass_site_s_username_to_the_clipboard_": {
+      "message": "LastPass സൈറ്റിന്റെ യൂസർ നെയിം ക്ലിപ്പ്ബോർഡിലേക്ക് പകർത്തണമെന്നത് ഉറപ്പാണോ?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_the_selected_sites_": {
+      "message": "തിരഞ്ഞെടുത്ത സൈറ്റുകൾ നീക്കണമെന്ന് ഉറപ്പാണോ?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_field_": {
+      "message": "ഈ ഫീൽഡ് നീക്കണമെന്ന് ഉറപ്പാണോ?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_form_fill_profile_": {
+      "message": "ഈ ഫോം പൂരണ പ്രൊഫൈൽ നീക്കണമെന്ന് ഉറപ്പാണോ?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_generated_password_": {
+      "message": "ഉളവാക്കപ്പെട്ട പാസ്‌വേർഡ് ഡിലീറ്റ് ചെയ്യേണമെന്നത് ഉറപ്പാണോ?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_secure_note_": {
+      "message": "ഈ സുരക്ഷിത കുറിപ്പ് നീക്കം ചെയ്യേണമെന്നത് ഉറപ്പാണോ?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_site_": {
+      "message": "ഈ സൈറ്റ് നീക്കം ചെയ്യേണമെന്നത് ഉറപ്പാണോ?"
+   },
+   "_Are_you_sure_you_would_like_to_save_a_new_site_to_your__Last_Pass_vault_": {
+      "message": "LastPass നിലവറയിലേക്ക് ഒരു പുതിയ സൈറ്റ് സേവ് ചെയ്യണമെന്നത് ഉറപ്പാണോ?"
+   },
+   "_Are_you_sure_you_would_like_your__Last_Pass__Form__Fill_information_to_be_filled_into_the_following_site_": {
+      "message": "താഴെയുള്ള സൈറ്റിലേക്ക് LastPass ഫോം പൂരണ വിവരങ്ങൾ പൂരിപ്പിക്കണമെന്നത് ഉറപ്പാണോ?"
+   },
+   "_Are_you_sure_you_would_like_your__Last_Pass_site_information_to_be_filled_into_the_following_site_": {
+      "message": "താഴെയുള്ള സൈറ്റിലേക്ക് LastPass സൈറ്റ് വിവരങ്ങൾ പൂരിപ്പിക്കണമെന്നത് ഉറപ്പാണോ?"
+   },
+   "_Argentina": {
+      "message": "Argentina"
+   },
+   "_Armenia": {
+      "message": "Armenia"
+   },
+   "_Arts": {
+      "message": "കല"
+   },
+   "_Aruba": {
+      "message": "Aruba"
+   },
+   "_Astana___Dhaka___Nobosibirsk": {
+      "message": "Astana, Dhaka, Novosibirsk"
+   },
+   "_August": {
+      "message": "ആഗസ്റ്റ്‌ "
+   },
+   "_Australia": {
+      "message": "Australia"
+   },
+   "_Austria": {
+      "message": "Austria"
+   },
+   "_Authenticate": {
+      "message": "പ്രാമാണീകരിക്കുക"
+   },
+   "_Auto_Fill": {
+      "message": "സ്വയം പൂരിപ്പിക്കുക"
+   },
+   "_Auto_Login": {
+      "message": "സ്വയംപ്രേരിത ലോഗിൻ"
+   },
+   "_Automatically__Fill__Login__Information": {
+      "message": "സ്വയം ലോഗിൻ വിവരം പൂരിപ്പിക്കുക "
+   },
+   "_Automatically__Logoff_after_idle__mins_": {
+      "message": "(mins) കഴിഞ്ഞ് സ്വയം ലോഗൗട്ട് ചെയ്യുക"
+   },
+   "_Automatically_login_to_sites_if_time_since_last_login____seconds_": {
+      "message": "മുൻപിലത്തെ ലോഗിന് ശേഷം (seconds) കഴിഞ്ഞെങ്കിൽ സ്വയം സൈറ്റുകളിൽ ലോഗിൻ ചെയ്യുക"
+   },
+   "_Avoid__Ambiguous__Characters": {
+      "message": "അവ്യക്തമായ അക്ഷരങ്ങൾ ഒഴിവാക്കുക"
+   },
+   "_Azerbaijan": {
+      "message": "Azerbaijan"
+   },
+   "_Back": {
+      "message": "പുറകോട്ട് "
+   },
+   "_Bahamas": {
+      "message": "Bahamas"
+   },
+   "_Bahrain": {
+      "message": "Bahrain"
+   },
+   "_Bangkok___Hanoi___Jakarta___Krasnoyarsk": {
+      "message": "Bangkok, Hanoi, Jakarta, Krasnoyarsk"
+   },
+   "_Bangladesh": {
+      "message": "Bangladesh"
+   },
+   "_Bank__Name": {
+      "message": "ബാങ്കിന്റെ പേര്"
+   },
+   "_Barbados": {
+      "message": "Barbados"
+   },
+   "_Beijing___Hong__Kong___Singapore___Taipei___Irkutsk": {
+      "message": "Beijing, Hong Kong, Singapore, Taipei, Irkutsk"
+   },
+   "_Belarus": {
+      "message": "Belarus"
+   },
+   "_Belgium": {
+      "message": "Belgium"
+   },
+   "_Belize": {
+      "message": "Belize"
+   },
+   "_Benin": {
+      "message": "Benin"
+   },
+   "_Bermuda": {
+      "message": "Bermuda"
+   },
+   "_Bhutan": {
+      "message": "Bhutan"
+   },
+   "_Birthday": {
+      "message": "ജന്മദിനം"
+   },
+   "_Blacklist": {
+      "message": "അനേകം ലോഗിൻ ഉദ്യമങ്ങൾ കാരണം താങ്കളുടെ അക്കൗണ്ട് താല്ക്കാലികമായി (5 മിനിറ്റ്) സസ്പെൻഡ് ചെയ്യപ്പെട്ടു."
+   },
+   "_Blog": {
+      "message": "ബ്ലോഗ്"
+   },
+   "_Bolivia": {
+      "message": "Bolivia"
+   },
+   "_Bookmarklets": {
+      "message": "ബുക്മാര്‍ക്ലെട്സ്"
+   },
+   "_Bosnia_and__Herzegovina": {
+      "message": "Bosnia and Herzegovina"
+   },
+   "_Botswana": {
+      "message": "Botswana"
+   },
+   "_Bouvet__Island": {
+      "message": "Bouvet Island"
+   },
+   "_Brazil": {
+      "message": "Brazil"
+   },
+   "_Brisbane___Guam___Port__Moresby___Vladivostok": {
+      "message": "Brisbane, Guam, Port Moresby, Vladivostok"
+   },
+   "_British__Indian__Ocean__Territory": {
+      "message": "British Indian Ocean Territory"
+   },
+   "_Browse_the_web_as_you_normally_would_and__Last_Pass_will_automatically_remember_passwords_as_you_enter_them_": {
+      "message": "സാധാരണ പോലെ വെബ് ബ്രൌസ് ചെയ്യുക, താങ്കൾ  രേഖപ്പെടുത്തുന്നതനുസരിച്ച് LastPass പാസ്‌വേർഡുകൾ ഓർത്തിരിക്കും"
+   },
+   "_Brunei__Darussalam": {
+      "message": "Brunei Darussalam"
+   },
+   "_Built_": {
+      "message": "നിർമ്മിച്ചത്:"
+   },
+   "_Bulgaria": {
+      "message": "Bulgaria"
+   },
+   "_Burkina__Faso": {
+      "message": "Burkina Faso"
+   },
+   "_Burundi": {
+      "message": "Burundi"
+   },
+   "_Business": {
+      "message": "വാണിജ്യം"
+   },
+   "_But__I_m_a_forgetful_person___what_should__I_do_if__I_forget_my_password_": {
+      "message": "പക്ഷെ എനിക്ക് മറവി ഉണ്ട്... പാസ്സ്‌വേർഡ്‌ മറന്ന് പോയാൽ ഞാൻ എന്ത് ചെയ്യേണം?"
+   },
+   "_C_S_V__Files": {
+      "message": "CSV ഫയലുകൾ"
+   },
+   "_Cambodia": {
+      "message": "Cambodia"
+   },
+   "_Cameroon": {
+      "message": "Cameroon"
+   },
+   "_Can_t_find_hidden__Last_Pass_window": {
+      "message": "മറയ്‌ക്കപ്പെട്ട LastPass വിൻഡോ കണ്ടുപിടിക്കുവാൻ കഴിഞ്ഞില്ല"
+   },
+   "_Canada": {
+      "message": "Canada"
+   },
+   "_Cancel": {
+      "message": "ഉപേക്ഷിക്കുക"
+   },
+   "_Cape__Verde": {
+      "message": "Cape Verde"
+   },
+   "_Cayman__Islands": {
+      "message": "Cayman Islands"
+   },
+   "_Central__African__Republic": {
+      "message": "Central African Republic"
+   },
+   "_Chad": {
+      "message": "Chad"
+   },
+   "_Change": {
+      "message": "മാറ്റുക"
+   },
+   "_Change__Password": {
+      "message": "പാസ്സ്‌വേർഡ്‌ മാറ്റുക"
+   },
+   "_Change__Password__Now": {
+      "message": "പാസ്സ്‌വേർഡ്‌ ഇപ്പോൾ മാറ്റുക"
+   },
+   "_Check__For__Updates": {
+      "message": "പരിഷ്കാരം ഉണ്ടോ എന്ന് പരിശോധിക്കുക"
+   },
+   "_Checkbox": {
+      "message": "Checkbox"
+   },
+   "_Checking__For__Updates___": {
+      "message": "പരിഷ്കാരങ്ങൾ ഉണ്ടോയെന്ന് പരിശോധിക്കുന്നു"
+   },
+   "_Chile": {
+      "message": "Chile"
+   },
+   "_China": {
+      "message": "China"
+   },
+   "_Chinese___Simplified_": {
+      "message": "Chinese (Simplified)"
+   },
+   "_Chinese___Traditional_": {
+      "message": "Chinese (Traditional)"
+   },
+   "_Choose__Profile_and__Credit__Card": {
+      "message": "വ്യക്തിവിവരണവും ക്രെഡിറ്റ് കാർഡും തിരഞ്ഞെടുക്കുക."
+   },
+   "_Christmas__Island": {
+      "message": "Christmas Island"
+   },
+   "_Chrome": {
+      "message": "ക്രോം"
+   },
+   "_Clear": {
+      "message": "ക്ലിയർ"
+   },
+   "_Clear__Forms": {
+      "message": "ഫോം ക്ലിയർ ചെയ്യുക"
+   },
+   "_Clear__Local__Cache": {
+      "message": "Local Cache ക്ലിയർ ചെയ്യുക"
+   },
+   "_Click__Continue_to_start_using__Last_Pass_": {
+      "message": "LastPass ഉപയോഗിച്ച് തുടങ്ങുവാൻ ഇവിടെ ക്ലിക്ക് ചെയ്യുക"
+   },
+   "_Click_here_to_initiate_multifactor_authentication_on_your_phone_or_mobile_device_": {
+      "message": "നിങ്ങളുടെ ഫോണിലോ മൊബൈൽ ഉപകരണത്തിലോ ബഹുഘടക പ്രാാമാണീകരണം തുടങ്ങുവാൻ ഇവിടെ ക്ലിക്ക് ചെയ്യുക"
+   },
+   "_Click_here_to_launch_account_settings": {
+      "message": "അക്കൗണ്ട് ക്രമങ്ങൾ തുറക്കുവാൻ ഇവിടെ ക്ലിക്ക് ചെയ്യുക"
+   },
+   "_Click_here_to_launch_feedback": {
+      "message": "പ്രതികരണം തുറക്കുവാൻ ഇവിടെ ക്ലിക്ക് ചെയ്യുക"
+   },
+   "_Close": {
+      "message": "അടയ്ക്കുക"
+   },
+   "_Cocos___Keeling___Islands": {
+      "message": "Cocos (Keeling) Islands"
+   },
+   "_Collapse__All": {
+      "message": "എല്ലാം സങ്കോചിപ്പിക്കുക"
+   },
+   "_Colombia": {
+      "message": "Colombia"
+   },
+   "_Comoros": {
+      "message": "Comoros"
+   },
+   "_Company": {
+      "message": "കമ്പനി"
+   },
+   "_Configure__Form__Fill": {
+      "message": "ഫോം പൂരണം രൂപവൽകരിക്കുക"
+   },
+   "_Confirm": {
+      "message": "ഉറപ്പിക്കുക"
+   },
+   "_Confirm__Password": {
+      "message": "പാസ്വേഡ് സ്ഥിരീകരിക്കുക"
+   },
+   "_Congo": {
+      "message": "Congo"
+   },
+   "_Congo__the__Democratic__Republic_of__The": {
+      "message": "Congo, the Democratic Republic of The"
+   },
+   "_Congratulations": {
+      "message": "അഭിനന്ദനങ്ങൾ"
+   },
+   "_Continue": {
+      "message": "തുടരുക"
+   },
+   "_Cook__Islands": {
+      "message": "Cook Islands"
+   },
+   "_Copy": {
+      "message": "പകർത്തുക"
+   },
+   "_Copy__Password": {
+      "message": "പാസ്സ്‌വേർഡ്‌ പകർത്തുക"
+   },
+   "_Copy__Username": {
+      "message": "യൂസർ നെയിം പകർത്തുക"
+   },
+   "_Copyright_2008__Last_Pass___All__Rights__Reserved___Portions_of_this_software_were_licensed_from_third_parties_as_described_at_": {
+      "message": "പകര്‍പ്പവകാശം 2008 LastPass. എല്ലാ അവകാശങ്ങളും സംവരണം ചെയ്തത്. ഈ സോഫ്റ്റ്വെയറിന്റെ ചില ഭാഗങ്ങൾ താഴെ പറയുന്നത് പോലെ മറ്റുള്ളവരിൽ നിന്നും ലൈസൻസ് ചെയ്തതാണ്: "
+   },
+   "_Costa__Rica": {
+      "message": "Costa Rica"
+   },
+   "_Cote__D_ivoire": {
+      "message": "Cote D'ivoire"
+   },
+   "_Country": {
+      "message": "രാജ്യം"
+   },
+   "_County": {
+      "message": "മണ്‌ഡലം"
+   },
+   "_Create__Account": {
+      "message": "അക്കൗണ്ട് നിർമ്മിക്കുക"
+   },
+   "_Create__Group": {
+      "message": "ഫോള്‍ഡര്‍ ഉണ്ടാക്കുക"
+   },
+   "_Create_an__Account": {
+      "message": "അക്കൗണ്ട് ഉണ്ടാക്കുക"
+   },
+   "_Creating__Account___": {
+      "message": "അക്കൗണ്ട് ഉണ്ടാക്കുന്നു..."
+   },
+   "_Credit__Card": {
+      "message": "ക്രെഡിറ്റ്‌ കാർഡ്‌ "
+   },
+   "_Credit__Card__Number": {
+      "message": "ക്രെഡിറ്റ്‌ കാർഡ്‌ നമ്പർ "
+   },
+   "_Croatia": {
+      "message": "Croatia"
+   },
+   "_Ctrl": {
+      "message": "Ctrl"
+   },
+   "_Cuba": {
+      "message": "Cuba"
+   },
+   "_Cyprus": {
+      "message": "Cyprus"
+   },
+   "_Danish": {
+      "message": "Danish"
+   },
+   "_December": {
+      "message": "ഡിസംബർ"
+   },
+   "_Default": {
+      "message": "Default"
+   },
+   "_Delete": {
+      "message": "നീക്കം ചെയ്യുക"
+   },
+   "_Delete__Selected": {
+      "message": "തിരഞ്ഞെടുത്തത് നീക്കം ചെയ്യുക"
+   },
+   "_Denmark": {
+      "message": "Denmark"
+   },
+   "_Description": {
+      "message": "വിവരണം"
+   },
+   "_Dining": {
+      "message": "ഭോജനം "
+   },
+   "_Disable__Insecure__Chrome__Password__Manager": {
+      "message": "ഭദ്രമല്ലാത്ത Chrome പാസ്‌വേഡ് മാനേജർ പ്രവർത്തനരഹിതമാക്കുക"
+   },
+   "_Disable__Last_Pass": {
+      "message": "LastPass പ്രവർത്തനരഹിതമാക്കുക"
+   },
+   "_Djibouti": {
+      "message": "Djibouti"
+   },
+   "_Do_not_re_prompt_for_": {
+      "message": "ഇത് വീണ്ടും ചോദിക്കാതിരിക്കുക:"
+   },
+   "_Do_you_really_want_to_quit____You_cannot_use__Last_Pass_without_creating_an_account_": {
+      "message": "നിറുത്തണമെന്നത് ഉറപ്പാണോ? ഒരു അക്കൗണ്ട് ഉണ്ടാക്കാതെ LastPass ഉപയോഗിക്കുവാൻ കഴിയില്ല."
+   },
+   "_Dominica": {
+      "message": "Dominica"
+   },
+   "_Dominican__Republic": {
+      "message": "Dominican Republic"
+   },
+   "_Down": {
+      "message": "Down"
+   },
+   "_Dr": {
+      "message": "Dr"
+   },
+   "_Dutch": {
+      "message": "Dutch"
+   },
+   "_Ecuador": {
+      "message": "Ecuador"
+   },
+   "_Edit": {
+      "message": "തിരുത്തുക"
+   },
+   "_Edit__Form__Fields": {
+      "message": "ഫോം ഫീൽഡുകൾ തിരുത്തുക"
+   },
+   "_Edit__Form__Fill_profile": {
+      "message": "ഫോം പൂരണ രൂപരേഖ തിരുത്തുക"
+   },
+   "_Edit__Secure__Note": {
+      "message": "സുരക്ഷിത നോട്ട് തിരുത്തുക"
+   },
+   "_Edit__Site__Fields": {
+      "message": "സൈറ്റ് ഫീൽഡുകൾ തിരുത്തുക"
+   },
+   "_Education": {
+      "message": "വിദ്യാഭ്യാസം"
+   },
+   "_Egypt": {
+      "message": "Egypt"
+   },
+   "_El__Salvador": {
+      "message": "El Salvador"
+   },
+   "_Email": {
+      "message": "ഇമെയിൽ "
+   },
+   "_Email_": {
+      "message": "ഇമെയിൽ അഡ്രസ്‌:"
+   },
+   "_Email__Address": {
+      "message": "ഇമെയിൽ അഡ്രസ്‌ "
+   },
+   "_Email_already_in_use__have_you_forgotten_your_password_": {
+      "message": "ഇമെയിൽ ഉപയോഗത്തിലുള്ളതാണ്. താങ്കൾ പാസ്സ്‌വേർഡ്‌ മറന്ന് പോയോ?"
+   },
+   "_End": {
+      "message": "End"
+   },
+   "_Entertainment": {
+      "message": "വിനോദം"
+   },
+   "_Equatorial__Guinea": {
+      "message": "Equatorial Guinea"
+   },
+   "_Eritrea": {
+      "message": "Eritrea"
+   },
+   "_Error_Get_Accts_Msg": {
+      "message": "താങ്കളുടെ LastPass സൈറ്റുകൾ വീണ്ടെടുക്കുന്നതിനിടയിൽ പിഴവുണ്ടായി. ദയവായി വീണ്ടും ലോഗിൻ ചെയ്യുക."
+   },
+   "_Error_Login_Msg": {
+      "message": "LastPass ലേക്ക് ലോഗിൻ ചെയ്യുന്നതിൽ പിഴവുണ്ടായി. ദയവായി താങ്കളുടെ ഇന്റർനെറ്റ് ബന്ധം പരിശോധിച്ചാലും."
+   },
+   "_Error_Sending_Msg": {
+      "message": "സെർവർ ലഭ്യമല്ല. ദയവായി നിങ്ങളുടെ ഇന്റര്നെറ്റ് കണക്ഷൻ പരിശോധിക്കൂ."
+   },
+   "_Error_Session_Msg": {
+      "message": "താങ്കളുടെ LastPass സെഷൻ കാലഹരണപ്പെട്ടു. ദയവായി വീണ്ടും ലോഗിൻ ചെയ്യുക."
+   },
+   "_Estonia": {
+      "message": "Estonia"
+   },
+   "_Ethiopia": {
+      "message": "Ethiopia"
+   },
+   "_Evening__Number": {
+      "message": "വൈകുന്നേരത്തെ നമ്പർ"
+   },
+   "_Existing_Users_O_T_P_Prompt": {
+      "message": "താങ്കൾ മാസ്റ്റർ പാസ്സ്‌വേർഡ്‌ മറന്ന് പോയാൽ അക്കൗണ്ട് പുനരുദ്ധരിപ്പിക്കേണ്ടതിന് ഒരു ഒറ്റത്തവണ പാസ്സ്‌വേർഡ്‌ തദ്ദേശീയമായി സൂക്ഷിക്കുവാൻ LastPass ന് കഴിയും. ഈ പാസ്സ്‌വേർഡ്‌ സർവ്വറിൽ പ്രയോഗക്ഷമമാക്കുന്നത് വരെ നിർവീര്യമായിരിക്കും.\n\nഅക്കൗണ്ട് പുനരുദ്ധാരണം പ്രയോഗക്ഷമം ആക്കണമോ?"
+   },
+   "_Expand__All": {
+      "message": "എല്ലാം വികസിപ്പിക്കുക"
+   },
+   "_Expiration__Date": {
+      "message": "കാലഹരണപ്പെടുന്ന തീയതി"
+   },
+   "_Export": {
+      "message": "പുറത്തേക്കെടുക്കുക"
+   },
+   "_Export__To": {
+      "message": "Export To"
+   },
+   "_Falkland__Islands___Malvinas_": {
+      "message": "Falkland Islands (Malvinas)"
+   },
+   "_Faroe__Islands": {
+      "message": "Faroe Islands"
+   },
+   "_Favorite": {
+      "message": "പ്രഥമഗണനീയം"
+   },
+   "_Fax__Number": {
+      "message": "ഫാക്സ് നമ്പർ"
+   },
+   "_February": {
+      "message": "ഫെബ്രുവരി"
+   },
+   "_Feedback": {
+      "message": "പ്രതികരണം"
+   },
+   "_Female": {
+      "message": "നാരി"
+   },
+   "_Fields_": {
+      "message": "ഫീൽഡുകൾ:"
+   },
+   "_Fiji": {
+      "message": "Fiji"
+   },
+   "_Fiji___Kamchatka___Marshall__Is_": {
+      "message": "Fiji, Kamchatka, Marshall Is."
+   },
+   "_Fill__Current": {
+      "message": "ഇപ്പോഴത്തേത് പൂരിപ്പിക്കുക"
+   },
+   "_Fill__Form": {
+      "message": "ഫോം പൂരിപ്പിക്കുക"
+   },
+   "_Fill__Forms": {
+      "message": "ഫോമുകൾ പൂരിപ്പിക്കുക"
+   },
+   "_Fill__In__Next__Login___When__Multiple_": {
+      "message": "അടുത്ത ലോഗിൻ പൂരിപ്പിക്കുക (ഒന്നിലധികമുള്ളപ്പോൾ)"
+   },
+   "_Fill__In__Previous__Login___When__Multiple_": {
+      "message": "മുൻപിലത്തെ ലോഗിൻ പൂരിപ്പിക്കുക (ഒന്നിലധികമുള്ളപ്പോൾ)"
+   },
+   "_Fillable_Form_Detected": {
+      "message": "ഈ പേജിൽ പൂരിപ്പിക്കാവുന്ന ഒരു ഫോം കണ്ടെത്തിയിട്ടുണ്ട്"
+   },
+   "_Finance": {
+      "message": "സാമ്പത്തികം"
+   },
+   "_Find_a_site": {
+      "message": "സൈറ്റ് "
+   },
+   "_Finland": {
+      "message": "Finland"
+   },
+   "_Finnish": {
+      "message": "Finnish"
+   },
+   "_Firefox": {
+      "message": "ഫയര്‍ഫോക്സ്"
+   },
+   "_Firefox__Password__Manager": {
+      "message": "Firefox പാസ്സ്‌വേർഡ്‌ മാനേജർ"
+   },
+   "_First__Name": {
+      "message": "പേരിന്റെ ആദ്യ ഭാഗം"
+   },
+   "_For_each_coordinate_listed_below__find_the_value_on_your_grid_and_enter_the_value_": {
+      "message": "താഴെ കൊടുത്തിരിക്കുന്ന ഓരോ കോർഡിനേറ്റിനും യോജിച്ച മൂല്യം താങ്കളുടെ ഗ്രിഡിൽ നിന്നും കണ്ടുപിടിച്ച് രേഖപ്പെടുത്തുക."
+   },
+   "_Form__Name_": {
+      "message": "ഫോമിന്റെ പേര്"
+   },
+   "_Forums": {
+      "message": "ഫോറമുകൾ"
+   },
+   "_France": {
+      "message": "France"
+   },
+   "_French__Guiana": {
+      "message": "French Guiana"
+   },
+   "_French__Polynesia": {
+      "message": "French Polynesia"
+   },
+   "_French__Southern__Territories": {
+      "message": "French Southern Territories"
+   },
+   "_G_M_T_5": {
+      "message": "GMT+5"
+   },
+   "_G_M_T_7": {
+      "message": "GMT+7"
+   },
+   "_G_M_T_9": {
+      "message": "GMT+9"
+   },
+   "_G_M_T___Dublin___Edinburgh___Lisbon___London": {
+      "message": "GMT: Dublin, Edinburgh, Lisbon, London"
+   },
+   "_Gabon": {
+      "message": "Gabon"
+   },
+   "_Gambia": {
+      "message": "Gambia"
+   },
+   "_Games": {
+      "message": "കളികൾ"
+   },
+   "_Gender": {
+      "message": "ലിംഗം"
+   },
+   "_General": {
+      "message": "പൊതുവായത് "
+   },
+   "_Generate": {
+      "message": "ഉളവാക്കുക "
+   },
+   "_Generate__Secure__Password": {
+      "message": "സുരക്ഷിത പാസ്സ്‌വേർഡ്‌ ഉളവാക്കുക"
+   },
+   "_Generated__Password_for": {
+      "message": "പാസ്സ്‌വേർഡ്‌ ഉളവാക്കുക:"
+   },
+   "_Generic__C_S_V__File": {
+      "message": "പൊതു CSV ഫയൽ"
+   },
+   "_Georgia": {
+      "message": "Georgia"
+   },
+   "_Germany": {
+      "message": "Germany"
+   },
+   "_Ghana": {
+      "message": "Ghana"
+   },
+   "_Gibraltar": {
+      "message": "Gibraltar"
+   },
+   "_Go__Premium_": {
+      "message": "പ്രീമിയത്തിലേക്ക് പോകുക!"
+   },
+   "_Google__Chrome": {
+      "message": "ഗൂഗിള്‍ ക്രോം"
+   },
+   "_Greece": {
+      "message": "Greece"
+   },
+   "_Greenland": {
+      "message": "Greenland"
+   },
+   "_Greenland___Brasilia___Montevideo": {
+      "message": "Greenland, Brasilia, Montevideo"
+   },
+   "_Guadeloupe": {
+      "message": "Guadeloupe"
+   },
+   "_Guam": {
+      "message": "Guam"
+   },
+   "_Guatemala": {
+      "message": "Guatemala"
+   },
+   "_Guernsey": {
+      "message": "Guernsey"
+   },
+   "_Guinea": {
+      "message": "Guinea"
+   },
+   "_Guinea__Bissau": {
+      "message": "Guinea-Bissau"
+   },
+   "_Guyana": {
+      "message": "Guyana"
+   },
+   "_Haiti": {
+      "message": "Haiti"
+   },
+   "_Health": {
+      "message": "ആരോഗ്യം"
+   },
+   "_Heard__Island_and__Mcdonald__Islands": {
+      "message": "Heard Island and Mcdonald Islands"
+   },
+   "_Help": {
+      "message": "സഹായം"
+   },
+   "_Help__Translate": {
+      "message": "പരിഭാഷപ്പെടുത്തുവാൻ സഹായിക്കുക "
+   },
+   "_Help___": {
+      "message": "സഹായം..."
+   },
+   "_Hide__Passwords": {
+      "message": "പാസ്‌വേർഡുകൾ ഒളിക്കുക"
+   },
+   "_History": {
+      "message": "ചരിത്രം"
+   },
+   "_Holy__See___Vatican__City__State_": {
+      "message": "Holy See (Vatican City State)"
+   },
+   "_Home": {
+      "message": "ഹോം"
+   },
+   "_Honduras": {
+      "message": "Honduras"
+   },
+   "_Hong__Kong": {
+      "message": "Hong Kong"
+   },
+   "_Hot_Keys": {
+      "message": "എളുപ്പമാർഗ്ഗം"
+   },
+   "_Hungarian": {
+      "message": "Hungarian"
+   },
+   "_Hungary": {
+      "message": "Hungary"
+   },
+   "_I_T__I_S__C_R_I_T_I_C_A_L__T_H_A_T__Y_O_U__N_E_V_E_R__F_O_R_G_E_T__Y_O_U_R__N_E_W__L_A_S_T_P_A_S_S__P_A_S_S_W_O_R_D_": {
+      "message": "താങ്കളുടെ പുതിയ LASTPASS പാസ്സ്‌വേർഡ്‌ താങ്കൾ ഒരിക്കലും മറക്കരുത് എന്നത് വളരെ നിര്‍ണ്ണായകമാണ്"
+   },
+   "_I_forgot_my_password___Help_": {
+      "message": "ഞാൻ എന്റെ പാസ്സ്‌വേർഡ്‌ മറന്നു പോയി. സഹായിക്കുക"
+   },
+   "_I_have_read_and_agree_with_the": {
+      "message": "ഇത് ഞാൻ വായിക്കുകയും അംഗീകരിക്കുകയും ചെയ്തു."
+   },
+   "_I_understand_that_my_encrypted_data_will_be_sent_to__Last_Pass": {
+      "message": "എന്റെ encrypted വിവരങ്ങൾ LastPass ന് അയക്കുമെന്ന് ഞാൻ മനസ്സിലാക്കുന്നു."
+   },
+   "_I_ve_forgotten_my_password_": {
+      "message": "എന്റെ പാസ്സ്‌വേർഡ്‌ ഞാൻ മറന്ന് പോയി."
+   },
+   "_Iceland": {
+      "message": "Iceland"
+   },
+   "_Identities": {
+      "message": "വ്യക്തിവിവരങ്ങൾ"
+   },
+   "_Identity": {
+      "message": "വ്യക്തിവിവരം"
+   },
+   "_If_you_lost_your__Sesame_device__click_here_to_disable__Sesame_authentication": {
+      "message": "താങ്കളുടെ Sesame ഉപകരണം നഷ്ടപ്പെട്ടു പോയെങ്കിൽ Sesame പ്രാമാണ്യതാപരിശോധന നീക്കം ചെയ്യുവാൻ ഇവിടെ ക്ലിക്ക് ചെയ്യുക "
+   },
+   "_If_you_lost_your__Yubi_Key_device__click_here_to_disable__Yubi_Key_authentication": {
+      "message": "താങ്കളുടെ YubiKey ഉപകരണം നഷ്ടപ്പെട്ടു പോയെങ്കിൽ YubiKey പ്രാമാണ്യതാപരിശോധന നീക്കം ചെയ്യുവാൻ ഇവിടെ ക്ലിക്ക് ചെയ്യുക "
+   },
+   "_If_you_lost_your_grid__click_here_to_disable_grid_authentication": {
+      "message": "താങ്കളുടെ ഗ്രിഡ് നഷ്ടപ്പെട്ടു പോയെങ്കിൽ ഗ്രിഡ് പ്രാമാണ്യതാപരിശോധന നീക്കം ചെയ്യുവാൻ ഇവിടെ ക്ലിക്ക് ചെയ്യുക "
+   },
+   "_Immediately": {
+      "message": "ഉടൻ തന്നെ"
+   },
+   "_Import": {
+      "message": "Import"
+   },
+   "_Import__From": {
+      "message": "Import From"
+   },
+   "_In_order_to_complete_the_process___s_will_have_to_log_in_to__s_and_navigate_through_a_number_of_windows_quickly___It_is_normal_to_see_windows_flashing_and_changing_quickly__and_may_take_several_moments___We_ll_let_you_know_when_you_re_all_set_": {
+      "message": "പ്രക്രിയ പൂർത്തീകരിക്കേണ്ടതിന് %s %s ലേക്ക് ലോഗിൻ ചെയ്ത് വളരെ വേഗം അനേകം വിൻഡോയിലൂടെ സഞ്ചരിക്കേണം. വിൻഡോകൾ പെട്ടെന്ന് മാറുകയും മിന്നുകയും ചെയ്യുന്നത് സാധാരണമാണ്. എല്ലാം പൂർത്തിയാകുമ്പോൾ താങ്കളെ അറിയിക്കുന്നതായിരിക്കും."
+   },
+   "_India": {
+      "message": "India"
+   },
+   "_Indiana___Bogota___Lima___Quito___Rio__Branco": {
+      "message": "Indiana, Bogota, Lima, Quito, Rio Branco"
+   },
+   "_Indonesia": {
+      "message": "Indonesia"
+   },
+   "_Instructions": {
+      "message": "നിര്‍ദ്ദേശങ്ങൾ"
+   },
+   "_Invalid__Password_": {
+      "message": "തെറ്റായ പാസ്സ്‌വേർഡ്‌"
+   },
+   "_Iran___Islamic__Republic__Of_": {
+      "message": "Iran (Islamic Republic Of)"
+   },
+   "_Iraq": {
+      "message": "Iraq"
+   },
+   "_Ireland": {
+      "message": "Ireland"
+   },
+   "_Islamabad___Karachi___Tashkent___Ekaterinburg": {
+      "message": "Islamabad, Karachi, Tashkent, Ekaterinburg"
+   },
+   "_Isle_of__Man": {
+      "message": "Isle of Man"
+   },
+   "_Israel": {
+      "message": "Israel"
+   },
+   "_Italy": {
+      "message": "Italy"
+   },
+   "_Jamaica": {
+      "message": "Jamaica"
+   },
+   "_Japan": {
+      "message": "Japan"
+   },
+   "_Jersey": {
+      "message": "Jersey"
+   },
+   "_Jordan": {
+      "message": "Jordan"
+   },
+   "_Kabul": {
+      "message": "Kabul"
+   },
+   "_Kathmandu": {
+      "message": "Kathmandu"
+   },
+   "_Kazakhstan": {
+      "message": "Kazakhstan"
+   },
+   "_Kee_Pass": {
+      "message": "KeePass"
+   },
+   "_Keep_a_history_of_my_logins_and_form_fills": {
+      "message": "എന്റെ ലോഗിനുകളുടേയും ഫോം പൂരണങ്ങളുടേയും ചരിത്രം സൂക്ഷിക്കുക "
+   },
+   "_Kenya": {
+      "message": "Kenya"
+   },
+   "_Kiribati": {
+      "message": "Kiribati"
+   },
+   "_Korea___Democratic__People_s__Republic__Of": {
+      "message": "Korea, Democratic People's Republic Of"
+   },
+   "_Korea___Republic__Of": {
+      "message": "Korea, Republic Of"
+   },
+   "_Korean": {
+      "message": "Korean"
+   },
+   "_Kuwait": {
+      "message": "Kuwait"
+   },
+   "_Kuwait___Riyadh___Nairobi___Moscow___St___Petersburg___Volgograd": {
+      "message": "Kuwait, Riyadh, Nairobi, Moscow, St. Petersburg, Volgograd"
+   },
+   "_Kyrgyzstan": {
+      "message": "Kyrgyzstan"
+   },
+   "_La__Paz": {
+      "message": "La Paz"
+   },
+   "_Language": {
+      "message": "ഭാഷ"
+   },
+   "_Lao__People_s__Democratic__Republic": {
+      "message": "Lao People's Democratic Republic"
+   },
+   "_Last_Pass": {
+      "message": "LastPass"
+   },
+   "_Last_Pass__Chrome__Toolbar": {
+      "message": "LastPass ക്രോം ടൂൾബാർ"
+   },
+   "_Last_Pass__Encrypted__File": {
+      "message": "LastPass Encrypt ചെയ്യപ്പെട്ട ഫയൽ"
+   },
+   "_Last_Pass__Grid__Multifactor__Authentication": {
+      "message": "LastPass Grid ബഹുഘടക രീതിയിലുള്ള പ്രാമാണ്യതാപരിശോധന"
+   },
+   "_Last_Pass_cannot_login_until_cookies_are_allowed_from_lastpass_com": {
+      "message": "lastpass.com ൽ നിന്നും cookies അനുവദിക്കുന്നത് വരെ LastPass ന് ലോഗിൻ ചെയ്യുവാൻ കഴിയില്ല."
+   },
+   "_Last_Pass_detected_a_login_form_that_is_insecure____Would_you_like_to_continue_": {
+      "message": "LastPass ഒരു അരക്ഷിത ലോഗിൻ ഫോം കണ്ടുപിടിച്ചു.\n\nതുടരണമോ?"
+   },
+   "_Last_Pass_detected_a_login_form_that_is_insecure____Would_you_still_like__Last_Pass_to_fill_the_form_": {
+      "message": "LastPass ഒരു അരക്ഷിത ലോഗിൻ ഫോം കണ്ടുപിടിച്ചു.\n\nLastPass ഫോം പൂരിപ്പിക്കണമോ?"
+   },
+   "_Last_Pass_detected_a_password_change_for": {
+      "message": "താഴെക്കാണുന്നതിന് ഒരു പാസ്സ്‌വേർഡ്‌ മാറ്റം LastPass കണ്ടുപിടിച്ചു "
+   },
+   "_Last_Pass_detected_a_password_change_for_domain_": {
+      "message": "താഴെക്കാണുന്ന Domain ന് ഒരു പാസ്സ്‌വേർഡ്‌ മാറ്റം LastPass കണ്ടുപിടിച്ചു "
+   },
+   "_Last_Pass_detected_a_password_change_for_user_": {
+      "message": "താഴെക്കാണുന്ന User ന് ഒരു പാസ്സ്‌വേർഡ്‌ മാറ്റം LastPass കണ്ടുപിടിച്ചു "
+   },
+   "_Last__Name": {
+      "message": "പേരിന്റെ അവസാന ഭാഗം"
+   },
+   "_Latvia": {
+      "message": "Latvia"
+   },
+   "_Lebanon": {
+      "message": "Lebanon"
+   },
+   "_Left": {
+      "message": "ഇടത്"
+   },
+   "_Lesotho": {
+      "message": "Lesotho"
+   },
+   "_Liberia": {
+      "message": "Liberia"
+   },
+   "_Libyan__Arab__Jamahiriya": {
+      "message": "Libyan Arab Jamahiriya"
+   },
+   "_Liechtenstein": {
+      "message": "Liechtenstein"
+   },
+   "_Link__Personal__Account": {
+      "message": "സ്വകാര്യ അക്കൗണ്ട് ബന്ധപ്പെടുത്തുക"
+   },
+   "_Lithuania": {
+      "message": "Lithuania"
+   },
+   "_Login": {
+      "message": "ലോഗിൻ ചെയ്യുക"
+   },
+   "_Login_Error": {
+      "message": "LastPass ലേക്ക് ലോഗിൻ ചെയ്യുന്നതിൽ അപാകത ഉണ്ട്. ദയവായി വീണ്ടും ശ്രമിക്കുക "
+   },
+   "_Login_to__Last_Pass": {
+      "message": "LastPass ലേക്ക് ലോഗിൻ ചെയ്യുക"
+   },
+   "_Logoff": {
+      "message": "ലോഗോഫ്"
+   },
+   "_Logoff_": {
+      "message": "ലോഗോഫ്:"
+   },
+   "_Lose_Changes": {
+      "message": "ഈ സൈറ്റിന്റെ ഫീൽഡുകൾ മാറ്റണമെന്ന് ഉറപ്പാണോ? അങ്ങനെ ചെയ്‌താൽ താങ്കൾ ഈ സൈറ്റിൽ ചെയ്ത മാറ്റങ്ങൾ നഷ്ടപ്പെടുവാൻ സാധ്യത ഉണ്ട്."
+   },
+   "_Luxembourg": {
+      "message": "Luxembourg"
+   },
+   "_M_S_I__Password_Keeper": {
+      "message": "MSI PasswordKeeper"
+   },
+   "_Macao": {
+      "message": "Macao"
+   },
+   "_Macedonia__the__Former__Yugoslav__Republic__Of": {
+      "message": "Macedonia, the Former Yugoslav Republic Of"
+   },
+   "_Madagascar": {
+      "message": "Madagascar"
+   },
+   "_Magadan___Solomon__Is____New__Caledonia": {
+      "message": "Magadan, Solomon Is., New Caledonia"
+   },
+   "_Malawi": {
+      "message": "Malawi"
+   },
+   "_Malaysia": {
+      "message": "Malaysia"
+   },
+   "_Maldives": {
+      "message": "Maldives"
+   },
+   "_Mali": {
+      "message": "Mali"
+   },
+   "_Malta": {
+      "message": "Malta"
+   },
+   "_Manage__Shared__Folders": {
+      "message": "പങ്കുവെച്ച ഫോള്‍ഡറുകള്‍ കൈകാര്യം ചെയ്യുക"
+   },
+   "_Marshall__Islands": {
+      "message": "Marshall Islands"
+   },
+   "_Martinique": {
+      "message": "Martinique"
+   },
+   "_Master__Password": {
+      "message": "മാസ്റ്റർ പാസ്സ്‌വേർഡ്‌ "
+   },
+   "_Master__Password_": {
+      "message": "മാസ്റ്റർ പാസ്സ്‌വേർഡ്‌:"
+   },
+   "_Mauritania": {
+      "message": "Mauritania"
+   },
+   "_Mauritius": {
+      "message": "Mauritius"
+   },
+   "_Maxthon": {
+      "message": "Maxthon"
+   },
+   "_Mayotte": {
+      "message": "Mayotte"
+   },
+   "_Meta": {
+      "message": "Meta"
+   },
+   "_Mexico": {
+      "message": "Mexico"
+   },
+   "_Micronesia___Federated__States__Of": {
+      "message": "Micronesia, Federated States Of"
+   },
+   "_Middle__Name": {
+      "message": "പേരിന്റെ മധ്യ ഭാഗം"
+   },
+   "_Minimum__Digit__Count": {
+      "message": "ഏറ്റവും കുറഞ്ഞ അക്ഷരങ്ങൾ"
+   },
+   "_Mobile__Number": {
+      "message": "മൊബൈൽ നമ്പർ"
+   },
+   "_Moldova___Republic__Of": {
+      "message": "Moldova, Republic Of"
+   },
+   "_Monaco": {
+      "message": "Monaco"
+   },
+   "_Mongolia": {
+      "message": "Mongolia"
+   },
+   "_Montenegro": {
+      "message": "Montenegro"
+   },
+   "_Montserrat": {
+      "message": "Montserrat"
+   },
+   "_Morocco": {
+      "message": "Morocco"
+   },
+   "_Mozambique": {
+      "message": "Mozambique"
+   },
+   "_My_Password_Safe": {
+      "message": "MyPasswordSafe"
+   },
+   "_My__Last_Pass__Vault": {
+      "message": "എന്‍റെ LastPass നിലവറ"
+   },
+   "_Myanmar": {
+      "message": "Myanmar"
+   },
+   "_N_A_M_E": {
+      "message": "പേര്"
+   },
+   "_Name_": {
+      "message": "പേര്:"
+   },
+   "_Name_on__Card": {
+      "message": "കാർഡിലെ പേര്"
+   },
+   "_Nameproper": {
+      "message": "പേര്"
+   },
+   "_Namibia": {
+      "message": "Namibia"
+   },
+   "_Nauru": {
+      "message": "Nauru"
+   },
+   "_Nepal": {
+      "message": "Nepal"
+   },
+   "_Netherlands": {
+      "message": "Netherlands"
+   },
+   "_Netherlands__Antilles": {
+      "message": "Netherlands Antilles"
+   },
+   "_Never___": {
+      "message": "ഒരിക്കലും വേണ്ട..."
+   },
+   "_New__Caledonia": {
+      "message": "New Caledonia"
+   },
+   "_New__Zealand": {
+      "message": "New Zealand"
+   },
+   "_News__Reference": {
+      "message": "വാർത്ത പരാമര്‍ശം"
+   },
+   "_Nicaragua": {
+      "message": "Nicaragua"
+   },
+   "_Niger": {
+      "message": "Niger"
+   },
+   "_Nigeria": {
+      "message": "Nigeria"
+   },
+   "_Niue": {
+      "message": "Niue"
+   },
+   "_No": {
+      "message": "വേണ്ട / ഇല്ല"
+   },
+   "_No__Thanks": {
+      "message": "വേണ്ട നന്ദി"
+   },
+   "_No__Updates__Are__Available": {
+      "message": "പരിഷ്കാരങ്ങൾ ലഭ്യമല്ല."
+   },
+   "_No___Thanks": {
+      "message": "വേണ്ട, നന്ദി "
+   },
+   "_Norfolk__Island": {
+      "message": "Norfolk Island"
+   },
+   "_Northern__Mariana__Islands": {
+      "message": "Northern Mariana Islands"
+   },
+   "_Norway": {
+      "message": "Norway"
+   },
+   "_Notes_": {
+      "message": "നോട്ടുകൾ:"
+   },
+   "_Notifications": {
+      "message": "അറിയിപ്പുകൾ"
+   },
+   "_O_K": {
+      "message": "ഓക്കെ "
+   },
+   "_Oman": {
+      "message": "Oman"
+   },
+   "_One__Time__Passwords": {
+      "message": "ഒറ്റതവണത്തേക്കുള്ള അടയാളവാക്കുകള്‍"
+   },
+   "_Open__All__Sites": {
+      "message": "എല്ലാ സൈറ്റും തുറക്കുക"
+   },
+   "_Open__Favorites": {
+      "message": "പ്രഥമഗണനീയമായത് തുറക്കുക"
+   },
+   "_Open__Favorites_in__Tabs": {
+      "message": "ഇഷ്ടപ്പെട്ടവ ടാബുകളില്‍ തുറക്കുക"
+   },
+   "_Open__My__Last_Pass__Vault": {
+      "message": "എന്റെ LastPass നിലവറ തുറക്കുക"
+   },
+   "_Open__Security__Challenge": {
+      "message": "സുരക്ഷാ ആഹ്വാനം തുറക്കുക"
+   },
+   "_Open_login_dialog_when_browser_starts": {
+      "message": "ബ്രൌസർ തുറക്കുമ്പോൾ ലോഗിൻ Dialog കാട്ടുക"
+   },
+   "_Opera": {
+      "message": "ഓപ്പെറ"
+   },
+   "_Overall__Progress_": {
+      "message": "ആകമാന മുന്നേറ്റം:"
+   },
+   "_P_A_S_S_W_O_R_Dupper": {
+      "message": "പാസ്സ്‌വേർഡ്‌"
+   },
+   "_Page__Down": {
+      "message": "Page Down"
+   },
+   "_Page__Up": {
+      "message": "Page Up"
+   },
+   "_Pakistan": {
+      "message": "Pakistan"
+   },
+   "_Palau": {
+      "message": "Palau"
+   },
+   "_Palestinian__Territories": {
+      "message": "Palestinian Territories"
+   },
+   "_Panama": {
+      "message": "Panama"
+   },
+   "_Papua__New__Guinea": {
+      "message": "Papua New Guinea"
+   },
+   "_Paraguay": {
+      "message": "Paraguay"
+   },
+   "_Passpack": {
+      "message": "Passpack"
+   },
+   "_Password": {
+      "message": "പാസ്സ്‌വേർഡ്‌"
+   },
+   "_Password_": {
+      "message": "പാസ്സ്‌വേർഡ്‌:"
+   },
+   "_Password__Agent": {
+      "message": "Password ഏജന്റ് "
+   },
+   "_Password__Keeper": {
+      "message": "Password Keeper"
+   },
+   "_Password__Length": {
+      "message": "പാസ്സ്‌വേർഡിന്റെ നീളം"
+   },
+   "_Password__Safe": {
+      "message": "Password സേഫ്"
+   },
+   "_Peru": {
+      "message": "Peru"
+   },
+   "_Philippines": {
+      "message": "Philippines"
+   },
+   "_Pitcairn": {
+      "message": "Pitcairn"
+   },
+   "_Please_enter_your_multifactor_authentication_code_": {
+      "message": "ദയവായി താങ്കളുടെ ബഹുഘടക പ്രാമാണ്യതാ കോഡ് രേഖപ്പെടുത്തുക"
+   },
+   "_Please_keep_this_page_open_until_the_operation_completes_": {
+      "message": "ഓപ്പറേഷൻ പൂർത്തിയാകുന്നതുവരെ ഈ പേജ് തുറന്നുവയ്ക്കുക."
+   },
+   "_Please_provide_this_computer_a_name": {
+      "message": "ഈ കമ്പ്യൂട്ടറിന് ഒരു പേര് കൊടുക്കുക"
+   },
+   "_Please_select_which_sites_you_wish_to_apply_this_change_": {
+      "message": "ഏതൊക്കെ സൈറ്റുകൾക്ക് ഈ മാറ്റം വരുത്തുവാൻ താങ്കള് ആഗ്രഹിക്കുന്നു എന്നത് തിരഞ്ഞെടുക്കുക "
+   },
+   "_Poland": {
+      "message": "Poland"
+   },
+   "_Polish": {
+      "message": "Polish"
+   },
+   "_Poll__Server_for_account_changes__mins_": {
+      "message": "(mins) ഇടവിട്ട് അക്കൗണ്ട് വ്യത്യാസങ്ങൾ ഉണ്ടോ എന്ന് സർവറിൽ പരിശോധിക്കുക"
+   },
+   "_Portugal": {
+      "message": "Portugal"
+   },
+   "_Preferences": {
+      "message": "മുൻഗണനകൾ"
+   },
+   "_Print": {
+      "message": "പ്രിന്റ്‌"
+   },
+   "_Productivity__Tools": {
+      "message": "സഫലതസാമഗ്രികൾ"
+   },
+   "_Profile": {
+      "message": "രൂപരേഖ"
+   },
+   "_Puerto__Rico": {
+      "message": "Puerto Rico"
+   },
+   "_Qatar": {
+      "message": "Qatar"
+   },
+   "_Recently__Used": {
+      "message": "അടുത്തിടെ ഉപയോഗിച്ചത്"
+   },
+   "_Recheck__Page": {
+      "message": "പേജ് വീണ്ടും പരിശോധിക്കുക"
+   },
+   "_Refresh__Sites": {
+      "message": "സൈറ്റുകൾ റിഫ്രഷ് ചെയ്യുക"
+   },
+   "_Remember__Email": {
+      "message": "ഇമെയിൽ ഓർക്കുക"
+   },
+   "_Remember__Password": {
+      "message": "പാസ്സ്‌വേർഡ്‌ ഓർക്കുക"
+   },
+   "_Remove__Linked__Personal__Account": {
+      "message": "ലിങ്ക് ചെയ്തിരിക്കുന്ന വ്യക്തിഗത അക്കൗണ്ട് നീക്കം ചെയ്യുക"
+   },
+   "_Remove__Personal__Account": {
+      "message": "സ്വകാര്യ അക്കൗണ്ട് നീക്കം ചെയ്യുക"
+   },
+   "_Require__Every__Character__Type": {
+      "message": "എല്ലാത്തര അക്ഷരങ്ങളും നിർബന്ധമാക്കുക"
+   },
+   "_Require__Password__Reprompt": {
+      "message": "പാസ്സ്‌വേർഡ്‌ വീണ്ടും ചോദിക്കുന്നത് നിർബന്ധമാക്കുക"
+   },
+   "_Respect__Auto_Complete_off__allow_websites_to_disable__Auto_Fill": {
+      "message": "AutoComplete=off: എന്ന മുൻഗണന പ്രകാരം സ്വയം പൂരിപ്പിക്കൽ നിർവീര്യമാക്കുവാൻ വെബ്സൈറ്റുകളെ അനുവദിക്കുക"
+   },
+   "_Right": {
+      "message": "വലത്"
+   },
+   "_Robo_Form": {
+      "message": "RoboForm"
+   },
+   "_Romania": {
+      "message": "Romania"
+   },
+   "_Russian": {
+      "message": "Russian"
+   },
+   "_Russian__Federation": {
+      "message": "Russian Federation"
+   },
+   "_Rwanda": {
+      "message": "Rwanda"
+   },
+   "_Safari": {
+      "message": "സഫാരി"
+   },
+   "_Saint__Barthelemy": {
+      "message": "Saint Barthelemy"
+   },
+   "_Saint__Helena": {
+      "message": "Saint Helena"
+   },
+   "_Saint__Kitts_and__Nevis": {
+      "message": "Saint Kitts and Nevis"
+   },
+   "_Saint__Lucia": {
+      "message": "Saint Lucia"
+   },
+   "_Saint__Martin___French__Part_": {
+      "message": "Saint Martin (French Part)"
+   },
+   "_Saint__Pierre_and__Miquelon": {
+      "message": "Saint Pierre and Miquelon"
+   },
+   "_Saint__Vincent_and_the__Grenadines": {
+      "message": "Saint Vincent and the Grenadines"
+   },
+   "_Samoa": {
+      "message": "Samoa"
+   },
+   "_San__Marino": {
+      "message": "San Marino"
+   },
+   "_Sao__Tome_and__Principe": {
+      "message": "Sao Tome and Principe"
+   },
+   "_Saudi__Arabia": {
+      "message": "Saudi Arabia"
+   },
+   "_Save": {
+      "message": "സേവ് ചെയ്യുക"
+   },
+   "_Save__All__Entered__Data": {
+      "message": "രേഖപ്പെടുത്തിയ എല്ലാ വിവരങ്ങളും സേവ് ചെയ്യുക"
+   },
+   "_Save__New__Site": {
+      "message": "പുതിയ സൈറ്റ് സേവ് ചെയ്യുക"
+   },
+   "_Save__Site": {
+      "message": "സൈറ്റ് സേവ് ചെയ്യുക"
+   },
+   "_Save_a_disabled__One__Time__Password_locally_for__Account__Recovery": {
+      "message": "അക്കൗണ്ട് പുനരുദ്ധാരണത്തിനായി നിർവീര്യമാക്കപ്പെട്ട ഒരു ഒറ്റതതവണ പാസ്സ്‌വേർഡ്‌ സേവ് ചെയ്യുക"
+   },
+   "_Searchproper": {
+      "message": "തിരയുക"
+   },
+   "_Secure__Note": {
+      "message": "സുരക്ഷിത കുറിപ്പ്"
+   },
+   "_Secure__Notes": {
+      "message": "സുരക്ഷിത നോട്ടുകൾ"
+   },
+   "_Security": {
+      "message": "സുരക്ഷിതത്വം"
+   },
+   "_Security__Challenge": {
+      "message": "സുരക്ഷിതത്വ പരീക്ഷണം"
+   },
+   "_Select": {
+      "message": "തിരഞ്ഞെടുക്കുക"
+   },
+   "_Select__Identity": {
+      "message": "വ്യക്തിത്വം തിരഞ്ഞെടുക്കുക"
+   },
+   "_Send__S_M_S_passcodes": {
+      "message": "SMS പാസ്‌കോഡുകൾ അയക്കുക"
+   },
+   "_Senegal": {
+      "message": "Senegal"
+   },
+   "_Seoul___Osaka___Sapporo___Tokyo___Yakutsk": {
+      "message": "Seoul, Osaka, Sapporo, Tokyo, Yakutsk"
+   },
+   "_Serbia": {
+      "message": "Serbia"
+   },
+   "_Sesame__Multifactor__Authentication": {
+      "message": "Sesame ബഹുഘടക രീതിയിലുള്ള പ്രാമാണ്യതാപരിശോധന"
+   },
+   "_Seychelles": {
+      "message": "Seychelles"
+   },
+   "_Share__Folder": {
+      "message": "ഫോൾടർ പങ്ക്‌ വെയ്ക്കുക"
+   },
+   "_Shift": {
+      "message": "Shift"
+   },
+   "_Shopping": {
+      "message": "ഷോപ്പിംഗ്"
+   },
+   "_Should__Last_Pass_remember_this_password_": {
+      "message": "LastPass ഈ പാസ്സ്‌വേർഡ്‌ ഓർത്തിരിക്കേണമോ?"
+   },
+   "_Show": {
+      "message": "കാട്ടുക"
+   },
+   "_Show__Advanced__Options": {
+      "message": "ഉത്കൃഷ്ട ഐച്ഛികങ്ങൾ കാട്ടുക"
+   },
+   "_Show__Deleted__Items": {
+      "message": "നീക്കം ചെയ്ത ഇനങ്ങള്‍ കാണിക്കുക"
+   },
+   "_Show__Notifications": {
+      "message": "അറിയിപ്പുകൾ കാട്ടുക"
+   },
+   "_Show__Save__Site__Notifications": {
+      "message": "സൈറ്റ് അറിയിപ്പുകൾ സേവ് ചെയ്യുക"
+   },
+   "_Show__Vault__After__Login": {
+      "message": "ലോഗിൻ ചെയ്തിട്ട് നിലവറ കാട്ടുക"
+   },
+   "_Show_all_sites": {
+      "message": "എല്ലാ സൈറ്റും കാട്ടുക"
+   },
+   "_Sierra__Leone": {
+      "message": "Sierra Leone"
+   },
+   "_Sign__In": {
+      "message": "ലോഗിൻ ചെയ്യുക"
+   },
+   "_Singapore": {
+      "message": "Singapore"
+   },
+   "_Site__Search": {
+      "message": "സൈറ്റ് തിരച്ചിൽ"
+   },
+   "_Sites": {
+      "message": "സൈറ്റുകൾ"
+   },
+   "_Slovak": {
+      "message": "Slovak"
+   },
+   "_Slovakia": {
+      "message": "Slovakia"
+   },
+   "_Slovenia": {
+      "message": "Slovenia"
+   },
+   "_Social": {
+      "message": "സാമൂഹ്യം"
+   },
+   "_Solomon__Islands": {
+      "message": "Solomon Islands"
+   },
+   "_Somalia": {
+      "message": "Somalia"
+   },
+   "_Source": {
+      "message": "ഉറവിടം"
+   },
+   "_South__Africa": {
+      "message": "South Africa"
+   },
+   "_South__Georgia_and_the__South__Sandwich__Islands": {
+      "message": "South Georgia and the South Sandwich Islands"
+   },
+   "_Spain": {
+      "message": "Spain"
+   },
+   "_Special": {
+      "message": "സവിശേഷമായത്"
+   },
+   "_Sports": {
+      "message": "കായികം"
+   },
+   "_Sri__Lanka": {
+      "message": "Sri Lanka"
+   },
+   "_Start__Trial": {
+      "message": "Trial തുടങ്ങുക"
+   },
+   "_Submit__Form": {
+      "message": "ഫോം സമർപ്പിക്കുക"
+   },
+   "_Sudan": {
+      "message": "Sudan"
+   },
+   "_Suriname": {
+      "message": "Suriname"
+   },
+   "_Svalbard_and__Jan__Mayen": {
+      "message": "Svalbard and Jan Mayen"
+   },
+   "_Swaziland": {
+      "message": "Swaziland"
+   },
+   "_Sweden": {
+      "message": "Sweden"
+   },
+   "_Swedish": {
+      "message": "Swedish"
+   },
+   "_Swipe_finger": {
+      "message": "വിരൽ സ്വൈപ്പ് ചെയ്യുക"
+   },
+   "_Swipe_your_finger_on_the_fingerprint_sensor": {
+      "message": "വിരലടയാളമാപിനിയിൽ വിരൽ സ്വൈപ്പ് ചെയ്യുക"
+   },
+   "_Switzerland": {
+      "message": "Switzerland"
+   },
+   "_Syrian__Arab__Republic": {
+      "message": "Syrian Arab Republic"
+   },
+   "_Taiwan": {
+      "message": "Taiwan"
+   },
+   "_Tajikistan": {
+      "message": "Tajikistan"
+   },
+   "_Tanzania___United__Republic__Of": {
+      "message": "Tanzania, United Republic Of"
+   },
+   "_Telecom": {
+      "message": "ടെലികോം"
+   },
+   "_Text": {
+      "message": "വാക്യങ്ങൾ"
+   },
+   "_Thailand": {
+      "message": "Thailand"
+   },
+   "_This_computer_is_trusted__do_not_require_a_second_form_of_authentication_for_30_days_": {
+      "message": "ഈ കമ്പ്യൂട്ടർ വിശ്വാസ്യമാക്കപ്പെട്ടു. 30 ദിവസത്തേക്ക് രണ്ടാമതൊരു പ്രമാണ്യത വേണ്ടി വരില്ല."
+   },
+   "_This_is_a_shared_site___You_are_not_permitted_to_view_the_password_": {
+      "message": "ഇത് പങ്കുവയ്‌ക്കപ്പെട്ട സൈറ്റായതിനാൽ താങ്കൾക്ക് പാസ്സ്‌വേർഡ്‌ കാണുവാൻ കഴിയില്ല"
+   },
+   "_Togo": {
+      "message": "Togo"
+   },
+   "_Tokelau": {
+      "message": "Tokelau"
+   },
+   "_Tonga": {
+      "message": "Tonga"
+   },
+   "_Tools": {
+      "message": "ഉപാധികള്‍"
+   },
+   "_Travel": {
+      "message": "യാത്ര"
+   },
+   "_Trinidad_and__Tobago": {
+      "message": "Trinidad and Tobago"
+   },
+   "_Try__Again": {
+      "message": "വീണ്ടും ശ്രമിക്കുക "
+   },
+   "_Try__Last_Pass__Enterprise": {
+      "message": "LastPass Enterprise ശ്രമിച്ചു നോക്കുക"
+   },
+   "_Tunisia": {
+      "message": "Tunisia"
+   },
+   "_Turbo_Passwords": {
+      "message": "TurboPasswords"
+   },
+   "_Turkey": {
+      "message": "Turkey"
+   },
+   "_Turkmenistan": {
+      "message": "Turkmenistan"
+   },
+   "_Turks_and__Caicos__Islands": {
+      "message": "Turks and Caicos Islands"
+   },
+   "_Tutorials": {
+      "message": "ഉപയോഗസഹായികള്‍"
+   },
+   "_Tuvalu": {
+      "message": "Tuvalu"
+   },
+   "_Type_": {
+      "message": "തരം:"
+   },
+   "_U_R_L_": {
+      "message": "URL:"
+   },
+   "_U_S_E_R_N_A_M_E": {
+      "message": "യൂസർനെയിം"
+   },
+   "_Uganda": {
+      "message": "Uganda"
+   },
+   "_Ukraine": {
+      "message": "Ukraine"
+   },
+   "_United__Arab__Emirates": {
+      "message": "United Arab Emirates"
+   },
+   "_United__Kingdom": {
+      "message": "United Kingdom"
+   },
+   "_United__States": {
+      "message": "United States"
+   },
+   "_United__States__Minor__Outlying__Islands": {
+      "message": "United States Minor Outlying Islands"
+   },
+   "_Up": {
+      "message": "Up"
+   },
+   "_Upgrade_to__Premium": {
+      "message": "പ്രീമിയത്തിലേക്ക് നവീകരിക്കുക."
+   },
+   "_Uruguay": {
+      "message": "Uruguay"
+   },
+   "_User__Manual": {
+      "message": "ഉപയോഗിക്കാനുള്ള നിര്‍ദ്ദേശങ്ങള്‍"
+   },
+   "_Username_": {
+      "message": "യൂസർനെയിം:"
+   },
+   "_Usernameproper": {
+      "message": "യൂസർനെയിം"
+   },
+   "_Uzbekistan": {
+      "message": "Uzbekistan"
+   },
+   "_Vanuatu": {
+      "message": "Vanuatu"
+   },
+   "_Venezuela": {
+      "message": "Venezuela"
+   },
+   "_Version_": {
+      "message": "വേർഷൻ"
+   },
+   "_Viet__Nam": {
+      "message": "Viet Nam"
+   },
+   "_View__History": {
+      "message": "മുമ്പ് ഉപയോഗിച്ചവ കാണുക"
+   },
+   "_Virgin__Islands___British_": {
+      "message": "Virgin Islands (British)"
+   },
+   "_Virgin__Islands___U__S__": {
+      "message": "Virgin Islands (U.S.)"
+   },
+   "_Wallis_and__Futuna": {
+      "message": "Wallis and Futuna"
+   },
+   "_Warn_before_filling_insecure_forms": {
+      "message": "അരക്ഷിത ഫോമുകൾ പൂരിപ്പിക്കുന്നതിന് മുൻപ് താക്കീത്‌ നല്‍കുക"
+   },
+   "_Website": {
+      "message": "വെബ്സൈറ്റ്"
+   },
+   "_Western__Sahara": {
+      "message": "Western Sahara"
+   },
+   "_Yemen": {
+      "message": "Yemen"
+   },
+   "_Yes": {
+      "message": "അതെ"
+   },
+   "_You_must_enter_a_name_": {
+      "message": "പേര് രേഖപ്പെടുത്തണം "
+   },
+   "_You_must_enter_a_unique_name_": {
+      "message": "അനന്യമായ ഒരു പേര് ചേർക്കണം"
+   },
+   "_You_must_restart__Chrome_or_logoff_and_back_in_to_get_logoff_on_browser_close_changes_to_be_reflected": {
+      "message": "മാറ്റങ്ങൾ നിലവിൽ വരുവാൻ ക്രോം വീണ്ടും തുറക്കുകയോ ലോഗോഫ് ചെയ്തിട്ട് ലോഗിൻ ചെയ്യുകയോ വേണം"
+   },
+   "_Your_current_settings_require_you_to_enter_your__Last_Pass_password_to_complete_this_action_": {
+      "message": "ഈ പ്രക്രിയ പൂർത്തീകരിക്കാൻ താങ്കളുടെ LastPass പാസ്സ്‌വേർഡ്‌ രേഖപ്പെടുത്തണം."
+   },
+   "_Your_password_is_easily_guessable_": {
+      "message": "താങ്കളുടെ പാസ്സ്‌വേർഡ്‌ അനായാസം ഊഹിക്കാവുന്നതാണ്"
+   },
+   "_Your_trust_token_has_expired_": {
+      "message": "താങ്കളുടെ ട്രസ്റ്റ് റ്റോക്കണ്‍ കാലഹരണപ്പെട്ടു."
+   },
+   "_Yubi_Key__Multifactor__Authentication": {
+      "message": "YubiKey ബഹുഘടക രീതിയിലുള്ള പ്രാമാണ്യതാപരിശോധന"
+   },
+   "_Yugoslavia": {
+      "message": "Yugoslavia"
+   },
+   "_Zambia": {
+      "message": "Zambia"
+   },
+   "_Zimbabwe": {
+      "message": "Zimbabwe"
+   },
+   "__Hide_": {
+      "message": "[ഒളിക്കുക]"
+   },
+   "__New__Pending__Share__Offers_": {
+      "message": "(പുതിയ തീര്‍ച്ചപ്പെടാത്ത ഷെയർ ഓഫറുകൾ)"
+   },
+   "__Show_": {
+      "message": "[കാട്ടുക]"
+   },
+   "_none_": {
+      "message": "(ഒന്നുമില്ല)"
+   },
+   "_s__Password__One__Click__Change": {
+      "message": "%s പാസ്സ്‌വേർഡ്‌ ഒറ്റ ക്ലിക്കിൽ മാറ്റുക"
+   },
+   "_s_will_now_attempt_to_change_your_password_to_a_strong__generated_password_that_will_be_saved_in_your_vault_and_known_only_to_you_": {
+      "message": "%s ഇപ്പോൾ താങ്കളുടെ പാസ്സ്‌വേർഡ്‌ താങ്കൾക്ക് മാത്രം അറിയാവുന്നതും നിലവറയിൽ സൂക്ഷിച്ചിട്ടുള്ളതും സ്വയം ഉളവാക്കപ്പെട്ടതുമായ ശക്തമായ ഒന്നായി മാറ്റുവാൻ ശ്രമിക്കുന്നതായിരിക്കും "
+   },
+   "a_zlower": {
+      "message": "a-z"
+   },
+   "dummy": {
+      "message": "dummy, leave this here so we don't mess up the trailing comma"
+   },
+   "favorites": {
+      "message": "പ്രഥമഗണനീയം"
+   },
+   "hour": {
+      "message": "മണിക്കൂർ "
+   },
+   "hours": {
+      "message": "മണിക്കൂറുകൾ"
+   },
+   "minutes": {
+      "message": "മിനുട്ടുകൾ"
+   },
+   "search_my_vault": {
+      "message": "എന്റെ നിലവറയിൽ തിരയുക"
+   },
+   "seconds": {
+      "message": "സെക്കന്റുകൾ"
+   }
+}

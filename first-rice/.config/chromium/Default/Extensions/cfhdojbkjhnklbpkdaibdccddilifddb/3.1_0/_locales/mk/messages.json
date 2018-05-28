@@ -1,0 +1,135 @@
+{
+   "add": {
+      "message": "Додади"
+   },
+   "cancel": {
+      "message": "Откажи"
+   },
+   "continue": {
+      "message": "Продолжи"
+   },
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers."
+   },
+   "filter_invalid_regexp": {
+      "message": "Непознатo регуларно изразување"
+   },
+   "filter_unknown_option": {
+      "message": "Непозната опција за филтер"
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "Неуспешно преземање"
+   },
+   "firstRun_abbButtonSubtitle": {
+      "message": "Достапен за Android и iOS оперативните системи"
+   },
+   "firstRun_abbButtonTitle": {
+      "message": "Симнете го Adblock Browser овде"
+   },
+   "firstRun_abbPromotionHeadline": {
+      "message": "Имате паметен телефон или таблет?"
+   },
+   "firstRun_acceptableAdsExplanation": {
+      "message": "Би сакале да ги поттикниме веб-страните да користат помалку збунувачки и помалку интрузивни реклами. Затоа направивме \u003Ca>збир строги правила\u003C/a> за да препознаеме прифатливи реклами, кои се прикажани по прв пат. Ќе можете да го \u003Ca>исклучите\u003C/a> тоа за неколку секунди."
+   },
+   "firstRun_acceptableAdsHeadline": {
+      "message": "Досадните реклами отсега ќе бидат блокирани"
+   },
+   "firstRun_contributor_credits": {
+      "message": "Листа на донатори"
+   },
+   "firstRun_donate": {
+      "message": "донирај"
+   },
+   "firstRun_donate_label": {
+      "message": "Поддржи го нашиот проект"
+   },
+   "firstRun_filterlistsReinitializedWarning": {
+      "message": "Изгледа дека поради проблем вашите филтери беа ресетирани. Не бевме мо можност да пронајдеме резервна копија, и затоа ве молиме рачно да ги проверите филтерите во \u003Ca>Нагодувањата на Adblock Plus\u003C/a>."
+   },
+   "firstRun_share": {
+      "message": "Кажи им на пријателите"
+   },
+   "firstRun_share_headline": {
+      "message": "\u003Ca>Помогнете ни\u003C/a> да го направиме Интернетот поубаво место"
+   },
+   "firstRun_title": {
+      "message": "AdBlock Plus е успешно инсталиран"
+   },
+   "issueReporter_commentPage_heading": {
+      "message": "Вметни коментар"
+   },
+   "issueReporter_dataCollector_description": {
+      "message": "Ве молиме почекајте додека Adblock Plus не ги собере потребните податоци."
+   },
+   "issueReporter_dataCollector_heading": {
+      "message": "Добредојдовте во репортерот за грешки"
+   },
+   "issueReporter_doneButton_label": {
+      "message": "Готово"
+   },
+   "issueReporter_falseNegative_description": {
+      "message": "Одбери ја опцијата доколку е прикажана реклама и покрај тоа што Adblock Plus е вклучен."
+   },
+   "issueReporter_falseNegative_label": {
+      "message": "Adblock Plus не блокира реклама"
+   },
+   "issueReporter_falsePositive_description": {
+      "message": "Одбери ја опцијава доколку на страницата недостасува важна содржина, прикажува неточно или не функционира соодветно. Ќе можеш да воочиш дали Adblock Plus е причината за проблемот така што ќе го исклучиш привремено."
+   },
+   "issueReporter_falsePositive_label": {
+      "message": "Adblock Plus блокира премногу"
+   },
+   "issueReporter_page_title": {
+      "message": "Репортер за грешки"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "Политика за приватност"
+   },
+   "issueReporter_typeSelector_description": {
+      "message": "Овој прозорец ќе Ве води преку чекорите потребни за пријавување на проблем со Adblock Plus. Прво, одберете го видот на проблем кој го имате на оваа страна:"
+   },
+   "issueReporter_typeSelector_heading": {
+      "message": "Одбери вид на проблем"
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "notification_antiadblock_message": {
+      "message": "Оваа страна е позната по тоа што пушта намерни пораки до корисниците на Adblock Plus. Дали сакате Adblock Plus да ги скрие пораките?"
+   },
+   "notification_antiadblock_title": {
+      "message": "Сокриј насочени пораки?"
+   },
+   "options_close": {
+      "message": "затвори"
+   },
+   "options_customFilter_cancel": {
+      "message": "Откажи"
+   },
+   "options_filterList_column_status": {
+      "message": "Состојба"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "Неуспешно, кодовите за проверка не се совпаѓаат"
+   },
+   "options_filterList_lastDownload_connectionError": {
+      "message": "Неуспешно преземање"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "Неуспешно, адресата не е валидна"
+   },
+   "options_filterList_state_disabled": {
+      "message": "Исклучено"
+   },
+   "options_short": {
+      "message": "Опции"
+   },
+   "overlay_notification_button_no": {
+      "message": "Не"
+   },
+   "overlay_notification_button_yes": {
+      "message": "Да"
+   }
+}

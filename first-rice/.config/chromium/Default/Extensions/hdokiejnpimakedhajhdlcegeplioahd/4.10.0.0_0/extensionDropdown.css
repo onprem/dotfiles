@@ -1,0 +1,1002 @@
+html {
+  height: auto;
+  width: auto;
+}
+
+body {
+  height: auto;
+  width: 350px;
+  background-color: #FFF;
+}
+
+#container {
+  border: 1px solid #CACACA;
+  box-sizing: border-box;
+  font-size: 14px;
+  visibility: hidden;
+  overflow: hidden;
+}
+
+#container.initialized {
+  visibility: visible;
+}
+
+#container .dialogInput {
+  font-size: 14px;
+}
+
+.header {
+  background-color: #F4F4F4;
+  border-bottom: 1px solid #CACACA;
+}
+
+#childViews .header {
+  border-bottom: none;
+}
+
+#backButton {
+  padding-left: 30px;
+  padding-right: 20px;
+  line-height: 49px;
+  height: 49px;
+  background-image: url('images/vault_4.0/Back.png');
+  background-position: 20px center;
+  background-repeat: no-repeat;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+#backLabel {
+  display: inline-block;
+  float: left;
+  min-width: 70px;
+}
+
+#groupLabel {
+  padding-left: 10px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  opacity: .5;
+  box-sizing: border-box;
+  text-align: right;
+}
+
+#groupLabel .textOverflowContainer,
+#groupLabel .textTail {
+  float: right;
+}
+
+#groupLabel .textTail {
+  max-width: calc(100% - 25px);
+}
+
+#groupLabel > span {
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+#backButton:hover {
+  background-color: #E2E2E2;
+}
+
+#searchContainer {
+  padding: 20px;
+}
+
+#searchInput {
+  font-style: italic;
+}
+
+.extensionMenuItem {
+  line-height: 40px;
+  height: 40px;
+  cursor: pointer;
+  display: block;
+  position: relative;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  padding-left: 20px;
+  text-decoration: none;
+  color: #000;
+  overflow-y: visible;
+}
+
+.extensionMenuItem.none {
+  cursor: default;
+}
+
+.extensionMenuItem.none:hover {
+  background-color: transparent;
+}
+
+.iconList .extensionMenuItem {
+  background-position: 20px center;
+  background-repeat: no-repeat;
+  padding-left: 20px;
+}
+
+.showIcons .extensionMenuItem {
+  padding-left: 50px;
+}
+
+.extensionMenuItem.hover {
+  background-color: #F0F0F0;
+  outline: none;
+}
+
+.extensionMenuItem.divider {
+  border-top: 1px solid #CACACA;
+}
+
+.extensionMenuItem.topLevelMatchesShadow {
+  box-shadow: 0 -1px 1px -1px darkgrey;
+  -moz-box-shadow: 0 -1px 1px -1px darkgrey;
+  -webkit-box-shadw: 0 -1px 1px -1px darkgrey;
+}
+
+.showIcons #vaultMenuItem {
+  background-image: url('images/vault_4.0/extension/Vault.png');
+}
+
+.showIcons #sitesMenuItem {
+  background-image: url('images/vault_4.0/extension/Sites.png');
+}
+
+.showIcons #formFillsMenuItem {
+  background-image: url('images/vault_4.0/extension/FormFill.png');
+}
+
+.showIcons #generateMenuItem {
+  background-image: url('images/vault_4.0/extension/Generate.png');
+}
+
+.showIcons #notesMenuItem {
+  background-image: url('images/vault_4.0/extension/Secure_Note.png');
+}
+
+.showIcons #logoutMenuItem {
+  background-image: url('images/vault_4.0/extension/Log_Out.png');
+}
+
+.showIcons #specialOfferMenuItem {
+  background-image: url('images/vault_4.0/extension/Gift.png');
+}
+
+#specialOfferMenuItem {
+  display: none;
+}
+
+#main {
+  display: none;
+  overflow: hidden;
+  /* Chrome's max popup height is 600px so this represents the max size without overflowing the popup (#container border: 2px, #searchContainer 71px) */
+  max-height: 527px;
+  position: relative;
+}
+
+.main #main {
+  display: block;
+}
+
+#matchingSiteCounter {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 20px;
+  line-height: 20px;
+  height: 20px;
+  font-size: 13px;
+  margin: auto;
+  border-radius: 4px;
+  background-color: #D22D27;
+  color: #FFF;
+  padding: 0 2px 0 2px;
+  margin-left: -2px;
+  min-width: 15px;
+  text-align: center;
+}
+
+.loading #items,
+.loading #allItems,
+.loading #searchResults,
+.loading #recentSites,
+.loading #matchingSites {
+  background-image: url('images/vault_4.0/Loading.gif');
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+
+/*
+* Only show these under certain conditions
+*/
+
+#debugconsole,
+#applicationsMenuItem,
+#encryptedExportMenuItem,
+#wifiExportMenuItem,
+#matchingSitesMenuItem {
+  display: none;
+}
+
+.singleImportOption #importMenuItemMain .more {
+  display: none;
+}
+
+
+/*
+******* Groups *******
+*/
+
+.extensionMenuItem.group {
+  padding-right: 30px;
+}
+
+.more {
+  width: 6px;
+  position: absolute;
+  right: 20px;
+  top: 0;
+  bottom: 0;
+  background: url('images/vault_4.0/extension/More.png') center center no-repeat;
+}
+
+
+/*
+******* Items *******
+*/
+
+.extensionMenuItem.item {
+  line-height: normal;
+  width: 100%;
+  display: table;
+  table-layout: fixed;
+  padding: 0;
+}
+
+.itemIcon,
+.extensionMenuItem.item > .itemInfoText,
+.extensionMenuItem.hover .moreItem {
+  vertical-align: middle;
+  display: table-cell !important;
+}
+
+.itemInfoText p {
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.extensionMenuItem.note .itemInfoText,
+.extensionMenuItem.formFill .itemInfoText {
+  padding-left: 10px;
+}
+
+.extensionMenuItem.group,
+.extensionMenuItem.item,
+.extensionMenuItem.addCustomItem {
+  border-width: 0 0 1px 0;
+  border-style: solid;
+  border-color: #DCDCDC;
+}
+
+#main .extensionMenuItem.item {
+  border-width: 1px 0 0 0;
+}
+
+.extensionMenuItem.group.last,
+.extensionMenuItem.item.last {
+  margin-bottom: -1px;
+}
+
+.extensionMenuItem.item .bigIcon {
+  height: 50%;
+}
+
+.extensionMenuItem .squareIcon {
+  height: 50%;
+  width: 24px;
+  height: 24px;
+  border-radius: 2px;
+}
+
+.extensionMenuItem.item .bigIcon.fa {
+  height: 40px;
+  font-size: 18px;
+  line-height: 40px;
+}
+
+.extensionMenuItem.item img {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+}
+
+.itemIcon {
+  background-color: #FFF;
+  height: 100%;
+  vertical-align: top;
+  width: 100px;
+  position: relative;
+}
+
+.itemIconOverlay {
+  display: none;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, .06);
+}
+
+.extensionMenuItem.hover .itemIconOverlay {
+  display: block;
+}
+
+.ziggyOverride.hover {
+  background-color: #F7F9FA !important;
+}
+
+.moreItem {
+  width: 40px;
+  display: none !important;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.moreItem-override:hover {
+  background-color: transparent !important;
+}
+
+.background {
+  background-image: url('images/vault_4.0/Edit.png');
+}
+
+.backgroundCircle {
+  padding-right: 25px;
+}
+
+.fontAwesomeIcon {
+  color: #AAB1B5;
+  line-height: 0px !important;
+  font-size: 15px !important;
+}
+
+.circle.empty {
+  opacity: 0.6;
+}
+
+.circle.empty.circleHover .fontAwesomeIcon {
+  color: #AAB1B5;
+}
+
+.circle {
+  color: #E7E8EA;
+  line-height: 0px !important;
+  width: 102% !important;
+}
+
+.circleHover {
+  color: #D32D27;
+  font-size: 32px !important;
+}
+
+.circleHover .fontAwesomeIcon {
+  color: white;
+}
+
+.circleHover .dropDownIcon {
+  color: white;
+}
+
+.circleHover .dropDownCircle{
+  color: #D32D27;
+  font-size: 14px !important;
+}
+
+.dropDownCircle {
+  font-size: .5em !important;
+  margin-left: 20%;
+  margin-top: 15%;
+}
+
+.dropDownIcon {
+  font-size: .9em !important;
+  margin-top: 1px;
+}
+
+.moreItem.copyUsername {
+  background-image: url('images/vault_4.0/Copy_Username.png');
+}
+
+.moreItem.copyPassword {
+  background-image: url('images/vault_4.0/Copy_Password.png');
+}
+
+.moreItem:hover {
+  background-color: #E2E2E2;
+}
+
+
+/*
+******* Child Views *******
+*/
+
+#childViews {
+  display: block;
+}
+
+.main #childViews {
+  display: none;
+}
+
+#searchContainer {
+  display: none;
+}
+
+.main #searchContainer,
+.search #searchContainer {
+  display: block;
+}
+
+.search .header {
+  display: none;
+}
+
+.childView {
+  display: none;
+  position: absolute;
+  top: 51px;
+  left: 1px;
+  right: 1px;
+  bottom: 50px;
+  overflow: auto;
+  overflow-x: hidden;
+}
+
+.allItems #allItems,
+.omariaItems #items,
+.addOmariaItems #addOmariaItems,
+.addCustomItems #addCustomItems,
+.sites #items,
+.notes #items,
+.formFills #items,
+.applications #items {
+  display: block;
+}
+
+.omariaItems #items,
+#addCustomItems,
+#addOmariaItems,
+#allItems {
+  bottom: 0;
+}
+
+#extensionDropdownGeneratePassword {
+  bottom: 0;
+}
+
+.extensionDropdownGeneratePassword #extensionDropdownGeneratePassword {
+  display: block;
+  min-height: 350px;
+}
+
+#chooseProfileCreditCard {
+  bottom: 0;
+}
+
+.chooseProfileCreditCard #chooseProfileCreditCard {
+  display: block;
+}
+
+.tools #tools {
+  display: block;
+}
+
+.options #options {
+  display: block;
+}
+
+.omarAdvancedOptions #omarAdvancedOptions {
+  display: block;
+}
+
+.advanced #advanced {
+  display: block;
+}
+
+.search #mainMenu {
+  display: none;
+}
+
+#searchResults {
+  bottom: 0;
+}
+
+.search #searchResults {
+  top: 72px;
+  display: block;
+}
+
+.import #import {
+  display: block;
+}
+
+.export #export {
+  display: block;
+}
+
+.print #print {
+  display: block;
+}
+
+.matchingSites #matchingSites {
+  display: block;
+}
+
+.recentSites #recentSites {
+  display: block;
+}
+
+.search #searchResults,
+.searchItem #searchResults {
+  display: block;
+}
+
+.identities #identities {
+  display: block;
+}
+
+
+/*
+******* Footers *******
+*/
+
+#itemsFooter {
+  position: absolute;
+  left: 1px;
+  right: 1px;
+  bottom: 0;
+}
+
+.footer {
+  display: none;
+  border-top: 1px solid #CACACA;
+  height: 49px;
+  line-height: 49px;
+  padding-left: 20px;
+  cursor: pointer;
+  background-color: #F4F4F4;
+}
+
+.footer ul {
+  margin-left: -20px;
+}
+
+.footer li {
+  border-bottom: 1px solid #CACACA;
+  padding-left: 20px;
+}
+
+.footer li:hover {
+  background-color: #E2E2E2;
+}
+
+.footer li:last-child {
+  border-bottom: none;
+}
+
+.sites #items {
+  bottom: 100px;
+}
+
+#siteFooter {
+  height: 99px;
+}
+
+.sites #siteFooter {
+  display: block;
+}
+
+#formFillFooter {
+  height: 199px;
+}
+
+.formFills #formFillFooter {
+  display: block;
+}
+
+.formFills #items {
+  bottom: 200px;
+}
+
+.notes #addNote {
+  display: block;
+}
+
+.recentSites #clearMostRecent {
+  display: block;
+}
+
+
+/*
+******* Empty Views *******
+*/
+
+.emptyView {
+  height: 200px;
+  max-height: 80%;
+  text-align: center;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+}
+
+.omariaItems .emptyView {
+  margin-top: 25px;
+}
+
+.emptyViewIcon {
+  height: 80%;
+}
+
+.omariaItems .emptyViewIcon {
+  height: 65%;
+}
+
+.omariaItems .emptyViewText {
+  font-size: 13px;
+  color: #646D73;
+  font-weight: 500;
+  padding: 20px;
+}
+
+.emptyViewText {
+  font-size: 22px;
+  color: #d32d27;
+}
+
+.omariaItems .emptyView input.addItem {
+  border: 1px solid #e7e8ea;
+  border-radius: 50px;
+  box-shadow: 0 1px 1px rgba(59, 74, 84, 0.1);
+  color: #ffffff;
+  display: inline-block;
+  font-weight: 600;
+  font-size: 11px;
+  letter-spacing: -0.3px;
+  height: 36px;
+  padding: 7px 40px 9px 40px;
+  outline: 0;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  cursor: pointer;
+  webkit-transition: box-shadow 0.3s cubic-bezier(0.25, 0.8, 0.25, 1), border-color 0.3s cubic-bezier(0.25, 0.8, 0.25, 1), background-color 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  -moz-transition: box-shadow 0.3s cubic-bezier(0.25, 0.8, 0.25, 1), border-color 0.3s cubic-bezier(0.25, 0.8, 0.25, 1), background-color 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  transition: box-shadow 0.3s cubic-bezier(0.25, 0.8, 0.25, 1), border-color 0.3s cubic-bezier(0.25, 0.8, 0.25, 1), background-color 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+
+/*
+******* Policy Specific Layout *******
+*
+* Any policy listed here defines the behaviour
+* when it is disabled.
+*
+*/
+
+.no-feature-import #importMenuItemMain {
+  display: none;
+}
+
+.feature-noexport #exportMenuItemMain {
+  display: none;
+}
+
+.no-feature-show_notes #notesMenuItem {
+  display: none;
+}
+
+.no-feature-show_formfills #formFillsMenuItem {
+  display: none;
+}
+
+.feature-hideidentities #identitiesMenuItem {
+  display: none;
+}
+
+.emptyPlaceholder {
+  width: 268px;
+  height: 135px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-style: italic;
+  line-height: 135px;
+  font-weight: 100;
+}
+
+.extensionSearchPlaceholder {
+  background-image: url("images/vault_4.0/extension/Empty_Search.png");
+  color: rgb(188, 198, 206);
+  font-size: 24px;
+  margin-top: 133px;
+}
+
+.matchingSitesTopLevelContainer {
+  max-height: 105px;
+  overflow: auto;
+  overflow-x: hidden;
+  position: relative;
+}
+
+.matchingSitesTopLevelContainer.hidden {
+  display: none;
+}
+
+.feature-omaria .nomaria {
+  display: none !important;
+}
+
+.no-feature-omaria .omaria {
+  display: none;
+}
+
+.menuIcon {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  max-width: 35px;
+  font-size: 20px !important;
+  line-height: 40px !important;
+  text-align: center;
+}
+
+.matchingNote .itemInfoText {
+  padding-left: 5px;
+}
+
+
+/* Omari IA Feature-Specific Styling */
+
+.omarSpacer {
+  background-color: #F7F9FA;
+  height: 12px;
+  border-top: 1px solid #e7e8ea;
+  border-bottom: 1px solid #e7e8ea;
+}
+
+.omarSpacer:last-child {
+  height: 1px;
+  border-bottom: none;
+}
+
+.feature-omaria #container {
+  border: none;
+}
+
+.feature-omaria #searchContainer {
+  padding: 15px 20px;
+}
+
+.feature-omaria .body {
+  color: #22303b;
+}
+
+.feature-omaria .header {
+  background-color: #F7F9FA;
+  border-bottom: 1px solid #E7E8EA;
+}
+
+.feature-omaria .childView {
+  background-color: #F7F9FA;
+  bottom: 0;
+}
+
+.feature-omaria #backButton {
+  border-bottom: 1px solid #E7E8EA;
+}
+
+.feature-omaria #backButton:hover {
+  background-color: #E7E8EA;
+}
+
+.feature-omaria .extensionMenuItem {
+  line-height: 44px;
+  height: 44px;
+  color: #22303b;
+  background-color: white;
+}
+
+.feature-omaria .matchingSitesTopLevelContainer {
+  max-height: 155px;
+}
+
+.feature-omaria #main .extensionMenuItem.matchingSite {
+  border-width: 0 0 1px 0;
+}
+
+.feature-omaria #main .extensionMenuItem.matchingSite:last-child {
+  border: none;
+}
+
+.feature-omaria .extensionMenuItem:last-child {
+  border-bottom: 1px solid #E7E8EA;
+}
+
+.feature-omaria .extensionMenuItem.hover {
+  background-color: #f7f9fa;
+}
+
+.feature-omaria .circle{
+    transition: 200ms all;
+}
+
+.feature-omaria .extensionMenuItem.divider {
+  border-top: 1px solid #e7e8ea;
+}
+
+.feature-omaria .extensionMenuItem.item {
+  height: 61px;
+}
+
+.feature-omaria .extensionMenuItem.item {
+  line-height: normal;
+}
+
+.feature-omaria .matchingNote .itemInfoText,
+.feature-omaria .note .itemInfoText,
+.feature-omaria .formFill .itemInfoText {
+  padding-left: 0;
+}
+
+.feature-omaria .itemIcon {
+  background-color: transparent;
+  width: 61px;
+}
+
+.feature-omaria .itemIconOverlay {
+  display: none;
+  visibility: hidden;
+  opacity: 0;
+}
+
+.feature-omaria .circle {
+  transition: 200ms all;
+}
+
+.feature-omaria .footer {
+  border-top: 1px solid #E7E8EA;
+  background-color: #F7F9FA;
+}
+
+.feature-omaria .footer li {
+  border-bottom: 1px solid #E7E8EA;
+}
+
+.feature-omaria .footer li:hover {
+  background-color: #E7E8EA;
+}
+
+.omariaMenuItem .menuIcon {
+  position: static;
+  width: 36px;
+  margin-right: 18px;
+  margin-left: -12px;
+  float: left;
+  text-align: center;
+  font-size: 22px !important;
+  line-height: 44px !important;
+  text-align: center;
+  color: #a1a9ad;
+}
+
+.omariaMenuItem .name {
+  float: left
+}
+
+.feature-omaria .noteFormFillIcon {
+  top: 15px;
+  left: 15px;
+  right: 15px;
+  bottom: 15px;
+  border-radius: 2px;
+}
+
+.contextOptionsDropdown {
+  background: white;
+  position: absolute;
+  border-color: white;
+  border-radius: 2px;
+  border-style: solid;
+  border-width: 1px;
+  box-shadow: 0 0 7px 0 rgba(60,74,84,0.3);
+  text-align: left;
+  line-height: 19.5px;
+  right: 0;
+  top: 20px;
+  cursor: pointer;
+}
+
+.contextOptionsDropdownElement {
+  display: block;
+  height: 20px;
+  color: #646d73 !important;
+  font-size: 13px !important;
+  color: #646d73;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: normal;
+  padding-top: 10px;
+  padding: 12px 36px;
+}
+
+.contextOptionsDropdownElement.hover {
+    width: inherit;
+    background: rgba(100, 109, 115, 0.12);
+}
+
+.topDropwdownElement {
+  padding-top: 20px;
+}
+
+.displayblock {
+  display: block !important;
+}
+
+.feature-omaria .extensionMenuItem .squareIcon {
+  height: auto;
+  max-height: 31px;
+  width: 31px;
+}
+
+.feature-omaria #searchInput {
+  font-style: normal;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  padding-left: 28px;
+  background-position: 0 center;
+  background-size: 14px;
+}
+
+.feature-omaria #searchInput:focus {
+  outline: none;
+  border-bottom: #A1A9AD;
+}
+
+.feature-omaria #searchInput::placeholder {
+  color: #A1A9AD;
+  font-weight: 300;
+}
+
+.feature-omaria .searchCloseButton.inputDialog {
+  width: 18px;
+  background-size: 10px;
+  opacity: 0.7;
+}
+
+.feature-omaria .searchCloseButton.inputDialog:hover {
+  background-color: transparent;
+  opacity: 1;
+}
+
+.feature-omaria #searchResults {
+  top: 61px;
+}
+
+.subMenuOverlay {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}

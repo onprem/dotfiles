@@ -1,0 +1,143 @@
+{
+   "add": {
+      "message": "ಸೇರಿಸಿ"
+   },
+   "add_filters_msg": {
+      "message": "ಫಿಲ್ಟರ್ (ರು) ಸೇರಿಸಲು?"
+   },
+   "block_element": {
+      "message": "ಬ್ಲಾಕ್ ಅಂಶ"
+   },
+   "cancel": {
+      "message": "ರದ್ದು"
+   },
+   "clickhide_instructions": {
+      "message": "ಈ ಪಾಪ್ಅಪ್ ಮುಚ್ಚುವ ನಂತರ, ಪುಟ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ (ಅಥವಾ ಬಲ ಕ್ಲಿಕ್ ಮಾಡಿ) ಒಂದು ಅಂಶ."
+   },
+   "continue": {
+      "message": "ಮುಂದುವರೆ"
+   },
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers."
+   },
+   "disabled_for_site": {
+      "message": "\u003Cstrong>ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ\u003C/strong> ಈ ಸೈಟ್"
+   },
+   "easy_create_filter": {
+      "message": "ಬ್ಲಾಕ್ ಅಂಶ"
+   },
+   "enabled_for_site": {
+      "message": "\u003Cstrong>ಶಕ್ತಗೊಂಡಿದೆ\u003C/strong> ಈ ಸೈಟ್ನಲ್ಲಿ"
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "ವಿಫಲವಾಗಿದೆ, ಡೌನ್ಲೋಡ್ ವೈಫಲ್ಯ"
+   },
+   "firstRun_title": {
+      "message": "ಆಡ್ಬ್ಲಾಕ್ ಪ್ಲಸ್ ನನ್ನು ಸ್ಥಾಪಿಸಲಾಗಿದೆ"
+   },
+   "invalid_css_selector": {
+      "message": "$selector$ is not a valid CSS selector",
+      "placeholders": {
+         "selector": {
+            "content": "$1"
+         }
+      }
+   },
+   "line": {
+      "message": "ಲೈನ್ $number$",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "name_devbuild": {
+      "message": "Adblock Plus ಅಭಿವೃದ್ಧಿ ನಿರ್ಮಿಸಲು"
+   },
+   "notification_configure": {
+      "message": "ಅಧಿಸೂಚನೆ ಸೆಟ್ಟಿಂಗ್ಗಳನ್ನು ಕಾನ್ಫಿಗರ್"
+   },
+   "notification_open_all": {
+      "message": "ಈ ಅಧಿಸೂಚನೆಯಿಂದ ಎಲ್ಲಾ ಲಿಂಕ್ಗಳನ್ನು ತೆರೆಯಲು\n"
+   },
+   "notification_with_buttons": {
+      "message": "ಈ ಅಧಿಸೂಚನೆಯನ್ನು ಎಲ್ಲ ಲಿಂಕ್ಗಳನ್ನು ತೆರೆಯಲು 'ಸರಿ' ಕ್ಲಿಕ್ ಮಾಡಿ."
+   },
+   "notification_without_buttons": {
+      "message": "ಇದು ಎಲ್ಲಾ ಲಿಂಕ್ಗಳನ್ನು ತೆರೆಯಲು ಪ್ರಕಟಣೆ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ."
+   },
+   "options_customFilter_cancel": {
+      "message": "ರದ್ದು"
+   },
+   "options_filterList_column_name": {
+      "message": "ಫಿಲ್ಟರ್ ಪಟ್ಟಿಗಳನ್ನು"
+   },
+   "options_filterList_column_status": {
+      "message": "ಸ್ಟೇಟಸ"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "ವಿಫಲವಾಗಿದೆ, ಪ್ರತಿನಿಧಿಗಳನ್ನು ಅಸಾಮರಸ್ಯವು"
+   },
+   "options_filterList_lastDownload_connectionError": {
+      "message": "ವಿಫಲವಾಗಿದೆ, ಡೌನ್ಲೋಡ್ ವೈಫಲ್ಯ"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "ವಿಫಲವಾಗಿದೆ, ಮಾನ್ಯ ವಿಳಾಸ"
+   },
+   "options_filterList_title": {
+      "message": "ಫಿಲ್ಟರ್ ಪಟ್ಟಿಗಳನ್ನು"
+   },
+   "options_filterList_updateNow": {
+      "message": "ಈಗ ನವೀಕರಿಸಿ"
+   },
+   "options_language_header": {
+      "message": "ಭಾಷ"
+   },
+   "options_page_document_title": {
+      "message": "ಸೆಟ್ಟಿಂಗ್ ಗಳು"
+   },
+   "options_page_title": {
+      "message": "ಸೆಟ್ಟಿಂಗ್ ಗಳು"
+   },
+   "options_short": {
+      "message": " ಆಯ್ಕೆಗಳು"
+   },
+   "options_tab_general": {
+      "message": "ಜನರಲ್"
+   },
+   "overlay_notification_button_no": {
+      "message": "ಇಲ್ಲ"
+   },
+   "overlay_notification_button_yes": {
+      "message": "ಹೌದು"
+   },
+   "stats_label_page": {
+      "message": "\u003Cstrong>$number$\u003C/strong> ಈ ಪುಟದಲ್ಲಿ",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_label_total": {
+      "message": "\u003Cstrong>$number$\u003C/strong> ಒಟ್ಟಾಗಿ",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_show_iconnumber": {
+      "message": "ಐಕಾನ್ ಸಂಖ್ಯೆ ತೋರಿಸಿ"
+   },
+   "stats_title": {
+      "message": "ಜಾಹೀರಾತುಗಳು ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ"
+   },
+   "unexpected_filter_list_header": {
+      "message": "ಫಿಲ್ಟರ್ ಪಟ್ಟಿ ಹೆಡರ್ ಇಲ್ಲಿ ಅನುಮತಿಸಲಾಗುವುದಿಲ್ಲ"
+   }
+}

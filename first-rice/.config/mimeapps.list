@@ -1,0 +1,6 @@
+[Added Associations]
+application/xml=firefox.desktop;
+text/plain=org.gnome.gedit.desktop;
+application/x-trash=feh.desktop;
+image/jpeg=feh.desktop;
+image/png=eog.desktop;

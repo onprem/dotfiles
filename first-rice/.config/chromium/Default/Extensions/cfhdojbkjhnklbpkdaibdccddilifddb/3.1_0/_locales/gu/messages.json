@@ -1,0 +1,260 @@
+{
+   "add": {
+      "message": "ઊમેરો"
+   },
+   "add_filters_msg": {
+      "message": "ફિલ્ટર ઉમેરવા છે?"
+   },
+   "block_element": {
+      "message": "બ્લોક એલિમેન્ટ"
+   },
+   "cancel": {
+      "message": "રદ"
+   },
+   "clickhide_instructions": {
+      "message": "આ પોપ અપ બંધ કરીને, પેજ પરનાં એલિમેન્ટ પર ક્લિક (અથવા રાઈટ ક્લિક) કરો."
+   },
+   "continue": {
+      "message": "ચાલુ રાખો"
+   },
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers."
+   },
+   "disabled_for_site": {
+      "message": "આં સાઈટ પર \u003Cstrong>ડિસેબલ\u003C/strong> કરો"
+   },
+   "easy_create_filter": {
+      "message": "બ્લોક એલિમેન્ટ"
+   },
+   "enabled_for_site": {
+      "message": "આં સાઈટ પર \u003Cstrong>ઇનેબલ\u003C/strong> કરો"
+   },
+   "filter_elemhideemulation_nodomain": {
+      "message": "વિસ્તૃત ઘટક છૂપાઇ ફિલ્ટર માટે કોઈ સક્રિય ડોમેન નિર્દિષ્ટ નથી"
+   },
+   "filter_invalid_domain": {
+      "message": "ઉલ્લેખિત અમાન્ય (અથવા ખાલી) ડોમેન"
+   },
+   "filter_invalid_regexp": {
+      "message": "અમાન્ય રેગ્યુલર એક્સપ્રેશન"
+   },
+   "filter_unknown_option": {
+      "message": "અજ્ઞાત ફિલ્ટર વિકલ્પ"
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "નિષ્ફળ થયું, ડાઉનલોડ નિષ્ફળ થયું"
+   },
+   "firstRun_title": {
+      "message": "એડબ્લોક પ્લસ સંગ્રહિત કરી દેવામાં આવ્યું છે"
+   },
+   "invalid_css_selector": {
+      "message": "$selector$ એ યોગ્ય CSS selector નથી",
+      "placeholders": {
+         "selector": {
+            "content": "$1"
+         }
+      }
+   },
+   "issueReporter_anonymousSubmission_label": {
+      "message": "અનામિક સબમિશન"
+   },
+   "issueReporter_anonymousSubmission_warning": {
+      "message": "અમે તમને પાછા આવવા માટે સમર્થ હશો નહીં અને સંભવિતપણે રિપોર્ટને ઓછો કરશે."
+   },
+   "issueReporter_commentPage_heading": {
+      "message": "ટિપ્પણી દાખલ કરો"
+   },
+   "issueReporter_comment_description": {
+      "message": "નીચે આપેલી ટેક્સ્ટ ફીલ્ડ તમને સમસ્યાને સમજવામાં સહાય માટે ટિપ્પણી દાખલ કરવાની પરવાનગી આપે છે. આ પગલું વૈકલ્પિક છે પરંતુ સમસ્યા સ્પષ્ટ ન હોય તો આગ્રહણીય છે. તમે મોકલવામાં આવે તે પહેલાં રિપોર્ટ ડેટાની સમીક્ષા પણ કરી શકો છો."
+   },
+   "issueReporter_comment_label": {
+      "message": "ટિપ્પણી (વૈકલ્પિક):"
+   },
+   "issueReporter_comment_lengthWarning": {
+      "message": "તમારી ટિપ્પણીની લંબાઈ 1000 અક્ષરોથી વધી જાય છે માત્ર પ્રથમ 1000 અક્ષરો મોકલવામાં આવશે."
+   },
+   "issueReporter_confirmationMessage": {
+      "message": "તમારી રિપોર્ટ સાચવવામાં આવી છે. તમે તેને નીચેના સરનામા પર ઍક્સેસ કરી શકો છો:"
+   },
+   "issueReporter_dataCollector_description": {
+      "message": "કૃપા કરીને થોડી ક્ષણો રાહ જુઓ જ્યારે એડબ્લોક પ્લસ આવશ્યક ડેટા એકઠી કરે છે."
+   },
+   "issueReporter_dataCollector_heading": {
+      "message": "ઇશ્યૂ રિપોર્ટરમાં આપનું સ્વાગત છે"
+   },
+   "issueReporter_doneButton_label": {
+      "message": "પૂર્ણ થયું"
+   },
+   "issueReporter_email_description": {
+      "message": "અમે તમને એક માન્ય ઇમેઇલ સરનામું દાખલ કરવા પ્રોત્સાહિત કરીએ છીએ જેથી તમારી રિપોર્ટ વિશે કોઈ પ્રશ્નો હોય તો અમે તમારો સંપર્ક કરી શકીએ. તે અમને તમારા યોગદાનને ઓળખી કાઢવા અને તેમને વધુ ઉચ્ચ બનાવવા માટે પરવાનગી આપશે."
+   },
+   "issueReporter_email_label": {
+      "message": "ઇમેઇલ:"
+   },
+   "issueReporter_errorMessage": {
+      "message": "રિપોર્ટ મોકલવાનો પ્રયાસ ભૂલ કોડ \"?1?\" માં નિષ્ફળ થયો. કૃપા કરીને ખાતરી કરો કે તમે ઇન્ટરનેટથી કનેક્ટેડ છો અને ફરીથી પ્રયાસ કરો. જો સમસ્યા યથાવત રહે તો કૃપા કરીને [link] એડબ્લોક પ્લસ ફોરમ [/link] માં સહાયની વિનંતી કરો."
+   },
+   "issueReporter_falseNegative_description": {
+      "message": "એડબ્લોક પ્લસ સક્ષમ હોવા છતાં કોઈ જાહેરાત પ્રદર્શિત થાય તો આ વિકલ્પ પસંદ કરો."
+   },
+   "issueReporter_falseNegative_label": {
+      "message": "એડબ્લોક પ્લસ કોઈ જાહેરાતને અવરોધિત કરતી નથી"
+   },
+   "issueReporter_falsePositive_description": {
+      "message": "આ વિકલ્પને પસંદ કરો જો પૃષ્ઠમાં મહત્વપૂર્ણ સામગ્રી ન હોય તો, ખોટી રીતે પ્રદર્શિત કરે છે અથવા યોગ્ય રીતે કામ કરવામાં નિષ્ફળ જાય છે. તમે નક્કી કરી શકો છો કે એડબ્લોક પ્લસ એ અસ્થાયી રૂપે તે નિષ્ક્રિય કરીને સમસ્યાનું કારણ છે."
+   },
+   "issueReporter_falsePositive_label": {
+      "message": "એડબ્લોક પ્લસ ખૂબ અવરોધિત છે"
+   },
+   "issueReporter_knownIssueMessage": {
+      "message": "તમે જે સમસ્યાની જાણ કરો છો તે પહેલેથી જ જાણીતું છે. વધુ મહિતી:"
+   },
+   "issueReporter_page_title": {
+      "message": "ઇશ્યૂ રિપોર્ટર"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "ગોપનીયતા નીતિ"
+   },
+   "issueReporter_sendButton_label": {
+      "message": "રિપોર્ટ મોકલો"
+   },
+   "issueReporter_sendPage_heading": {
+      "message": "રિપોર્ટ મોકલો"
+   },
+   "issueReporter_sending": {
+      "message": "એડબ્લોક પ્લસ તમારી રિપોર્ટ સબમિટ કરે ત્યાં સુધી કૃપા કરીને રાહ જુઓ."
+   },
+   "issueReporter_showData_label": {
+      "message": "રિપોર્ટ ડેટા બતાવો"
+   },
+   "issueReporter_typeSelector_description": {
+      "message": "આ વિંડો એડબ્લોક પ્લસ ઇશ્યૂ રિપોર્ટની રજૂઆત માટે આવશ્યક પગલાંથી તમને માર્ગદર્શન આપશે. પ્રથમ, કૃપા કરીને તમે આ પૃષ્ઠ પર જે સમસ્યા અનુભવી રહ્યા છો તેનો પ્રકાર પસંદ કરો:"
+   },
+   "issueReporter_typeSelector_heading": {
+      "message": "સમસ્યા પ્રકાર પસંદ કરો"
+   },
+   "line": {
+      "message": "લાઈન $number$",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "name_devbuild": {
+      "message": "Adblock Plus ડેવલોપમેન્ટ બીલ્ડ"
+   },
+   "notification_antiadblock_message": {
+      "message": "આ સાઇટ એડબ્લોક પ્લસ વપરાશકર્તાઓને લક્ષિત સંદેશાઓ બતાવવા માટે જાણીતી છે. શું તમે એડબ્લોક પ્લસને લક્ષિત સંદેશાને છુપાવવા માંગો છો?"
+   },
+   "notification_antiadblock_title": {
+      "message": "લક્ષિત સંદેશા છુપાવો છો?"
+   },
+   "notification_configure": {
+      "message": "સૂચના સેટિંગ્સને ગોઠવો"
+   },
+   "notification_open_all": {
+      "message": "આ સૂચનાથી તમામ લિંક્સ ખોલો"
+   },
+   "notification_with_buttons": {
+      "message": "આ નોટીફીકેશનમાં બધી લીંક ખોલવા 'ઓકે' પર ક્લિક કરો."
+   },
+   "notification_without_buttons": {
+      "message": "નોટીફીકેશનમાં બધી લીંક ખોલવા તેનાં પર ક્લિક કરો."
+   },
+   "options_acceptableAds_header": {
+      "message": "સ્વીકાર્ય જાહેરાતો"
+   },
+   "options_close": {
+      "message": "બંધ"
+   },
+   "options_customFilter_cancel": {
+      "message": "રદ"
+   },
+   "options_customize_showNotifications": {
+      "message": "ઉપયોગી અને સૂચનાઓ બતાવો"
+   },
+   "options_email": {
+      "message": "ઇમેઇલ:"
+   },
+   "options_filterList_column_name": {
+      "message": "ફિલ્ટરની લીસ્ટ"
+   },
+   "options_filterList_column_status": {
+      "message": "સ્થિત"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "નિષ્ફળ, checksum મેળ ખાતી નથી"
+   },
+   "options_filterList_lastDownload_connectionError": {
+      "message": "નિષ્ફળ થયું, ડાઉનલોડ નિષ્ફળ થયું"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "નિષ્ફળ થયું, માન્ય સરનામું નથી"
+   },
+   "options_filterList_state_disabled": {
+      "message": "અક્ષમ"
+   },
+   "options_filterList_title": {
+      "message": "ફિલ્ટરની લીસ્ટ"
+   },
+   "options_filterList_updateNow": {
+      "message": "અપડેટ કરો"
+   },
+   "options_short": {
+      "message": "ઓપ્શન્સ"
+   },
+   "options_support_title": {
+      "message": "આધાર"
+   },
+   "options_tab_general": {
+      "message": "સામાન્ય"
+   },
+   "options_tab_help": {
+      "message": "મદદ"
+   },
+   "overlay_notification_button_no": {
+      "message": "ના"
+   },
+   "overlay_notification_button_yes": {
+      "message": "હા"
+   },
+   "overlay_notification_closing_button_hide": {
+      "message": "આ સૂચના બંધ કરો"
+   },
+   "overlay_notification_closing_button_optout": {
+      "message": "સૂચનાઓ દર્શાવવાનું રોકો"
+   },
+   "sendReport": {
+      "message": "આ પૃષ્ઠ પર અને સમસ્યાની જાણ કરો"
+   },
+   "stats_label_page": {
+      "message": "\u003Cstrong>$number$\u003C/strong> આ પેજ પર",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_label_total": {
+      "message": "\u003Cstrong>$number$\u003C/strong> કુલ",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_show_iconnumber": {
+      "message": "આઇકોનમાં નંબર દેખાડો"
+   },
+   "stats_title": {
+      "message": "એડ્સ બ્લોક કરી"
+   },
+   "unexpected_filter_list_header": {
+      "message": "ફિલ્ટર લીસ્ટ હેડર આહીં વાપરી શકાય નહિ"
+   }
+}

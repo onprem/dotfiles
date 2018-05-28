@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Description of the extension",
+      "message": "Exportez vos cookies super rapidement dans un format compatible avec wget, curl, aria2, et bien plus."
+   },
+   "appName": {
+      "description": "Name of the extension",
+      "message": "cookies.txt"
+   }
+}

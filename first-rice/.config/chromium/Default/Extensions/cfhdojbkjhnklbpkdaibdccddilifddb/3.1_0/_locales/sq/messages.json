@@ -1,0 +1,183 @@
+{
+   "add": {
+      "message": "Shto"
+   },
+   "cancel": {
+      "message": "Anulo"
+   },
+   "continue": {
+      "message": "Vazhdo"
+   },
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers."
+   },
+   "filter_invalid_regexp": {
+      "message": "Shprehja e pavlefshme e rregullt"
+   },
+   "filter_unknown_option": {
+      "message": "Opsioni i filtërit te panjohur"
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "Deshtoi,gabim shkarkimi"
+   },
+   "firstRun_abbButtonSubtitle": {
+      "message": "Në dispozicion për Android dhe iOS"
+   },
+   "firstRun_abbButtonTitle": {
+      "message": "Merre Adblock Browser këtu"
+   },
+   "firstRun_abbPromotionHeadline": {
+      "message": "Ke një telefon inteligjent apo tablet?"
+   },
+   "firstRun_acceptableAdsExplanation": {
+      "message": "Ne do të donim tju inkurajonim të përdorit faqet e internetit të drejtpërdrejtë,pa reklama. Kjo është arsyeja pse ne kemi krijuar \u003Ca> udhëzime strikte \u003C/a> për të identifikuar reklama pranueshme, të cilat janë paraqitur në default settings. Nëse ju ende i doni të bllokoni çdo reklame ju mund \u003Ca> çaktivizoni \u003C/a> në pak sekonda."
+   },
+   "firstRun_acceptableAdsHeadline": {
+      "message": "Te gjitha Reklamat do te bllokohen"
+   },
+   "firstRun_contributor_credits": {
+      "message": "Kredite kontribues"
+   },
+   "firstRun_donate": {
+      "message": "dhuro"
+   },
+   "firstRun_donate_label": {
+      "message": "Mbeshtet Projektet Tona"
+   },
+   "firstRun_filterlistsReinitializedWarning": {
+      "message": "Duket se dicka ka shkaktuar heqjen e te gjitha filtrave dhe ne ishim ne gjendje ti benim nje backup.\nPrandaj ne kishim rivendosur filtrat tuaj ne Acceptable Ads settings.Ju lutem kontrolloni listen e filtrave tuaj dhe Acceptable Ads settings ne \u003Ca>Adblock Plus options\u003C/a>."
+   },
+   "firstRun_share": {
+      "message": "Tregoji Shokve"
+   },
+   "firstRun_share_headline": {
+      "message": "\u003Ca> Na jep një dore \u003C/a>  per te bere internetin një vend më të mirë"
+   },
+   "firstRun_title": {
+      "message": "Adblock Plus u instalua"
+   },
+   "issueReporter_anonymousSubmission_label": {
+      "message": "Publikime anonime"
+   },
+   "issueReporter_anonymousSubmission_warning": {
+      "message": "Ne nuk do të jetë në gjendje për të ardhur tek ju dhe do të ngjarë prioritet raporti më i ulët."
+   },
+   "issueReporter_commentPage_heading": {
+      "message": "Koment"
+   },
+   "issueReporter_comment_description": {
+      "message": "Fusha e meposhtme ju lejon qe te jepni nje koment qe te na ndihmoje ne ta kuptojme me mire problemin. Ky hap eshte fakultativ por i rekomanduar nese problemi nuk eshte lehtesisht i dallueshem. Ju mund te rishikoni gjithashtu te dhenat e raportimit perpara se te dergohet."
+   },
+   "issueReporter_comment_label": {
+      "message": "Koment (fakultative):"
+   },
+   "issueReporter_comment_lengthWarning": {
+      "message": "Gjatesia e komentit tuaj i kapercent 1000 karaktere. Vetem 1000 karakteret e para do te dergohen se bashku me raportin."
+   },
+   "issueReporter_confirmationMessage": {
+      "message": "Raporti juaj eshte ruajtur. Ju mund ta shikoni ate ne kete adrese:"
+   },
+   "issueReporter_dataCollector_description": {
+      "message": "Ju lutem prisni disa momente deri sa Adblock Plus te mbledhe te gjitha te dhenat e nevojshme."
+   },
+   "issueReporter_dataCollector_heading": {
+      "message": "Mire se vini ne raportuesin e problemeve"
+   },
+   "issueReporter_doneButton_label": {
+      "message": "U krye"
+   },
+   "issueReporter_email_description": {
+      "message": "Ne ju inkurajojmë që të vendosni një adresë te vlefshme email në mënyrë që ne mund të lidhen me ju nëse ka pyetje në lidhje me raportin tuaj. Ai gjithashtu do të na lejojë për të njohur kontributet tuaja dhe për të përcaktuar përparësitë e tyre më të larta."
+   },
+   "issueReporter_email_label": {
+      "message": "Posta:"
+   },
+   "issueReporter_errorMessage": {
+      "message": "Tentativa per te derguar raportin ngeci me kodin e gabimit \"?1?\". Ju lutem sigurohuni qe jeni te lidhur ne internet dhe provoni perseri. Nese ky problem perseritet kerkoni ndihme ne [link]forumin e Adblock Plus[/link]."
+   },
+   "issueReporter_falseNegative_description": {
+      "message": "Zgjidhni kete mundesi nese nje reklame shfaqet edhe pse Adblock Plus eshte aktiv."
+   },
+   "issueReporter_falseNegative_label": {
+      "message": "Adblock Plus nuk bllokon nje rreklame"
+   },
+   "issueReporter_falsePositive_description": {
+      "message": "Zgjidhni kete mundesi nese faqes i mungon permbajtja e rendesishme, shfaqet gabim ose nuk funksionon ne rregull. Ju mund te percaktoni nese problemi eshte Adblock Plus duke e fikur ate perkohesisht."
+   },
+   "issueReporter_falsePositive_label": {
+      "message": "Adblock Plus po bllokon shume"
+   },
+   "issueReporter_knownIssueMessage": {
+      "message": "Problemi qe ju keni raportuar ka shume mundesi te jete i njohur. Per me shume informacion:"
+   },
+   "issueReporter_page_title": {
+      "message": "Raportuesi i problemeve"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "Rregulla Privatësie"
+   },
+   "issueReporter_sendButton_label": {
+      "message": "Dergo raportin"
+   },
+   "issueReporter_sendPage_heading": {
+      "message": "Dergo raportin"
+   },
+   "issueReporter_sending": {
+      "message": "Ju lutem prisni sa Adblock Plus te dergoje raportin tuaj."
+   },
+   "issueReporter_showData_label": {
+      "message": "Afisho permbajtjen e raportit"
+   },
+   "issueReporter_typeSelector_description": {
+      "message": "Kjo dritare do ju udhezoje neper gjithe hapat e nevojshem per dergimin e raportit te problemeve me Adblock Plus. Si fillim, ju lutem zgjidhni tipin e problemit qe ju vereni me kete faqe:"
+   },
+   "issueReporter_typeSelector_heading": {
+      "message": "Lloji i problemit"
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "notification_antiadblock_message": {
+      "message": "Kjo faqe ka qenë i njohur për të treguar mesazhe në shënjestër për përdoruesit Adblock Plus. A doni Adblock Plus për të fshehur mesazhet në shënjestër?"
+   },
+   "notification_antiadblock_title": {
+      "message": "Fshih mesazhe në shënjestër?"
+   },
+   "options_close": {
+      "message": "mbylle"
+   },
+   "options_customFilter_cancel": {
+      "message": "Anulo"
+   },
+   "options_email": {
+      "message": "Posta:"
+   },
+   "options_filterList_column_status": {
+      "message": "Gjendja"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "Deshtoi,mosperputhje checksumi"
+   },
+   "options_filterList_lastDownload_connectionError": {
+      "message": "Deshtoi,gabim shkarkimi"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "Deshtoi,nje adrese e pavlefshme"
+   },
+   "options_filterList_state_disabled": {
+      "message": "Qkyqur"
+   },
+   "options_short": {
+      "message": "Mundësitë"
+   },
+   "overlay_notification_button_no": {
+      "message": "Jo"
+   },
+   "overlay_notification_button_yes": {
+      "message": "Po"
+   },
+   "sendReport": {
+      "message": "Raporti çështje në këtë faqe"
+   }
+}

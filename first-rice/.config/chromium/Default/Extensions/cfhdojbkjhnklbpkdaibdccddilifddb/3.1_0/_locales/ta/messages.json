@@ -1,0 +1,191 @@
+{
+   "add": {
+      "message": "சேர்"
+   },
+   "add_filters_msg": {
+      "message": "வடிகட்டியை சேர்க்கவா?"
+   },
+   "block_element": {
+      "message": "உறுப்பை தடு"
+   },
+   "cancel": {
+      "message": "ரத்து செய்"
+   },
+   "clickhide_instructions": {
+      "message": "இந்த விழிதிரை மூடிய பின், பக்கத்தில் உள்ள உறுப்பின் மேல் சொடுக்கவும். (அல்லது வலது விசையை சொடுக்கவும்.)"
+   },
+   "continue": {
+      "message": "தொடர்ந்து"
+   },
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers."
+   },
+   "disabled_for_site": {
+      "message": "இந்த தளத்தில் \u003Cstrong> முடக்கப்பட்டுள்ளது\u003C/strong>"
+   },
+   "easy_create_filter": {
+      "message": "உறுப்பை தடு"
+   },
+   "enabled_for_site": {
+      "message": "இந்த தளத்தில் \u003Cstrong> செயல்படுகிறது\u003C/strong>"
+   },
+   "filter_elemhideemulation_nodomain": {
+      "message": "செயல்பாட்டில் உள்ள களப் வடிகட்டி ஒளிந்து நீட்டிக்கப்பட்ட உறுப்பு குறிப்பிட்ட இல்லை"
+   },
+   "filter_invalid_domain": {
+      "message": "குறிப்பிட்ட தவறான (அல்லது காலி) டொமைன்"
+   },
+   "filter_invalid_regexp": {
+      "message": "செல்லாத வழக்கமான வெளிப்பாடு"
+   },
+   "filter_unknown_option": {
+      "message": "தெரியாத வடிகட்டி தேர்வு"
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "தோல்வியடைந்தது, பதிவிறக்கம் தோல்வி"
+   },
+   "firstRun_abbButtonSubtitle": {
+      "message": "ஆண்ட்ராய்டு மற்றும் iOS-க்குக் கிடைக்கிறது"
+   },
+   "firstRun_abbButtonTitle": {
+      "message": "Adblock Browser-ஐ இங்கே பெற்றிடுங்கள்"
+   },
+   "firstRun_abbPromotionHeadline": {
+      "message": "ஸ்மார்ட்ஃபோன் அல்லது டேப்ளெட் வைத்திருக்கிறீர்களா?"
+   },
+   "firstRun_acceptableAdsHeadline": {
+      "message": "எரிச்சலூட்டும் விளம்பரங்கள் இப்போது தடைசெய்யப்படும்"
+   },
+   "firstRun_contributor_credits": {
+      "message": "பங்களிப்பாளர் கிரெடிட்கள்"
+   },
+   "firstRun_donate": {
+      "message": "தானம் செய்ய"
+   },
+   "firstRun_donate_label": {
+      "message": "நமது திட்டதுக்கு ஆதரவளிக்க"
+   },
+   "firstRun_share": {
+      "message": "உங்கள் நண்பர்களுக்கு கூறுங்கள்"
+   },
+   "firstRun_share_headline": {
+      "message": "ஓரு நல்ல வலை இடமாக மாற்ற \u003Ca>எங்களுக்கு கை கொடுங்கள்\u003C/a>"
+   },
+   "firstRun_title": {
+      "message": "Adblock plus நிறுவப்பட்டது"
+   },
+   "invalid_css_selector": {
+      "message": "$selector$ ஒரு செல்லுபடியாகும் CSS தேர்வுக்குழு இல்லை",
+      "placeholders": {
+         "selector": {
+            "content": "$1"
+         }
+      }
+   },
+   "line": {
+      "message": "வரி $number$",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "loading": {
+      "message": "ஏற்றுகிறது..."
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "name_devbuild": {
+      "message": "Adblock Plus வளர்ச்சி கட்டமை"
+   },
+   "notification_configure": {
+      "message": "அறிவிக்கை அமைப்புகளை உள்ளமைக்க"
+   },
+   "notification_open_all": {
+      "message": "இந்த அறிவிப்பின் அனைத்து இணைப்புகளையும் திற"
+   },
+   "notification_with_buttons": {
+      "message": "இந்த அறிவிப்பில் உள்ள எல்லா இணைப்புகளையும் திறக்க, 'சரி'யை சொடுக்கவும்."
+   },
+   "notification_without_buttons": {
+      "message": "இதில் உள்ள எல்லா இணைப்புகளையும் திறக்க \"அறிவிப்பை\" சொடுக்கவும்."
+   },
+   "options_close": {
+      "message": "மூட"
+   },
+   "options_customFilter_cancel": {
+      "message": "ரத்து செய்"
+   },
+   "options_filterList_column_name": {
+      "message": "வடிகட்டி பட்டியல்கள்"
+   },
+   "options_filterList_column_status": {
+      "message": "நிலைம"
+   },
+   "options_filterList_lastDownload_connectionError": {
+      "message": "தோல்வியடைந்தது, பதிவிறக்கம் தோல்வி"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "தோல்வி, செல்லத்தக்க இல்லை  முகவரி"
+   },
+   "options_filterList_state_disabled": {
+      "message": "முடக்கப்பட்டத"
+   },
+   "options_filterList_title": {
+      "message": "வடிகட்டி பட்டியல்கள்"
+   },
+   "options_filterList_updateNow": {
+      "message": "இப்போது புதுப்பிக்கவும்"
+   },
+   "options_short": {
+      "message": "தேர்வுகள்"
+   },
+   "options_tab_general": {
+      "message": "பொது"
+   },
+   "options_tab_whitelist": {
+      "message": "அனுமதிக்கப்பட்ட வலைத்தளங்கள்"
+   },
+   "overlay_notification_button_no": {
+      "message": "இல்லை"
+   },
+   "overlay_notification_button_yes": {
+      "message": "ஆம்"
+   },
+   "overlay_notification_closing_button_hide": {
+      "message": "இந்த அறிவிப்பை மூடவும்"
+   },
+   "overlay_notification_closing_button_optout": {
+      "message": "அறிவிப்புகளை நிறுத்து"
+   },
+   "sendReport": {
+      "message": "இந்தப் பக்கத்தில் இருக்கும் பிரச்சினைகளை தெரியப்படுத்த"
+   },
+   "stats_label_page": {
+      "message": "இந்தப் பக்கத்தில் \u003Cstrong>$number$\u003C/strong>",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_label_total": {
+      "message": "மொத்தம் \u003Cstrong>$number$\u003C/strong>",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_show_iconnumber": {
+      "message": "படவுருவில் எண்ணை காட்டு"
+   },
+   "stats_title": {
+      "message": "தடுக்கப்பட்ட விளம்பரங்கள்"
+   },
+   "unexpected_filter_list_header": {
+      "message": "வடிகட்டி பட்டியலில் தலைப்புகள் இங்கே அனுமதி இல்லை"
+   }
+}

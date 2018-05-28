@@ -1,0 +1,110 @@
+{
+   "add": {
+      "message": "ጨምር"
+   },
+   "add_filters_msg": {
+      "message": "ማጣሪያ(ዎች) ጨምር?"
+   },
+   "block_element": {
+      "message": "ይሄንን አካል ከልክል"
+   },
+   "cancel": {
+      "message": "ይቅር"
+   },
+   "clickhide_instructions": {
+      "message": "ይህን መልእክት እንደዘጉ፥ በገጹ ላይ ያለ አካል ላይ ክሊክ (ወይም የቀኝ ክሊክ) ያርጉ።"
+   },
+   "continue": {
+      "message": "ቀጥል"
+   },
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers."
+   },
+   "disabled_for_site": {
+      "message": "በዚህ ድር ገጾች ላይ \u003Cstrong>ጠፍቷል\u003C/strong>"
+   },
+   "easy_create_filter": {
+      "message": "ይህን አካል ይከልክሉ"
+   },
+   "enabled_for_site": {
+      "message": "በዚህ ድር ገጾች ላይ \u003Cstrong>በርቷል\u003C/strong>"
+   },
+   "invalid_css_selector": {
+      "message": "$selector$ ትክክለኛ የሲኤስኤስ መራጭ አይደለም።",
+      "placeholders": {
+         "selector": {
+            "content": "$1"
+         }
+      }
+   },
+   "line": {
+      "message": "መስመር $number$",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "name_devbuild": {
+      "message": "አድብሎክ ፕላስ በስሪት ላይ ያለ"
+   },
+   "notification_configure": {
+      "message": "የማስታወሻ ምርጫዎትን ይለውጡ"
+   },
+   "notification_open_all": {
+      "message": "በዚህ ማስታወሻ ውስጥ ያሉ አገናኞች ሁሉ ይክፈቱ"
+   },
+   "notification_with_buttons": {
+      "message": "'OK'ን ይጫኑ በዚህ ማስታወሻ ውስጥ ያሉ አገናኞች ሁሉ ለመክፈት።"
+   },
+   "notification_without_buttons": {
+      "message": "በውስጡ ያሉ አገናኞች ሁሉ ለመክፈት ማስታወሻውን ይጫኑት።"
+   },
+   "options_customFilter_cancel": {
+      "message": "ይቅር"
+   },
+   "options_filterList_column_name": {
+      "message": "የማጣሪያ ዝርዝር"
+   },
+   "options_filterList_title": {
+      "message": "የማጣሪያ ዝርዝር"
+   },
+   "options_filterList_updateNow": {
+      "message": "ማሻሻያ አሁን አርግ"
+   },
+   "options_short": {
+      "message": "ምርጫዎች"
+   },
+   "options_tab_general": {
+      "message": "አጠቃላይ"
+   },
+   "stats_label_page": {
+      "message": "\u003Cstrong>$number$\u003C/strong> በዚህ ገጽ ላይ",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_label_total": {
+      "message": "\u003Cstrong>$number$\u003C/strong> ባጠቃላይ",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_show_iconnumber": {
+      "message": "ቁጥር ምልክት ላይ አሳይ"
+   },
+   "stats_title": {
+      "message": "የተከለከሉ ማስታወቂያዎች"
+   },
+   "unexpected_filter_list_header": {
+      "message": "የማጣሪያ ዝርዝር ራስጌ እዚህ ጋር አይፈቀድም"
+   }
+}

@@ -1,0 +1,189 @@
+{
+   "add": {
+      "message": "Ավելացնել"
+   },
+   "cancel": {
+      "message": "Չեղարկել"
+   },
+   "continue": {
+      "message": "Շարունակել"
+   },
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers."
+   },
+   "filter_invalid_regexp": {
+      "message": "Սխալ կանոնավոր արտահայտությունը"
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "Անհաջող. Բեռնման սխալ"
+   },
+   "firstRun_abbButtonSubtitle": {
+      "message": "Մատչելի է Android-ի և iOS-ի համար"
+   },
+   "firstRun_abbButtonTitle": {
+      "message": "Ստացեք Adblock Browser այստեղ"
+   },
+   "firstRun_abbPromotionHeadline": {
+      "message": "Ունե՞ք սմարթֆոն կամ պլանշետ:"
+   },
+   "firstRun_acceptableAdsExplanation": {
+      "message": "Մենք թույլատրում ենք \u003Ca>որոշ կայքերի\u003C/a> գովազդը, որովհետև գիտենք, որ նրանք հաճելի գովազդ են օգտագործում։ Եթե Դուք չեք ցանկանում դրանք տեսնել, կարող եք \u003Ca>անջատել\u003C/a> դրանք շատ հեշտ։"
+   },
+   "firstRun_acceptableAdsHeadline": {
+      "message": "Վատ գովազդներն այժմ արգելված են"
+   },
+   "firstRun_contributor_credits": {
+      "message": "Ծրագրի հեղինակները"
+   },
+   "firstRun_donate": {
+      "message": "նվիրաբերել"
+   },
+   "firstRun_donate_label": {
+      "message": "Օգնեք մեր ծրագրին"
+   },
+   "firstRun_filterlistsReinitializedWarning": {
+      "message": "Näyttää siltä, ​​ettäkysymys aiheutti kaikki suodattimet poistetaan ja emme voineet palauttaa varmuuskopion . Siksi meidän piti palauttaa suodattimet ja hyväksyttävä ilmoitusten asetuksia . Tarkista suodatinluettelot ja hyväksyttävä mainokset asetukset\u003Ca> Adblock Plus vaihtoehtoja \u003C/a> ."
+   },
+   "firstRun_share": {
+      "message": "Պատմեք ընկերներին"
+   },
+   "firstRun_share_headline": {
+      "message": "\u003Ca>Մեզ օգնեք\u003C/a> դարձնելու ինտերնետն ավելի լավ վայր"
+   },
+   "firstRun_title": {
+      "message": "Վերջ! կարող էք օգտվել Adblock-ից"
+   },
+   "issueReporter_anonymousSubmission_label": {
+      "message": "Անհայտ ֆիլտեր"
+   },
+   "issueReporter_anonymousSubmission_warning": {
+      "message": "Մենք չենք կարողանալու ետ գալ Ձեզ մոտ և զեկույցը ցածր կհամարենք:"
+   },
+   "issueReporter_commentPage_heading": {
+      "message": "Մեկնաբանել"
+   },
+   "issueReporter_comment_description": {
+      "message": "Տեքստային դաշտի ստորեւ թույլ է տալիս մուտքագրել մեկնաբանություն մեզ օգնելու համար՝ հասկանալ խնդիրը\" Այս քայլը պարտադիր չէ, սակայն խորհուրդ է տրվում, եթե Խնդիրը ակնհայտ չէ: Դուք կարող եք նաեւ վերանայել զեկույցի տվյալները մինչ դրա ուղարկումը:"
+   },
+   "issueReporter_comment_label": {
+      "message": "Մեկնաբանություն (պարտադիր չէ)՝"
+   },
+   "issueReporter_comment_lengthWarning": {
+      "message": "Մեկնաբանության երկարությունը գերազանցում է 1000 սիմվոլ: Միայն առաջին 1000 սիմվոլը կուղարկվի:"
+   },
+   "issueReporter_confirmationMessage": {
+      "message": "Ձեր զեկույցը պահպանվել է: Դուք կարող եք մուտք գործել այն հետեւյալ հասցեով՝"
+   },
+   "issueReporter_dataCollector_description": {
+      "message": "Սպասեք մինչև Adblock Plus-ը հավաքի անհրաժեշտ տվյալներ…"
+   },
+   "issueReporter_dataCollector_heading": {
+      "message": "Բարի գալուստ պրոբլեմների հետևման համակարգ"
+   },
+   "issueReporter_doneButton_label": {
+      "message": "Պատրաստ է"
+   },
+   "issueReporter_email_description": {
+      "message": "Խնդրում ենք գրե՛ք ճիշտ email հասցե՝ Ձեզ հետ կապնվելու համար և խնդիրը լուծելու համար:"
+   },
+   "issueReporter_email_label": {
+      "message": "Email՝"
+   },
+   "issueReporter_errorMessage": {
+      "message": "Զեկույցի ուղարկման փորձը ձախողվել է հետևյալ սխալի կոդով՝ \"?1?\": Ստուգեք միացումը ինտերնետին եւ կրկնեք: Եթե խնդիրը չկարգավորվի, խնդրում ենք դիմել [link]Adblock Plus Ֆորում[/link] աջակցության համար:"
+   },
+   "issueReporter_falseNegative_description": {
+      "message": "Ընտրեք այս տարբերակը, եթե գովազդը ցուցադրվում է, չնայած Adblock Plus միացված է:"
+   },
+   "issueReporter_falseNegative_label": {
+      "message": "Adblock Plus-ը չի փակում գովազդը"
+   },
+   "issueReporter_falsePositive_description": {
+      "message": "Ընտրեք այս տարբերակը, եթե այս էջում կորել է կարեւոր բովանդակություն, այն ցուցադրվում է սխալ կամ չի աշխատում: Դուք կարող եք որոշել, թե արդյոք Adblock Plus-ն է պատճառը ժամանակավորապես անջատելով այն:"
+   },
+   "issueReporter_falsePositive_label": {
+      "message": "Adblock Plus-ը շատ է արգելում"
+   },
+   "issueReporter_knownIssueMessage": {
+      "message": "Ձեր հաղորդած հարցը հնարավոր է արդեն հայտնի է: Լրացուցիչ տեղեկություններ՝"
+   },
+   "issueReporter_page_title": {
+      "message": "Տեղեկացնել"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "Անձնական տվյալների պահպանում"
+   },
+   "issueReporter_sendButton_label": {
+      "message": "Ուղարկել զեկույցը"
+   },
+   "issueReporter_sendPage_heading": {
+      "message": "Ուղարկել զեկույցը"
+   },
+   "issueReporter_sending": {
+      "message": "Խնդրում ենք սպասել, մինչ Adblock Plus-ը, ուղարկի Ձեր զեկույցը:"
+   },
+   "issueReporter_showData_label": {
+      "message": "Ցույց տալ զեկույցը"
+   },
+   "issueReporter_typeSelector_description": {
+      "message": "Այս պատուհանը օգնում է կատարել Adblock Plus-ի խնդրի մասին տեղակացնելու համար անհրաժեշտ քայլերն. Նախ ընտրեք այս էջում ձեր ունեցած խնդրի տեսակը"
+   },
+   "issueReporter_typeSelector_heading": {
+      "message": "Խնդրի ընտրում"
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "notification_antiadblock_message": {
+      "message": "Այս կայքը ցուցադրում է նամակներ Adblock Plus-ի օգտվողներին։ Ուզո՞ւմ եք թաքցնել դրանք։"
+   },
+   "notification_antiadblock_title": {
+      "message": "Թաքցնե՞լ նամակները"
+   },
+   "options_close": {
+      "message": "փակել"
+   },
+   "options_customFilter_cancel": {
+      "message": "Չեղարկել"
+   },
+   "options_email": {
+      "message": "Էլ. փոստ՝"
+   },
+   "options_filterList_column_status": {
+      "message": "Վիճակը"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "Անհաջող."
+   },
+   "options_filterList_lastDownload_connectionError": {
+      "message": "Անհաջող. Բեռնման սխալ"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "Անհաջող. Սխալ հասցե"
+   },
+   "options_filterList_state_disabled": {
+      "message": "Անջատված"
+   },
+   "options_language_header": {
+      "message": "Լեզու"
+   },
+   "options_page_document_title": {
+      "message": "Կարգավորել"
+   },
+   "options_page_title": {
+      "message": "Կարգավորել"
+   },
+   "options_short": {
+      "message": "Ընտրանքներ"
+   },
+   "overlay_notification_button_no": {
+      "message": "Ոչ"
+   },
+   "overlay_notification_button_yes": {
+      "message": "Այո"
+   },
+   "sendReport": {
+      "message": "Տեղեկացնել այս էջի պրոբլեմի մասին"
+   }
+}

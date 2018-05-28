@@ -1,0 +1,2 @@
+var IntroTourPreferences=function(e){"use strict";function r(){}return r.save=function(r){e.setPreferences("IntroTour",JSON.stringify(r))},r.retrieve=function(){var r=e.getPreference("IntroTour");return r&&"null"!==r&&"undefined"!==r?JSON.parse(e.getPreference("IntroTour")):null},r.migrateOldPrefs=function(){var e=r.retrieve();e&&e.remainingTours&&0==e.remainingTours.length&&(e.remainingTours={vault41Tour:{name:"vault41Tour",showDate:new Date,isLater:!1,isTaken:!0,isNever:!1}},r.save(e))},r}(LPProxy);
+//# sourceMappingURL=sourcemaps/Tour/introTourPreferences.js.map

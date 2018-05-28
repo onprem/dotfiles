@@ -1,0 +1,39 @@
+{
+   "add": {
+      "message": "Añader"
+   },
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers."
+   },
+   "firstRun_abbButtonSubtitle": {
+      "message": "Disponible para Android e iOS"
+   },
+   "firstRun_abbButtonTitle": {
+      "message": "Consigue Adblock Browser aquí"
+   },
+   "firstRun_abbPromotionHeadline": {
+      "message": "¿Tienes un smartphone o una tableta?"
+   },
+   "firstRun_acceptableAdsExplanation": {
+      "message": "Queremos afalar que les páxines web usen una publicidá más direuta y qu'estorbe menos. Poro, establecimos unes \u003Ca>regles estrictes\u003C/a> col envís d'identificar los anuncios aceptables, que s'amuesen nes opciones predeterminaes. Si inda quier bloquiar tola publicidá, pue \u003Ca>desactivar\u003C/a> esto nunos segundos."
+   },
+   "firstRun_acceptableAdsHeadline": {
+      "message": "Los anuncios cafiantes bloquiaránse darréu"
+   },
+   "firstRun_title": {
+      "message": "Instalóse Adblock Plus"
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "options_short": {
+      "message": "Opciones"
+   },
+   "overlay_notification_button_no": {
+      "message": "Non"
+   },
+   "overlay_notification_button_yes": {
+      "message": "Sí"
+   }
+}

@@ -1,0 +1,180 @@
+{
+   "add": {
+      "message": "Aldoni"
+   },
+   "cancel": {
+      "message": "Nuligi"
+   },
+   "continue": {
+      "message": "Daŭrigi"
+   },
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers."
+   },
+   "filter_invalid_regexp": {
+      "message": "Malkorekta regula esprimo"
+   },
+   "filter_unknown_option": {
+      "message": "Nekonata filtrila opcio"
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "Malsukcesis, elŝuta eraro"
+   },
+   "firstRun_acceptableAdsExplanation": {
+      "message": "Ni volonte kuraĝigus retejojn uzi sinceran, nealtrudiĝeman varbadon. Tial ni fiksis \u003Ca>striktajn direktivojn\u003C/a> por identigi akcepteblan reklamon, kiujn vi trovas en la defaŭltaj agordoj. Se vi ankoraŭ volas bloki ĉian reklamon, vi povas \u003Ca>malebligi\u003C/a> tion dum malmultaj sekundoj."
+   },
+   "firstRun_acceptableAdsHeadline": {
+      "message": "Altrudiĝema reklamo estos nun blokata"
+   },
+   "firstRun_contributor_credits": {
+      "message": "Danko al kontribuintoj"
+   },
+   "firstRun_donate": {
+      "message": "donaci"
+   },
+   "firstRun_donate_label": {
+      "message": "Subtenu nian projekton"
+   },
+   "firstRun_filterlistsReinitializedWarning": {
+      "message": "Ŝajnas, ke problemo kaŭzis, ke ĉiuj filtroj estas forigitaj kaj ni ne\npovis restaŭri la sekurkopion. Tial ni devis remeti la agordojn por\nakceptebla reklamo. Bonvolu kontroli viajn filtrilajn listojn kaj\nagordojn por akceptebla reklamo en la \u003Ca>agordoj de Adblock Plus\u003C/a>."
+   },
+   "firstRun_share": {
+      "message": "Informu viajn amikojn"
+   },
+   "firstRun_share_headline": {
+      "message": "\u003Ca>Donu al ni manon\u003C/a>, por ke ni faru la reton pli bona loko"
+   },
+   "firstRun_title": {
+      "message": "Adblock Plus instaliĝis"
+   },
+   "issueReporter_anonymousSubmission_label": {
+      "message": "Anonima sendado"
+   },
+   "issueReporter_anonymousSubmission_warning": {
+      "message": "Ni ne povas turni nin al vi denove kaj ni donos verŝajne pli malaltan prioritaton al via raporto."
+   },
+   "issueReporter_commentPage_heading": {
+      "message": "Enigi komenton"
+   },
+   "issueReporter_comment_description": {
+      "message": "La tekstokampo malsupre ebligas al vi enigi komenton por helpi al ni kompreni la problemon. Ĉi tiu paŝo estas laŭvola, sed rekomendata, se la problemo ne estas evidenta. Vi povas ankaŭ kontroli la raportodatumojn, antaŭ ol ĝi estas forsendata."
+   },
+   "issueReporter_comment_label": {
+      "message": "Komento (laŭvole):"
+   },
+   "issueReporter_comment_lengthWarning": {
+      "message": "Via komento havas pli ol 1000 signojn. Nur la unuaj 1000 signoj estos sendataj:"
+   },
+   "issueReporter_confirmationMessage": {
+      "message": "Via raporto estas konservita. Vi povas atingi ĝin ĉe sekvonta adreso:"
+   },
+   "issueReporter_dataCollector_description": {
+      "message": "Bonvolu atendi kelkajn momentojn dum Adblock Plus akiras la necesajn datumojn."
+   },
+   "issueReporter_dataCollector_heading": {
+      "message": "Bonvenon al la problemraportilo"
+   },
+   "issueReporter_doneButton_label": {
+      "message": "Preta"
+   },
+   "issueReporter_email_description": {
+      "message": "Ni rekomendas al vi enigi validan retpoŝtan adreson, por ke ni povu kontakti vin, se estos demandoj pri via raporto. Tio ankaŭ ebligas al ni agnoski viajn kontribuojn kaj doni pli altan prioritaton al ili."
+   },
+   "issueReporter_email_label": {
+      "message": "Retpoŝto:"
+   },
+   "issueReporter_errorMessage": {
+      "message": "Provo por sendi la raporton malsukcesis kun erarkodo \"?1?\". Bonvolu certiĝu, ke vi estas konektita al la interreto kaj provu denove. Se la problemo pluekzistas, bonvolu peti pri helpo en la [link]forumo de Adblock Plus[/link]."
+   },
+   "issueReporter_falseNegative_description": {
+      "message": "Elektu ĉi tiun opcion, se reklamo estas vidigata, kvankam Adblock Plus estas ebligita."
+   },
+   "issueReporter_falseNegative_label": {
+      "message": "Adblock Plus ne blokas reklamon"
+   },
+   "issueReporter_falsePositive_description": {
+      "message": "Elektu ĉi tiun opcion, se la paĝo malhavas gravan enhavon, ne estas vidigata korekte abo malsukcesas korekte funkcii. Vi povas determini, ĉu Adblock Plus estas la kaŭzo de la problemo malebligante ĝin provizore."
+   },
+   "issueReporter_falsePositive_label": {
+      "message": "Adblock Plus blokas tro multe"
+   },
+   "issueReporter_knownIssueMessage": {
+      "message": "La problemo, kiun vi raportis, eble estas jam konata. Pliaj informoj:"
+   },
+   "issueReporter_page_title": {
+      "message": "Problemraportilo"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "Reguloj de privateco"
+   },
+   "issueReporter_sendButton_label": {
+      "message": "Sendi raporton"
+   },
+   "issueReporter_sendPage_heading": {
+      "message": "Sendi raporton"
+   },
+   "issueReporter_sending": {
+      "message": "Bonvolu atendi, dum Adblock Plus sendas vian raporton."
+   },
+   "issueReporter_showData_label": {
+      "message": "Montri raportodatumojn"
+   },
+   "issueReporter_typeSelector_description": {
+      "message": "Ĉi tiu fenestro gvidos vin tra la paŝoj, kiuj estas bezonataj por sendi la problemraporton de Adblock Plus. Unue bonvolu elekti la problemtipon, kiun vi renkontis sur ĉi tiu paĝo:"
+   },
+   "issueReporter_typeSelector_heading": {
+      "message": "Elekti problemtipon"
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "notification_antiadblock_message": {
+      "message": "Estas konate, ke ĉi tiu retejo montras celmesaĝojn por uzantoj de Adblock Plus. Ĉu vi volas, ke Adblock Plus kaŝu celmesaĝojn?"
+   },
+   "notification_antiadblock_title": {
+      "message": "Ĉu kaŝi celmesaĝojn?"
+   },
+   "options_acceptableAds_header": {
+      "message": "Akcepteblaj Reklamoj"
+   },
+   "options_close": {
+      "message": "fermi"
+   },
+   "options_customFilter_cancel": {
+      "message": "Nuligi"
+   },
+   "options_email": {
+      "message": "Retpoŝto:"
+   },
+   "options_filterList_column_status": {
+      "message": "Status"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "Malsukcesis, kontrolsuma miskongruo"
+   },
+   "options_filterList_lastDownload_connectionError": {
+      "message": "Malsukcesis, elŝuta eraro"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "Malsukcesis, tio ne estas valida adreso"
+   },
+   "options_filterList_state_disabled": {
+      "message": "Malebligita"
+   },
+   "options_short": {
+      "message": "Opcioj"
+   },
+   "options_tab_whitelist": {
+      "message": "Paĝoj listigitaj je blanka listo"
+   },
+   "overlay_notification_button_no": {
+      "message": "Ne"
+   },
+   "overlay_notification_button_yes": {
+      "message": "Jes"
+   },
+   "sendReport": {
+      "message": "Raporti problemon pri ĉi tiu paĝo"
+   }
+}

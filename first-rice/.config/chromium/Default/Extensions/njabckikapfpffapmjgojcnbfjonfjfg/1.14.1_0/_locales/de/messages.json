@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Description of the extension",
+      "message": "Exportiert Cookies mit einem Klick mit wget, curl, aria2 verwendet werden."
+   },
+   "appName": {
+      "description": "Name of the extension",
+      "message": "cookies.txt"
+   }
+}

@@ -1,0 +1,635 @@
+{
+   "add": {
+      "message": "Dodaj"
+   },
+   "add_filters_msg": {
+      "message": "Dodaj filtre?"
+   },
+   "block_element": {
+      "message": "Blokiraj element"
+   },
+   "cancel": {
+      "message": "Prekliči"
+   },
+   "clickhide_instructions": {
+      "message": "Po zaključku tega popup kliknite (ali desni klik) element na strani."
+   },
+   "common_feature_anti_adblock_title": {
+      "message": "Skrij Adblockova opozorilna sporočila"
+   },
+   "common_feature_malware_title": {
+      "message": "Blokiraj zlonam. programe"
+   },
+   "common_feature_privacy_title": {
+      "message": "Blokiraj dodatno sledenje"
+   },
+   "common_feature_social_title": {
+      "message": "Blokiraj sledenje ikon družbenih omrežij"
+   },
+   "continue": {
+      "message": "Nadaljuj"
+   },
+   "description": {
+      "message": "Adblock Plus je s preko 500-mi milijoni prenosov eno najbolj priljubljenih orodij za blokiranje oglasov na svetu."
+   },
+   "disabled_for_site": {
+      "message": "\u003Cstrong>Omogočeno\u003C/strong> na tej strani"
+   },
+   "easy_create_filter": {
+      "message": "Blokiraj element"
+   },
+   "enabled_for_site": {
+      "message": "\u003Cstrong>Omogočeno\u003C/strong> na tej strani"
+   },
+   "filter_elemhideemulation_nodomain": {
+      "message": "Ni določene aktivne domene za razširjeni element skrivanja filtra"
+   },
+   "filter_invalid_csp": {
+      "message": "Neveljavna politika varnosti vsebine"
+   },
+   "filter_invalid_domain": {
+      "message": "Navedena neveljavna (ali prazna) domena"
+   },
+   "filter_invalid_regexp": {
+      "message": "Neveljaven regularni izraz"
+   },
+   "filter_unknown_option": {
+      "message": "Neznana možnost filtra"
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "Neuspešno, napaka pri prenosu"
+   },
+   "firstRun_abbButtonSubtitle": {
+      "message": "Na voljo za Android in iOS"
+   },
+   "firstRun_abbButtonTitle": {
+      "message": "Pridobite si tukaj Adblock Browser"
+   },
+   "firstRun_abbPromotionHeadline": {
+      "message": "Imate pametni telefon ali tablico?"
+   },
+   "firstRun_acceptableAdsExplanation": {
+      "message": "Želimo spodbujati uporabo preprostih, nevsiljivih oglasov na spletnih straneh. Zato smo vpeljali \u003Ca>stroge kriterije\u003C/a> prepoznavanja sprejemljivih oglasov, ki so privzeto prikazani. Če vseeno želite blokirati vse oglase, jih lahko \u003Ca>onemogočite\u003C/a> v nekaj sekundah."
+   },
+   "firstRun_acceptableAdsHeadline": {
+      "message": "Nadležni oglasi bodo zdaj blokirani"
+   },
+   "firstRun_contributor_credits": {
+      "message": "Zasluge prispevajočih"
+   },
+   "firstRun_donate": {
+      "message": "prispevajte"
+   },
+   "firstRun_donate_label": {
+      "message": "Podprite naš projekt"
+   },
+   "firstRun_filterlistsReinitializedWarning": {
+      "message": "Očitno so bili zaradi težave vsi filtri odstranjeni in varnostne kopije ni bilo mogoče obnoviti. Zato smo ponastavili vaše nastavitve filtrov in dovoljenih oglasov. Prosimo, preverite svoj seznam filtrov in nastavitve dovoljenih oglasov v \u003Ca>nastavitvah za Adblock Plus\u003C/a>."
+   },
+   "firstRun_share": {
+      "message": "Povejte svojim prijateljem"
+   },
+   "firstRun_share_headline": {
+      "message": "\u003Ca>Pomagajte nam\u003C/a> pri ustvarjanju boljšega spleta"
+   },
+   "firstRun_title": {
+      "message": "Adblock Plus je bil nameščen"
+   },
+   "invalid_css_selector": {
+      "message": "$selector$ ni veljaven CSS izbirnik",
+      "placeholders": {
+         "selector": {
+            "content": "$1"
+         }
+      }
+   },
+   "issueReporter_anonymousSubmission_label": {
+      "message": "Anonimna oddaja"
+   },
+   "issueReporter_anonymousSubmission_warning": {
+      "message": "Stika z vami ne bomo mogli vzpostaviti. Prednost poročilu pa bomo verjetno znižali."
+   },
+   "issueReporter_commentPage_heading": {
+      "message": "Vnesite komentar"
+   },
+   "issueReporter_comment_description": {
+      "message": "Spodnje besedilno polje omogoča vnos komentarja, ki nam pomaga razumeti težavo. To je neobvezno, vendar vnos priporočamo, če težava ni očitna. Pred pošiljanjem si lahko še enkrat ogledate podatke poročila."
+   },
+   "issueReporter_comment_label": {
+      "message": "Komentar (neobvezno):"
+   },
+   "issueReporter_comment_lengthWarning": {
+      "message": "Dolžina vašega komentarja presega 1000 znakov. Poslanih bo le prvih 1000 znakov."
+   },
+   "issueReporter_confirmationMessage": {
+      "message": "Vaše poročilo je shranjeno. Do njega lahko dostopate na naslednjem naslovu:"
+   },
+   "issueReporter_dataCollector_description": {
+      "message": "Počakajte nekaj trenutkov, da Adblock Plus zbere potrebne podatke."
+   },
+   "issueReporter_dataCollector_heading": {
+      "message": "Dobrodošli v poročevalcu težav"
+   },
+   "issueReporter_doneButton_label": {
+      "message": "Končaj"
+   },
+   "issueReporter_email_description": {
+      "message": "Priporočamo, da vnesete veljaven e-poštni naslov, tako da se na vas lahko obrnemo, če bodo obstajala vprašanja glede poročila. Prav tako nam omogoča prepoznati vaše prispevke in tako določiti višjo prednost."
+   },
+   "issueReporter_email_label": {
+      "message": "E-pošta:"
+   },
+   "issueReporter_errorMessage": {
+      "message": "Poskus pošiljanja poročila je bil neuspešen s kodo napake \"?1?\". Zagotovite, da ste povezani v splet in poskusite znova. Če težave ni konec, poiščite pomoč na [link]forumu Adblock Plus[/link]."
+   },
+   "issueReporter_falseNegative_description": {
+      "message": "Izberite to možnost, če je oglas prikazan kljub temu, da je Adblock Plus omogočen."
+   },
+   "issueReporter_falseNegative_label": {
+      "message": "Adblock Plus ne blokira oglasa"
+   },
+   "issueReporter_falsePositive_description": {
+      "message": "Izberite to možnost, če strani manjka pomembna vsebina, če se prikaže nepravilno ali ne deluje pravilno. Določite lahko, ali je Adblock Plus kriv težav, tako da ga začasno izključite."
+   },
+   "issueReporter_falsePositive_label": {
+      "message": "Adblock Plus blokira preveč stvari"
+   },
+   "issueReporter_knownIssueMessage": {
+      "message": "Težava, ki ste jo javili, je najbrž že znana. Več podatkov:"
+   },
+   "issueReporter_page_title": {
+      "message": "Poročevalec težav"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "Politika zasebnosti"
+   },
+   "issueReporter_sendButton_label": {
+      "message": "Pošlji poročilo"
+   },
+   "issueReporter_sendPage_heading": {
+      "message": "Pošlji poročilo"
+   },
+   "issueReporter_sending": {
+      "message": "Počakajte, dokler Adblock Plus pošilja vaše poročilo."
+   },
+   "issueReporter_showData_label": {
+      "message": "Pokaži podatke poročila"
+   },
+   "issueReporter_typeSelector_description": {
+      "message": "To okno vas vodi po korakih do oddaje poročila o težavi z dodatkom Adblock Plus. Najprej izberite vrsto težave, s katero ste se srečali na tej strani:"
+   },
+   "issueReporter_typeSelector_heading": {
+      "message": "Izberite vrsto težave"
+   },
+   "line": {
+      "message": "Vrstica $number$",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "loading": {
+      "message": "Nalaganje …"
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "name_devbuild": {
+      "message": "Adblock Plus razvojna različica"
+   },
+   "notification_antiadblock_message": {
+      "message": "Ta stran uporabnikom dodatka Adblock Plus prikazuje ciljana sporočila. Želite, da Adblock Plus skrije ta sporočila?"
+   },
+   "notification_antiadblock_title": {
+      "message": "Skrij ciljana sporočila?"
+   },
+   "notification_configure": {
+      "message": "Konfigurirajte nastavitve obveščanja"
+   },
+   "notification_open_all": {
+      "message": "Odprite vse povezave iz tega obvestila"
+   },
+   "notification_with_buttons": {
+      "message": "Klinite \"OK\", da odprete vse povezave v tem obvestilu."
+   },
+   "notification_without_buttons": {
+      "message": "Kliknite na obvestilo, da odprete vse povezave v njem."
+   },
+   "options_acceptableAds_ads_description_1": {
+      "message": "Sprejemljivi oglasi niso nadležni in ne posegajo v vsebino, ki si jo ogledujete.\u003Ca>Preberite več o merilih za sprejemljive oglase.\u003C/a>"
+   },
+   "options_acceptableAds_ads_label": {
+      "message": "Dovoli sprejemljive oglase"
+   },
+   "options_acceptableAds_description": {
+      "message": "Sprejemljivi oglasi so nevsiljivi oglasi. So vmesna rešitev med blokiranjem oglasov in podpiranjem spletne vsebine, ker lastnikom spletnih strani ustvarjajo prihodke."
+   },
+   "options_acceptableAds_dnt_notification": {
+      "message": "\u003Cstrong>Opomba:\u003C/strong> Možnost \u003Cstrong>Brez sledenja\u003C/strong> je v nastavitvah vašega brskalnika onemogočena. Za pravilno delovanje te funkcije jo omogočite. \u003Ca>Izvédite, kako jo omogočiti.\u003C/a>"
+   },
+   "options_acceptableAds_header": {
+      "message": "Sprejemljivi oglasi"
+   },
+   "options_acceptableAds_privacy_label": {
+      "message": "Dovoli samo oglase brez sledenja tretjih oseb"
+   },
+   "options_advanced_description": {
+      "message": "Prilagodite Adblock Plus, dodajte ali odstranite sezname filtrov, ustvarite in vzdržujte svoje sezname filtrov"
+   },
+   "options_close": {
+      "message": "zapri"
+   },
+   "options_control_remove_title": {
+      "message": "odstrani"
+   },
+   "options_customFilter_cancel": {
+      "message": "Prekliči"
+   },
+   "options_customFilter_edit": {
+      "message": "Uredi filtre"
+   },
+   "options_customFilter_save": {
+      "message": "Shrani"
+   },
+   "options_customFilters_description": {
+      "message": "Napišite svoje filtre po meri, da dodatno nadzirate, katero vsebino Adblock Plus blokira ali dovoli."
+   },
+   "options_customFilters_edit_placeholder": {
+      "message": "npr. $filter$",
+      "placeholders": {
+         "filter": {
+            "content": "$1",
+            "example": "/ads/track/*"
+         }
+      }
+   },
+   "options_customFilters_learn": {
+      "message": "Naučite se pisati sezname filtrov"
+   },
+   "options_customFilters_start": {
+      "message": "Začni pisati seznam filtrov"
+   },
+   "options_customFilters_tip": {
+      "message": "Filtri, ki ste jih ustvarili, se bodo prikazali tukaj."
+   },
+   "options_customFilters_title": {
+      "message": "Ustvarite in uredite svoj seznam fitrov"
+   },
+   "options_customFilters_widget_title": {
+      "message": "Moj seznam filtrov"
+   },
+   "options_customize_blockElement": {
+      "message": "Prikaži 'Blokiraj element' v meniju desnega klika"
+   },
+   "options_customize_blockElement_tooltip": {
+      "message": "Začasno blokiraj nadležne predmete spletni strani, npr. slike ali animirane predstavitve."
+   },
+   "options_customize_header": {
+      "message": "Prilgodite dejanja na strani"
+   },
+   "options_customize_showDevToolsPanel": {
+      "message": "Prikaži ploščo 'Adblock Plus' v orodjih za razvijalce"
+   },
+   "options_customize_showDevToolsPanel_tooltip": {
+      "message": "Pokaži blokirane in dovoljene predmete na plošči orodij za razvijalce vašega brskalnika."
+   },
+   "options_customize_showNotifications": {
+      "message": "Prikaži koristno  obvestila"
+   },
+   "options_customize_showNotifications_tooltip": {
+      "message": "Izklopi vsa obvestila dodatka Adblock Plus."
+   },
+   "options_dialog_about_copyright": {
+      "message": "Avtorske pravice © $currentYear$ eyeo GmbH.",
+      "placeholders": {
+         "currentYear": {
+            "content": "2017",
+            "example": "2017"
+         }
+      }
+   },
+   "options_dialog_about_title": {
+      "message": "O dodatku Adblock Plus"
+   },
+   "options_dialog_about_trademark": {
+      "message": "Vse pravice pridržane. Adblock Plus® je registrirana blagovna znamka podjetja eyeo GmbH."
+   },
+   "options_dialog_about_version": {
+      "message": "Številka različice: $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": "2.6.7"
+         }
+      }
+   },
+   "options_dialog_import_subscription_location": {
+      "message": "URL seznama filtrov"
+   },
+   "options_dialog_import_subscription_location_error": {
+      "message": "Vnesite veljaven URL"
+   },
+   "options_dialog_import_subscription_title": {
+      "message": "Ime seznama filtrov"
+   },
+   "options_dialog_import_subscription_title_error": {
+      "message": "Izpolnite to polje"
+   },
+   "options_dialog_import_title": {
+      "message": "Dodaj seznam filtrov"
+   },
+   "options_dialog_language_other_empty": {
+      "message": "Jeziki niso na voljo."
+   },
+   "options_dialog_language_title": {
+      "message": "Izberite jezik"
+   },
+   "options_dialog_predefined_confirm": {
+      "message": "Da, uporabi ta seznam filtrov"
+   },
+   "options_dialog_predefined_title": {
+      "message": "Ali res želite dodati ta seznam filtrov?"
+   },
+   "options_email": {
+      "message": "E-pošta:"
+   },
+   "options_english": {
+      "message": "Angleščina"
+   },
+   "options_filterList_add": {
+      "message": "+ Dodaj nov seznam filtrov"
+   },
+   "options_filterList_column_name": {
+      "message": "Seznami filtrov"
+   },
+   "options_filterList_column_status": {
+      "message": "Stanje"
+   },
+   "options_filterList_column_update": {
+      "message": "Nazadnje posodobljeno"
+   },
+   "options_filterList_description": {
+      "message": "Vsaka nastavitev dodatka Adblock Plus deluje zaradi seznama filtrov. Spodaj so seznami filtrov, ki ustrezajo vsem vašim nastavitvam dodatka Adblock Plus. Dodate lahko tudi druge filtre, ki so jih ustvarili in jih vzdržuje naša skupnost."
+   },
+   "options_filterList_empty": {
+      "message": "V Adblock Plus niste dodali nobenega seznama filtrov. Seznami filtrov, ki jih dodate, bodo prikazani tukaj."
+   },
+   "options_filterList_hours": {
+      "message": "Pred nekaj urami"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "Neuspešno, kontrolna vsota se ne ujema"
+   },
+   "options_filterList_lastDownload_connectionError": {
+      "message": "Neuspešno, napaka prenosa"
+   },
+   "options_filterList_lastDownload_inProgress": {
+      "message": "Posodabljanje"
+   },
+   "options_filterList_lastDownload_invalidData": {
+      "message": "Spodletelo, ni veljaven seznam filtrov"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "Neuspešno, ni veljaven naslov"
+   },
+   "options_filterList_minutes": {
+      "message": "Pred nekaj minutami"
+   },
+   "options_filterList_now": {
+      "message": "Pravkar"
+   },
+   "options_filterList_source": {
+      "message": "vir"
+   },
+   "options_filterList_state_active": {
+      "message": "Dejaven"
+   },
+   "options_filterList_state_disabled": {
+      "message": "Onemogočeno"
+   },
+   "options_filterList_title": {
+      "message": "Seznami filtrov"
+   },
+   "options_filterList_update": {
+      "message": "posodobi vse sezname filtrov"
+   },
+   "options_filterList_updateNow": {
+      "message": "posodobi"
+   },
+   "options_filterList_website": {
+      "message": "spletna stran"
+   },
+   "options_footer_about": {
+      "message": "O dodatku Adblock Plus"
+   },
+   "options_footer_contribute": {
+      "message": "Prispevaj"
+   },
+   "options_general_description": {
+      "message": "Določite, kaj naj Adblock Plus prikaže ali skrije na spletnih straneh"
+   },
+   "options_help_description": {
+      "message": "Poiščite pomoč ali navežite stik z nami"
+   },
+   "options_language_add": {
+      "message": "+ dodaj jezik"
+   },
+   "options_language_change": {
+      "message": "spremeni"
+   },
+   "options_language_description": {
+      "message": "Optmizirajte Adblock Plus za jezike spletnih strani, ki si jih ogledujete."
+   },
+   "options_language_empty": {
+      "message": "Nimate filtrov za posemezen jezik."
+   },
+   "options_language_header": {
+      "message": "Jezik"
+   },
+   "options_language_tip": {
+      "message": "\u003Cstrong>NASVET:\u003C/strong> Izberite samo jezike, ki jih potrebujete. Če jih izberete več, bo to upočasnilo AdBlock Plus in posledično hitrost brskanja."
+   },
+   "options_learn_more": {
+      "message": "Več o tem"
+   },
+   "options_more_filters_description": {
+      "message": "To so dodatni filtri, ki ste jih prej dodali v Adblock Plus."
+   },
+   "options_more_filters_header": {
+      "message": "Več filtrov"
+   },
+   "options_more_filters_note": {
+      "message": "\u003Cstrong>Opomba:\u003C/strong> Uporabljajte samo sezname filtrov tretjih oseb od avtorjev, ki jim zaupate."
+   },
+   "options_new_label": {
+      "message": "Nov"
+   },
+   "options_notification_hide": {
+      "message": "Zapri obvestilo"
+   },
+   "options_page_document_title": {
+      "message": "Nastavitve"
+   },
+   "options_page_title": {
+      "message": "Nastavitve"
+   },
+   "options_privacy_header": {
+      "message": "Zasebnost in varnost"
+   },
+   "options_protection_privacy_tooltip": {
+      "message": "Zaščitite svoje osebne podatke tako, da odstranite vse oblike sledenja z interneta, vključno z zbiralniki informacij."
+   },
+   "options_protection_social_tooltip": {
+      "message": "Ikone družbenih omrežij na spletnih straneh, ki jih obiščete, družbenim omrežjem omogočajo, da o vas ustvarijo profil glede na vaše navade brskanja - tudi če na njih ne kliknete. Skrivanje teh ikon bo zaščitilo vaš profil."
+   },
+   "options_report_bug": {
+      "message": "Ste našli hrošča? \u003Ca>Pošiljite nam poročilo o hrošču.\u003C/a>"
+   },
+   "options_report_forum": {
+      "message": "Želite pomoč naše skupnosti? \u003Ca>Obiščite forum.\u003C/a>"
+   },
+   "options_short": {
+      "message": "Možnosti"
+   },
+   "options_social_description": {
+      "message": "Imate vprašanje ali novo idejo? Tukaj smo, da vam pomagamo."
+   },
+   "options_social_title": {
+      "message": "Naveži stik"
+   },
+   "options_support_title": {
+      "message": "Podpora"
+   },
+   "options_tab_advanced": {
+      "message": "Napredno"
+   },
+   "options_tab_general": {
+      "message": "Splošno"
+   },
+   "options_tab_help": {
+      "message": "Pomoč"
+   },
+   "options_tab_whitelist": {
+      "message": "Dovoljene spletne strani"
+   },
+   "options_tracking_warning_1": {
+      "message": "Opatili smo, da imate omogočena tako \u003Cstrong>$tracking$\u003C/strong> kot \u003Cstrong>$acceptableAds$\u003C/strong>.",
+      "placeholders": {
+         "acceptableAds": {
+            "content": "$2",
+            "example": "Allow Acceptable Ads"
+         },
+         "tracking": {
+            "content": "$1",
+            "example": "Block additional tracking"
+         }
+      }
+   },
+   "options_tracking_warning_2": {
+      "message": "Upoštevajte, da če želite od oglaševalcev videti ustreznejše oglase, je \u003Cstrong>lahko\u003C/strong> pri sprejemljivih oglasih prisotnega nekaj sledenja."
+   },
+   "options_tracking_warning_3": {
+      "message": "Če imate rajši zasebnost, spodaj označite polje \u003Cstrong>$acceptableAdsPrivacy$\u003C/strong>.",
+      "placeholders": {
+         "acceptableAdsPrivacy": {
+            "content": "$1",
+            "example": "Only allow ads without third-party tracking"
+         }
+      }
+   },
+   "options_tracking_warning_acknowledgment": {
+      "message": "V redu, razumem"
+   },
+   "options_whitelist_add": {
+      "message": "Dodaj spletno stran"
+   },
+   "options_whitelist_description": {
+      "message": "Na teh spletnih straneh ste izklopili blokiranje oglasov in jih boste zatorej videli."
+   },
+   "options_whitelist_empty_1": {
+      "message": "Nimate spletnih strani, na katerih ste dovolili oglase."
+   },
+   "options_whitelist_empty_2": {
+      "message": "Spletne strani, ki jim zaupate in na njih želite videti oglase, bodo prikazane tukaj."
+   },
+   "options_whitelist_notification": {
+      "message": "Spletni strani \"$website$\" ste dovolili objavo oglasov.",
+      "placeholders": {
+         "website": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "options_whitelist_placeholder_example": {
+      "message": "npr. $domain$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "www.example.com"
+         }
+      }
+   },
+   "overlay_notification_button_no": {
+      "message": "Ne"
+   },
+   "overlay_notification_button_yes": {
+      "message": "Da"
+   },
+   "overlay_notification_closing_button_hide": {
+      "message": "Zapri to obvestilo"
+   },
+   "overlay_notification_closing_button_optout": {
+      "message": " Ustavi prikazovanje obvestil"
+   },
+   "sendReport": {
+      "message": "Javite težavo na tej strani"
+   },
+   "stats_label_page": {
+      "message": "\u003Cstrong>$number$\u003C/strong> na tej strani",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_label_total": {
+      "message": "\u003Cstrong>$number$\u003C/strong> skupaj",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_show_iconnumber": {
+      "message": "Pokaži število v ikoni"
+   },
+   "stats_title": {
+      "message": "Blokiranih oglasov"
+   },
+   "unexpected_filter_list_header": {
+      "message": "Glave seznamov filtrov tukaj niso dovoljene"
+   },
+   "updates_adblockBrowser": {
+      "message": "Četudi imate nadzor na namizju, lahko blokirate oglase in izboljšate svojo zasebnost in varnost tudi na prenosnih napravah. \u003Ca>Spodaj si prenesite program Adblock Browser\u003C/a>."
+   },
+   "updates_blockAds": {
+      "message": "Odprtokodno zavezništvo upornikov je ustvarilo nove filtre, ki vam omogočajo uničiti skrite oglase na spletnih straneh, kot je Facebook, četudi imperij udari nazaj."
+   },
+   "updates_heading": {
+      "message": "Adblock Plus je bil posodobljen!"
+   },
+   "updates_optionsPageNews": {
+      "message": "Popolnoma nova stran nastavitev - prenovljena z več možnostmi zasebnosti in varnosti - za enostavnejšo \u003Ca>prilagoditev Adblock Plusa po svoji želji\u003C/a>."
+   },
+   "updates_phone": {
+      "message": "Ampak kaj pa vaš telefon?"
+   },
+   "updates_status": {
+      "message": "Posodobitev je končana."
+   },
+   "updates_subheading": {
+      "message": "Novosti"
+   }
+}

@@ -1,0 +1,84 @@
+{
+   "add": {
+      "message": "Legg til"
+   },
+   "cancel": {
+      "message": "Avbryt"
+   },
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers."
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "Feilet, nedlastningsfeil"
+   },
+   "firstRun_title": {
+      "message": "AdBlock Plus er installert"
+   },
+   "issueReporter_doneButton_label": {
+      "message": "Ferdig"
+   },
+   "issueReporter_email_label": {
+      "message": "E-post:"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "Personvernserklæring"
+   },
+   "name": {
+      "message": "AdBlock Plus"
+   },
+   "options_acceptableAds_ads_label": {
+      "message": "Tillat akseptable reklamer"
+   },
+   "options_customFilter_cancel": {
+      "message": "Avbryt"
+   },
+   "options_dialog_about_title": {
+      "message": "Om Adblock Plus"
+   },
+   "options_email": {
+      "message": "E-post:"
+   },
+   "options_filterList_column_name": {
+      "message": "Filterlister"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "Feilet, checksum feil"
+   },
+   "options_filterList_lastDownload_connectionError": {
+      "message": "Feilet, nedlastningsfeil"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "Feilet, ikke en gyldig adresse"
+   },
+   "options_filterList_title": {
+      "message": "Filterlister"
+   },
+   "options_filterList_updateNow": {
+      "message": "oppdater nå"
+   },
+   "options_footer_about": {
+      "message": "Om Adblock Plus"
+   },
+   "options_footer_contribute": {
+      "message": "Bidra"
+   },
+   "options_language_header": {
+      "message": "Språk"
+   },
+   "options_page_document_title": {
+      "message": "Innstillingar"
+   },
+   "options_page_title": {
+      "message": "Innstillingar"
+   },
+   "options_short": {
+      "message": "Innstillinger"
+   },
+   "overlay_notification_button_no": {
+      "message": "Nei"
+   },
+   "overlay_notification_button_yes": {
+      "message": "Ja"
+   }
+}

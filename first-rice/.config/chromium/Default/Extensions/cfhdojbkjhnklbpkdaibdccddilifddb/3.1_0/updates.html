@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<!--
+  - This file is part of Adblock Plus <https://adblockplus.org/>,
+  - Copyright (C) 2006-present eyeo GmbH
+  -
+  - Adblock Plus is free software: you can redistribute it and/or modify
+  - it under the terms of the GNU General Public License version 3 as
+  - published by the Free Software Foundation.
+  -
+  - Adblock Plus is distributed in the hope that it will be useful,
+  - but WITHOUT ANY WARRANTY; without even the implied warranty of
+  - MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  - GNU General Public License for more details.
+  -
+  - You should have received a copy of the GNU General Public License
+  - along with Adblock Plus.  If not, see <http://www.gnu.org/licenses/>.
+  -->
+
+<html>
+  <head>
+    <title class="i18n_updates_status"></title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="skin/fonts.css" rel="stylesheet">
+    <link href="skin/updates.css" rel="stylesheet"/>
+    <script src="polyfill.js"></script>
+    <script src="ext/common.js"></script>
+    <script src="ext/content.js"></script>
+    <script src="common.js"></script>
+    <script src="i18n.js"></script>
+    <script src="updates.js"></script>
+  </head>
+
+  <body>
+
+    <main>
+      <div id="container">
+
+        <header class="column graphic-column">
+          <div class="update-graphic-container">
+            <div class="update-graphic-content">
+              <img src="/skin/abp-logo.svg"/>
+              <div class="version-details">
+                <h2 class="i18n_updates_status"></h2>
+              </div>
+
+            </div>
+          </header>
+
+          <section class="column content-column">
+
+            <div id="content">
+
+              <header>
+                <h1 class="i18n_updates_heading"></h1>
+                <p class="i18n_updates_subheading"></p>
+              </header>
+
+              <article class="feature-entry">
+                <img class="feature-icon" src="/skin/updates/icon-rocket.svg"/>
+                <p id="options-page-news" class="i18n_updates_optionsPageNews"></p>
+              </article>
+
+              <article class="feature-entry">
+                <img class="feature-icon" src="/skin/updates/icon-thumbs-up.svg"/>
+                <p id="block-ads-text" class="i18n_updates_blockAds"></p>
+              </article>
+
+              <article class="custom-feature-entry">
+                <h2 class="i18n_updates_phone"></h2>
+
+                <div class="feature-entry">
+                  <img class="feature-icon" src="/skin/updates/icon-mobile.svg"/>
+                  <p id="adblock-browser-text" class="i18n_updates_adblockBrowser"></p>
+                </div>
+
+                <div class="store-buttons">
+                  <a id="adblock-browser-ios-store" class="store-button applestore-button" target="_blank">
+                    <img src="skin/updates/appstore-bg.svg" alt="apple store button">
+                  </a>
+                  <a id="adblock-browser-android-store" class="store-button googleplay-button" target="_blank">
+                    <img src="skin/updates/googleplay-bg.svg" alt="google play store button">
+                  </a>
+                </div>
+                
+              </article>
+
+            </div>
+
+          </section>
+
+        </div>
+
+      </main>
+
+    </body>
+
+  </html>

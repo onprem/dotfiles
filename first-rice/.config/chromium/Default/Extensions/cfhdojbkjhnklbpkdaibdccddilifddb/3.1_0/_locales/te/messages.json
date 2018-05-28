@@ -1,0 +1,90 @@
+{
+   "add": {
+      "message": "చేర్చు"
+   },
+   "add_filters_msg": {
+      "message": "తొట్టులని (వడపోతలని) చేర్చు?"
+   },
+   "block_element": {
+      "message": "అంశాన్ని నిరోధించు"
+   },
+   "cancel": {
+      "message": "రద్దు చేయు"
+   },
+   "clickhide_instructions": {
+      "message": "ఈ చిరుతలుపుని (పాపప్) మూసివేసిన తర్వాత, పేజీలో ఒక అంశాన్ని నొక్కండి (లేదా కుడి క్లిక్ చేయండి)."
+   },
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers."
+   },
+   "disabled_for_site": {
+      "message": "ఈ సైట్  లో \u003Cstrong>ఆపివేయబడింది\u003C/strong>"
+   },
+   "easy_create_filter": {
+      "message": "అంశాన్ని నిరోధించు"
+   },
+   "enabled_for_site": {
+      "message": "ఈ సైట్  లో \u003Cstrong>ప్రారంభించబడింది\u003C/strong>"
+   },
+   "line": {
+      "message": "గీత $number$",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "name_devbuild": {
+      "message": "Adblock Plus డెవలప్మెంట్ సాఫ్ట్వేర్ ఇది"
+   },
+   "notification_with_buttons": {
+      "message": "అన్ని లింక్స్ ఇదే నోటిఫికేషన్ లో తెరవాలి అనికుంటే, 'ఓకే' అని నొక్కండి."
+   },
+   "notification_without_buttons": {
+      "message": "నోటిఫికేషన్ నొక్కితే అన్ని లింక్స్ దాంట్లో తెరుసుకొంటాయి."
+   },
+   "options_customFilter_cancel": {
+      "message": "రద్దు చేయు"
+   },
+   "options_filterList_column_name": {
+      "message": "జాబితాలని వడకొట్టు"
+   },
+   "options_filterList_title": {
+      "message": "జాబితాలని వడకొట్టు"
+   },
+   "options_filterList_updateNow": {
+      "message": "ఇప్పుడు నవీనీకరించు"
+   },
+   "options_short": {
+      "message": "ఐచ్ఛికాలు"
+   },
+   "options_tab_general": {
+      "message": "సాధారణం"
+   },
+   "stats_label_page": {
+      "message": "ఈ పేజీ లో \u003Cstrong>$number$\u003C/strong>",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_label_total": {
+      "message": "మొత్తం \u003Cstrong>$number$\u003C/strong>",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_show_iconnumber": {
+      "message": "ఐకాన్ లో నెంబర్ చూపించు"
+   },
+   "stats_title": {
+      "message": "ప్రకటనలు బ్లాక్ చేయబడినవి"
+   }
+}

@@ -1,0 +1,72 @@
+{
+   "add": {
+      "message": "Ouzhpennañ"
+   },
+   "cancel": {
+      "message": "Nullañ"
+   },
+   "continue": {
+      "message": "Kenderc'hel"
+   },
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers."
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "Fazi, pellgargañ torret"
+   },
+   "issueReporter_page_title": {
+      "message": "Ar c'hazetenner"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "Kefluniadur politikerez"
+   },
+   "issueReporter_sendButton_label": {
+      "message": "Kas c'houzout"
+   },
+   "issueReporter_sendPage_heading": {
+      "message": "Kas c'houzout"
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "options_close": {
+      "message": "serriñ"
+   },
+   "options_customFilter_cancel": {
+      "message": "Nullañ"
+   },
+   "options_filterList_column_name": {
+      "message": "Filter lists"
+   },
+   "options_filterList_column_status": {
+      "message": "Stad"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "Fazi, n'eo ket ar memes checksum"
+   },
+   "options_filterList_lastDownload_connectionError": {
+      "message": "Fazi, pellgargañ torret"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "Fazi, n'eo ket ur chomlec'h"
+   },
+   "options_filterList_state_disabled": {
+      "message": "Marvaat"
+   },
+   "options_filterList_title": {
+      "message": "Filter lists"
+   },
+   "options_short": {
+      "message": "Dibaboù"
+   },
+   "overlay_notification_button_no": {
+      "message": "Ket"
+   },
+   "overlay_notification_button_yes": {
+      "message": "Ya"
+   },
+   "sendReport": {
+      "message": "Danevelliñ ur gudenn war ar bajenn"
+   }
+}

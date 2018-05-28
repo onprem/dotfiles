@@ -1,0 +1,183 @@
+{
+   "add": {
+      "message": "Ychwanegu"
+   },
+   "cancel": {
+      "message": "Yn ôl"
+   },
+   "continue": {
+      "message": "Parhau"
+   },
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers."
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "Methwyd, gwall lawrlwytho"
+   },
+   "firstRun_abbButtonSubtitle": {
+      "message": "Ar gael ar gyfer Android ac iOS"
+   },
+   "firstRun_abbButtonTitle": {
+      "message": "Lawrlwythwch Porwr Adblock yma"
+   },
+   "firstRun_abbPromotionHeadline": {
+      "message": "Oes gennych ffôn clyfar neu dabled?"
+   },
+   "firstRun_acceptableAdsExplanation": {
+      "message": "Hoffem annog gwefannau i ddefnyddio hysbysebion syml, anymwthiol. Dyna pam rydym wedi sefydlu \u003Ca>canllawiau llym\u003C/a> i adnabod hysbysebion derbyniol, ac fe'u dangosir yn ddiofyn. Os hoffech rwystro'r holl hysbysebion gallwch \u003Ca>annalluogi\u003C/a> hyn mewn eiliadau."
+   },
+   "firstRun_acceptableAdsHeadline": {
+      "message": "Caiff hysbysebion diflas eu rhwystro o hyn ymlaen"
+   },
+   "firstRun_contributor_credits": {
+      "message": "Clodydd y Cyfranwyr"
+   },
+   "firstRun_donate": {
+      "message": "rhoddi"
+   },
+   "firstRun_donate_label": {
+      "message": "Cefnogwch ein prosiect"
+   },
+   "firstRun_filterlistsReinitializedWarning": {
+      "message": "Mae'n ymddangos bod nam wedi achosi i bob hidlydd gael ei ddileu ac ni allwn adfer copi wrth gefn. Felly bu'n rhaid i ni ailosod eich hidlyddion a gosodiadau Hysbysebion Derbyniol. Gwiriwch eich rhestri hidlo a gosodiadau Hysbysebion Derbyniol yng \u003Ca> ngosodiadau Adblock Plus\u003C/a>."
+   },
+   "firstRun_share": {
+      "message": "Dywedwch wrth eich ffrindiau"
+   },
+   "firstRun_share_headline": {
+      "message": "\u003Ca>Rhowch help llaw\u003C/a> i ni wneud y we'n lle gwell"
+   },
+   "firstRun_title": {
+      "message": "Mae Adblock Plus wedi'i osod"
+   },
+   "issueReporter_anonymousSubmission_label": {
+      "message": "Cyflwyniad dienw"
+   },
+   "issueReporter_anonymousSubmission_warning": {
+      "message": "Allwn ni ddim ymateb a byddwn yn debygol o beidio â blaenoriaethu'r adroddiad."
+   },
+   "issueReporter_commentPage_heading": {
+      "message": "Ychwanegu sylw"
+   },
+   "issueReporter_comment_description": {
+      "message": "Mae'r blwch testun isod yn eich galluogi i adael sylw i helpu ni i ddeall beth yw'r nam. Mae'r cam yn ddewisol ond argymhellir ei gymryd os nad yw'r broblem yn amlwg. Gallwch hefyd adolygu data'r adroddiad cyn ei anfon."
+   },
+   "issueReporter_comment_label": {
+      "message": "Sylw (dewisol):"
+   },
+   "issueReporter_comment_lengthWarning": {
+      "message": "Mae hyd eich sylw dros 1000 nod. Dim ond y 1000 nod cyntaf caiff ei anfon."
+   },
+   "issueReporter_confirmationMessage": {
+      "message": "Cadwyd eich adroddiad. Gallwch fynd ato drwy'r cyfeiriad canlynol:"
+   },
+   "issueReporter_dataCollector_description": {
+      "message": "Arhoswch ychydig eiliadau tra bod Adblock Plus yn casglu'r data sydd ei angen."
+   },
+   "issueReporter_dataCollector_heading": {
+      "message": "Croeso i'r teclyn adrodd namau"
+   },
+   "issueReporter_doneButton_label": {
+      "message": "Gorffen"
+   },
+   "issueReporter_email_description": {
+      "message": "Rydym yn eich annog i roi cyfeiriad ebost dilys fel y gallwn gysylltu â chi os oes cwestiynau am eich adroddiad. Bydd hefyd yn ein galluogi i adnabod eich cyfraniadau a'u blaenoriaethu."
+   },
+   "issueReporter_email_label": {
+      "message": "Ebost:"
+   },
+   "issueReporter_errorMessage": {
+      "message": "Methwyd cais i anfon yr adroddiad gyda chôd gwall \"?1?\". Sicrhewch eich bod chi wedi cysylltu â'r we a rhowch gynnig arall arni. Os bydd y broblem yn parhau, gofynnwch am gymorth yn [link]fforwm Adblock Plus[/link]."
+   },
+   "issueReporter_falseNegative_description": {
+      "message": "Dewiswch hwn os yw hysbyseb yn cael ei harddangos er bod Adblock Plus wedi ei alluogi."
+   },
+   "issueReporter_falseNegative_label": {
+      "message": "Dyw Adblock Plus ddim yn rhwystro hysbyseb"
+   },
+   "issueReporter_falsePositive_description": {
+      "message": "Dewiswch hwn os yw'r dudalen heb gynnwys pwysig, yn ymddangos yn anghywir neu'n methu gweithio'n gywir. Gallwch ddarganfod ai Adblock Plus sy'n achosi'r broblem drwy ei analluogi dros dro."
+   },
+   "issueReporter_falsePositive_label": {
+      "message": "Mae Adblock Plus yn rhwystro gormod"
+   },
+   "issueReporter_knownIssueMessage": {
+      "message": "Mae'n debygol bod y nam ag adroddoch yn hysbys. Mwy o wybodaeth:"
+   },
+   "issueReporter_page_title": {
+      "message": "Teclyn adrodd namau"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "Polisi preifatrwydd"
+   },
+   "issueReporter_sendButton_label": {
+      "message": "Anfon yr adroddiad"
+   },
+   "issueReporter_sendPage_heading": {
+      "message": "Anfon yr adroddiad"
+   },
+   "issueReporter_sending": {
+      "message": "Arhoswch funud tra bod Adblock Plus yn cyflwyno eich adroddiad."
+   },
+   "issueReporter_showData_label": {
+      "message": "Dangos data'r adroddiad"
+   },
+   "issueReporter_typeSelector_description": {
+      "message": "Bydd y ffenestr hon yn eich tywys drwy'r camau sydd eu hangen er mwyn adrodd nam ar Adblock Plus. Yn gyntaf, dewiswch isod y math o nam rydych chi'n ei brofi:"
+   },
+   "issueReporter_typeSelector_heading": {
+      "message": "Dewis y math o nam"
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "notification_antiadblock_message": {
+      "message": "Mae'r wefan hon yn dangos negeseuon wedi eu targedu i ddefnyddwyr Adblock Plus. Ydych chi am i Adblock Plus guddio negeseuon wedi eu targedu?"
+   },
+   "notification_antiadblock_title": {
+      "message": "Cuddio negeseuon wedi eu targedu?"
+   },
+   "options_acceptableAds_header": {
+      "message": "Hysbysebion derbyniol"
+   },
+   "options_close": {
+      "message": "cau"
+   },
+   "options_customFilter_cancel": {
+      "message": "Yn ôl"
+   },
+   "options_email": {
+      "message": "Ebost:"
+   },
+   "options_filterList_column_status": {
+      "message": "Statws"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "Methwyd, prawfswm anghywir"
+   },
+   "options_filterList_lastDownload_connectionError": {
+      "message": "Methwyd, gwall lawrlwytho"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "Methwyd, cyfeiriad annilys"
+   },
+   "options_filterList_state_disabled": {
+      "message": "Analluogwyd"
+   },
+   "options_short": {
+      "message": "Dewisiadau"
+   },
+   "options_tab_whitelist": {
+      "message": "Gwefannau a wenrestrwyd"
+   },
+   "overlay_notification_button_no": {
+      "message": "Na"
+   },
+   "overlay_notification_button_yes": {
+      "message": "Ie"
+   },
+   "sendReport": {
+      "message": "Adrodd nam ar y dudalen hon"
+   }
+}

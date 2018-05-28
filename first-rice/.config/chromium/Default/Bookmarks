@@ -1,0 +1,241 @@
+{
+   "checksum": "0b839e74f3d1e8dd168146284581dd9c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13168272973085752",
+            "id": "15",
+            "meta_info": {
+               "last_visited_desktop": "13170169924403332"
+            },
+            "name": "Debian.org",
+            "sync_transaction_version": "12",
+            "type": "url",
+            "url": "http://www.debian.org/"
+         }, {
+            "date_added": "13168272973084376",
+            "id": "16",
+            "meta_info": {
+               "last_visited_desktop": "13169396392724631"
+            },
+            "name": "Latest News",
+            "sync_transaction_version": "13",
+            "type": "url",
+            "url": "http://www.debian.org/News/"
+         }, {
+            "date_added": "13168272973086228",
+            "id": "17",
+            "meta_info": {
+               "last_visited_desktop": "13169742016012390"
+            },
+            "name": "Help",
+            "sync_transaction_version": "14",
+            "type": "url",
+            "url": "http://www.debian.org/support"
+         }, {
+            "date_added": "13168282959350434",
+            "id": "18",
+            "meta_info": {
+               "last_visited_desktop": "13170774947330462"
+            },
+            "name": "20 Must-Have Ubuntu Apps in 2017",
+            "sync_transaction_version": "15",
+            "type": "url",
+            "url": "https://www.fossmint.com/best-ubuntu-apps/"
+         }, {
+            "date_added": "13168293848808486",
+            "id": "19",
+            "meta_info": {
+               "last_visited_desktop": "13171787778465433"
+            },
+            "name": "Hyper™",
+            "sync_transaction_version": "25",
+            "type": "url",
+            "url": "https://hyper.is/#installation"
+         }, {
+            "date_added": "13168459388522140",
+            "id": "20",
+            "meta_info": {
+               "last_visited_desktop": "13169901281806854"
+            },
+            "name": "sahat/hackathon-starter: A boilerplate for Node.js web applications",
+            "sync_transaction_version": "27",
+            "type": "url",
+            "url": "https://github.com/sahat/hackathon-starter"
+         }, {
+            "date_added": "13169373081309623",
+            "id": "21",
+            "meta_info": {
+               "last_visited_desktop": "13169387514953205"
+            },
+            "name": "Laravel 5.2 From Scratch",
+            "sync_transaction_version": "18",
+            "type": "url",
+            "url": "https://laracasts.com/series/laravel-5-from-scratch"
+         }, {
+            "date_added": "13169373086237436",
+            "id": "22",
+            "meta_info": {
+               "last_visited_desktop": "13169373086242010"
+            },
+            "name": "unicodeveloper/laravel-hackathon-starter: A hackathon/MVP boilerplate for laravel web applications. Start your hackathons without hassle.",
+            "sync_transaction_version": "28",
+            "type": "url",
+            "url": "https://github.com/unicodeveloper/laravel-hackathon-starter"
+         }, {
+            "date_added": "13170010706186503",
+            "id": "23",
+            "meta_info": {
+               "last_visited_desktop": "13170164342779213"
+            },
+            "name": "(2) 24/7 freeCodeCamp radio - chill tunes you can code to (no ads) - YouTube",
+            "sync_transaction_version": "26",
+            "type": "url",
+            "url": "https://www.youtube.com/freecodecamp/live"
+         }, {
+            "date_added": "13170702566585097",
+            "id": "24",
+            "meta_info": {
+               "last_visited_desktop": "13170702566588301"
+            },
+            "name": "How to learn programming? - Neoteric blog",
+            "sync_transaction_version": "21",
+            "type": "url",
+            "url": "https://neoteric.eu/how-to-learn-programming?utm_source=quora-kc&utm_medium=referral&utm_content=https%3A%2F%2Fwww.quora.com%2FWhat-is-the-best-method-to-learn-coding%3Fredirected_qid%3D27409050&utm_campaign=lp%2Fblog"
+         }, {
+            "date_added": "13170702572327378",
+            "id": "25",
+            "meta_info": {
+               "last_visited_desktop": "13170702572330120"
+            },
+            "name": "Maciej Smiechowski's answer to Are there good YouTube channels that teach programming languages? - Quora",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.quora.com/Are-there-good-YouTube-channels-that-teach-programming-languages/answer/Maciej-Smiechowski"
+         } ],
+         "date_added": "13171787447111862",
+         "date_modified": "13170702572327378",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13171787447111876",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "28",
+      "synced": {
+         "children": [ {
+            "date_added": "13161356626169448",
+            "id": "5",
+            "meta_info": {
+               "last_visited": "13161744817282864"
+            },
+            "name": "Shipment tracking for [142623905381-1492973248004]",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://rtmapp.ebay.in/widget/shipment?rmvHeader=false&iframe=true&transactionId=1492973248004&rmvFooter=false&src=ocs&itemId=142623905381"
+         }, {
+            "date_added": "13164035862587389",
+            "id": "6",
+            "meta_info": {
+               "last_visited": "13164035924520043"
+            },
+            "name": "InfoSec Writeups – Medium",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://medium.com/bugbountywriteup"
+         }, {
+            "date_added": "13164849722200323",
+            "id": "7",
+            "meta_info": {
+               "last_visited": "13164849722204179"
+            },
+            "name": "Backdoor - Security platform",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://backdoor.sdslabs.co/"
+         }, {
+            "date_added": "13164928157414642",
+            "id": "8",
+            "meta_info": {
+               "last_visited": "13164928157417692"
+            },
+            "name": "The Easiest Way to Bypass XSS Mitigations - Brute XSS",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://brutelogic.com.br/blog/the-easiest-way-to-bypass-xss-mitigations/"
+         }, {
+            "date_added": "13164992651791869",
+            "id": "9",
+            "meta_info": {
+               "last_visited": "13164992651798960"
+            },
+            "name": "Search Engine for Source Code - PublicWWW.com",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://publicwww.com/"
+         }, {
+            "date_added": "13167813719867263",
+            "id": "10",
+            "meta_info": {
+               "last_visited_desktop": "13167813719867263"
+            },
+            "name": "CollectYoutube.com: Download Entire Playlist and Channel videos at once!!!",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.collectyoutube.com/watch?list=RDQMPwGfxjyZSNo&v=3AtDnEC4zak"
+         }, {
+            "date_added": "13167857882706734",
+            "id": "11",
+            "meta_info": {
+               "last_visited_desktop": "13167857882707734"
+            },
+            "name": "IPG Mtech 2017 - Google Groups",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://groups.google.com/forum/#!pendingmsg/ipg-mtech-2017"
+         }, {
+            "date_added": "13170860318873637",
+            "id": "12",
+            "meta_info": {
+               "last_visited": "13170860318883254"
+            },
+            "name": "Fuck Off As A Service (FOAAS)",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.foaas.com/"
+         }, {
+            "date_added": "13171041606569524",
+            "id": "13",
+            "meta_info": {
+               "last_visited": "13171041606586910"
+            },
+            "name": "Numix - Products",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://numixproject.github.io/products.html"
+         }, {
+            "date_added": "13171186939574230",
+            "id": "14",
+            "meta_info": {
+               "last_visited": "13171186939578114"
+            },
+            "name": "Triangles | 100+ best free triangle, architecture, building, and facade photos on Unsplash",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://unsplash.com/collections/206221/triangles"
+         } ],
+         "date_added": "13171787447111878",
+         "date_modified": "13171186939574230",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

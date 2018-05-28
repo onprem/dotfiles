@@ -1,0 +1,174 @@
+{
+   "add": {
+      "message": "Pśidaś"
+   },
+   "cancel": {
+      "message": "Pśetergnuś"
+   },
+   "continue": {
+      "message": "Pókšacowaś"
+   },
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers."
+   },
+   "filter_invalid_regexp": {
+      "message": "Njepłaśiwy regularny wuraz"
+   },
+   "filter_unknown_option": {
+      "message": "Njeznata filtrowa opcija"
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "Njeraźiło, ześěgnjeńska zmólka"
+   },
+   "firstRun_acceptableAdsExplanation": {
+      "message": "My by rady websedła pózbuźili, wuwěrne, decentne wabjenje wužywaś. Togodla smy \u003Ca>kšute směrnice\u003C/a> póstajili, aby my akceptabelne wabjenje identificěrowali, kótarež pokazujo se w standardnych nastajenjach. Jolic cośo weto wšykne wabjenje blokěrowaś, móžośo jo w běgu mało sekundow \u003Ca>znjemóžniś\u003C/a>."
+   },
+   "firstRun_acceptableAdsHeadline": {
+      "message": "Gramne wabjenje buźo se něnto blokěrowaś"
+   },
+   "firstRun_contributor_credits": {
+      "message": "Źěkowanje sobustatkujucym"
+   },
+   "firstRun_donate": {
+      "message": "pósćiś"
+   },
+   "firstRun_donate_label": {
+      "message": "Pódprějśo naš projekt"
+   },
+   "firstRun_filterlistsReinitializedWarning": {
+      "message": "Zda se, až problem jo zawinował, až wšykne filtry su se wótpórali a my njejsmy mógli zawěsćenje wótnowiś. Togodla smy musyli waše filtry a nastajenja za akceptabelne wabjenje slědk stajiś. Pšosym pśeglědajśo swóje filtrowe lisćiny a nastajenja za akceptabelne wabjenje w \u003Ca>nastajenjach Adblock Plus\u003C/a>."
+   },
+   "firstRun_share": {
+      "message": "Informěrujśo swóje pśijaśele"
+   },
+   "firstRun_share_headline": {
+      "message": "\u003Ca>Pódajśo nam ruku\u003C/a>, aby my web k lěpšemu městnoju cynili"
+   },
+   "firstRun_title": {
+      "message": "Adblock Plus jo se instalěrował"
+   },
+   "issueReporter_anonymousSubmission_label": {
+      "message": "Anonymne słanje"
+   },
+   "issueReporter_anonymousSubmission_warning": {
+      "message": "Njamóžomy se zasej a was wobrośiś a dajomy nejskerjej wašej rozpšawje nišu prioritu."
+   },
+   "issueReporter_commentPage_heading": {
+      "message": "Komentar zapódaś"
+   },
+   "issueReporter_comment_description": {
+      "message": "Slědujuce tekstowe pólo zmóžnja wam, komentar zapódaś, aby wy nam pomagał, problem rozměś. Toś ten kšac jo opcionalny, ale pśiraźujo se, jolic problem njejo widobny. Móžośo teke daty rozpšawy pśeglědaś, nježli až se sćelo."
+   },
+   "issueReporter_comment_label": {
+      "message": "Komentar (opcionalny)"
+   },
+   "issueReporter_comment_lengthWarning": {
+      "message": "Dłujkosć wašogo komentara pśekšaca 1000 znamuškow. Jano prědne 1000 znamuškow budu se słaś."
+   },
+   "issueReporter_confirmationMessage": {
+      "message": "Waša rozpšawa jo se składowała. Móžośo ju pód slědujuceju adresu namakaś:"
+   },
+   "issueReporter_dataCollector_description": {
+      "message": "Pšosym pócakajśo chylku, mjaztym až Adblock Plus wótwołujo trěbne daty."
+   },
+   "issueReporter_dataCollector_heading": {
+      "message": "Witajśo do rozpšawniskego asistenta za problemy"
+   },
+   "issueReporter_doneButton_label": {
+      "message": "Dokóńcony"
+   },
+   "issueReporter_email_description": {
+      "message": "Pśiraźujomy wam, płaśiwu e-mailowu adresu zapódaś, aby mógli z wami do zwiska stajiś, jolic su pšašanja wó wašej rozpšawje. To zmóžnijo nam, waše pśinoski pśipóznaś a jim wušu prioritu daś."
+   },
+   "issueReporter_email_label": {
+      "message": "E-mail:"
+   },
+   "issueReporter_errorMessage": {
+      "message": "Wopyt, rozpšawu słaś, jo se ze zmólkowym kodom \"?1?\" njeraźił. Pšosym zawěsććo, až sćo z internetom zwězany a wopytajśo hyšći raz. Jolic problem dalej eksistěrujo, pšosćo pšosym w [link]forumje Adblock Plus[/link] wó pomoc."
+   },
+   "issueReporter_falseNegative_description": {
+      "message": "Wubjeŕśo toś tu opciju, jolic wabjenje se zwobraznja, lěcrownož Adblock Plus jo zmóžnjony."
+   },
+   "issueReporter_falseNegative_label": {
+      "message": "Adblock Plus njeblokěrujo wabjenje"
+   },
+   "issueReporter_falsePositive_description": {
+      "message": "Wubjeŕśo toś tu opciju, jolic wažne wopśimjeśe felujo bokoju, jolic bok zwobraznja se wopak abo porědnje njefunkcioněrujo. Móžośo zwěsćiś, lěc Adblock Plus jo wina na toś tom problemje, gaž znjemóžnijośo jen nachylu."
+   },
+   "issueReporter_falsePositive_label": {
+      "message": "Adblock Plus blokěrujo pśewjele"
+   },
+   "issueReporter_knownIssueMessage": {
+      "message": "Problem, wó kótaryž sćo rozpšawił, jo nejskerjej južo znaty. Dalšne informacije:"
+   },
+   "issueReporter_page_title": {
+      "message": "Rozpšawniski asistent za problemy"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "Pšawidła priwatnosći"
+   },
+   "issueReporter_sendButton_label": {
+      "message": "Rozpšawu pósłaś"
+   },
+   "issueReporter_sendPage_heading": {
+      "message": "Rozpšawu słaś"
+   },
+   "issueReporter_sending": {
+      "message": "Pšosym cakajśo, mjaztym až Adblock Plus sćelo wašu rozpšawu."
+   },
+   "issueReporter_showData_label": {
+      "message": "Daty rozpšawy pokazaś"
+   },
+   "issueReporter_typeSelector_description": {
+      "message": "Toś to wokno buźo wam pśez kšace wjasć, kótarež su trěbne za słanje wopisanja problemow z Adblock Plus. Wubjeŕśo pšosym nejpjerwjej družynu problema, na kótaryž sćo na toś tom boku starcył:"
+   },
+   "issueReporter_typeSelector_heading": {
+      "message": "Wubjeŕśo problemowy typ"
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "notification_antiadblock_message": {
+      "message": "Toś to sedło jo za to znate, až pokazujo celowe powěźeńki za wužywarje Adblock Plus. Cośo, až Adblock Plus chowa celowe powěźeńki?"
+   },
+   "notification_antiadblock_title": {
+      "message": "Celowe powěźeńki schowaś?"
+   },
+   "options_close": {
+      "message": "zacyniś"
+   },
+   "options_customFilter_cancel": {
+      "message": "Pśetergnuś"
+   },
+   "options_email": {
+      "message": "E-mail:"
+   },
+   "options_filterList_column_status": {
+      "message": "Status"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "Njeraźiło, wopacna kontrolna suma"
+   },
+   "options_filterList_lastDownload_connectionError": {
+      "message": "Njeraźiło, ześěgnjeńska zmólka"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "Njeraźiło, žedna płaśiwa adresa"
+   },
+   "options_filterList_state_disabled": {
+      "message": "Znjemóžnjony"
+   },
+   "options_short": {
+      "message": "Opcije"
+   },
+   "overlay_notification_button_no": {
+      "message": "Ně"
+   },
+   "overlay_notification_button_yes": {
+      "message": "Jo"
+   },
+   "sendReport": {
+      "message": "Problem na toś tom boku k wěsći daś"
+   }
+}

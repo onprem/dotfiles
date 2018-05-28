@@ -1,0 +1,186 @@
+{
+   "add": {
+      "message": "Bæta við"
+   },
+   "cancel": {
+      "message": "Hætta við"
+   },
+   "continue": {
+      "message": "Áfram"
+   },
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers."
+   },
+   "filter_invalid_regexp": {
+      "message": "Ógild regluleg segð"
+   },
+   "filter_unknown_option": {
+      "message": "Óþekkt síunnar val"
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "Mistókst, gat ekki niðurhalað"
+   },
+   "firstRun_abbButtonSubtitle": {
+      "message": "Fáanlegur fyrir Android og iOS"
+   },
+   "firstRun_abbButtonTitle": {
+      "message": "Náðu í Adblock Browser hér"
+   },
+   "firstRun_abbPromotionHeadline": {
+      "message": "Áttu snjallsíma eða spjaldtölvu?"
+   },
+   "firstRun_acceptableAdsExplanation": {
+      "message": "Við viljum hvetja vefsvæði til að nota einfaldar auglýsingar, sem eru ekki uppáþrengjandi. Þess vegna höfum við sett fram \u003Ca>ákveðnar reglur\u003C/a> til að skilgreina ásættanlegar auglýsingar, sem eru birtar með venjulegum stillingum. Ef þú vilt loka á allar auglýsingar geturðu gert þetta \u003Ca>óvirkt\u003C/a> á einfaldan hátt."
+   },
+   "firstRun_acceptableAdsHeadline": {
+      "message": "Lokað verður á uppáþrengjandi auglýsingar"
+   },
+   "firstRun_contributor_credits": {
+      "message": "Stuðningsaðilar"
+   },
+   "firstRun_donate": {
+      "message": "gefa"
+   },
+   "firstRun_donate_label": {
+      "message": "Styðja verkefnið"
+   },
+   "firstRun_filterlistsReinitializedWarning": {
+      "message": "Svo virðist sem að upp hafi komið vandamál sem gerði það að verkum að öllum síum var eytt og ekki var hægt að endurheimta. Þar af leiðandi þurfti að endurstilla allar síur og stillingar fyrir ásættanlegar auglýsingar. Athugaðu síu listana og stillingar fyrir ásættanlegar auglýsingar í \u003Ca>Adblock Plus stillingum\u003C/a>."
+   },
+   "firstRun_share": {
+      "message": "Láttu vini þína vita"
+   },
+   "firstRun_share_headline": {
+      "message": "\u003Ca>Hjálpaðu okkur\u003C/a> í því að gera vefinn betri"
+   },
+   "firstRun_title": {
+      "message": "Adblock Plus var sett inn"
+   },
+   "issueReporter_anonymousSubmission_label": {
+      "message": "Nafnlaus sending"
+   },
+   "issueReporter_anonymousSubmission_warning": {
+      "message": "Við munum ekki geta haft samband við þig og munum að öllum líkindum þess vegna setja þína skýrslu í lægri forgang."
+   },
+   "issueReporter_commentPage_heading": {
+      "message": "Sláðu inn athugasemd"
+   },
+   "issueReporter_comment_description": {
+      "message": "Þú getur slegið inn athugasemd í textasvæðið hér fyrir neðan til að hjálpa okkur að skilja vandamálið. Þetta skref er valkvæmt en mælt er með því ef vandamálið er ekki augljóst. Þú getur einnig forskoðað skýrsluna áður en þú hún er send."
+   },
+   "issueReporter_comment_label": {
+      "message": "Athugasemd (valfrjálst):"
+   },
+   "issueReporter_comment_lengthWarning": {
+      "message": "Lengdin á athugasemd er yfir 1000 stafir. Aðeins verða sendir fyrstu 1000 stafirnir."
+   },
+   "issueReporter_confirmationMessage": {
+      "message": "Búið er að vista skýrsluna. Þú getur séð hana á eftirfarandi veffangi:"
+   },
+   "issueReporter_dataCollector_description": {
+      "message": "Bíddu aðeins á meðan Adblock Plus tekur saman nauðsynleg gögn."
+   },
+   "issueReporter_dataCollector_heading": {
+      "message": "Velkominn í tilkynna vandamál"
+   },
+   "issueReporter_doneButton_label": {
+      "message": "Ljúka"
+   },
+   "issueReporter_email_description": {
+      "message": "Við mælum með að þú sláir inn gilt tölvupóstfang svo hægt að hafa samband við þig ef það eru spurningar um skýrsluna þína. Einnig gerir það okkur kleyft að bera kennsl á það sem þú sendir inn og hægt er að forgangsraða því hærra."
+   },
+   "issueReporter_email_label": {
+      "message": "Tölvupóstfang:"
+   },
+   "issueReporter_errorMessage": {
+      "message": "Tilraun til að senda skýrsluna mistókst með villukóða \"?1?\". Gakktu úr skugga um þú sért tengdur við netið og reyndu aftur. Ef vandamálið er viðvarandi fáðu þá hjálp í [link]Adblock Plus umræðusvæðinu[/link]."
+   },
+   "issueReporter_falseNegative_description": {
+      "message": "Veldu þennan möguleika ef auglýsing birtist jafnvel þótt Adblock Plus sé virkt."
+   },
+   "issueReporter_falseNegative_label": {
+      "message": "Adblock Plus lokar ekki á auglýsingu"
+   },
+   "issueReporter_falsePositive_description": {
+      "message": "Veldu þennan möguleika ef á síðuna vantar mikilvæg gögn, birtist rangt eða virkar ekki eðlilega. Þú getur gengið úr skugga um hvort Adblock Plus sé vandamálið með því að gera það óvirkt tímabundið."
+   },
+   "issueReporter_falsePositive_label": {
+      "message": "Adblock Plus lokar á of mikið"
+   },
+   "issueReporter_knownIssueMessage": {
+      "message": "Vandamálið sem þú tilkynntir er öllum líkindum þegar þekkt. Meiri upplýsingar:"
+   },
+   "issueReporter_page_title": {
+      "message": "Höfundur tilkynningar"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "Persónuverndarstefna"
+   },
+   "issueReporter_sendButton_label": {
+      "message": "Senda skýrslu"
+   },
+   "issueReporter_sendPage_heading": {
+      "message": "Senda skýrslu"
+   },
+   "issueReporter_sending": {
+      "message": "Bíddu aðeins meðan Adblock Plus sendir skýrsluna."
+   },
+   "issueReporter_showData_label": {
+      "message": "Sýna skýrslugögn"
+   },
+   "issueReporter_typeSelector_description": {
+      "message": "Þessi gluggi hjálpar þér í gegnum þau skref sem þarf til að tilkynna Adblock Plus vandamála. Veldu fyrst, hverskonar tegund af vandamáli þú ert að lenda í á þessari síðu:"
+   },
+   "issueReporter_typeSelector_heading": {
+      "message": "Veldu tegund skýrslu"
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "notification_antiadblock_message": {
+      "message": "Þetta vefsvæði er þekkt fyrir að sýna áhugamiðuð skilaboð til Adblock Plus notenda. Viltu að Adblock Plus feli þessi áhugamiðuð skilaboð?"
+   },
+   "notification_antiadblock_title": {
+      "message": "Fela áhugamiðuð skilaboð?"
+   },
+   "options_close": {
+      "message": "loka"
+   },
+   "options_customFilter_cancel": {
+      "message": "Hætta við"
+   },
+   "options_email": {
+      "message": "Tölvupóstfang:"
+   },
+   "options_english": {
+      "message": "enska"
+   },
+   "options_filterList_column_status": {
+      "message": "Staða"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "Mistókst, prófsumma stemmir ekki"
+   },
+   "options_filterList_lastDownload_connectionError": {
+      "message": "Mistókst, gat ekki niðurhalað"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "Mistókst, ekki gilt netfang"
+   },
+   "options_filterList_state_disabled": {
+      "message": "Óvirkt"
+   },
+   "options_short": {
+      "message": "Valkostir"
+   },
+   "overlay_notification_button_no": {
+      "message": "Nei"
+   },
+   "overlay_notification_button_yes": {
+      "message": "Já"
+   },
+   "sendReport": {
+      "message": "Tilkynna vandamál á þessari síðu"
+   }
+}

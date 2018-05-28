@@ -1,0 +1,311 @@
+{
+   "add": {
+      "message": "Lisää"
+   },
+   "add_filters_msg": {
+      "message": "Lisää suodatin\\suodattimia?"
+   },
+   "block_element": {
+      "message": "Estä elementti"
+   },
+   "cancel": {
+      "message": "Peruuta"
+   },
+   "clickhide_instructions": {
+      "message": "Tämän ikkunan sulkemisen jälkeen klikkaa (tai oikea klikkaa) elementtiä jonka haluat estää."
+   },
+   "continue": {
+      "message": "Jatka"
+   },
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers."
+   },
+   "disabled_for_site": {
+      "message": "\u003Cstrong>Poistettu\u003C/strong> tältä sivulta"
+   },
+   "easy_create_filter": {
+      "message": "Estä elementti"
+   },
+   "enabled_for_site": {
+      "message": "\u003Cstrong>Käytössä\u003C/strong> tällä sivulla"
+   },
+   "filter_elemhideemulation_nodomain": {
+      "message": "Aktiivista verkkotunnusta ei ole määritetty laajennetun elementin piilotussuodattimelle"
+   },
+   "filter_invalid_domain": {
+      "message": "Väärä (tai tyhjä) verkkotunnus"
+   },
+   "filter_invalid_regexp": {
+      "message": "Virheellinen normaali-ilmaus"
+   },
+   "filter_unknown_option": {
+      "message": "Tuntematon suodatusvaihtoehto"
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "Epäonnistui, latausvirhe"
+   },
+   "firstRun_abbButtonSubtitle": {
+      "message": "Saatavilla Androidille ja iOS:lle"
+   },
+   "firstRun_abbButtonTitle": {
+      "message": "Hanki Adblock Browser täältä"
+   },
+   "firstRun_abbPromotionHeadline": {
+      "message": "Onko sinulla älypuhelin tai tabletti?"
+   },
+   "firstRun_acceptableAdsExplanation": {
+      "message": "Kannustamme verkkosivuja käyttämään yksinkertaisia mainoksia, jotka eivät häiritse. Tämän vuoksi olemme luoneet \u003Ca>tiukat ohjesäännöt\u003C/a> hyväksyttävien mainosten tunnistamiseksi, jotka näytetään oletusasetuksilla. Jos silti haluat estää kaikki mainokset, voit ottaa tämän \u003Ca>pois käytöstä\u003C/a> käden käänteessä."
+   },
+   "firstRun_acceptableAdsHeadline": {
+      "message": "Häiritsevät mainokset estetään"
+   },
+   "firstRun_contributor_credits": {
+      "message": "Avustajat:"
+   },
+   "firstRun_donate": {
+      "message": "lahjoita"
+   },
+   "firstRun_donate_label": {
+      "message": "Tue projektiamme"
+   },
+   "firstRun_filterlistsReinitializedWarning": {
+      "message": "Näyttäisi siltä, että ongelman takia kaikki suodattimet on poistettu ja niiden palauttaminen varmuuskopiosta epäonnistui. Tämän vuoksi kaikki suodattimien ja hyväksyttävien mainosten asetukset on palautettu alkuarvoihin. Tarkasta suodatinlistat ja hyväksyttävien mainosten asetukset \u003Ca>Adblock Plussan asetuksista\u003C/a>."
+   },
+   "firstRun_share": {
+      "message": "Kerro ystävillesi"
+   },
+   "firstRun_share_headline": {
+      "message": "\u003Ca>Auta meitä\u003C/a> tekemään verkosta parempi paikka"
+   },
+   "firstRun_title": {
+      "message": "Adblock Plus on asennettu"
+   },
+   "invalid_css_selector": {
+      "message": "$selector$ ei ole kelvollinen CSS-valitsin",
+      "placeholders": {
+         "selector": {
+            "content": "$1"
+         }
+      }
+   },
+   "issueReporter_anonymousSubmission_label": {
+      "message": "Lähetä nimettömänä"
+   },
+   "issueReporter_anonymousSubmission_warning": {
+      "message": "Sinuun ei voida ottaa yhteyttä ja todennäköisesti priorisoimme raportin alemmas."
+   },
+   "issueReporter_commentPage_heading": {
+      "message": "Lisää kommentti"
+   },
+   "issueReporter_comment_description": {
+      "message": "Alla olevaan tekstikenttään voit syöttää kommentin (englanniksi) helpottaaksesi meitä ymmärtämään ongelman. Tämä vaihe on valinnainen mutta suositeltava, jos ongelma ei ole ilmiselvä. Voit myös käydä läpi raportin tiedot ennen sen lähettämistä."
+   },
+   "issueReporter_comment_label": {
+      "message": "Kommentti (valinnainen):"
+   },
+   "issueReporter_comment_lengthWarning": {
+      "message": "Kommentin pituus ylittää 1000 merkkiä. Vain ensimmäiset 1000 merkkiä lähetetään."
+   },
+   "issueReporter_confirmationMessage": {
+      "message": "Raporttisi on tallennettu. Se löytyy tästä osoitteesta:"
+   },
+   "issueReporter_dataCollector_description": {
+      "message": "Odota hetki, kun Adblock Plus kerää tarvittavia tietoja."
+   },
+   "issueReporter_dataCollector_heading": {
+      "message": "Tervetuloa ongelman raportoijaan"
+   },
+   "issueReporter_doneButton_label": {
+      "message": "Valmis"
+   },
+   "issueReporter_email_description": {
+      "message": "On suositeltavaa antaa toimiva sähköpostiosoite, jotta sinuun voidaan ottaa yhteyttä raporttiin liittyvissä kysymyksissä. Sen avulla voimme myös antaa tunnustusta panoksestasi ja priorisoida sitä korkeammalle."
+   },
+   "issueReporter_email_label": {
+      "message": "Sähköposti:"
+   },
+   "issueReporter_errorMessage": {
+      "message": "Raportin lähettäminen epäonnistui virhekoodilla \"?1?\". Varmista, että olet yhteydessä Internetiin ja yritä uudelleen. Mikäli ongelma ei katoa, pyydä apua [link]Adblock Plus foorumilta[/link]."
+   },
+   "issueReporter_falseNegative_description": {
+      "message": "Valitse tämä vaihtoehto, jos mainos näkyy vaikka Adblock Plus on käytössä."
+   },
+   "issueReporter_falseNegative_label": {
+      "message": "Adblock Plus ei estä mainosta"
+   },
+   "issueReporter_falsePositive_description": {
+      "message": "Valitse tämä vaihtoehto, jos sivulta puuttuu olennaista sisältöä tai se näkyy väärin. Voit päätellä onko Adblock Plus syy ongelmaan ottamalla sen väliaikaisesti pois kaytöstä."
+   },
+   "issueReporter_falsePositive_label": {
+      "message": "Adblock Plus estää liikaa"
+   },
+   "issueReporter_knownIssueMessage": {
+      "message": "Raportoimasi ongelma on todennäköisesti jo tiedossa. Lisätietoa:"
+   },
+   "issueReporter_page_title": {
+      "message": "Ongelman raportointi"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "Yksityisyyskäytäntö"
+   },
+   "issueReporter_sendButton_label": {
+      "message": "Lähetä raportti"
+   },
+   "issueReporter_sendPage_heading": {
+      "message": "Lähettää..."
+   },
+   "issueReporter_sending": {
+      "message": "Odota, Adblock Plus lähettää raporttia."
+   },
+   "issueReporter_showData_label": {
+      "message": "Näytä raportin tiedot"
+   },
+   "issueReporter_typeSelector_description": {
+      "message": "Tämä ikkuna ohjaa sinut Adblock Plus -ongelmaraportin lähettämiseen tarvittavien vaiheiden läpi. Kerro ensin, millaisen ongelman olet kohdannut tällä sivulla:"
+   },
+   "issueReporter_typeSelector_heading": {
+      "message": "Valitse ongelman tyyppi"
+   },
+   "line": {
+      "message": "Rivi $number$",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "loading": {
+      "message": "Ladataan..."
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "name_devbuild": {
+      "message": "Adblock Plus kehittäjän versio"
+   },
+   "notification_antiadblock_message": {
+      "message": "Tämän sivun tiedetään näyttäneen kohdennettuja viestejä Adblock Plussan käyttäjille. Haluatko, että Adblock Plus piilottaa kohdennetut viestit?"
+   },
+   "notification_antiadblock_title": {
+      "message": "Piilotetaanko kohdennetut viestit?"
+   },
+   "notification_configure": {
+      "message": "Määritä ilmoitusasetukset"
+   },
+   "notification_open_all": {
+      "message": "Avata kaikki linkit tästä ilmoituksesta"
+   },
+   "notification_with_buttons": {
+      "message": "Valitse 'OK', jos haluat avata kaikki linkit tässä ilmoituksessa."
+   },
+   "notification_without_buttons": {
+      "message": "Napsauttamalla ilmoitusta voit avata kaikki linkit siitä."
+   },
+   "options_acceptableAds_header": {
+      "message": "Hyväksytyt mainokset"
+   },
+   "options_close": {
+      "message": "sulje"
+   },
+   "options_customFilter_cancel": {
+      "message": "Peruuta"
+   },
+   "options_customize_showNotifications": {
+      "message": "Näytä hyödylliset ilmoitukset"
+   },
+   "options_email": {
+      "message": "Sähköposti:"
+   },
+   "options_english": {
+      "message": "englanti"
+   },
+   "options_filterList_column_name": {
+      "message": "Suodatinlistat"
+   },
+   "options_filterList_column_status": {
+      "message": "Tila"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "Epäonnistui, tarkistussumma ei täsmää"
+   },
+   "options_filterList_lastDownload_connectionError": {
+      "message": "Epäonnistui, latausvirhe"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "Epäonnistui, kelvoton osoite"
+   },
+   "options_filterList_state_disabled": {
+      "message": "Ei käytössä"
+   },
+   "options_filterList_title": {
+      "message": "Suodatinlistat"
+   },
+   "options_filterList_updateNow": {
+      "message": "päivitä nyt"
+   },
+   "options_language_header": {
+      "message": "Kieli"
+   },
+   "options_page_document_title": {
+      "message": "Asetukset"
+   },
+   "options_page_title": {
+      "message": "Asetukset"
+   },
+   "options_short": {
+      "message": "Asetukset"
+   },
+   "options_support_title": {
+      "message": "Tuki"
+   },
+   "options_tab_general": {
+      "message": "Yleiset"
+   },
+   "options_tab_help": {
+      "message": "Ohjeet"
+   },
+   "options_tab_whitelist": {
+      "message": "Sallitut sivustot"
+   },
+   "overlay_notification_button_no": {
+      "message": "Ei"
+   },
+   "overlay_notification_button_yes": {
+      "message": "Kyllä"
+   },
+   "overlay_notification_closing_button_hide": {
+      "message": "Sulje tämä ilmoitus"
+   },
+   "overlay_notification_closing_button_optout": {
+      "message": "Lopeta ilmoitusten näyttäminen"
+   },
+   "sendReport": {
+      "message": "Ilmoita ongelma tällä sivulla"
+   },
+   "stats_label_page": {
+      "message": "\u003Cstrong>$number$\u003C/strong> tällä sivulla",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_label_total": {
+      "message": "\u003Cstrong>$number$\u003C/strong> yhteensä",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_show_iconnumber": {
+      "message": "Näytä numerot kuvakkeessa"
+   },
+   "stats_title": {
+      "message": "Mainokset estetty"
+   },
+   "unexpected_filter_list_header": {
+      "message": "Suodatinlistan otsikot eivät ole sallittuja tässä"
+   }
+}

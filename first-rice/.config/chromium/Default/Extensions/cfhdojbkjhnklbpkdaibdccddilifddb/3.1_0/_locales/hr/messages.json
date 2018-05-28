@@ -1,0 +1,553 @@
+{
+   "add": {
+      "message": "Dodaj"
+   },
+   "add_filters_msg": {
+      "message": "Dodaj filter(e)?"
+   },
+   "block_element": {
+      "message": "Blokiraj element"
+   },
+   "cancel": {
+      "message": "Odustani"
+   },
+   "clickhide_instructions": {
+      "message": "Nakon zatvaranja ovog skočnog prozora, kliknite (ili desni klik miša) na element na ovoj stranici."
+   },
+   "common_feature_anti_adblock_title": {
+      "message": "Sakrij poruke upozorenja Adblocka"
+   },
+   "common_feature_malware_title": {
+      "message": "Blokiraj zlonamjerni softver"
+   },
+   "common_feature_privacy_title": {
+      "message": "Blokiraj dodatno praćenje"
+   },
+   "common_feature_social_title": {
+      "message": "Blokiraj praćenje ikona društvenih medija"
+   },
+   "continue": {
+      "message": "Nastavi"
+   },
+   "description": {
+      "message": "S više od 500 milijuna preuzimanja, Adblock Plus je jedan od napopularnijih servisa za blokiranje oglasa na svijetu."
+   },
+   "disabled_for_site": {
+      "message": "\u003Cstrong>Onemogućeno\u003C/strong> na ovoj stranici"
+   },
+   "easy_create_filter": {
+      "message": "Blokiraj element"
+   },
+   "enabled_for_site": {
+      "message": "\u003Cstrong>Omogućeno\u003C/strong> na ovoj stranici"
+   },
+   "filter_elemhideemulation_nodomain": {
+      "message": "Nema aktivne domene za filter sa proširenim elementima za skrivanje"
+   },
+   "filter_invalid_csp": {
+      "message": "Nevaljana Sadržajna sigurnosna politika (CSP)"
+   },
+   "filter_invalid_domain": {
+      "message": "Prazna (ili nevaljana) domena navedena"
+   },
+   "filter_invalid_regexp": {
+      "message": "Nevaljani regularni izraz"
+   },
+   "filter_unknown_option": {
+      "message": "Nepoznata postavka filtera"
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "Neuspješno, greška preuzimanja"
+   },
+   "firstRun_abbButtonSubtitle": {
+      "message": "Dostupan za Android i iOS"
+   },
+   "firstRun_abbButtonTitle": {
+      "message": "Nabavite Adblock Browser ovdje"
+   },
+   "firstRun_abbPromotionHeadline": {
+      "message": "Imate smartphone ili tablet?"
+   },
+   "firstRun_acceptableAdsExplanation": {
+      "message": "Želimo podupirati web stranice da koriste pošteno, nenametljivo oglašavanje. Zato smo uspostavili \u003Ca>točne smjernice\u003C/a> za prepoznavanje reklama, koje su prikazane prema uobičajenim postavkama. Ako još uvijek želite blokirati svaki oglas to možete \u003Ca>onemogućiti\u003C/a> u nekoliko sekundi."
+   },
+   "firstRun_acceptableAdsHeadline": {
+      "message": "Naporni oglasi će sada biti blokirani"
+   },
+   "firstRun_contributor_credits": {
+      "message": "Zasluge doprinositelja"
+   },
+   "firstRun_donate": {
+      "message": "donirajte"
+   },
+   "firstRun_donate_label": {
+      "message": "Podržite naš projekt"
+   },
+   "firstRun_filterlistsReinitializedWarning": {
+      "message": "Izgleda da je greška uzrokovala uklanjanje svih filtra, a mi smo u nemogućnosti da ih vratimo. Zato smo postavili na početne postavke vaših filtra i prihvatljivih reklama. Provjerite postavke vaših popisa filtra i prihvatljivih reklama u \u003Ca>Adblock Plus mogućnostima\u003C/a>."
+   },
+   "firstRun_share": {
+      "message": "Recite svojim prijateljima"
+   },
+   "firstRun_share_headline": {
+      "message": "\u003Ca>Pomognite nam\u003C/a> u stvaranju Interneta boljim mjestom"
+   },
+   "firstRun_title": {
+      "message": "Adblock Plus je instaliran"
+   },
+   "invalid_css_selector": {
+      "message": "$selector$ nije ispravan CSS selektor",
+      "placeholders": {
+         "selector": {
+            "content": "$1"
+         }
+      }
+   },
+   "issueReporter_anonymousSubmission_label": {
+      "message": "Anoniman prijavak"
+   },
+   "issueReporter_anonymousSubmission_warning": {
+      "message": "Nećemo vas moći kontaktirati i najvjerojatnije izvješće problema će imati niži prioritet."
+   },
+   "issueReporter_commentPage_heading": {
+      "message": "Dodaj komentar"
+   },
+   "issueReporter_comment_description": {
+      "message": "Polje teksta ispod omogućuje vam dodavanje komentara, što nam olakšava razumijenvanje problema. Ovaj korak je neobevezan ali preporučljiv ako problem nije jasan. Provjerite ovo izvješće prije nego što ga pošaljete."
+   },
+   "issueReporter_comment_label": {
+      "message": "Komentar (neobavezno):"
+   },
+   "issueReporter_comment_lengthWarning": {
+      "message": "Duljina vašeg komentara je veća od 1000 znakova. Samo prvih 1000 znakova biti će poslano."
+   },
+   "issueReporter_confirmationMessage": {
+      "message": "Vaše izvješće je spremljeno. Možete mu pristupiti na sljedećoj adresi:"
+   },
+   "issueReporter_dataCollector_description": {
+      "message": "Pričekajte nekoliko minuta dok Adblock Plus prikuplja potrebne podatke."
+   },
+   "issueReporter_dataCollector_heading": {
+      "message": "Dobrodošli u izvještaj problema"
+   },
+   "issueReporter_doneButton_label": {
+      "message": "Gotovo"
+   },
+   "issueReporter_email_description": {
+      "message": "Molimo vas da upišete valjanu adresu e-pošte, da vas možemo kontaktirati ako ćemo imati pitanja o vašem izvješću problema. To će nam isto tako omogućiti da prepoznamo vaš doprinos i damo mu veći prioritet."
+   },
+   "issueReporter_email_label": {
+      "message": "E-pošta:"
+   },
+   "issueReporter_errorMessage": {
+      "message": "Neuspjelo slanje izvješća sa greškom \"?1?\". Provjerite jeste li spojeni na internet i pokušajte ponovno. Ako se problem ponovi zatražite pomoć na [link]Adblock Plus forumu[/link]."
+   },
+   "issueReporter_falseNegative_description": {
+      "message": "Odaberite ovu mogućnost ako su reklame prikazane iako je Adblock Plus omogućen."
+   },
+   "issueReporter_falseNegative_label": {
+      "message": "Adblock Plus ne blokira reklame"
+   },
+   "issueReporter_falsePositive_description": {
+      "message": "Odaberite ovu mogućnost ako stranica važan sadržaj prikazuje neispravno ili ne radi ispravno. Možete odrediti da li Adblock Plus uzrokuje taj problem, tako da ga privremeno onemogućite."
+   },
+   "issueReporter_falsePositive_label": {
+      "message": "Adblock Plus previše blokira"
+   },
+   "issueReporter_knownIssueMessage": {
+      "message": "Problem koji ste prijavili već je poznat. Više informacija:"
+   },
+   "issueReporter_page_title": {
+      "message": "Izvještaj problema"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "Pravila privatnosti"
+   },
+   "issueReporter_sendButton_label": {
+      "message": "Pošalji izvješće"
+   },
+   "issueReporter_sendPage_heading": {
+      "message": "Pošalji izvješće"
+   },
+   "issueReporter_sending": {
+      "message": "Pričekajte dok Adblock Plus prijavljuje vaše izvješće."
+   },
+   "issueReporter_showData_label": {
+      "message": "Prikaži podatke izvješća"
+   },
+   "issueReporter_typeSelector_description": {
+      "message": "Ovaj prozor će vas voditi kroz korake potrebne za prijavu Adblock Plus izvještaja problema. Prvo odaberite vrstu problema koju ste doživjeli na ovoj stranici:"
+   },
+   "issueReporter_typeSelector_heading": {
+      "message": "Odaberite vrstu problema"
+   },
+   "line": {
+      "message": "Linija $number$",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "loading": {
+      "message": "Učitavanje..."
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "name_devbuild": {
+      "message": "Adblock Plus razvojna inačica"
+   },
+   "notification_antiadblock_message": {
+      "message": "Za ovu stranicu je poznato da prikazuje ciljane poruke Adblock Plus korisnicima. Želite li da Adblock Plus sakrije ciljane poruke?"
+   },
+   "notification_antiadblock_title": {
+      "message": "Sakrij ciljane poruke?"
+   },
+   "notification_configure": {
+      "message": "Podesi postavke obavijesti"
+   },
+   "notification_open_all": {
+      "message": "Otvori sve linkove iz ove obavijesti"
+   },
+   "notification_with_buttons": {
+      "message": "Kliknite 'U redu' za otvaranje svih poveznica u ovoj obavijesti."
+   },
+   "notification_without_buttons": {
+      "message": "Kliknite na obavijest za otvaranje svih poveznica koje sadrži."
+   },
+   "options_acceptableAds_ads_description_1": {
+      "message": "Prihvatljivi oglasi nisu nametljivi i ne ometaju sadržaj koji pregledavate. \u003Ca>Pročitajte više o Kriteriju prihvatljivih oglasa\u003C/a>"
+   },
+   "options_acceptableAds_ads_label": {
+      "message": "Dopusti prihvatljive oglase"
+   },
+   "options_acceptableAds_description": {
+      "message": "Prihvatljivi oglasi su nenametljivi oglasi. Oni su sredina između blokiranja oglasa i podrške mrežnom sadržaju jer oni generiraju prihod za vlasnike web stranica."
+   },
+   "options_acceptableAds_dnt_notification": {
+      "message": "\u003Cstrong>Napomena:\u003C/strong> Imate \u003Cstrong>Nemoj pratiti (DNT)\u003C/strong> onemogućen u vašim postavkama preglednika. Kako bi ova značajka radila ispravno, omogućite \u003Cstrong>DNT\u003C/strong> u vašim postavkama preglednika. \u003Ca>Saznajte kako omogućiti DNT\u003C/a>."
+   },
+   "options_acceptableAds_header": {
+      "message": "Prihvatljivi oglasi"
+   },
+   "options_acceptableAds_privacy_label": {
+      "message": "Samo omogući oglase bez praćenja treće strane"
+   },
+   "options_advanced_description": {
+      "message": "Prilagodite Adblock Plus, dodajte ili uklonite popise filtra, stvorite i održavajte vlastite filtre"
+   },
+   "options_close": {
+      "message": "zatvori"
+   },
+   "options_control_remove_title": {
+      "message": "ukloni"
+   },
+   "options_customFilter_cancel": {
+      "message": "Odustani"
+   },
+   "options_customFilter_edit": {
+      "message": "Uredi filtre"
+   },
+   "options_customFilter_save": {
+      "message": "Spremi"
+   },
+   "options_customFilters_description": {
+      "message": "Napišite svoj vlastiti prilagođeni filter za dodatnu kontrolu blokiranja ili prikazivanja sadržaja."
+   },
+   "options_customFilters_edit_placeholder": {
+      "message": "npr. $filter$",
+      "placeholders": {
+         "filter": {
+            "content": "$1",
+            "example": "/ads/track/*"
+         }
+      }
+   },
+   "options_customFilters_learn": {
+      "message": "Saznajte kako napisati popise filtra"
+   },
+   "options_customFilters_start": {
+      "message": "Započni pisati vlastiti popis filtra"
+   },
+   "options_customFilters_tip": {
+      "message": "Filtri koje stvorite pojaviti će se ovdje."
+   },
+   "options_customFilters_title": {
+      "message": "Stvorite i uredite vlastiti popis filtra"
+   },
+   "options_customFilters_widget_title": {
+      "message": "Moj popis filtra"
+   },
+   "options_customize_blockElement": {
+      "message": "Prikaži 'Blokiraj element' stavku izbornika desnog klika"
+   },
+   "options_customize_blockElement_tooltip": {
+      "message": "Privremeno blokiraj nametljive stavke na web stranici, npr. slike ili animirane prezentacije."
+   },
+   "options_customize_header": {
+      "message": "Prilagodi radnje na stranici"
+   },
+   "options_customize_showDevToolsPanel": {
+      "message": "Prikaži 'Adblock Plus' panel u alatima razvijatelja"
+   },
+   "options_customize_showDevToolsPanel_tooltip": {
+      "message": "Prikaži blokirane i dopuštene stavke iz panela alata razvijatelja vašeg preglednika."
+   },
+   "options_customize_showNotifications": {
+      "message": "Prikaži korisne obavijesti"
+   },
+   "options_customize_showNotifications_tooltip": {
+      "message": "Isključi sve obavijesti iz Adblock Plusa."
+   },
+   "options_dialog_about_copyright": {
+      "message": "Autorsko pravo © $currentYear$ eyeo GmbH.",
+      "placeholders": {
+         "currentYear": {
+            "content": "2017",
+            "example": "2017"
+         }
+      }
+   },
+   "options_dialog_about_title": {
+      "message": "O Adblock Plusu"
+   },
+   "options_dialog_about_trademark": {
+      "message": "Sva prava pridržana. Adblock Plus® je registrirani zaštitni znak tvrtke eyeo GmbH."
+   },
+   "options_dialog_about_version": {
+      "message": "Broj inačice $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": "2.6.7"
+         }
+      }
+   },
+   "options_dialog_import_subscription_location": {
+      "message": "URL popisa filtra"
+   },
+   "options_dialog_import_subscription_location_error": {
+      "message": "Unesite valjani URL"
+   },
+   "options_dialog_import_subscription_title": {
+      "message": "Naziv popisa filtera"
+   },
+   "options_dialog_import_subscription_title_error": {
+      "message": "Molimo vas da ispunite polje"
+   },
+   "options_dialog_import_title": {
+      "message": "Dodaj popis filtra"
+   },
+   "options_dialog_language_other_empty": {
+      "message": "Nema dostupnih jezika."
+   },
+   "options_dialog_language_title": {
+      "message": "Odaberite jezik"
+   },
+   "options_dialog_predefined_confirm": {
+      "message": "Da, koristite ovaj popis filtra"
+   },
+   "options_dialog_predefined_title": {
+      "message": "Sigurno želite dodati ovaj popis filtra?"
+   },
+   "options_email": {
+      "message": "E-pošta:"
+   },
+   "options_filterList_add": {
+      "message": "+ Dodaj novi popis filtra"
+   },
+   "options_filterList_column_name": {
+      "message": "Popisi filtera"
+   },
+   "options_filterList_column_status": {
+      "message": "Stanje"
+   },
+   "options_filterList_column_update": {
+      "message": "Posljednje ažuriranje"
+   },
+   "options_filterList_hours": {
+      "message": "Prije %d sata"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "Neuspješno, neusklađenost kontrolnog zbroja"
+   },
+   "options_filterList_lastDownload_connectionError": {
+      "message": "Neuspješno, greška preuzimanja"
+   },
+   "options_filterList_lastDownload_inProgress": {
+      "message": "Ažuriranje"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "Neuspješno, neispravna adresa"
+   },
+   "options_filterList_minutes": {
+      "message": "Prije %d minuta"
+   },
+   "options_filterList_now": {
+      "message": "Upravo sada"
+   },
+   "options_filterList_source": {
+      "message": "izvor"
+   },
+   "options_filterList_state_active": {
+      "message": "Aktivno"
+   },
+   "options_filterList_state_disabled": {
+      "message": "Onemogućeno"
+   },
+   "options_filterList_title": {
+      "message": "Popisi filtra"
+   },
+   "options_filterList_update": {
+      "message": "ažuriraj sve popise filtra"
+   },
+   "options_filterList_updateNow": {
+      "message": "ažuriraj odmah"
+   },
+   "options_filterList_website": {
+      "message": "web stranica"
+   },
+   "options_footer_about": {
+      "message": "O Adblock Plusu"
+   },
+   "options_footer_contribute": {
+      "message": "Doprinesite"
+   },
+   "options_help_description": {
+      "message": "Potražite pomoć ili nas kontaktirajte"
+   },
+   "options_language_add": {
+      "message": "+ dodaj jezik"
+   },
+   "options_language_change": {
+      "message": "promijeni"
+   },
+   "options_language_header": {
+      "message": "Jezik"
+   },
+   "options_learn_more": {
+      "message": "Saznajte više"
+   },
+   "options_more_filters_header": {
+      "message": "Više filtra"
+   },
+   "options_new_label": {
+      "message": "Novi"
+   },
+   "options_notification_hide": {
+      "message": "Zatvori obavijest"
+   },
+   "options_page_document_title": {
+      "message": "Adblock Plus postavke"
+   },
+   "options_page_title": {
+      "message": "Postavke"
+   },
+   "options_privacy_header": {
+      "message": "Privatnost i sigurnost"
+   },
+   "options_protection_privacy_tooltip": {
+      "message": "Zaštitite svoje osobne podatke uklanjanjem svih oblika praćenja s interneta, uključujući prikupljanje podataka."
+   },
+   "options_report_bug": {
+      "message": "Pronašli ste grešku? \u003Ca>Pošaljite nam izvještaj greške\u003C/a>"
+   },
+   "options_report_forum": {
+      "message": "Želite li podršku naše zajednice? \u003Ca>Posjetite forum\u003C/a>"
+   },
+   "options_short": {
+      "message": "Mogućnosti"
+   },
+   "options_social_description": {
+      "message": "Imate pitanje ili novu ideju? Ovdje smo da vam pomognemo."
+   },
+   "options_social_title": {
+      "message": "Javite se"
+   },
+   "options_support_title": {
+      "message": "Podrška"
+   },
+   "options_tab_advanced": {
+      "message": "Napredno"
+   },
+   "options_tab_general": {
+      "message": "Općenito"
+   },
+   "options_tab_help": {
+      "message": "Pomoć"
+   },
+   "options_tab_whitelist": {
+      "message": "Dopuštene web stranice"
+   },
+   "options_whitelist_add": {
+      "message": "Dodaj web stranicu"
+   },
+   "options_whitelist_description": {
+      "message": "Isključili ste blokiranje oglasa na ovim stranicama, stoga ćete vidjeti reklama na njima."
+   },
+   "options_whitelist_empty_1": {
+      "message": "Nemate nikakve dopuštene web stranice."
+   },
+   "options_whitelist_empty_2": {
+      "message": "Web stranice koje smatrate pouzdanima i na njima želite omogućiti oglase bit će prikazane ovdje."
+   },
+   "options_whitelist_notification": {
+      "message": "\"$website$\" je dodana u popis dopuštenih.",
+      "placeholders": {
+         "website": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "options_whitelist_placeholder_example": {
+      "message": "npr. $domain$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "www.example.com"
+         }
+      }
+   },
+   "overlay_notification_button_no": {
+      "message": "Ne"
+   },
+   "overlay_notification_button_yes": {
+      "message": "Da"
+   },
+   "overlay_notification_closing_button_hide": {
+      "message": "Zatvori ovu obavijest"
+   },
+   "overlay_notification_closing_button_optout": {
+      "message": "Ne prikazuj više obavijesti"
+   },
+   "sendReport": {
+      "message": "Prijavite problem na ovoj stranici"
+   },
+   "stats_label_page": {
+      "message": "\u003Cstrong>$number$\u003C/strong> na ovoj stranici",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_label_total": {
+      "message": "\u003Cstrong>$number$\u003C/strong> ukupno",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_show_iconnumber": {
+      "message": "Prikaži broj na ikoni"
+   },
+   "stats_title": {
+      "message": "Blokirano reklama"
+   },
+   "unexpected_filter_list_header": {
+      "message": "Zaglavlja filter listi nisu dozvoljena ovdje"
+   }
+}

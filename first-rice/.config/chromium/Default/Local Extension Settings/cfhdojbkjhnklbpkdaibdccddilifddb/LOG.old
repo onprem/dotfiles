@@ -1,0 +1,46 @@
+2018/05/27-21:05:48.737 14780 Reusing MANIFEST /home/prem/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2018/05/27-21:05:48.738 14780 Recovering log #88
+2018/05/27-21:05:48.777 14780 Reusing old log /home/prem/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000088.log 
+2018/05/27-21:06:50.787 15153 Level-0 table #92: started
+2018/05/27-21:06:50.944 15153 Level-0 table #92: 3321734 bytes OK
+2018/05/27-21:06:51.011 15153 Delete type=0 #88
+2018/05/27-21:06:53.772 15153 Level-0 table #94: started
+2018/05/27-21:06:53.973 15153 Level-0 table #94: 3321706 bytes OK
+2018/05/27-21:06:54.041 15153 Delete type=0 #91
+2018/05/27-21:06:59.033 15153 Level-0 table #96: started
+2018/05/27-21:06:59.239 15153 Level-0 table #96: 3321529 bytes OK
+2018/05/27-21:06:59.285 15153 Delete type=0 #93
+2018/05/27-21:06:59.288 15153 Compacting 4@0 + 2@1 files
+2018/05/27-21:06:59.495 15153 Generated table #97@0: 1 keys, 3321469 bytes
+2018/05/27-21:06:59.540 15153 Generated table #98@0: 2 keys, 337 bytes
+2018/05/27-21:06:59.540 15153 Compacted 4@0 + 2@1 files => 3321806 bytes
+2018/05/27-21:06:59.596 15153 compacted to: files[ 0 2 1 0 0 0 0 ]
+2018/05/27-21:06:59.596 15153 Delete type=2 #92
+2018/05/27-21:06:59.597 15153 Delete type=2 #89
+2018/05/27-21:06:59.610 15153 Delete type=2 #96
+2018/05/27-21:06:59.611 15153 Delete type=2 #94
+2018/05/27-21:06:59.612 15153 Delete type=2 #87
+2018/05/27-21:06:59.612 15153 Delete type=2 #86
+2018/05/27-21:07:01.863 15153 Level-0 table #100: started
+2018/05/27-21:07:02.039 15153 Level-0 table #100: 3321973 bytes OK
+2018/05/27-21:07:02.096 15153 Delete type=0 #95
+2018/05/27-21:07:02.528 15153 Level-0 table #102: started
+2018/05/27-21:07:02.706 15153 Level-0 table #102: 3321974 bytes OK
+2018/05/27-21:07:02.741 15153 Delete type=0 #99
+2018/05/27-22:06:50.692 15153 Level-0 table #104: started
+2018/05/27-22:06:51.031 15153 Level-0 table #104: 3322275 bytes OK
+2018/05/27-22:06:51.155 15153 Delete type=0 #101
+2018/05/27-22:27:54.673 15153 Level-0 table #106: started
+2018/05/27-22:27:54.919 15153 Level-0 table #106: 3322218 bytes OK
+2018/05/27-22:27:54.954 15153 Delete type=0 #103
+2018/05/27-22:27:54.956 15153 Compacting 4@0 + 2@1 files
+2018/05/27-22:27:55.265 15153 Generated table #107@0: 1 keys, 3321978 bytes
+2018/05/27-22:27:55.306 15153 Generated table #108@0: 2 keys, 337 bytes
+2018/05/27-22:27:55.306 15153 Compacted 4@0 + 2@1 files => 3322315 bytes
+2018/05/27-22:27:55.354 15153 compacted to: files[ 0 2 1 0 0 0 0 ]
+2018/05/27-22:27:55.355 15153 Delete type=2 #97
+2018/05/27-22:27:55.356 15153 Delete type=2 #104
+2018/05/27-22:27:55.357 15153 Delete type=2 #100
+2018/05/27-22:27:55.358 15153 Delete type=2 #102
+2018/05/27-22:27:55.359 15153 Delete type=2 #106
+2018/05/27-22:27:55.360 15153 Delete type=2 #98

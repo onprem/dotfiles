@@ -1,0 +1,236 @@
+{
+   "add": {
+      "message": "जोड़ें"
+   },
+   "add_filters_msg": {
+      "message": "फ़िल्टर(ो) को जोडिए?"
+   },
+   "block_element": {
+      "message": "तत्वों को प्रतिबंधित करें"
+   },
+   "cancel": {
+      "message": "रद्द करें"
+   },
+   "clickhide_instructions": {
+      "message": "इस पॉपअप को बंद करने के बाद पृष्ठ के किसी एक अंग पर क्लिक (अथवा दाएं क्लिक) करे।"
+   },
+   "continue": {
+      "message": "जारी रखें"
+   },
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers."
+   },
+   "disabled_for_site": {
+      "message": "इस साइट पर \u003Cstrong>इस्तेमाल न करे\u003C/strong>"
+   },
+   "easy_create_filter": {
+      "message": "तत्वों को प्रतिबंधित करें"
+   },
+   "enabled_for_site": {
+      "message": "इस साईट पर \u003Cstrong>इस्तमाल हो रहा है \u003C/strong>"
+   },
+   "filter_elemhideemulation_nodomain": {
+      "message": "विस्तारित तत्व छुपा फ़िल्टर के लिए कोई सक्रिय डोमेन निर्दिष्ट नहीं है"
+   },
+   "filter_invalid_domain": {
+      "message": "अमान्य (या खाली) डोमेन निर्दिष्ट"
+   },
+   "filter_invalid_regexp": {
+      "message": "अमांय नियमित व्यंजक"
+   },
+   "filter_unknown_option": {
+      "message": "अज्ञात फ़िल्टर विकल्प"
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "विफल रहा, डाउनलोड विफलता"
+   },
+   "firstRun_abbButtonSubtitle": {
+      "message": "Android और iOS के लिए उपलब्ध"
+   },
+   "firstRun_abbButtonTitle": {
+      "message": "यहां से Adblock Browser प्राप्त करें"
+   },
+   "firstRun_abbPromotionHeadline": {
+      "message": "क्या आपके पास स्मार्टफोन या टैबलेट है?"
+   },
+   "firstRun_acceptableAdsExplanation": {
+      "message": "हम वेबसाइटों को सीधा, विनीत विज्ञापन का उपयोग करने के लिए प्रोत्साहित करना चाहते हैं। यही कारण से हमने स्वीकार्य विज्ञापनों की पहचान करने के लिए \u003Ca>सख्त दिशा निर्देशों\u003C/a> की स्थापना की है, जो डिफ़ॉल्ट सेटिंग्स के अंतर्गत दिखाए गए हैं। यदि आप अभी भी हर विज्ञापन ब्लॉक करना चाहते हैं आप उन्हें कुछही सेकंड में \u003Ca>अक्षम\u003C/a> कर सकते हैं।"
+   },
+   "firstRun_acceptableAdsHeadline": {
+      "message": "कष्टकारी विज्ञापन अब हटा दिए जायेंगे"
+   },
+   "firstRun_title": {
+      "message": "Adblock Plus स्थापित होगया हे."
+   },
+   "invalid_css_selector": {
+      "message": "$selector$ एक मान्य CSS चयनकर्ता नहीं है",
+      "placeholders": {
+         "selector": {
+            "content": "$1"
+         }
+      }
+   },
+   "issueReporter_commentPage_heading": {
+      "message": "टिप्पणी दर्ज करें"
+   },
+   "issueReporter_confirmationMessage": {
+      "message": "आपकी रिपोर्ट सहेजी गई है। आप इसे निम्नलिखित पते पर पहुँच प्राप्त कर सकते हैं:"
+   },
+   "issueReporter_dataCollector_description": {
+      "message": "कृपया कुछ पल प्रतीक्षा करें जब तक Adblock प्लस आवश्यक डेटा इकट्ठा कर रहा हो।"
+   },
+   "issueReporter_dataCollector_heading": {
+      "message": "मुद्दा रिपोर्टर में स्वागत है"
+   },
+   "issueReporter_doneButton_label": {
+      "message": "संपन्न"
+   },
+   "issueReporter_falseNegative_description": {
+      "message": "यदि Adblock प्लस सक्षम किया जा रहा होने के बावजूद एक विज्ञापन प्रदर्शित किया जाता है इस विकल्प का चयन करें।"
+   },
+   "issueReporter_falseNegative_label": {
+      "message": "एडब्लॉक प्लस कोई विज्ञापन को ब्लॉक नही करता हैं"
+   },
+   "issueReporter_falsePositive_description": {
+      "message": "इस विकल्प का चयन करें, अगर पृष्ठ में महत्वपूर्ण सामग्री का अभाव है या गलत तरीके से प्रदर्शित करता है अथवा ठीक से कार्य करने के लिए विफल रहता है । समस्या का कारण Adblock प्लस है की नही, यह Adblock प्लस को अस्थायी रूप से अक्षम करने से है यह निर्धारित कर सकते हैं।"
+   },
+   "issueReporter_falsePositive_label": {
+      "message": "Adblock प्लस बहुत ज्यादा अवरुद्ध कर रहा है"
+   },
+   "issueReporter_page_title": {
+      "message": "मुद्दा रिपोर्टर"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "गोपनीयता नीति"
+   },
+   "issueReporter_sendButton_label": {
+      "message": "रिपोर्ट भेजें"
+   },
+   "issueReporter_sendPage_heading": {
+      "message": "रिपोर्ट भेजें"
+   },
+   "issueReporter_showData_label": {
+      "message": "रिपोर्ट डेटा दिखाएँ"
+   },
+   "issueReporter_typeSelector_description": {
+      "message": "यह विंडो आपको Adblock प्लस मुद्दा रिपोर्ट को जमा करने के लिए मार्गदर्शन करेगा। पहले, कृपया किस तरह के मुद्दों का आप इस पृष्ठ पर सामना कर रहे हैं का चयन करें:"
+   },
+   "issueReporter_typeSelector_heading": {
+      "message": "समस्या प्रकार का चयन करें"
+   },
+   "line": {
+      "message": "रेखा $number$",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "loading": {
+      "message": "लोडिंग..."
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "name_devbuild": {
+      "message": "Adblock Plus विकास संस्करण"
+   },
+   "notification_configure": {
+      "message": "सूचना विन्यास समनुरूप करें"
+   },
+   "notification_open_all": {
+      "message": "इस सूचना से सभी लिंक खोलें"
+   },
+   "notification_with_buttons": {
+      "message": "इस अधिसूचना के सारे लिंक खोलने के लिए \"ok\" बटन दबाये"
+   },
+   "notification_without_buttons": {
+      "message": "अधिसूचना पर क्लिक कर सभी लिंक खोलें।"
+   },
+   "options_close": {
+      "message": "बंद करें"
+   },
+   "options_customFilter_cancel": {
+      "message": "रद्द करें"
+   },
+   "options_filterList_column_name": {
+      "message": "फिल्टरों कि सूची "
+   },
+   "options_filterList_column_status": {
+      "message": "स्थित"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "असफल, checksum मिसमैच"
+   },
+   "options_filterList_lastDownload_connectionError": {
+      "message": "विफल रहा, डाउनलोड विफलता"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "विफल रहा, एक मान्य पता नहीं "
+   },
+   "options_filterList_state_disabled": {
+      "message": "अक्षम"
+   },
+   "options_filterList_title": {
+      "message": "फिल्टरों कि सूची "
+   },
+   "options_filterList_updateNow": {
+      "message": "अपडेट करें "
+   },
+   "options_language_header": {
+      "message": "भाष"
+   },
+   "options_page_document_title": {
+      "message": "सेटिंग्स"
+   },
+   "options_page_title": {
+      "message": "सेटिंग्स"
+   },
+   "options_short": {
+      "message": "विकल्प "
+   },
+   "options_tab_general": {
+      "message": "सामान्य "
+   },
+   "overlay_notification_button_no": {
+      "message": "नहीं"
+   },
+   "overlay_notification_button_yes": {
+      "message": "हाँ"
+   },
+   "overlay_notification_closing_button_hide": {
+      "message": "यह सूचना बंद करें"
+   },
+   "overlay_notification_closing_button_optout": {
+      "message": "सूचनाएं दिखाना रोकें"
+   },
+   "sendReport": {
+      "message": " इस पन्ने पर रिपोर्ट मुद्दा"
+   },
+   "stats_label_page": {
+      "message": "इस पृष्ठ पर \u003Cstrong>$number$\u003C/strong>",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_label_total": {
+      "message": "कुल \u003Cstrong>$number$\u003C/strong>",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_show_iconnumber": {
+      "message": "आइकॉन में अंक दर्शाएँ "
+   },
+   "stats_title": {
+      "message": "प्रचार अवरुद्ध किये गए "
+   },
+   "unexpected_filter_list_header": {
+      "message": "फ़िल्टर सूची हेडर को यहाँ होने की अनुमति नहीं है"
+   }
+}

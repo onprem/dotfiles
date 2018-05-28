@@ -1,0 +1,2 @@
+var EnterpriseTrialDialog=function(i){Dialog.call(this,i,{additionalHeaderClasses:["icon"],dynamicHeight:!0,nextButtonText:Strings.translateString("Try Free for 14 Days"),buttonsInsideContent:!0})};EnterpriseTrialDialog.prototype=Object.create(Dialog.prototype),EnterpriseTrialDialog.prototype.constructor=EnterpriseTrialDialog,EnterpriseTrialDialog.prototype.initialize=function(i){var t;Dialog.prototype.initialize.apply(this,arguments),t=this,i.find(".nbtn").bind("click",function(){t.close()})};
+//# sourceMappingURL=sourcemaps/enterpriseTrialDialog.js.map

@@ -1,0 +1,644 @@
+{
+   "0_9": {
+      "message": "0-9"
+   },
+   "1_Password": {
+      "message": "१पासवर्ड"
+   },
+   "1___Insert_your__Yubi_Key_in_the__U_S_B_port_with_the__U_S_B_contact_facing_upward": {
+      "message": "1.अपनी यूबी-की को इस प्रकार से यूएसबी पोर्ट में प्रविष्ट करें कि यूएसबी-कॉनटक्ट ऊपर की ओर सामना करे"
+   },
+   "1___Run_the__Last_Pass__Sesame_application_to_generate_a_one_time_password": {
+      "message": "1. LastPass तिल आवेदन एक एक बार पासवर्ड उत्पन्न करने के लिए भागो"
+   },
+   "2___Paste_the_one_time_password_in_the_input_box_below_and_click___Authenticate_": {
+      "message": "2. नीचे इनपुट बॉक्स में वन टाइम पासवर्ड चिपकाएं और क्लिक करें ' प्रमाणित '"
+   },
+   "2___Wait_until_your__Yubi_Key_touch_button_shines_with_a_steady_light": {
+      "message": "2. तब तक प्रतीक्षा करें जब तक Yubikey स्पर्श बटन एक स्थिर प्रकाश के साथ नहीं चमकता।"
+   },
+   "_A_C_T_I_O_N": {
+      "message": "कार्रवाई"
+   },
+   "_A__Zupper": {
+      "message": "एक-जेड"
+   },
+   "_A_retry_file_has_been_found___This_likely_means_that_not_all_of_your_site_changes_have_been_saved___Would_you_like_to_delete_this_file_and_potentially_lose_some_changes_": {
+      "message": "एक फिर से प्रयास फ़ाइल पाया गया है। इस संभावना का मतलब है कि आपकी साइट परिवर्तनों के सभी नहीं सहेजा गया है। यदि आप इस फाइल को नष्ट करने के लिए और संभवतः कुछ परिवर्तन खो चाहेंगे?"
+   },
+   "_A_server_error_occurred_while_processing_your_request_": {
+      "message": "आपका अनुरोध संसाधित करते समय एक सर्वर त्रुटि हो गई है."
+   },
+   "_About": {
+      "message": "के बारे में"
+   },
+   "_About___": {
+      "message": "के बारे में ..."
+   },
+   "_Accept": {
+      "message": "स्वीकार करें"
+   },
+   "_Account__Number": {
+      "message": "खाता संख्या"
+   },
+   "_Account__Settings": {
+      "message": "खाता सेटिंग्स"
+   },
+   "_Actionproper": {
+      "message": "कार्रवाई"
+   },
+   "_Actions": {
+      "message": "क्रियाएँ"
+   },
+   "_Add__Credit__Card": {
+      "message": "क्रेदिट कार्द निर्दिष्ट करें"
+   },
+   "_Add__Field": {
+      "message": "फील्ड जोड़ें"
+   },
+   "_Add__Identity": {
+      "message": "पहचान जोड़ने"
+   },
+   "_Add__New__Site": {
+      "message": "नया साइट जोड़ें"
+   },
+   "_Add__Profile": {
+      "message": "प्रोफ़ाइल जोड़ें"
+   },
+   "_Add__Secure__Note": {
+      "message": "सुरक्षित नोट शामिल करें"
+   },
+   "_Add__Site": {
+      "message": "साइट जोड़ें"
+   },
+   "_Address_1": {
+      "message": "पता 1"
+   },
+   "_Address_2": {
+      "message": "पता 2"
+   },
+   "_Address_3": {
+      "message": "पता 3"
+   },
+   "_Admin__Tools": {
+      "message": "व्यवस्थापक उपकरण"
+   },
+   "_Advanced": {
+      "message": "उन्नत"
+   },
+   "_Advanced__Options": {
+      "message": "उन्नत विकल्प"
+   },
+   "_All": {
+      "message": "सब"
+   },
+   "_Allow__Last_Pass_to_find_insecure_data_on_your_computer_": {
+      "message": "आपके कंप्यूटर पर असुरक्षित डेटा खोजने के लिए LastPass को अनुमति दें?"
+   },
+   "_Alt": {
+      "message": "Alt"
+   },
+   "_Always__Choose__Profile_and__Credit__Card": {
+      "message": "हमेशा प्रोफाइल और क्रेडिट कार्ड चुनें"
+   },
+   "_An__Update_is__Available___Would_you_like_to_install_": {
+      "message": "एक अपडेट उपलब्ध है। आप को स्थापित करने के लिए करना चाहेंगे?"
+   },
+   "_Appearance": {
+      "message": "दिखावट"
+   },
+   "_Application_": {
+      "message": "आवेदन:"
+   },
+   "_April": {
+      "message": "अप्रैल"
+   },
+   "_Are_you_sure_you_want_to_have__Last_Pass_remember_your_password____This_will_significantly_decrease_the_security_of_your__Last_Pass_account_": {
+      "message": "आप LastPass अपना पासवर्ड याद है चाहता हूँ आप सुनिश्चित हैं? यह काफी अपने LastPass खाते की सुरक्षा में कमी आ जाएगी!"
+   },
+   "_Are_you_sure_you_would_like_to_delete_the_selected_sites_": {
+      "message": "आप सुनिश्चित हैं कि आप चयनित साइटों को नष्ट करना चाहते हैं?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_application_": {
+      "message": "क्या आप इस आवेदन को वाकई नष्ट करना चाहते हें?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_generated_password_": {
+      "message": "आप इस उत्पन्न पासवर्ड को नष्ट करना चाहते हैं आप सुनिश्चित हैं?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_secure_note_": {
+      "message": "आप इस सुरक्षित टिप्पणी को नष्ट करना चाहते हैं आप सुनिश्चित हैं?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_site_": {
+      "message": "यदि आप इस साइट को नष्ट करना चाहते हैं आप सुनिश्चित हैं?"
+   },
+   "_Authenticate": {
+      "message": "प्रामाणीकरण"
+   },
+   "_Auto_Fill": {
+      "message": "स्वत: भरण"
+   },
+   "_Auto_Login": {
+      "message": "स्वतः लॉगइन"
+   },
+   "_Automatically__Fill__Login__Information": {
+      "message": "स्वचालित रूप से प्रवेश जानकारी भरें"
+   },
+   "_Automatically__Logoff_after_idle__mins_": {
+      "message": "स्वचालित रूप से लॉग ऑफ निष्क्रिय (मन) के बाद"
+   },
+   "_Automatically_login_to_sites_if_time_since_last_login____seconds_": {
+      "message": "स्वचालित रूप से लॉग ऑफ निष्क्रिय (मन) के बाद..."
+   },
+   "_Avoid__Ambiguous__Characters": {
+      "message": "अस्पष्ट वर्णों से बचें"
+   },
+   "_Back": {
+      "message": "वापस"
+   },
+   "_Bank__Name": {
+      "message": "बैंक का नाम"
+   },
+   "_Bit__Strength": {
+      "message": "बिट शक्ति"
+   },
+   "_Blacklist": {
+      "message": "आपका खाता अस्थायी रूप से क्योंकि बहुत सारे लॉगिन प्रयास विफलताओं की (5 मिनट के लिए) को निलंबित कर दिया गया है।"
+   },
+   "_Built_": {
+      "message": "बनाया:"
+   },
+   "_Can_t_find_hidden__Last_Pass_window": {
+      "message": "छिपे हुए LastPass खिड़की नहीं मिल सकता है"
+   },
+   "_Cancel": {
+      "message": "रद्द करना"
+   },
+   "_Chrome": {
+      "message": "क्रोम"
+   },
+   "_Clear__Forms": {
+      "message": "फार्म साफ"
+   },
+   "_Click_here_to_initiate_multifactor_authentication_on_your_phone_or_mobile_device_": {
+      "message": "अपने फोन या मोबाइल डिवाइस पर multifactor प्रमाणीकरण आरंभ करने के लिए यहां क्लिक करें।"
+   },
+   "_Click_here_to_launch_account_settings": {
+      "message": "खाता सेटिंग्स शुरू करने के लिए यहाँ क्लिक करें"
+   },
+   "_Click_here_to_launch_feedback": {
+      "message": "प्रतिक्रिया शुरू करने के लिए यहाँ क्लिक करें"
+   },
+   "_Close": {
+      "message": "बंद करे"
+   },
+   "_Co_pay": {
+      "message": "सह भुगतान"
+   },
+   "_Company__Phone": {
+      "message": "कंपनी फोन"
+   },
+   "_Copy__Password": {
+      "message": "पासवर्ड कॉपी करे"
+   },
+   "_Copy__U_R_L": {
+      "message": "कॉपी URL"
+   },
+   "_Copy__Username": {
+      "message": "यूजर का नाम कॉपी करे"
+   },
+   "_Create__Account": {
+      "message": "खाता बनाएं"
+   },
+   "_Date": {
+      "message": "तारीख"
+   },
+   "_Delete": {
+      "message": "दूर करे"
+   },
+   "_Disable__Insecure__Chrome__Password__Manager": {
+      "message": "अक्षम असुरक्षित क्रोम पासवर्ड प्रबंधक"
+   },
+   "_Disable_alert___": {
+      "message": "सतर्क को अक्षम करें ..."
+   },
+   "_Disable_alert_for_this_site": {
+      "message": "इस साइट के लिए सतर्क को अक्षम करें"
+   },
+   "_Do_not_re_prompt_for_": {
+      "message": "के लिए फिर से संकेत न करें"
+   },
+   "_Duplicate_password": {
+      "message": "पासवर्ड डुप्लिकेट"
+   },
+   "_Edit": {
+      "message": "संपादित करें"
+   },
+   "_Email": {
+      "message": "ईमेल"
+   },
+   "_Email_": {
+      "message": "ईमेल:"
+   },
+   "_Error_Login_Msg": {
+      "message": "जबकि LastPass में प्रवेश करने के दौरान त्रुटि हुई। कृपया अपने इंटरनेट कनेक्शन की जाँच करें।"
+   },
+   "_Error_Sending_Msg": {
+      "message": "सर्वर से संपर्क करने का प्रयास करते समय एक त्रुटि हुई। कृपया अपने इंटरनेट कनेक्शन की जाँच करें।"
+   },
+   "_Error_Session_Msg": {
+      "message": "अपने LastPass सत्र समाप्त हो गया लगता है। फिर से लॉग इन करें।"
+   },
+   "_Existing_Users_O_T_P_Prompt": {
+      "message": "LastPass अब एक वन टाइम पासवर्ड (ओटीपी) स्थानीय स्तर पर है कि अगर आप अपने मास्टर पासवर्ड भूल जाते हैं आपके अकाउंट ठीक करने के लिए इस्तेमाल किया जा सकता स्टोर कर सकते हैं। जब तक यह सर्वर पर सक्रिय होता है यह ओटीपी विकलांग रहेगा।\n\nआप खाते वसूली को सक्रिय करने के लिए करना चाहेंगे?"
+   },
+   "_Expiration": {
+      "message": "समाप्ति"
+   },
+   "_Favorite": {
+      "message": "पसंदीदा"
+   },
+   "_Feedback": {
+      "message": "प्रतिक्रिया"
+   },
+   "_Fields_": {
+      "message": "खेत:"
+   },
+   "_File": {
+      "message": "फ़ाइल"
+   },
+   "_Fill__Forms": {
+      "message": "फार्म भरें"
+   },
+   "_Fillable_Form_Detected": {
+      "message": "एक पूर्ण करने योग्य प्रपत्र इस पृष्ठ पर पाया गया है."
+   },
+   "_Filter": {
+      "message": "फ़िल्टर"
+   },
+   "_Find_a_site": {
+      "message": "एक साइट खोजने"
+   },
+   "_Firefox": {
+      "message": "फ़ायरफ़ॉक्स"
+   },
+   "_For_each_coordinate_listed_below__find_the_value_on_your_grid_and_enter_the_value_": {
+      "message": "प्रत्येक नीचे सूचीबद्ध समन्वय के लिए, अपने ग्रिड पर मूल्य मिल रहा है और मान दर्ज करें।"
+   },
+   "_Format": {
+      "message": "प्रारूप"
+   },
+   "_General": {
+      "message": "सामान्य"
+   },
+   "_Generate": {
+      "message": "उत्पन्न"
+   },
+   "_Generated__Password_for": {
+      "message": "के लिए उत्पन्न पासवर्ड"
+   },
+   "_Go__Premium_": {
+      "message": "प्रीमियम के लिए जाएँ!"
+   },
+   "_Google__Authenticator": {
+      "message": "Google प्रमाणक"
+   },
+   "_Google__Chrome": {
+      "message": "गूगल क्रोम"
+   },
+   "_Group__I_D": {
+      "message": "समूह आईडी"
+   },
+   "_Health__Insurance": {
+      "message": "स्वास्थ्य बीमा"
+   },
+   "_Help__Translate": {
+      "message": "अनुवाद करने में मदद"
+   },
+   "_Help___": {
+      "message": "मदद..."
+   },
+   "_Hide__Password": {
+      "message": "पासवर्ड छुपाएं"
+   },
+   "_I_forgot_my_password___Help_": {
+      "message": "मैं अपना पासवर्ड, मदद भूल गया"
+   },
+   "_Identities": {
+      "message": "पहचान"
+   },
+   "_If_you_lost_your__Yubi_Key_device__click_here_to_disable__Yubi_Key_authentication": {
+      "message": "यदि आप अपने YubiKey डिवाइस खो दिया है, YubiKey प्रमाणीकरण को अक्षम करने के लिए यहाँ क्लिक करें"
+   },
+   "_If_you_lost_your_grid__click_here_to_disable_grid_authentication": {
+      "message": "आप अपने ग्रिड खो दिया है, ग्रिड प्रमाणीकरण को अक्षम करने के लिए यहाँ क्लिक करें"
+   },
+   "_Import": {
+      "message": "आयात"
+   },
+   "_Invalid__Password_": {
+      "message": "अवैध पासवर्ड।"
+   },
+   "_Keep_a_history_of_my_logins_and_form_fills": {
+      "message": "मेरे लॉगिन और फार्म भरता का एक इतिहास रखें"
+   },
+   "_Language": {
+      "message": "भाषा"
+   },
+   "_Last_Pass": {
+      "message": "LastPass"
+   },
+   "_Last_Pass__Chrome__Toolbar": {
+      "message": "LastPass क्रोम टूलबार"
+   },
+   "_Last_Pass_cannot_login_until_cookies_are_allowed_from_lastpass_com": {
+      "message": "LastPass प्रवेश नहीं कर सकते जब तक कुकीज़ lastpass.com से अनुमति दी जाती है"
+   },
+   "_Last_Pass_detected_a_login_form_that_is_insecure____Would_you_like_to_continue_": {
+      "message": "LastPass एक प्रवेश फार्म कि असुरक्षित है का पता चला।\n\nआप जारी रखना चाहेंगे?"
+   },
+   "_Last_Pass_detected_a_login_form_that_is_insecure____Would_you_still_like__Last_Pass_to_fill_the_form_": {
+      "message": "LastPass एक प्रवेश फार्म कि असुरक्षित है का पता चला।\n\nआप अभी भी फार्म भरने के लिए LastPass चाहेंगे?"
+   },
+   "_Link__Personal__Account": {
+      "message": "व्यक्तिगत खाता लिंक करें"
+   },
+   "_Login": {
+      "message": "लॉग इन करें"
+   },
+   "_Login_Error": {
+      "message": "LastPass में प्रवेश करने में त्रुटि। कृपया पुन: प्रयास करें।"
+   },
+   "_Login_to__Last_Pass": {
+      "message": "LastPass करने के लिए लॉग इन करें"
+   },
+   "_Logoff": {
+      "message": "लॉग ऑफ"
+   },
+   "_Logoff_": {
+      "message": "लॉग ऑफ:"
+   },
+   "_Master__Password": {
+      "message": "मास्टर पासवर्ड"
+   },
+   "_Maxthon": {
+      "message": "मैक्सथन"
+   },
+   "_Member__I_D": {
+      "message": "सदस्य आईडी"
+   },
+   "_My__Last_Pass__Vault": {
+      "message": "मेरे LastPass तिजोरी"
+   },
+   "_N_A_M_E": {
+      "message": "नाम"
+   },
+   "_Name_": {
+      "message": "नाम:"
+   },
+   "_Never___": {
+      "message": "कभी नहीँ..."
+   },
+   "_No": {
+      "message": "नहीं"
+   },
+   "_No__Thanks": {
+      "message": "जी नहीं, धन्यवाद"
+   },
+   "_No__Updates__Are__Available": {
+      "message": "कोई अद्यतन उपलब्ध हैं"
+   },
+   "_Note__Type_": {
+      "message": "नोट का प्रकार:"
+   },
+   "_Notes_": {
+      "message": "टिप्पणियाँ:"
+   },
+   "_O_K": {
+      "message": "ठीक"
+   },
+   "_Open__Favorites": {
+      "message": "ओपन पसंदीदा"
+   },
+   "_Open__File": {
+      "message": "फ़ाइल खोलें"
+   },
+   "_Opera": {
+      "message": "ओपेरा"
+   },
+   "_P_A_S_S_W_O_R_Dupper": {
+      "message": "पारण शब्द"
+   },
+   "_Passphrase": {
+      "message": "कूटशब्द"
+   },
+   "_Password": {
+      "message": "पारण शब्द"
+   },
+   "_Password_": {
+      "message": "पारण शब्द:"
+   },
+   "_Password__Length": {
+      "message": "पारण शब्द लम्बाई"
+   },
+   "_Physician__Address": {
+      "message": "चिकित्सक पता"
+   },
+   "_Physician__Name": {
+      "message": "चिकित्सक का नाम"
+   },
+   "_Physician__Phone": {
+      "message": "फिजिशियन फोन"
+   },
+   "_Please_answer_the_following_question_": {
+      "message": "निम्नलिखित प्रश्न का उत्तर दें:"
+   },
+   "_Please_provide_this_computer_a_name": {
+      "message": "इस कंप्यूटर एक नाम प्रदान करें"
+   },
+   "_Poll__Server_for_account_changes__mins_": {
+      "message": "खाते में परिवर्तन के लिए पोल सर्वर (मिनट)"
+   },
+   "_Preferences": {
+      "message": "पसंद"
+   },
+   "_Private__Key": {
+      "message": "निजी कुंजी"
+   },
+   "_Public__Key": {
+      "message": "सार्वजनिक कुंजी"
+   },
+   "_Recently__Used": {
+      "message": "हाल ही में उपयोग किया गया"
+   },
+   "_Refresh__Sites": {
+      "message": "Refresh साइटें"
+   },
+   "_Remember__Email": {
+      "message": "ईमेल याद रखें"
+   },
+   "_Remember__Password": {
+      "message": "पासवर्ड याद रखें"
+   },
+   "_Remove__Personal__Account": {
+      "message": "व्यक्तिगत खाता निकालें"
+   },
+   "_Require__Every__Character__Type": {
+      "message": "आवश्यकता हर चरित्र के प्रकार"
+   },
+   "_Require__Password__Reprompt": {
+      "message": "आवश्यकता पासवर्ड Reprompt"
+   },
+   "_Respect__Auto_Complete_off__allow_websites_to_disable__Auto_Fill": {
+      "message": "सम्मान स्वत: पूर्ण बंद =: वेबसाइटों स्वत: भरण को निष्क्रिय करने की अनुमति"
+   },
+   "_S_S_H__Key": {
+      "message": "SSH कुंजी"
+   },
+   "_Safari": {
+      "message": "सफारी"
+   },
+   "_Save": {
+      "message": "बचाना"
+   },
+   "_Save__All__Entered__Data": {
+      "message": "सभी दर्ज किया गया डेटा सहेजें"
+   },
+   "_Save__File": {
+      "message": "फ़ाइल Save करे"
+   },
+   "_Save__Site": {
+      "message": "बचाने के लिए साइट"
+   },
+   "_Save_a_disabled__One__Time__Password_locally_for__Account__Recovery": {
+      "message": "खाता पुनर्प्राप्ति के लिए स्थानीय स्तर पर एक विकलांग वन टाइम पासवर्ड सहेजें"
+   },
+   "_Searchproper": {
+      "message": "खोज"
+   },
+   "_Secure__Notes": {
+      "message": "सुरक्षित नोट्स"
+   },
+   "_Security": {
+      "message": "सुरक्षा"
+   },
+   "_Send__S_M_S_passcodes": {
+      "message": "एसएमएस पासकोड भेजें"
+   },
+   "_Should__Last_Pass_remember_this_password_": {
+      "message": "LastPass यह पासवर्ड याद रखना चाहिए?"
+   },
+   "_Show": {
+      "message": "दिखाना"
+   },
+   "_Show__Advanced__Options": {
+      "message": "उन्नत विकल्प दिखाएं"
+   },
+   "_Show__Password": {
+      "message": "पासवर्ड दिखाएँ"
+   },
+   "_Show__Save__Site__Notifications": {
+      "message": "दिखाएँ बचाना साइट सूचनाएं"
+   },
+   "_Show_all_sites": {
+      "message": "सभी साइटों दिखाएँ"
+   },
+   "_Sites": {
+      "message": "साइटें"
+   },
+   "_Sorry__this_shared_folder_is_read_only_": {
+      "message": "क्षमा करें, यह Shared फ़ोल्डर केवल पढ़ने के लिए है."
+   },
+   "_Special": {
+      "message": "विशेष"
+   },
+   "_Swipe_finger": {
+      "message": "उंगली फिसलाओ"
+   },
+   "_Swipe_your_finger_on_the_fingerprint_sensor": {
+      "message": "फिंगरप्रिंट सेंसर पर अपनी उंगली स्वाइप"
+   },
+   "_This_is_a_shared_site___You_are_not_permitted_to_view_the_password_": {
+      "message": "यह एक साझा साइट है। आप पासवर्ड देखने के लिए अनुमति नहीं है।"
+   },
+   "_Tools": {
+      "message": "उपकरण"
+   },
+   "_Try__Again": {
+      "message": "पुनः प्रयास करें"
+   },
+   "_Tutorials": {
+      "message": "ट्यूटोरियल"
+   },
+   "_U_R_L_": {
+      "message": "पुनः प्रयास करें..."
+   },
+   "_U_S_E_R_N_A_M_E": {
+      "message": "उपयोगकर्ता नाम"
+   },
+   "_Username_": {
+      "message": "उपयोगकर्ता नाम:"
+   },
+   "_Version": {
+      "message": "संस्करण"
+   },
+   "_Version_": {
+      "message": "संस्करण:"
+   },
+   "_Warn_before_filling_insecure_forms": {
+      "message": "असुरक्षित फार्म भरने से पहले चेतावनी दें"
+   },
+   "_Weak__Password": {
+      "message": "कमजोर पासवर्ड"
+   },
+   "_Yes": {
+      "message": "हाँ"
+   },
+   "_You_cannot_move_individually_shared_sites_into_a_shared_folder_": {
+      "message": "आप एक Shared फ़ोल्डर में व्यक्तिगत रूप से Shared साइटों मे कदम नहीं कर सकते."
+   },
+   "_You_must_agree_to_the_terms_to_continue": {
+      "message": "जारी रखने के लिए आपको शर्तों से सहमत होना चाहिए"
+   },
+   "_You_must_enter_a_name_": {
+      "message": "आप एक नाम दर्ज करना होगा।"
+   },
+   "_You_must_restart__Chrome_or_logoff_and_back_in_to_get_logoff_on_browser_close_changes_to_be_reflected": {
+      "message": "आप क्रोम को पुनः आरंभ या बंद प्रवेश और वापस बंद परिवर्तन ब्राउज़र पर लॉगआउट मिलनी चाहिए परिलक्षित होना"
+   },
+   "_Your_current_settings_require_you_to_enter_your__Last_Pass_password_to_complete_this_action_": {
+      "message": "आपका वर्तमान सेटिंग्स इस क्रिया को पूरा करने के लिए अपने LastPass पासवर्ड दर्ज करने की आवश्यकता है।"
+   },
+   "__Hide_": {
+      "message": "[छिपाना]"
+   },
+   "__New__Pending__Share__Offers_": {
+      "message": "(नई लंबित साझा प्रदान करता है)"
+   },
+   "__Show_": {
+      "message": "[दिखाना]"
+   },
+   "_none_": {
+      "message": "(कुछ नहीं)"
+   },
+   "a_zlower": {
+      "message": "एक-जेड"
+   },
+   "dummy": {
+      "message": "dummy, leave this here so we don't mess up the trailing comma"
+   },
+   "favorites": {
+      "message": "पसंदीदा"
+   },
+   "hour": {
+      "message": "समय"
+   },
+   "hours": {
+      "message": "घंटे"
+   },
+   "minutes": {
+      "message": "मिनटों"
+   },
+   "seconds": {
+      "message": "सेकंड"
+   }
+}

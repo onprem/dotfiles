@@ -1,0 +1,84 @@
+{
+   "add": {
+      "message": "जोडा"
+   },
+   "cancel": {
+      "message": "रद्द करा"
+   },
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers."
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "अयशस्वी, डाउनलोड अयशस्वी"
+   },
+   "firstRun_abbButtonSubtitle": {
+      "message": "Android व iOS करिता उपलब्ध"
+   },
+   "firstRun_abbButtonTitle": {
+      "message": "Adblock Browser येथे मिळवा"
+   },
+   "firstRun_abbPromotionHeadline": {
+      "message": "तुमच्याकडे स्मार्टफोन वा टॅब्लेट आहे?"
+   },
+   "firstRun_acceptableAdsExplanation": {
+      "message": "आम्ही सोपे, धोरणी जाहिरात वापरण्यासाठी वेबसाइट्स प्रोत्साहित आवडेल. आम्ही डीफॉल्ट सेटिंग्ज अंतर्गत दर्शविले जातात स्वीकार्य जाहिराती, ओळखण्यासाठी \u003Ca>कठोर मार्गदर्शक\u003C/a> तत्त्वे स्थापन केले का की. आपण अजूनही प्रत्येक जाहिरात अवरोधित करू इच्छित असल्यास आपण काही सेकंदात हे \u003Ca>अक्षम\u003C/a> करू शकता."
+   },
+   "firstRun_acceptableAdsHeadline": {
+      "message": "त्रासदायक जाहिराती आता अवरोधित केले जातील"
+   },
+   "firstRun_contributor_credits": {
+      "message": "सहयोगी क्रेडिट्स"
+   },
+   "firstRun_donate": {
+      "message": "दान"
+   },
+   "firstRun_donate_label": {
+      "message": "आमच्या प्रकल्प समर्थन"
+   },
+   "firstRun_share": {
+      "message": "आपल्या मित्रांना कळवा"
+   },
+   "firstRun_share_headline": {
+      "message": "वेब एक चांगले ठिकाण बनवून \u003Ca>आम्हाला एक हात द्या\u003C/a>"
+   },
+   "firstRun_title": {
+      "message": "Adblock प्लस स्थापित करण्यात आले आहे"
+   },
+   "name": {
+      "message": "Adblock प्लस"
+   },
+   "options_close": {
+      "message": "बंद करा"
+   },
+   "options_customFilter_cancel": {
+      "message": "रद्द करा"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "अयशस्वी, चेकसम जुळत नाही"
+   },
+   "options_filterList_lastDownload_connectionError": {
+      "message": "अयशस्वी, डाउनलोड अयशस्वी"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "अयशस्वी, वैध पत्ता नाही"
+   },
+   "options_language_header": {
+      "message": "भाष"
+   },
+   "options_page_document_title": {
+      "message": "सेटिंग्ज"
+   },
+   "options_page_title": {
+      "message": "सेटिंग्ज"
+   },
+   "options_short": {
+      "message": "पर्याय"
+   },
+   "overlay_notification_button_no": {
+      "message": "नाही"
+   },
+   "overlay_notification_button_yes": {
+      "message": "होय"
+   }
+}

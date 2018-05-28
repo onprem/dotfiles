@@ -1,0 +1,614 @@
+{
+   "add": {
+      "message": "הוסף"
+   },
+   "add_filters_msg": {
+      "message": "להוסיף מסנן(ים)?"
+   },
+   "block_element": {
+      "message": "חסום יסוד"
+   },
+   "cancel": {
+      "message": "ביטול"
+   },
+   "clickhide_instructions": {
+      "message": "לאחר סגירת חלון קופץ זה, לחץ (או לחץ לחיצה-ימנית) על יסוד בעמוד זה."
+   },
+   "common_feature_anti_adblock_title": {
+      "message": "הסתר הודעות אזהרה של Adblock"
+   },
+   "common_feature_malware_title": {
+      "message": "חסום נוזקה"
+   },
+   "common_feature_privacy_title": {
+      "message": "חסום מעקב נוסף"
+   },
+   "common_feature_social_title": {
+      "message": "חסום מעקב של צלמיות מדיה חברתית"
+   },
+   "continue": {
+      "message": "המשך"
+   },
+   "description": {
+      "message": "עם יותר מ־500 מיליון הורדות, Adblock Plus הוא אחד מחוסמי המודעות הפופולריים ביותר בעולם."
+   },
+   "disabled_for_site": {
+      "message": "\u003Cstrong>מושבת\u003C/strong> באתר זה"
+   },
+   "easy_create_filter": {
+      "message": "חסום יסוד"
+   },
+   "enabled_for_site": {
+      "message": "\u003Cstrong>מאופשר\u003C/strong> באתר זה"
+   },
+   "filter_elemhideemulation_nodomain": {
+      "message": "לא צוין תחום פעיל עבור יסוד מורחב של מסנן הסתרה"
+   },
+   "filter_invalid_csp": {
+      "message": "מדיניות אבטחה של תוכן לא תקף"
+   },
+   "filter_invalid_domain": {
+      "message": "תחום לא תקף (או ריק) צוין"
+   },
+   "filter_invalid_regexp": {
+      "message": "ביטוי רגיל לא תקף"
+   },
+   "filter_unknown_option": {
+      "message": "אפשרות מסנן לא ידועה"
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "נכשל, כישלון הורדה"
+   },
+   "firstRun_abbButtonSubtitle": {
+      "message": "זמין עבור Android ו-iOS"
+   },
+   "firstRun_abbButtonTitle": {
+      "message": "השג את Adblock Browser כאן"
+   },
+   "firstRun_abbPromotionHeadline": {
+      "message": "יש לך טלפון חכם או מחשב לוח?"
+   },
+   "firstRun_acceptableAdsExplanation": {
+      "message": "אנחנו רוצים לעודד אתרים להשתמש בפרסום פשוט ולא בולט. זאת מדוע ביססנו \u003Ca>קווים מנחים נוקשים\u003C/a> כדי לזהות מודעות מתקבלות, אשר מופיעות בהגדרות ברירת המחדל. אם ברצונכם  לחסום בכל זאת את כל המודעות ניתן \u003Ca>לנטרל\u003C/a> זאת במספר שניות."
+   },
+   "firstRun_acceptableAdsHeadline": {
+      "message": "מודעות מציקות ייחסמו מעכשיו"
+   },
+   "firstRun_contributor_credits": {
+      "message": "קרדיטים לתורמים"
+   },
+   "firstRun_donate": {
+      "message": "תרום"
+   },
+   "firstRun_donate_label": {
+      "message": "תמוך במיזם שלנו"
+   },
+   "firstRun_filterlistsReinitializedWarning": {
+      "message": "נראה שישנה סוגייה שגרמה לכל המסננים להיות מוסרים ולא יכולנו לשחזר גיבוי. לכן נאלצנו לאפס את המסננים ואת הגדרות המודעות המקובלות. אנא בדוק את רשימת המסננים והגדרות המודעות המקובלות ב \u003Ca>Adblock Plus אפשרויות\u003C/a>."
+   },
+   "firstRun_share": {
+      "message": "ספר לחבריך"
+   },
+   "firstRun_share_headline": {
+      "message": "\u003Ca>תנו לנו יד\u003C/a> בהפיכת הרשת למקום טוב יותר"
+   },
+   "firstRun_title": {
+      "message": "Adblock Plus הותקן "
+   },
+   "invalid_css_selector": {
+      "message": "$selector$ איננו בורר CSS תקף",
+      "placeholders": {
+         "selector": {
+            "content": "$1"
+         }
+      }
+   },
+   "issueReporter_anonymousSubmission_label": {
+      "message": "הגשה אלמונית"
+   },
+   "issueReporter_anonymousSubmission_warning": {
+      "message": "לא נוכל לחזור אליך וסביר שנתעדף את הדיווח בצורה נמוכה יותר."
+   },
+   "issueReporter_commentPage_heading": {
+      "message": "הכנס הערה"
+   },
+   "issueReporter_comment_description": {
+      "message": "שדה הטקסט שמתחת מאפשר לך להכניס הערה כדי לעזור לנו בהבנת הסוגייה. צעד זה אינו חובה אך מומלץ אם הבעיה אינה מובנת מאליה. אתה יכול גם לסקור את נתוני הדיווח לפני שליחתם."
+   },
+   "issueReporter_comment_label": {
+      "message": "הערה (לא חובה):"
+   },
+   "issueReporter_comment_lengthWarning": {
+      "message": "האורך של הערתך חרג מ-1000 תווים. רק 1000 התווים הראשונים ישלחו."
+   },
+   "issueReporter_confirmationMessage": {
+      "message": "הדיווח שלך נשמר. ניתן להשיג גישה אליו בכתובת הבאה:"
+   },
+   "issueReporter_dataCollector_description": {
+      "message": "אנא המתן מספר רגעים בזמן ש-Adblock Plus אוסף את הנתונים הדרושים."
+   },
+   "issueReporter_dataCollector_heading": {
+      "message": "ברוך הבא אל מדווח הסוגיות"
+   },
+   "issueReporter_doneButton_label": {
+      "message": "בוצע"
+   },
+   "issueReporter_email_description": {
+      "message": "אנו ממליצים להזין כתובת דוא\"ל תקפה כך שנוכל ליצור איתך קשר אם קיימות שאלות לגבי הדיווח שלך. כמו כן, כתובתך תאפשר לנו לזהות את תרומותיך ולתעדף אותן בצורה גבוהה יותר."
+   },
+   "issueReporter_email_label": {
+      "message": "דוא\"ל:"
+   },
+   "issueReporter_errorMessage": {
+      "message": "ניסיון לשלוח את הדיווח נכשל עם קוד השגיאה \"?1?\". אנא וודא שאתה מחובר לאינטרנט ונסה שוב. אם הבעיה נמשכת, אנא בקש סיוע ב[link]פורום Adblock Plus[/link]."
+   },
+   "issueReporter_falseNegative_description": {
+      "message": "בחר אפשרות זו אם מודעה מוצגת על אף ש-Adblock Plus מאופשר."
+   },
+   "issueReporter_falseNegative_label": {
+      "message": "Adblock Plus אינו חוסם מודעה"
+   },
+   "issueReporter_falsePositive_description": {
+      "message": "בחר אפשרות זו אם חסר בעמוד תוכן חשוב או שהוא מציג בצורה לא נכונה או שהוא נכשל לתפקד כראוי. אתה יכול לקבוע אם Adblock Plus הוא הגורם לבעיה ע\"י השבתה זמנית שלו."
+   },
+   "issueReporter_falsePositive_label": {
+      "message": "Adblock Plus חוסם יותר מדי"
+   },
+   "issueReporter_knownIssueMessage": {
+      "message": "הסוגייה שדיווחת קרוב לוודאי שידועה כבר. מידע נוסף:"
+   },
+   "issueReporter_page_title": {
+      "message": "מדווח הסוגיות"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "מדיניות פרטיות"
+   },
+   "issueReporter_sendButton_label": {
+      "message": "שלח דיווח"
+   },
+   "issueReporter_sendPage_heading": {
+      "message": "שליחת דיווח"
+   },
+   "issueReporter_sending": {
+      "message": "אנא המתן בזמן ש-Adblock Plus מגיש את הדיווח שלך."
+   },
+   "issueReporter_showData_label": {
+      "message": "הראה נתוני דיווח"
+   },
+   "issueReporter_typeSelector_description": {
+      "message": "חלון זה ידריך אותך דרך הצעדים הדרושים להגשה של דיווח סוגיית Adblock Plus. ראשית, אנא בחר את סוג הסוגייה שאתה חווה בעמוד זה:"
+   },
+   "issueReporter_typeSelector_heading": {
+      "message": "בחירת סוג סוגייה"
+   },
+   "line": {
+      "message": "שורה $number$",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "loading": {
+      "message": "טוען..."
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "name_devbuild": {
+      "message": "בניית פיתוח Adblock Plus"
+   },
+   "notification_antiadblock_message": {
+      "message": "אתר זה ידוע בהצגת הודעות מכוונות למשתמשי Adblock Plus. האם אתה רוצה ש-Adblock Plus יסתיר הודעות מוכוונות?"
+   },
+   "notification_antiadblock_title": {
+      "message": "להסתיר הודעות מוכוונות?"
+   },
+   "notification_configure": {
+      "message": "קביעת הגדרות התראה"
+   },
+   "notification_open_all": {
+      "message": "פתח את כל הקישורים מהתראה זו"
+   },
+   "notification_with_buttons": {
+      "message": "לחץ על 'אישור' כדי לפתוח את כל הקישורים בהתראה זו."
+   },
+   "notification_without_buttons": {
+      "message": "לחץ על ההתראה כדי לפתוח את כל הקישורים שבתוכה."
+   },
+   "options_acceptableAds_ads_description_1": {
+      "message": "מודעות מקובלות אינן מציקות ואינן מתנגשות עם התוכן שאתה רואה. \u003Ca>קרא עוד אודות קנה-המידה של המודעות המקובלות\u003C/a>"
+   },
+   "options_acceptableAds_ads_label": {
+      "message": "התר מודעות מקובלות"
+   },
+   "options_acceptableAds_description": {
+      "message": "מודעות מקובלות הן אינן מודעות פולשניות. הן הקרקע האמצעית בין חסימת מודעות לבין תמיכה בתוכן מקוון מאחר שהן מחוללות רווח לבעלי האתרים."
+   },
+   "options_acceptableAds_dnt_notification": {
+      "message": "\u003Cstrong>הערה:\u003C/strong> האפשרות \u003Cstrong>אל תעקוב (DNT)\u003C/strong> מושבתת בהגדרות הדפדפן שלך. כדי שמאפיין זה יעבוד כראוי, אנא אפשר את \u003Cstrong>אל תעקוב\u003C/strong> הגדרות הדפדפן שלך. \u003Ca>גלה כיצד לאפשר אל תעקוב\u003C/a>."
+   },
+   "options_acceptableAds_header": {
+      "message": "מודעות מקובלות"
+   },
+   "options_acceptableAds_privacy_label": {
+      "message": "התר רק מודעות ללא מעקב צד-שלישי"
+   },
+   "options_advanced_description": {
+      "message": "התאם אישית את Adblock Plus, הוסף או הסר רשימות מסננים, צור ותחזק את רשימות המסננים שלך"
+   },
+   "options_close": {
+      "message": "סגור"
+   },
+   "options_control_remove_title": {
+      "message": "הסר"
+   },
+   "options_customFilter_cancel": {
+      "message": "בטל"
+   },
+   "options_customFilter_edit": {
+      "message": "ערוך מסננים"
+   },
+   "options_customFilter_save": {
+      "message": "שמור"
+   },
+   "options_customFilters_description": {
+      "message": "כתוב את המסננים המותאמים אישית שלך כדי לשלוט עוד יותר איזה תוכן Adblock Plus מתיר או חוסם."
+   },
+   "options_customFilters_edit_placeholder": {
+      "message": "לדוגמה $filter$",
+      "placeholders": {
+         "filter": {
+            "content": "$1",
+            "example": "/ads/track/*"
+         }
+      }
+   },
+   "options_customFilters_learn": {
+      "message": "למד כיצד לכתוב רשימות מסננים"
+   },
+   "options_customFilters_start": {
+      "message": "התחל לכתוב את רשימת המסננים שלי"
+   },
+   "options_customFilters_tip": {
+      "message": "מסננים שאתה יוצר יופיעו כאן."
+   },
+   "options_customFilters_title": {
+      "message": "צור וערוך את רשימת המסננים שלך"
+   },
+   "options_customFilters_widget_title": {
+      "message": "רשימת המסננים שלי"
+   },
+   "options_customize_blockElement": {
+      "message": "הראה פריט 'חסום יסוד' של תפריט לחיצה ימנית"
+   },
+   "options_customize_blockElement_tooltip": {
+      "message": "חסום באופן זמני פריטים מציקים באתר. לדוגמה, תמונות או מצגות מונפשות."
+   },
+   "options_customize_header": {
+      "message": "התאם אישית פעולות עמוד"
+   },
+   "options_customize_showDevToolsPanel": {
+      "message": "הראה חלונית 'Adblock Plus' במצב מפתחים"
+   },
+   "options_customize_showDevToolsPanel_tooltip": {
+      "message": "הצג פריטים חסומים ומותרים מחלונית כליי המפתחים של הדפדפן שלך."
+   },
+   "options_customize_showNotifications": {
+      "message": "הראה התראות שימושיות"
+   },
+   "options_customize_showNotifications_tooltip": {
+      "message": "כבה את כל ההתראות מ-Adblock Plus."
+   },
+   "options_dialog_about_copyright": {
+      "message": ".eyeo GmbH $currentYear$ © זכויות יוצרים",
+      "placeholders": {
+         "currentYear": {
+            "content": "2017",
+            "example": "2017"
+         }
+      }
+   },
+   "options_dialog_about_title": {
+      "message": "אודות Adblock Plus"
+   },
+   "options_dialog_about_trademark": {
+      "message": "כל הזכויות שמורות. Adblock Plus® הוא סימן מסחרי רשום של eyeo GmbH."
+   },
+   "options_dialog_about_version": {
+      "message": "מספר גרסה $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": "2.6.7"
+         }
+      }
+   },
+   "options_dialog_import_subscription_location": {
+      "message": "כתובת רשימת מסננים"
+   },
+   "options_dialog_import_subscription_location_error": {
+      "message": "הכנס כתובת תקפה"
+   },
+   "options_dialog_import_subscription_title": {
+      "message": "שם רשימת המסננים"
+   },
+   "options_dialog_import_subscription_title_error": {
+      "message": "אנא מלא את השדה"
+   },
+   "options_dialog_import_title": {
+      "message": "הוסף רשימת מסננים"
+   },
+   "options_dialog_language_other_empty": {
+      "message": "אין שפות זמינות."
+   },
+   "options_dialog_language_title": {
+      "message": "בחר שפה"
+   },
+   "options_dialog_predefined_confirm": {
+      "message": "כן, השתמש ברשימת מסננים זו"
+   },
+   "options_dialog_predefined_title": {
+      "message": "האם אתה בטוח שאתה רוצה להוסיף רשימת מסננים זו?"
+   },
+   "options_email": {
+      "message": "דוא\"ל:"
+   },
+   "options_english": {
+      "message": "אַנְגְּלִית"
+   },
+   "options_filterList_add": {
+      "message": "+ הוסף רשימת מסננים חדשה"
+   },
+   "options_filterList_column_name": {
+      "message": "רשימות מסננים"
+   },
+   "options_filterList_column_status": {
+      "message": "מצב"
+   },
+   "options_filterList_column_update": {
+      "message": "עודכן לאחרונה"
+   },
+   "options_filterList_description": {
+      "message": "כל הגדרת Adblock Plus מתפקדת הודות לרשימת מסננים. להלן רשימות המסננים המותאמות לכל הגדרות Adblock Plus שלך. אתה יכול גם להוסיף מסננים נוספים שנוצרו ומתוחזקים ע\"י הקהילה המהימנה שלנו."
+   },
+   "options_filterList_empty": {
+      "message": "לא הוספת רשימות מסננים כלשהן אל Adblock Plus. רשימות מסננים שאתה מוסיף יופיעו כאן."
+   },
+   "options_filterList_hours": {
+      "message": "לפני שעות"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "נכשל, ביקורת סיכום לא מתאימה"
+   },
+   "options_filterList_lastDownload_connectionError": {
+      "message": "נכשל, כישלון הורדה"
+   },
+   "options_filterList_lastDownload_inProgress": {
+      "message": "מעדכן"
+   },
+   "options_filterList_lastDownload_invalidData": {
+      "message": "נכשל, רשימת מסננים לא תקפה"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "נכשל, כתובת לא תקפה"
+   },
+   "options_filterList_minutes": {
+      "message": "לפני דקות"
+   },
+   "options_filterList_now": {
+      "message": "זה עתה"
+   },
+   "options_filterList_source": {
+      "message": "מקור"
+   },
+   "options_filterList_state_active": {
+      "message": "פעיל"
+   },
+   "options_filterList_state_disabled": {
+      "message": "מושבת"
+   },
+   "options_filterList_title": {
+      "message": "רשימות מסננים"
+   },
+   "options_filterList_update": {
+      "message": "עדכן את כל רשימות המסננים"
+   },
+   "options_filterList_updateNow": {
+      "message": "עדכן כעת"
+   },
+   "options_filterList_website": {
+      "message": "אתר"
+   },
+   "options_footer_about": {
+      "message": "אודות Adblock Plus"
+   },
+   "options_footer_contribute": {
+      "message": "תרום"
+   },
+   "options_general_description": {
+      "message": "קבע מה Adblock Plus מראה ומסתיר באתרים"
+   },
+   "options_help_description": {
+      "message": "מצא עזרה או צור איתנו קשר"
+   },
+   "options_language_add": {
+      "message": "+ הוסף שפה"
+   },
+   "options_language_change": {
+      "message": "שנה"
+   },
+   "options_language_description": {
+      "message": "מטב את Adblock Plus אל השפות שאתה בד\"כ גולש בהן באתרים."
+   },
+   "options_language_empty": {
+      "message": "אין לך מסננים כלשהם של שפות יחודיות."
+   },
+   "options_language_header": {
+      "message": "שפה"
+   },
+   "options_language_tip": {
+      "message": "\u003Cstrong>עצה:\u003C/strong> בחר רק את השפות שאתה צריך. בחירת יותר שפות תאט את חוסם המודעות, ולכן גם את מהירות הגלישה שלך."
+   },
+   "options_learn_more": {
+      "message": "למד עוד"
+   },
+   "options_more_filters_description": {
+      "message": "אלו מסננים נוספים שהוספת קודם לכן אל Adblock Plus."
+   },
+   "options_more_filters_header": {
+      "message": "עוד מסננים"
+   },
+   "options_more_filters_note": {
+      "message": "\u003Cstrong>הערה:\u003C/strong> אתה אמור להשתמש ברשימות מסננים צד שלישי רק ממחברים שאתה בוטח בהם."
+   },
+   "options_new_label": {
+      "message": "חדש"
+   },
+   "options_notification_hide": {
+      "message": "סגור התראה"
+   },
+   "options_page_document_title": {
+      "message": "אפשרויות Adblock Plus"
+   },
+   "options_page_title": {
+      "message": "הגדרות"
+   },
+   "options_privacy_header": {
+      "message": "פרטיות ואבטחה"
+   },
+   "options_protection_privacy_tooltip": {
+      "message": "הגן על נתוניך האישיים ע\"י הסרת כל צורות המעקב מהאינטרנט כולל אספני מידע."
+   },
+   "options_protection_social_tooltip": {
+      "message": "צלמיות המדיה החברתית באתרים שאתה מבקר בהם מתירות לרשתות מדיה חברתית לבנות פרופיל שלך על סמך הרגלי גלישתך - אפילו אם אתה לא לוחץ עליהן. הסתרת צלמיות אלו יכולה להגן על הפרופיל שלך."
+   },
+   "options_report_bug": {
+      "message": "מצאת תקל? \u003Ca>שלח לנו דיווח תקלים\u003C/a>"
+   },
+   "options_report_forum": {
+      "message": "רוצה תמיכה מהקהילה שלנו? \u003Ca>לך אל הפורום\u003C/a>"
+   },
+   "options_short": {
+      "message": "אפשרויות"
+   },
+   "options_social_description": {
+      "message": "יש שאלה או רעיון חדש? אנחנו כאן כדי לעזור."
+   },
+   "options_social_title": {
+      "message": "שמור על קשר"
+   },
+   "options_support_title": {
+      "message": "תמיכה"
+   },
+   "options_tab_advanced": {
+      "message": "מתקדם"
+   },
+   "options_tab_general": {
+      "message": "כללי"
+   },
+   "options_tab_help": {
+      "message": "עזרה"
+   },
+   "options_tab_whitelist": {
+      "message": "אתרים ברשימה המותרת"
+   },
+   "options_tracking_warning_1": {
+      "message": "שמנו לב ששתי האפשרויות \u003Cstrong>$tracking$\u003C/strong> ו \u003Cstrong>$acceptableAds$\u003C/strong> מאופשרות.",
+      "placeholders": {
+         "acceptableAds": {
+            "content": "$2",
+            "example": "Allow Acceptable Ads"
+         },
+         "tracking": {
+            "content": "$1",
+            "example": "Block additional tracking"
+         }
+      }
+   },
+   "options_tracking_warning_2": {
+      "message": "אנחנו רוצים שתדע שכדי שמפרסמים יציגו לך מודעות ענייניות, \u003Cstrong>עשוי\u003C/strong> להיות מעקב מסוים עם מודעות מקובלות."
+   },
+   "options_tracking_warning_3": {
+      "message": "אם אתה מעדיף פרטיות נוספת, בחר בתיבת הסימון \u003Cstrong>$acceptableAdsPrivacy$\u003C/strong> להלן.",
+      "placeholders": {
+         "acceptableAdsPrivacy": {
+            "content": "$1",
+            "example": "Only allow ads without third-party tracking"
+         }
+      }
+   },
+   "options_tracking_warning_acknowledgment": {
+      "message": "בסדר, הבנתי"
+   },
+   "options_whitelist_add": {
+      "message": "הוסף אתר"
+   },
+   "options_whitelist_description": {
+      "message": "כיבית חסימת מודעות באתרים אלו, ולכן תראה בהם מודעות."
+   },
+   "options_whitelist_empty_1": {
+      "message": "אין לך אתרים כלשהם ברשימה הלבנה."
+   },
+   "options_whitelist_empty_2": {
+      "message": "אתרים שאתה בוטח בהם ורוצה להתיר בהם מודעות יופיעו כאן."
+   },
+   "options_whitelist_notification": {
+      "message": "$website$ התווסף לרשימה הלבנה.",
+      "placeholders": {
+         "website": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "options_whitelist_placeholder_example": {
+      "message": "לדוגמה $domain$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "www.example.com"
+         }
+      }
+   },
+   "overlay_notification_button_no": {
+      "message": "לא"
+   },
+   "overlay_notification_button_yes": {
+      "message": "כן"
+   },
+   "overlay_notification_closing_button_hide": {
+      "message": "סגור התראה זו"
+   },
+   "overlay_notification_closing_button_optout": {
+      "message": "הפסק להראות התראות"
+   },
+   "sendReport": {
+      "message": "דווח על סוגייה בעמוד זה"
+   },
+   "stats_label_page": {
+      "message": "\u003Cstrong>$number$\u003C/strong> בעמוד זה",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_label_total": {
+      "message": "\u003Cstrong>$number$\u003C/strong> בסך הכל",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_show_iconnumber": {
+      "message": "הראה מספרים בצלמית"
+   },
+   "stats_title": {
+      "message": "מודעות חסומות"
+   },
+   "unexpected_filter_list_header": {
+      "message": "כותרות רשימת מסננים אינן מותרות כאן"
+   }
+}

@@ -1,0 +1,590 @@
+{
+   "add": {
+      "message": "추가"
+   },
+   "add_filters_msg": {
+      "message": "새 필터를 추가하시겠습니까?"
+   },
+   "block_element": {
+      "message": "이 요소 숨기기"
+   },
+   "cancel": {
+      "message": "취소"
+   },
+   "clickhide_instructions": {
+      "message": "이 팝업을 닫은 후 웹 페이지에서 HTML 요소를 클릭하십시오."
+   },
+   "common_feature_anti_adblock_title": {
+      "message": "Adblock 경고 메시지 숨기기"
+   },
+   "common_feature_malware_title": {
+      "message": "악성코드 차단"
+   },
+   "common_feature_privacy_title": {
+      "message": "추가적인 추적 차단"
+   },
+   "common_feature_social_title": {
+      "message": "소셜 미디어 아이콘 추적 차단"
+   },
+   "continue": {
+      "message": "다음"
+   },
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers."
+   },
+   "disabled_for_site": {
+      "message": "이 사이트에서 \u003Cstrong>광고 차단을 사용 중지\u003C/strong> 합니다."
+   },
+   "easy_create_filter": {
+      "message": "요소 숨기기"
+   },
+   "enabled_for_site": {
+      "message": "이 사이트에서 \u003Cstrong>광고 차단을 사용\u003C/strong>합니다"
+   },
+   "filter_elemhideemulation_nodomain": {
+      "message": "확장된 요소 숨김 필터에 지정된 활성 도메인이 없음"
+   },
+   "filter_invalid_domain": {
+      "message": "잘못된 (혹은 비어 있는) 도메인이 지정되었습니다"
+   },
+   "filter_invalid_regexp": {
+      "message": "잘못된 정규 표현식"
+   },
+   "filter_unknown_option": {
+      "message": "알 수 없는 필터 옵션"
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "실패함 : 다운로드 실패"
+   },
+   "firstRun_abbButtonSubtitle": {
+      "message": "Android 및 iOS용 사용 가능"
+   },
+   "firstRun_abbButtonTitle": {
+      "message": "여기에서 Adblock Browser 가져오기"
+   },
+   "firstRun_abbPromotionHeadline": {
+      "message": "스마트폰 또는 태블릿이 있습니까?"
+   },
+   "firstRun_acceptableAdsExplanation": {
+      "message": "우리는 비침입적이며 이용자 친화적인 광고 방식을 채택한 웹사이트를 격려하고자 합니다. 특정 광고를 허용하기 위한 \u003Ca>광고 허용 지침\u003C/a>을 수립하였으며, 기본 설정으로 그러한 광고는 화면에 표시됩니다. 모든 광고를 차단하려면 이 기능의 \u003Ca>사용을 중지\u003C/a>할 수 있습니다."
+   },
+   "firstRun_acceptableAdsHeadline": {
+      "message": "인터넷 이용을 방해하거나 불법·유해한 광고는 이제 차단될 것입니다"
+   },
+   "firstRun_contributor_credits": {
+      "message": "공헌자 명단"
+   },
+   "firstRun_donate": {
+      "message": "기부"
+   },
+   "firstRun_donate_label": {
+      "message": "프로젝트 지원"
+   },
+   "firstRun_filterlistsReinitializedWarning": {
+      "message": "문제가 발생하여 모든 필터가 제거되고, 백업을 복원할 수 없습니다. 그러므로 사용자 필터와 허용 광고 설정을 초기화했어야 합니다. \u003Ca>애드블록 플러스 옵션\u003C/a>에서 구독필터와 허용 광고 설정을 확인하십시오."
+   },
+   "firstRun_share": {
+      "message": "홍보"
+   },
+   "firstRun_share_headline": {
+      "message": "더 나은 웹을 만들기 위해 \u003Ca>공헌하기\u003C/a>"
+   },
+   "firstRun_title": {
+      "message": "애드블록 플러스가 설치되었습니다."
+   },
+   "invalid_css_selector": {
+      "message": "$selector$은/는 유효한 CSS 선택이 아닙니다",
+      "placeholders": {
+         "selector": {
+            "content": "$1"
+         }
+      }
+   },
+   "issueReporter_anonymousSubmission_label": {
+      "message": "익명 전송"
+   },
+   "issueReporter_anonymousSubmission_warning": {
+      "message": "우리가 당신에 게 돌아올 수 없을 고 가능성이 보고서 낮은 우선 순위를 지정 합니다."
+   },
+   "issueReporter_commentPage_heading": {
+      "message": "보고 내용 입력"
+   },
+   "issueReporter_comment_description": {
+      "message": "모든 언어로 입력 가능 + 페이지 전체 URL : 평소 사용하거나 설명하기 쉬운 언어로 보고할 내용을 입력하십시오. 그런 후 주소 표시줄의 페이지 전체 URL을 복사해 입력한 내용 아래에 반드시 붙여넣으십시오."
+   },
+   "issueReporter_comment_label": {
+      "message": "보고 내용 (필수 항목) :"
+   },
+   "issueReporter_comment_lengthWarning": {
+      "message": "설명의 길이가 1000자를 초과하여 1000자까지만 전송됩니다."
+   },
+   "issueReporter_confirmationMessage": {
+      "message": "보고서가 서버에 저장되었고, 다음 주소로 보고서를 확인할 수 있습니다. 필터 유지자가 보고를 접수하면 보고서의 Status 항목에는 unknown 대신에 처리 결과가 표시됩니다."
+   },
+   "issueReporter_dataCollector_description": {
+      "message": "필요한 자료를 수집하는 동안 잠시만 기다려주십시오."
+   },
+   "issueReporter_dataCollector_heading": {
+      "message": "문제 보고 마법사를 이용해주셔서 고맙습니다!"
+   },
+   "issueReporter_doneButton_label": {
+      "message": "실행"
+   },
+   "issueReporter_email_description": {
+      "message": "전자우편 주소를 입력할 것을 권장합니다. 만약 보고된 문제에 대해 문의해야 할 때 연락을 할 수 있기 때문입니다."
+   },
+   "issueReporter_email_label": {
+      "message": "이메일:"
+   },
+   "issueReporter_errorMessage": {
+      "message": "오류 코드 \"?1?\"에 의해 보고 전송을 실패했습니다. 인터넷이 접속되었는지 확인한 후 다시 시도하십시오. 만약 문제가 계속해서 발생한다면 [link]애드블록 플러스 포럼[/link]에 도움을 요청하십시오."
+   },
+   "issueReporter_falseNegative_description": {
+      "message": "애드블록 플러스를 사용함에도 불구하고 광고가 보이면 이 옵션을 선택하십시오."
+   },
+   "issueReporter_falseNegative_label": {
+      "message": "애드블록 플러스가 광고를 차단 안 함"
+   },
+   "issueReporter_falsePositive_description": {
+      "message": "중요한 콘텐츠 누락, 웹 페이지가 잘못 표시됨, 오작동 등 차단 오류가 있으면 이 옵션을 선택하십시오. 애드블록 플러스의 사용을 임시로 중지하여 애드블록 플러스가 문제의 원인인지 먼저 확인하십시오."
+   },
+   "issueReporter_falsePositive_label": {
+      "message": "애드블록 플러스가 콘텐츠를 과도하게 차단함"
+   },
+   "issueReporter_knownIssueMessage": {
+      "message": "보고한 문제는 다른 사용자들에 의해 이미 많이 보고되었습니다. 더 많은 정보 :"
+   },
+   "issueReporter_page_title": {
+      "message": "문제 보고 마법사"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "개인 정보 보호 정책"
+   },
+   "issueReporter_sendButton_label": {
+      "message": "보고서 전송"
+   },
+   "issueReporter_sendPage_heading": {
+      "message": "보고서 전송"
+   },
+   "issueReporter_sending": {
+      "message": "보고서를 제출하는 동안 잠시만 기다려주십시오."
+   },
+   "issueReporter_showData_label": {
+      "message": "보고할 자료 보기"
+   },
+   "issueReporter_typeSelector_description": {
+      "message": "문제 보고 마법사는 애드블록 플러스의 문제를 필터 유지자에게 보고하기 위해 필요한 단계를 안내합니다. 먼저 현재 페이지의 문제 유형을 선택하십시오."
+   },
+   "issueReporter_typeSelector_heading": {
+      "message": "문제 유형 선택"
+   },
+   "line": {
+      "message": "$number$번째 줄",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "loading": {
+      "message": "로드 중입니다..."
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "name_devbuild": {
+      "message": "Adblock Plus 개발 빌드"
+   },
+   "notification_antiadblock_message": {
+      "message": "이 사이트는 애드블록 플러스 사용자에게 표적 메시지를 보여주는 것으로 알려져 있습니다. 애드블록 플러스로 표적 메시지를 숨기겠습니까?"
+   },
+   "notification_antiadblock_title": {
+      "message": "표적 메시지를 숨기겠습니까?"
+   },
+   "notification_configure": {
+      "message": "알림 설정 구성"
+   },
+   "notification_open_all": {
+      "message": "이 알림에 있는 모든 링크를 엽니다"
+   },
+   "notification_with_buttons": {
+      "message": "이 알림에 포함된 모든 링크를 열려면 '확인'을 클릭하세요."
+   },
+   "notification_without_buttons": {
+      "message": "알림에 포함된 모든 링크를 열려면 클릭하세요."
+   },
+   "options_acceptableAds_ads_description_1": {
+      "message": "허용되는 광고는 짜증을 유발하거나 사용자의 콘텐츠 감상을 방해하지 않습니다. \u003Ca>허용되는 광고 기준에 대한 더 자세한 내용 보기\u003C/a>"
+   },
+   "options_acceptableAds_ads_label": {
+      "message": "허용되는 광고 허용"
+   },
+   "options_acceptableAds_description": {
+      "message": "허용되는 광고는 유해한 광고가 아닙니다. 광고 차단과 온라인 콘텐츠 지원 사이의 중간 지점에 위치하는 광고로서 웹 사이트 소유자의 이익을 창출하는 광고를 의미합니다."
+   },
+   "options_acceptableAds_header": {
+      "message": "허용되는 광고"
+   },
+   "options_advanced_description": {
+      "message": "Adblock Plus 사용자 설정, 필터 목록 추가 또는 제거, 사용자 자체 필터 목록 유지"
+   },
+   "options_close": {
+      "message": "닫기"
+   },
+   "options_control_remove_title": {
+      "message": "제거"
+   },
+   "options_customFilter_cancel": {
+      "message": "취소"
+   },
+   "options_customFilter_edit": {
+      "message": "필터 편집"
+   },
+   "options_customFilter_save": {
+      "message": "저장"
+   },
+   "options_customFilters_description": {
+      "message": "Adblock Plus가 허용하거나 차단할 콘텐츠를 추가로 제어하려면 사용자 설정 필터를 작성하십시오."
+   },
+   "options_customFilters_edit_placeholder": {
+      "message": "예: $filter$",
+      "placeholders": {
+         "filter": {
+            "content": "$1",
+            "example": "/ads/track/*"
+         }
+      }
+   },
+   "options_customFilters_learn": {
+      "message": "필터 목록 작성하는 방법 알아보기"
+   },
+   "options_customFilters_start": {
+      "message": "내 필터 목록 작성 시작"
+   },
+   "options_customFilters_tip": {
+      "message": "사용자가 생성한 필터가 이곳에 표시됩니다."
+   },
+   "options_customFilters_title": {
+      "message": "사용자 필터 목록 생성 및 수정"
+   },
+   "options_customFilters_widget_title": {
+      "message": "내 필터 목록"
+   },
+   "options_customize_blockElement": {
+      "message": "‘차단 요소’ 우클릭 메뉴 항목 보기"
+   },
+   "options_customize_blockElement_tooltip": {
+      "message": "웹페이지에서 방해가 되는 항목을 일시적으로 차단합니다. 예: 이미지 또는 애니메이션 슬라이드쇼"
+   },
+   "options_customize_header": {
+      "message": "온페이지 액션 사용자 설정"
+   },
+   "options_customize_showDevToolsPanel": {
+      "message": "개발자 도구 패널에서 'Adblock Plus’ 패널을 표시합니다."
+   },
+   "options_customize_showDevToolsPanel_tooltip": {
+      "message": "브라우저의 개발자 도구 패널에서 차단된 항목과 허용된 항목을 확인합니다."
+   },
+   "options_customize_showNotifications": {
+      "message": "유용한 알림 표시"
+   },
+   "options_customize_showNotifications_tooltip": {
+      "message": "Adblock Plus의 모든 알림 끄기"
+   },
+   "options_dialog_about_copyright": {
+      "message": "Copyright © $currentYear$ eyeo GmbH 저작권 소유.",
+      "placeholders": {
+         "currentYear": {
+            "content": "2017",
+            "example": "2017"
+         }
+      }
+   },
+   "options_dialog_about_title": {
+      "message": "Adblock Plus 정보"
+   },
+   "options_dialog_about_trademark": {
+      "message": "Adblock Plus®은 eyeo GmbH의 등록 상표입니다."
+   },
+   "options_dialog_about_version": {
+      "message": "버전 번호 $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": "2.6.7"
+         }
+      }
+   },
+   "options_dialog_import_subscription_location": {
+      "message": "필터 목록 URL"
+   },
+   "options_dialog_import_subscription_location_error": {
+      "message": "유효한 URL을 입력하세요"
+   },
+   "options_dialog_import_subscription_title": {
+      "message": "필터 목록 이름"
+   },
+   "options_dialog_import_title": {
+      "message": "필터 목록 추가"
+   },
+   "options_dialog_language_title": {
+      "message": "언어 선택"
+   },
+   "options_dialog_predefined_confirm": {
+      "message": "예, 이 필터 목록을 사용합니다"
+   },
+   "options_dialog_predefined_title": {
+      "message": "이 필터 목록을 추가하길 원하십니까?"
+   },
+   "options_email": {
+      "message": "이메일:"
+   },
+   "options_english": {
+      "message": "영어"
+   },
+   "options_filterList_add": {
+      "message": "+ 새 필터 목록 추가"
+   },
+   "options_filterList_column_name": {
+      "message": "필터 목록"
+   },
+   "options_filterList_column_status": {
+      "message": "상태"
+   },
+   "options_filterList_column_update": {
+      "message": "마지막 업데이트"
+   },
+   "options_filterList_description": {
+      "message": "필터 목록 때문에 각 Adblock Plus 설정이 작동합니다. 다음은 사용자의 모든 Adblock Plus 설정에 해당하는 필터 목록입니다. 신뢰할 수 있는 커뮤니티에서 생성되고 관리되는 추가적인 필터를 추가할 수도 있습니다."
+   },
+   "options_filterList_empty": {
+      "message": "Adblock Plus에 아무 필터 목록도 추가하지 않았습니다. 사용자가 추가한 필터 목록이 여기에 표시됩니다."
+   },
+   "options_filterList_hours": {
+      "message": "시간 전"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "실패함 : 검사합 불일치"
+   },
+   "options_filterList_lastDownload_connectionError": {
+      "message": "실패함 : 다운로드 실패"
+   },
+   "options_filterList_lastDownload_inProgress": {
+      "message": "업데이트중"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "실패함 : 올바르지 않은 주소"
+   },
+   "options_filterList_minutes": {
+      "message": "분 전"
+   },
+   "options_filterList_now": {
+      "message": "지금"
+   },
+   "options_filterList_source": {
+      "message": "소스"
+   },
+   "options_filterList_state_active": {
+      "message": "활성화"
+   },
+   "options_filterList_state_disabled": {
+      "message": "비활성화"
+   },
+   "options_filterList_title": {
+      "message": "필터 목록"
+   },
+   "options_filterList_update": {
+      "message": "모든 필터 목록 업데이트"
+   },
+   "options_filterList_updateNow": {
+      "message": "지금 업데이트"
+   },
+   "options_filterList_website": {
+      "message": "웹사이트"
+   },
+   "options_footer_about": {
+      "message": "Adblock Plus 정보"
+   },
+   "options_footer_contribute": {
+      "message": "공헌"
+   },
+   "options_general_description": {
+      "message": "Adblock Plus가 웹사이트에서 표시하고 숨길 내용을 선택하세요"
+   },
+   "options_help_description": {
+      "message": "도움말을 참조하시거나 저희에게 연락주십시오"
+   },
+   "options_language_add": {
+      "message": "+ 언어 추가"
+   },
+   "options_language_change": {
+      "message": "변경"
+   },
+   "options_language_description": {
+      "message": "웹 사이트 브라우징에 일반적으로 사용하는 언어로 Adblock Plus를 맞춤 설정하십시오."
+   },
+   "options_language_empty": {
+      "message": "특정 언어 필터가 없습니다."
+   },
+   "options_language_header": {
+      "message": "언어"
+   },
+   "options_language_tip": {
+      "message": "\u003Cstrong>팁:\u003C/strong> 필요한 언어만 선택하십시오. 더 많은 언어를 선택하면 광고 차단 프로그램의 속도 저하로 인해 브라우징의 속도가 느려질 수 있습니다."
+   },
+   "options_learn_more": {
+      "message": "더 알아보기"
+   },
+   "options_more_filters_description": {
+      "message": "이전에 Adblock Plus에 추가한 추가적인 필터입니다."
+   },
+   "options_more_filters_header": {
+      "message": "더 많은 필터"
+   },
+   "options_more_filters_note": {
+      "message": "\u003Cstrong>참고:\u003C/strong> 반드시 신뢰할 수 있는 작성자의 제삼자 필터 목록만을 사용해야 합니다."
+   },
+   "options_new_label": {
+      "message": "신규"
+   },
+   "options_notification_hide": {
+      "message": "알림 닫기"
+   },
+   "options_page_document_title": {
+      "message": "설정"
+   },
+   "options_page_title": {
+      "message": "설정"
+   },
+   "options_privacy_header": {
+      "message": "개인 정보 보호 및 보안"
+   },
+   "options_protection_privacy_tooltip": {
+      "message": "정보 수집을 포함하여 인터넷에서 이루어지는 모든 종류의 추적을 제거함으로써 사용자의 개인 데이터를 보호하세요."
+   },
+   "options_protection_social_tooltip": {
+      "message": "방문한 웹사이트의 소셜 미디어 아이콘을 통해 소셜 미디어 네트워크는 사용자의 브라우징 습관을 바탕으로 사용자의 프로필을 구축합니다. 사용자가 클릭하지 않아도 이 작업은 진행됩니다. 이러한 아이콘을 숨김으로써 사용자의 프로필을 보호할 수 있습니다."
+   },
+   "options_report_bug": {
+      "message": "버그를 찾으셨습니까? \u003Ca>버그 리포트 보내기\u003C/a>"
+   },
+   "options_report_forum": {
+      "message": "커뮤니티의 지원이 필요하십니까? \u003Ca>포럼으로 가기\u003C/a>"
+   },
+   "options_short": {
+      "message": "설정"
+   },
+   "options_social_description": {
+      "message": "질문이나 새로운 아이디어가 있습니까? 기꺼이 도와드리겠습니다."
+   },
+   "options_social_title": {
+      "message": "연락하기"
+   },
+   "options_support_title": {
+      "message": "지원"
+   },
+   "options_tab_advanced": {
+      "message": "고급"
+   },
+   "options_tab_general": {
+      "message": "일반"
+   },
+   "options_tab_help": {
+      "message": "도움말"
+   },
+   "options_tab_whitelist": {
+      "message": "허용 목록에 추가된 웹사이트"
+   },
+   "options_whitelist_add": {
+      "message": "웹사이트 추가"
+   },
+   "options_whitelist_description": {
+      "message": "이러한 웹 사이트에서 광고 차단 기능을 비활성화하면 광고가 표시됩니다."
+   },
+   "options_whitelist_empty_1": {
+      "message": "허용된 웹사이트가 없습니다."
+   },
+   "options_whitelist_empty_2": {
+      "message": "신뢰할 수 있고 광고를 허용하고자 하는 웹사이트가 이곳에 표시됩니다."
+   },
+   "options_whitelist_notification": {
+      "message": "$website$ 이(가) 허용되었습니다.",
+      "placeholders": {
+         "website": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "options_whitelist_placeholder_example": {
+      "message": "예: $domain$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "www.example.com"
+         }
+      }
+   },
+   "overlay_notification_button_no": {
+      "message": "아니요"
+   },
+   "overlay_notification_button_yes": {
+      "message": "예"
+   },
+   "overlay_notification_closing_button_hide": {
+      "message": "이 알림 닫기"
+   },
+   "overlay_notification_closing_button_optout": {
+      "message": "알림 표시를 중지합니다"
+   },
+   "sendReport": {
+      "message": "현재 페이지의 문제 보고"
+   },
+   "stats_label_page": {
+      "message": "이 페이지에서 \u003Cstrong>$number$\u003C/strong> 개",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_label_total": {
+      "message": "총 \u003Cstrong>$number$\u003C/strong> 개",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_show_iconnumber": {
+      "message": "아이콘에 차단된 광고 개수 표시"
+   },
+   "stats_title": {
+      "message": "차단된 광고"
+   },
+   "unexpected_filter_list_header": {
+      "message": "여기에서 필터 목록 헤더가 허용되지 않습니다"
+   },
+   "updates_adblockBrowser": {
+      "message": "데스크톱을 통제할 수 있는 사용자는 모바일 기기에서도 광고를 차단하고 개인 정보 보호 및 보안 기능을 향상할 수 있습니다.  \u003Ca>아래의 Adblock Browser 응용프로그램\u003C/a>을 다운로드하세요"
+   },
+   "updates_blockAds": {
+      "message": "오픈 소스 반란군 연합이 개발한 새로운 차단 필터는 제국의 역습에도 불구하고 Facebook과 같은 웹사이트에 숨겨진 광고를 날려버릴 수 있습니다."
+   },
+   "updates_heading": {
+      "message": "Adblock Plus가 업데이트되었습니다!"
+   },
+   "updates_optionsPageNews": {
+      "message": "새로운 설정 페이지 - 새로운 모습으로 개편된 더욱 강력해진 개인 정보 보호 및 보안 옵션 - \u003Ca>이제 Adblock Plus를 원하는 방식대로 맞춤 설정할 수 있습니다\u003C/a>."
+   },
+   "updates_phone": {
+      "message": "잠깐! 그렇다면 휴대폰은 어떨까요?"
+   },
+   "updates_status": {
+      "message": "업데이트 완료"
+   },
+   "updates_subheading": {
+      "message": "새로운 기능"
+   }
+}

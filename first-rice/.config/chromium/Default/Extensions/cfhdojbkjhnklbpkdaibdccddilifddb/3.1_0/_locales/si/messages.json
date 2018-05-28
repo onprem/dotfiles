@@ -1,0 +1,48 @@
+{
+   "add": {
+      "message": "එකතු කරන්න"
+   },
+   "cancel": {
+      "message": "අවලංගු කරන්න"
+   },
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers."
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "අසාර්ථක විය, බාගතකිරීම අසාර්ථකයි"
+   },
+   "issueReporter_sendButton_label": {
+      "message": "දත්ත යවන්න"
+   },
+   "issueReporter_sendPage_heading": {
+      "message": "දත්ත යවන්න"
+   },
+   "issueReporter_showData_label": {
+      "message": "යවන ලද දත්ත පෙන්වන්න"
+   },
+   "name": {
+      "message": "ඇඩ්බ්ලොක් ප…"
+   },
+   "options_customFilter_cancel": {
+      "message": "අවලංගු කරන්න"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "අසාර්ථක විය, පරීක්ෂාකිරීම් ගණනය වෙනස්ය"
+   },
+   "options_filterList_lastDownload_connectionError": {
+      "message": "අසාර්ථක විය, බාගතකිරීම අසාර්ථකයි"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "අසාර්ථකයි, වලංගු ලිපිනයක් නාෙවේ"
+   },
+   "options_short": {
+      "message": "මනාප"
+   },
+   "overlay_notification_button_no": {
+      "message": "නැත"
+   },
+   "overlay_notification_button_yes": {
+      "message": "ඔව්"
+   }
+}

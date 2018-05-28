@@ -1,0 +1,24 @@
+{
+   "common_feature_anti_adblock_title": {
+      "message": "Zuppentar messadis d'avis dad Adblock"
+   },
+   "common_feature_malware_title": {
+      "message": "Bloccar il malware"
+   },
+   "common_feature_privacy_title": {
+      "message": "Bloccar il fastizar supplementar"
+   },
+   "common_feature_social_title": {
+      "message": "Bloccar il fastizar dad icons da medias socialas"
+   },
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers."
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "notification_antiadblock_title": {
+      "message": "Zuppentar messadis direcziunàs?"
+   }
+}

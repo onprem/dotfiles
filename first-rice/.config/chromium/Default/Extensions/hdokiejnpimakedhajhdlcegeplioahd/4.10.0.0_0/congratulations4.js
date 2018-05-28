@@ -1,0 +1,2 @@
+function onLoad(t){t||get_data("congratulations",function(){onLoad(!0)})}function do_close_congratulations(){getBG().LPISLOC&&alert(gs("Please restart all your browsers to begin using LastPass Online.")),redirect_to_url("homelocal2.html?cmd=video")}document.getElementById("continue")&&set_innertext(document.getElementById("continue"),gs("Continue"));
+//# sourceMappingURL=sourcemaps/congratulations4.js.map

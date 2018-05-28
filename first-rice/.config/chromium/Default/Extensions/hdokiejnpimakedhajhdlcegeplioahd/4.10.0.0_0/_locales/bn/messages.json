@@ -1,0 +1,1061 @@
+{
+   "0_9": {
+      "message": "0-9"
+   },
+   "1_Password": {
+      "message": "১। পাসওয়ার্ড"
+   },
+   "1___Insert_your__Yubi_Key_in_the__U_S_B_port_with_the__U_S_B_contact_facing_upward": {
+      "message": "১। আপনার ইউবিকি ইউএসবি পোর্টে প্রবেশ করান যাতে ইউএসবি সংযোগ উপরে থাকে"
+   },
+   "1___Run_the__Google__Authenticator_application_on_your_mobile_device": {
+      "message": "১। আপনার মোবাইল যন্ত্রে Google এর অ্যাপ্লিকেশান চালান"
+   },
+   "1___Run_the__Last_Pass__Sesame_application_to_generate_a_one_time_password": {
+      "message": "১। একবার ব্যবহারের পাসওয়ার্ড তৈরির জন্য LastPass সিসেমি অ্যাপ্লিকেশান চালান"
+   },
+   "2___Enter_your_current_verification_code_in_the_box_below": {
+      "message": "২। নিচের বক্সে আপনার বর্তমান যাচাইকরণ কোড লিখুন"
+   },
+   "2___Paste_the_one_time_password_in_the_input_box_below_and_click___Authenticate_": {
+      "message": "২। নিচের ইনপুট বক্সে একবার ব্যবহারের পাসওয়ার্ড প্রবেশ করে 'প্রত্যয়ন' এ ক্লিক করুন"
+   },
+   "2___Wait_until_your__Yubi_Key_touch_button_shines_with_a_steady_light": {
+      "message": "২। অপেক্ষা করুন যতক্ষণ না আপনার ইউবিকি স্পর্শ-বোতাম অবিচলিতভাবে জ্বলতে থাকে"
+   },
+   "3___Click__Authenticate": {
+      "message": "৩। প্রত্যয়ন এ ক্লিক করুন"
+   },
+   "_A_C_T_I_O_N": {
+      "message": "পদক্ষেপ"
+   },
+   "_A__Zupper": {
+      "message": "A-Z"
+   },
+   "_A_retry_file_has_been_found___This_likely_means_that_not_all_of_your_site_changes_have_been_saved___Would_you_like_to_delete_this_file_and_potentially_lose_some_changes_": {
+      "message": "পুনঃচেষ্টা করার একটি ফাইল পাওয়া গিয়েছে। এ থেকে বুঝা যায় যে আপনার সকল পরিবর্তিত সাইট সংরক্ষণ করা হয়নি। আপনি কি উক্ত ফাইলটি মুছে ফেলতে এবং কিছু পরিবর্তন হারাতে চান?"
+   },
+   "_A_server_error_occurred_while_processing_your_request_": {
+      "message": "আপনার অনুরোধ ক্রীয়াধীন থাকা অবস্থায় সার্ভারে ত্রুটি দেখা দিয়েছে।"
+   },
+   "_A_site_that_has_been_previously_shared_cannot_be_moved_to_a_shared_folder____Would_you_like_to_make_a_copy_": {
+      "message": "পূর্বেই শেয়ারকৃত একটি সাইট শেয়ার ফোল্ডারে স্থানান্তর করা যাবেনা।\n\nআপনি কি একটি কপি তৈরি করতে চান?"
+   },
+   "_About": {
+      "message": "আমাদের ব্যাপারে"
+   },
+   "_About___": {
+      "message": "পরিচিতি..."
+   },
+   "_Accept": {
+      "message": "স্বীকার"
+   },
+   "_Account__Number": {
+      "message": "অ্যাকাউন্ট নম্বর"
+   },
+   "_Account__Settings": {
+      "message": "একাউন্ট সেটিংস"
+   },
+   "_Account__Type": {
+      "message": "অ্যাকাউন্টের প্রকার"
+   },
+   "_Account_number": {
+      "message": "অ্যাকাউন্ট নম্বর"
+   },
+   "_Actionproper": {
+      "message": "কার্যক্রম"
+   },
+   "_Add": {
+      "message": "যোগ"
+   },
+   "_Add__Credit__Card": {
+      "message": "ক্রেডিট কার্ড সংযোজন করুন"
+   },
+   "_Add__Field": {
+      "message": "ফিল্ড যোগ করুন"
+   },
+   "_Add__Form__Fill_profile": {
+      "message": "ফরম পূরণ প্রোফাইল যোগ করুন"
+   },
+   "_Add__Identity": {
+      "message": "পরিচয় সংযোজন করুন"
+   },
+   "_Add__New__Site": {
+      "message": "নতুন সাইট যোগ করুন"
+   },
+   "_Add__Profile": {
+      "message": "প্রোফাইল সংযোজন করুন"
+   },
+   "_Add__Secure__Note": {
+      "message": "সংরক্ষিত লেখা সংযোজন করুন"
+   },
+   "_Add__Site": {
+      "message": "সাইট সংযোজন করুন"
+   },
+   "_Address": {
+      "message": "ঠিকানা"
+   },
+   "_Address_1": {
+      "message": "ঠিকানা ১"
+   },
+   "_Address_2": {
+      "message": "ঠিকানা ২"
+   },
+   "_Address_3": {
+      "message": "ঠিকানা ৩"
+   },
+   "_Adelaide": {
+      "message": "এডিলেড"
+   },
+   "_Admin__Tools": {
+      "message": "প্রশাসকের সরঞ্জাম"
+   },
+   "_Advanced": {
+      "message": "বিশেষায়িত"
+   },
+   "_Afghanistan": {
+      "message": "আফগানিস্তান"
+   },
+   "_Agent__Name": {
+      "message": "এজেন্টের নাম"
+   },
+   "_Agent__Phone": {
+      "message": "এজেন্টের ফোন"
+   },
+   "_Aland__Islands": {
+      "message": "আল্যান্ড দ্বীপ"
+   },
+   "_Alaska": {
+      "message": "আলাস্কা"
+   },
+   "_Albania": {
+      "message": "আলবেনিয়া"
+   },
+   "_Algeria": {
+      "message": "আলজেরিয়া"
+   },
+   "_Alias": {
+      "message": "উপনাম"
+   },
+   "_All": {
+      "message": "সকল"
+   },
+   "_Allow__Last_Pass_to_find_insecure_data_on_your_computer_": {
+      "message": "আপনি কি LastPass কে সকল প্রকার অসংরক্ষিত তথ্য খুজতে অনুমতি দান করবেন?"
+   },
+   "_Almaty": {
+      "message": "আলমাটি"
+   },
+   "_Alt": {
+      "message": "Alt"
+   },
+   "_Always__Choose__Profile_and__Credit__Card": {
+      "message": "সর্বদা প্রোফাইল এবং ক্রেডিট কার্ড চিহ্নিত করুন"
+   },
+   "_American__Samoa": {
+      "message": "আমেরিকান সামোয়া"
+   },
+   "_Amman___Athens___Istanbul___Beirut___Cairo___Jerusalem": {
+      "message": "আম্মান, এথেন্স, ইস্তাম্বুল, বৈরুত, কায়রো, জেরুসালেম"
+   },
+   "_Amsterdam___Berlin___Rome___Vienna___Prague___Brussels": {
+      "message": "আমস্টারডাম, বার্লিন, রোম, ভিয়েনা, প্রাগ, ব্রাসেলস"
+   },
+   "_An__Update_is__Available___Would_you_like_to_install_": {
+      "message": "নতুন হালনাগাদ এসেছে । আপনি কি ইনষ্টল করতে চান ?"
+   },
+   "_An_error_has_been_encountered_while_loading_your_sites___Please_relogin_": {
+      "message": "আপনার সাইট লোড হওয়ার সময় একটি ত্রুটি দেখা গিয়েছে। অনুগ্রহ করে পুনরায় লগইন করুন"
+   },
+   "_An_error_occurred": {
+      "message": "একটি ত্রুটি সংঘটিত হয়েছে"
+   },
+   "_Appearance": {
+      "message": "বাহ্যিক অবস্থা"
+   },
+   "_April": {
+      "message": "এপ্রিল"
+   },
+   "_Are_you_sure_you_want_to_have__Last_Pass_remember_your_password____This_will_significantly_decrease_the_security_of_your__Last_Pass_account_": {
+      "message": "আপনি কি সত্যি  আপনার লাস্টপাস কে পাসওয়ার্ড মনে রাখাতে চান?  যেটা আপনার লাস্টপাস একাউন্ট এর নিরাপত্তার খুবই ঘারটি করবে!"
+   },
+   "_Are_you_sure_you_would_like_to_delete_the_selected_sites_": {
+      "message": "আপনি নিশ্চিতভাবে চিহ্নিত সাইটগুলো মুছে ফেলতে চান?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_field_": {
+      "message": "আপনি নিশ্চিতভাবে এই ফিল্ডটি মুছে ফেলতে চান?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_form_fill_profile_": {
+      "message": "আপনি নিশ্চিতভাবে এই ফর্ম ফিল প্রোফাইল মুছে ফেলতে চান?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_generated_password_": {
+      "message": "আপনি কি আসলেই উৎপন্ন শব্দচাবিটি মুছে ফেলতে চান?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_secure_note_": {
+      "message": "আপনি কি সত্যি এই সংরক্ষিত লেখা টিকে মুছেফেলতে চান?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_site_": {
+      "message": "আপনি কি সত্যি এই সাইটটিকে মুছে ফেলতে চান?"
+   },
+   "_Arts": {
+      "message": "শিল্পকলা"
+   },
+   "_August": {
+      "message": "আগস্ট"
+   },
+   "_Auto_Fill": {
+      "message": "আপনাই সংপুরণ"
+   },
+   "_Auto_Login": {
+      "message": "স্বয়ংক্রিয়"
+   },
+   "_Automatically__Fill__Login__Information": {
+      "message": "স্বয়ংক্রিয় ভাবে লগইন উপাত্ত পূরণ করুন"
+   },
+   "_Automatically__Logoff_after_idle__mins_": {
+      "message": "স্বয়ংক্রিয়ভাবে বেড়িয়ে যাওয়ার পূর্ববর্তী অলস সময়(মিঃ)"
+   },
+   "_Automatically_login_to_sites_if_time_since_last_login____seconds_": {
+      "message": "স্বয়ংক্রিয়ভাবে সাইটে প্রবেশের জন্য পূর্ববর্তী প্রবেশের সময় ব্যাবধান(সেঃ)"
+   },
+   "_Avoid__Ambiguous__Characters": {
+      "message": "দুর্বোধ্য চিহ্ন এড়িয়ে চলুন"
+   },
+   "_Bank__Name": {
+      "message": "ব্যাংকের নাম"
+   },
+   "_Bank_accountformfill": {
+      "message": "ব্যাংক হিসাব"
+   },
+   "_Bank_name": {
+      "message": "ব্যাংক নাম"
+   },
+   "_Birthday": {
+      "message": "জন্মদিন"
+   },
+   "_Blacklist": {
+      "message": "অনেক বেশি লগইন চেষ্টার কারণে আপনার অ্যাকাউন্ট(৫ মিনিটের জন্য) সাময়িকভাবে বরখাস্ত করা হয়েছে।"
+   },
+   "_Blog": {
+      "message": "ব্লগ"
+   },
+   "_Built_": {
+      "message": "নির্মিত:"
+   },
+   "_Business": {
+      "message": "ব্যবসা"
+   },
+   "_C_S_V__Files": {
+      "message": "CSV ফাইলগুলো"
+   },
+   "_Can_t_find_hidden__Last_Pass_window": {
+      "message": "সুপ্ত LastPass উইন্ডো খুঁজে পাওয়া যাচ্ছে না"
+   },
+   "_Cancel": {
+      "message": "বাতিল"
+   },
+   "_Change": {
+      "message": "পরিরর্তন করুন"
+   },
+   "_Change__Password": {
+      "message": "পাসওয়ার্ড পরিরর্তন করুন"
+   },
+   "_Check__For__Updates": {
+      "message": "হালনাগাদগুলো খুঁজুন"
+   },
+   "_Choose__Profile_and__Credit__Card": {
+      "message": "প্রোফাইল এবং ক্রেডিট কার্ড বাছাই করুন"
+   },
+   "_City____Town": {
+      "message": "শহর/নগর"
+   },
+   "_Clear": {
+      "message": "পরিছন্ন"
+   },
+   "_Clear__Forms": {
+      "message": "ফর্মগুলো খালি করুন"
+   },
+   "_Click__Continue_to_start_using__Last_Pass_": {
+      "message": "LastPass ব্যবহার করতে চাইলে কন্টিনিউ বাটনে চাপ দিন"
+   },
+   "_Click_here_to_launch_account_settings": {
+      "message": "হিসাবের সেটিংসের জন্য এখানে ক্লিক করুন"
+   },
+   "_Click_here_to_launch_feedback": {
+      "message": "প্রতিক্রিয়া জানানোর জন্য এখানে ক্লিক করুন"
+   },
+   "_Close": {
+      "message": "বন্ধ করুন"
+   },
+   "_Close_this_window": {
+      "message": "এই "
+   },
+   "_Collapse__All": {
+      "message": "সবগুলো সংকোচিত করুন"
+   },
+   "_Company": {
+      "message": "কোম্পানি"
+   },
+   "_Confirm": {
+      "message": "অনুমোদন"
+   },
+   "_Confirm__Password": {
+      "message": "পাসওয়ার্ড নিশ্চিত করুন"
+   },
+   "_Congratulations": {
+      "message": "অভিনন্দন"
+   },
+   "_Contact": {
+      "message": "যোগাযোগ"
+   },
+   "_Continue": {
+      "message": "চলতে থাকুন"
+   },
+   "_Copy": {
+      "message": "কপি"
+   },
+   "_Copy__Password": {
+      "message": "পাসওয়ার্ড কপি করুন"
+   },
+   "_Copy__Username": {
+      "message": "ইউজার-নেইম কপি করুন"
+   },
+   "_Copyright_2008__Last_Pass___All__Rights__Reserved___Portions_of_this_software_were_licensed_from_third_parties_as_described_at_": {
+      "message": "কপিরাইট ২০০৮ LastPass. সর্বস্বত্ব সংরক্ষিত. এই সফ্টওয়্যারের অংশ তৃতীয় পক্ষ থেকে লাইসেন্সকৃত যার বর্ণনা আছে এখানে: "
+   },
+   "_Country": {
+      "message": "দেশ"
+   },
+   "_County": {
+      "message": "দেশ"
+   },
+   "_Create__Account": {
+      "message": "হিসাব খুলুন"
+   },
+   "_Create_an__Account": {
+      "message": "একটি অ্যাকাউন্ট তৈরি করুন"
+   },
+   "_Create_an_account_now_": {
+      "message": "এখনই একটি অ্যাকাউন্ট তৈরি করুন"
+   },
+   "_Creating__Account___": {
+      "message": "অ্যাকাউন্ট তৈরি হচ্ছে..."
+   },
+   "_Credit__Card": {
+      "message": "ক্রেডিট কার্ড"
+   },
+   "_Credit__Card__Number": {
+      "message": "ক্রেডিট কার্ডের নাম্বার"
+   },
+   "_Credit_card_number": {
+      "message": "ক্রেডিট কার্ড নম্বর"
+   },
+   "_Credit_cardformfill": {
+      "message": "ক্রেডিট কার্ড"
+   },
+   "_Ctrl": {
+      "message": "Ctrl"
+   },
+   "_Custom__Value": {
+      "message": "অন্যান্য মান"
+   },
+   "_Custom_field__": {
+      "message": "অন্যান্য ক্ষেত্র #"
+   },
+   "_Custom_fields": {
+      "message": "অন্যান্য ক্ষেত্রসমূহ"
+   },
+   "_December": {
+      "message": "ডিসেম্বর"
+   },
+   "_Default": {
+      "message": "পূর্বনির্ধারিত"
+   },
+   "_Delete": {
+      "message": "মোছা"
+   },
+   "_Delete__Selected": {
+      "message": "চিহ্নিতগুলো মুছুন"
+   },
+   "_Description": {
+      "message": "বর্ণনা"
+   },
+   "_Dining": {
+      "message": "ভোজন"
+   },
+   "_Disable__Insecure__Chrome__Password__Manager": {
+      "message": "ক্রোমের অনিরাপদ পাসওয়ার্ড ব্যবস্থাপনা অকেজো করুন"
+   },
+   "_Do_not_re_prompt_for_": {
+      "message": "বারবার জিজ্ঞেস করা হবে না"
+   },
+   "_Down": {
+      "message": "নিচে"
+   },
+   "_Dr": {
+      "message": "ডা."
+   },
+   "_Edit": {
+      "message": "সম্পাদন"
+   },
+   "_Edit__Form__Fields": {
+      "message": "ফর্মের ক্ষেত্রগুলো পরিবর্তন করুন"
+   },
+   "_Education": {
+      "message": "শিক্ষা"
+   },
+   "_Email": {
+      "message": "ই-মেইল"
+   },
+   "_Email__Address": {
+      "message": "ই-মেইল এর ঠিকানা"
+   },
+   "_Email_address": {
+      "message": "ইমেইল ঠিকানা"
+   },
+   "_End": {
+      "message": "End"
+   },
+   "_English": {
+      "message": "ইংরেজী"
+   },
+   "_Entertainment": {
+      "message": "বিনোদন"
+   },
+   "_Error_Login_Msg": {
+      "message": "লাস্টপাস এ লগইন করার সময় একটি ত্রুটি দেখা গিয়েছে। অনুগ্রহ করে আপনার ইন্টারনেট সংযোগ পরীক্ষা করুন"
+   },
+   "_Error_Sending_Msg": {
+      "message": "সার্ভার এর সাথে যোগাযোগ এর সময় একটি ত্রুটি দেখা গিয়েছে। অনুগ্রহ করে আপনার ইন্টারনেট সংযোগ পরীক্ষা করুন"
+   },
+   "_Error_Session_Msg": {
+      "message": "আপনার LastPass অধিবেশনের মেয়াদ শেষ। দয়া করে লগইন করুন।"
+   },
+   "_Existing_Users_O_T_P_Prompt": {
+      "message": "LastPass এখন একটি একবার মেয়াদী পাসওয়ার্ড সংরক্ষণে সক্ষম যেটা দিয়ে আপনি আপনার অ্যাকাউন্ট পুনরুদ্ধার করতে পারেন"
+   },
+   "_Expand__All": {
+      "message": "সবগুলো প্রসারিত করুন"
+   },
+   "_Expiration_date": {
+      "message": "মেয়াদত্তীর্ণের তারিখ"
+   },
+   "_Export__To": {
+      "message": "রপ্তানি করুন"
+   },
+   "_Favorite": {
+      "message": "প্রিয়"
+   },
+   "_Fax_number": {
+      "message": "ফ্যাক্স নম্বর"
+   },
+   "_February": {
+      "message": "ফেব্রুয়ারী"
+   },
+   "_Feedback": {
+      "message": "প্রতিক্রিয়া"
+   },
+   "_Female": {
+      "message": "মহিলা"
+   },
+   "_Fields_": {
+      "message": "ক্ষেত্রসমূহ"
+   },
+   "_Fill__Current": {
+      "message": "বর্তমানটি পূরণ করুন"
+   },
+   "_Fill__Form": {
+      "message": "ফর্ম পূরণ করুন"
+   },
+   "_Fill__Forms": {
+      "message": "ফর্মগুলো পূরণ করুন"
+   },
+   "_Fillable_Form_Detected": {
+      "message": "এই পৃষ্ঠাতে পূরণযোজ্ঞ একটি ফর্ম সনাক্ত হয়েছে।"
+   },
+   "_Finance": {
+      "message": "অর্থ"
+   },
+   "_Find_a_site": {
+      "message": "সাইট খুঁজে বের করুন"
+   },
+   "_Firefox__Password__Manager": {
+      "message": "ফায়ারফক্স পাসওয়ার্ড ব্যবস্থাপক"
+   },
+   "_First_3_digits_of_your_phone_number": {
+      "message": "আপনার ফোন নম্বরের প্রথম ৩ অংক"
+   },
+   "_First_name": {
+      "message": "নামের প্রথম অংশ"
+   },
+   "_Form__Fill": {
+      "message": "ফরম পূরণ করুন"
+   },
+   "_Form__Name_": {
+      "message": "ফর্মের নামঃ"
+   },
+   "_Forums": {
+      "message": "ফোরামসমূহ"
+   },
+   "_Games": {
+      "message": "গেম"
+   },
+   "_Gender": {
+      "message": "লিংগ"
+   },
+   "_General": {
+      "message": "সাধারণ"
+   },
+   "_Generate": {
+      "message": "উৎপাদন করুন"
+   },
+   "_Generate__Secure__Password": {
+      "message": "অভেদ্য পাসওয়ার্ড উৎপাদন করুন"
+   },
+   "_Generated__Password_for": {
+      "message": "পাসওয়ার্ড উৎপাদন করুন"
+   },
+   "_Go__Premium_": {
+      "message": "প্রিমিয়াম এ যান"
+   },
+   "_Go_to__U_R_L": {
+      "message": "URL এ যান"
+   },
+   "_Google__Chrome": {
+      "message": "গুগল ক্রোম"
+   },
+   "_Health": {
+      "message": "স্বাস্থ্য"
+   },
+   "_Help__Translate": {
+      "message": "অনুবাদে সাহায্য করুন"
+   },
+   "_Help___": {
+      "message": "সাহায্য করুন..."
+   },
+   "_History": {
+      "message": "ইতিহাস"
+   },
+   "_Home": {
+      "message": "Home"
+   },
+   "_I_M_P_O_R_T_": {
+      "message": "আমদানি করবেন?"
+   },
+   "_I_forgot_my_password___Help_": {
+      "message": "আমি আমার পাসওয়ার্ড ভুলে গেছি, সাহায্য করুন"
+   },
+   "_Identities": {
+      "message": "পরিচিতিসমূহ"
+   },
+   "_Identity": {
+      "message": "পরিচয়"
+   },
+   "_Import": {
+      "message": "আমদানি করুন"
+   },
+   "_Import__From": {
+      "message": "আমদানি করুন"
+   },
+   "_Import__Your__Data": {
+      "message": "আপনার ডাটা আমদানি করুন"
+   },
+   "_Instructions": {
+      "message": "নির্দেশাবলী"
+   },
+   "_Invalid__Password_": {
+      "message": "অচল পাসওয়ার্ড"
+   },
+   "_Issue_number": {
+      "message": "ইস্যু নম্বর"
+   },
+   "_January": {
+      "message": "জানুয়ারী"
+   },
+   "_July": {
+      "message": "জুলাই"
+   },
+   "_June": {
+      "message": "জুন"
+   },
+   "_Kee_Pass": {
+      "message": "KeePass"
+   },
+   "_Language": {
+      "message": "ভাষা"
+   },
+   "_Last_4_digits_of_your_phone_number": {
+      "message": "আপনার ফোন নম্বরের শেষ ৪ অংক"
+   },
+   "_Last_Pass": {
+      "message": "LastPass"
+   },
+   "_Last_Pass__C_S_V__File": {
+      "message": "LastPass CSV ফাইল"
+   },
+   "_Last_Pass__Chrome__Toolbar": {
+      "message": "LastPass-এর ক্রোম টুলবার"
+   },
+   "_Last_Pass_cannot_login_until_cookies_are_allowed_from_lastpass_com": {
+      "message": "lastpass.com এর কুকিগুলো অনুমোদন না পেলে LastPass লগইন করতে পারবে না"
+   },
+   "_Last_Pass_detected_a_login_form_that_is_insecure____Would_you_like_to_continue_": {
+      "message": "LastPass একটি অনিরাপদ লগইন ফর্ম সনাক্ত করেছে।\n\nআপনি কি এটা বহাল রাখতে চান?"
+   },
+   "_Last_Pass_detected_a_login_form_that_is_insecure____Would_you_still_like__Last_Pass_to_fill_the_form_": {
+      "message": "LastPass একটি অনিরাপদ লগইন সনাক্ত করেছে।\n\nআপনি কি তবুও LastPass দিয়ে ফর্ম পূরণ করতে চান?"
+   },
+   "_Last_name": {
+      "message": "নামের শেষ অংশ"
+   },
+   "_Last_used": {
+      "message": "সর্বশেষ ব্যবহৃত"
+   },
+   "_Left": {
+      "message": "Left"
+   },
+   "_Log__Out": {
+      "message": "লগ আউট"
+   },
+   "_Login": {
+      "message": "লগইন"
+   },
+   "_Login_Error": {
+      "message": "LastPass-এ লগইন করতে সমস্যা হচ্ছে। দয়া করে আবার চেষ্টা করুন।"
+   },
+   "_Login_to__Last_Pass": {
+      "message": "LastPass-এ লগইন করুন"
+   },
+   "_Logoff": {
+      "message": "লগ অফ"
+   },
+   "_Logoff_": {
+      "message": "লগ অফঃ"
+   },
+   "_Male": {
+      "message": "পুরুষ"
+   },
+   "_March": {
+      "message": "মার্চ"
+   },
+   "_May": {
+      "message": "মে"
+   },
+   "_Middle_3_digits_of_your_phone_number": {
+      "message": "আপনার ফোন নম্বরের মাঝের ৩ অংক"
+   },
+   "_Middle_name": {
+      "message": "নামের মাঝের অংশ"
+   },
+   "_Mobile_number": {
+      "message": "মোবাইল নম্বর"
+   },
+   "_More": {
+      "message": "আরো"
+   },
+   "_Mr": {
+      "message": "মি"
+   },
+   "_Mrs": {
+      "message": "মিসেস"
+   },
+   "_Ms": {
+      "message": "মিস"
+   },
+   "_My__Last_Pass__Vault": {
+      "message": "আমার লাস্টপাস ভল্ট"
+   },
+   "_N_A_M_E": {
+      "message": "নাম"
+   },
+   "_Name_": {
+      "message": "নামঃ"
+   },
+   "_Name_on_card": {
+      "message": "কার্ডে যে নাম আছে"
+   },
+   "_Nameproper": {
+      "message": "নাম"
+   },
+   "_Never___": {
+      "message": "কখনও না..."
+   },
+   "_New__Master__Password": {
+      "message": "নতুন মূল পাসওয়ার্ড"
+   },
+   "_New_to__Last_Pass_": {
+      "message": "LastPass-এ নতুন?"
+   },
+   "_No": {
+      "message": "না"
+   },
+   "_No__Thanks": {
+      "message": "না, ধন্যবাদ"
+   },
+   "_No__Updates__Are__Available": {
+      "message": "হালনাগাদযোগ্য কিছু পাওয়া যায় নি"
+   },
+   "_No___Thanks": {
+      "message": "না, ধন্যবাদ"
+   },
+   "_Not__Now": {
+      "message": "এখন নয়"
+   },
+   "_Notes": {
+      "message": "টিকাসমূহ"
+   },
+   "_Notes_": {
+      "message": "টীকাসমূহঃ"
+   },
+   "_Notifications": {
+      "message": "বিজ্ঞপ্তিসমূহ"
+   },
+   "_November": {
+      "message": "নভেম্বর"
+   },
+   "_O_K": {
+      "message": "ঠিক আছে"
+   },
+   "_October": {
+      "message": "অক্টোবর"
+   },
+   "_Old__Password": {
+      "message": "পুরাতন পাসওয়ার্ড"
+   },
+   "_Open__All": {
+      "message": "সবগুলো খুলুন"
+   },
+   "_Open__Favorites": {
+      "message": "পছন্দসমূহ বের করুন"
+   },
+   "_Open__File": {
+      "message": "ফাইল খুলুন"
+   },
+   "_Open__My__Last_Pass__Vault": {
+      "message": "আমার LastPass খিলান খুলুন"
+   },
+   "_Other": {
+      "message": "অন্যান্য"
+   },
+   "_Other__Sessions": {
+      "message": "অন্যান্য অধিবেশনসমূহ"
+   },
+   "_P_A_S_S_W_O_R_Dupper": {
+      "message": "পাসওয়ার্ড"
+   },
+   "_Page__Down": {
+      "message": "Page Down"
+   },
+   "_Page__Up": {
+      "message": "Page Up"
+   },
+   "_Password": {
+      "message": "পাসওয়ার্ড"
+   },
+   "_Password_": {
+      "message": "পাসওয়ার্ড:"
+   },
+   "_Password__Keeper": {
+      "message": "Password Keeper"
+   },
+   "_Password__Length": {
+      "message": "পাসওয়ার্ডের দৈর্ঘ্য"
+   },
+   "_Password__Reminder": {
+      "message": "পাসওয়ার্ড স্মরণকারী"
+   },
+   "_Password__Safe": {
+      "message": "Password Safe"
+   },
+   "_Password_updated_": {
+      "message": "পাসওয়ার্ড হালনাগাদ হয়েছে"
+   },
+   "_Personal": {
+      "message": "ব্যক্তিগত"
+   },
+   "_Phone_number": {
+      "message": "ফোন নম্বর"
+   },
+   "_Please_select": {
+      "message": "দয়া করে নির্বাচন করুন"
+   },
+   "_Please_select_which_sites_you_wish_to_apply_this_change_": {
+      "message": "যে সাইটগুলোতে এই পরিবর্তন আনতে চান দয়া করে সেগুলো নির্বাচন করুন।"
+   },
+   "_Preferences": {
+      "message": "পছন্দসমূহ বাছাই"
+   },
+   "_Print": {
+      "message": "ছাপান"
+   },
+   "_Product": {
+      "message": "পণ্য"
+   },
+   "_Profile": {
+      "message": "প্রোফাইল"
+   },
+   "_Profile_name": {
+      "message": "প্রোফাইলের নাম"
+   },
+   "_Progress": {
+      "message": "অগ্রগতি"
+   },
+   "_Recently__Used": {
+      "message": "সদ্য ব্যবহৃত"
+   },
+   "_Refresh__Sites": {
+      "message": "সাইটগুলো সতেজ করুন"
+   },
+   "_Reject": {
+      "message": "প্রত্যাখ্যান করুন"
+   },
+   "_Remember__Email": {
+      "message": "ই-মেইল মনে রাখুন"
+   },
+   "_Remember__Password": {
+      "message": "পাসওয়ার্ড মনে রাখুন"
+   },
+   "_Require__Every__Character__Type": {
+      "message": "সব ধরণের অক্ষর আবশ্যক"
+   },
+   "_Require__Password__Reprompt": {
+      "message": "পুনরায় পাসওয়ার্ড চাওয়া"
+   },
+   "_Respect__Auto_Complete_off__allow_websites_to_disable__Auto_Fill": {
+      "message": "AutoComplete=off হলে ওয়েবসাইটসমূহ আপনাআপনি ফর্ম পূরণ বন্ধ রাখতে পারবে"
+   },
+   "_Right": {
+      "message": "Right"
+   },
+   "_S_I_T_E": {
+      "message": "সাইট"
+   },
+   "_Save": {
+      "message": "সংরক্ষণ করুন"
+   },
+   "_Save__All__Entered__Data": {
+      "message": "সকল প্রবিষ্ট ডাটা সংরক্ষণ করুন"
+   },
+   "_Save__File": {
+      "message": "ফাইল সংরক্ষণ করুন"
+   },
+   "_Save__New__Site": {
+      "message": "নতুন সাইট সংরক্ষন করুন"
+   },
+   "_Save__Site": {
+      "message": "সাইট সংরক্ষন করুন"
+   },
+   "_Save_a_disabled__One__Time__Password_locally_for__Account__Recovery": {
+      "message": "অ্যাকাউন্ট পুনরুদ্ধার এর জন্য একটি অকেজো একবার মেয়াদী পাসওয়ার্ড সংরক্ষণ করুন"
+   },
+   "_Searchproper": {
+      "message": "খোজ"
+   },
+   "_Secure__Notes": {
+      "message": "অভেদ্য টিকাসমূহ"
+   },
+   "_Security": {
+      "message": "নিরাপত্তা"
+   },
+   "_Security__Check": {
+      "message": "্নিরাপত্তা পরিক্ষা করুন"
+   },
+   "_Select": {
+      "message": "নির্বাচন করুন"
+   },
+   "_Select__All": {
+      "message": "সব নির্বাচন করুন"
+   },
+   "_Select__Identity": {
+      "message": "পরিচয় নির্বাচন করুন"
+   },
+   "_September": {
+      "message": "সেপ্টেম্বর"
+   },
+   "_Share": {
+      "message": "ভাগাভাগি করুন"
+   },
+   "_Share__Site": {
+      "message": "সাইট ভাগাভাগি করুন"
+   },
+   "_Shift": {
+      "message": "Shift"
+   },
+   "_Shopping": {
+      "message": "কেনাকাটা"
+   },
+   "_Should__Last_Pass_remember_this_password_": {
+      "message": "LastPass কি এই পাসওয়ার্ড মনে রাখবে?"
+   },
+   "_Show": {
+      "message": "দেখান"
+   },
+   "_Show__Advanced__Options": {
+      "message": "উচ্চতর বিকল্পগুলো দেখান"
+   },
+   "_Show__Deleted__Items": {
+      "message": "মুছে ফেলা আইটেমগুলো দেখান"
+   },
+   "_Show__Deleted__Sites": {
+      "message": "মুছেফেলা সাইটগুলো দেখান"
+   },
+   "_Show__Save__Site__Notifications": {
+      "message": "সাইট সংরক্ষণের বিজ্ঞপ্তিগুলো দেখান"
+   },
+   "_Show_all_sites": {
+      "message": "সকল সাইটগুলো দেখান"
+   },
+   "_Sites": {
+      "message": "সাইটগুলো"
+   },
+   "_Social": {
+      "message": "সামাজিক"
+   },
+   "_Special": {
+      "message": "বিশেষ"
+   },
+   "_Sports": {
+      "message": "খেলাধুলা"
+   },
+   "_Start_date": {
+      "message": "শুরুর তারিখ"
+   },
+   "_State____Province": {
+      "message": "রাজ্য/প্রদেশ"
+   },
+   "_Submit__Form": {
+      "message": "ফর্ম জমা দিন"
+   },
+   "_Telecom": {
+      "message": "টেলিকম"
+   },
+   "_Text": {
+      "message": "লিখা"
+   },
+   "_This_is_a_shared_site___You_are_not_permitted_to_view_the_password_": {
+      "message": "এটি একটি শেয়ার্ড সাইট। এখানে পাসওয়ার্ড দেখার অনুমতি নেই।"
+   },
+   "_Time__Zone": {
+      "message": "সময় অঞ্চল"
+   },
+   "_Title": {
+      "message": "শিরনাম"
+   },
+   "_Tools": {
+      "message": "যন্ত্রপাতি"
+   },
+   "_Travel": {
+      "message": "ভ্রমণ"
+   },
+   "_Try__Again": {
+      "message": "আবার চেষ্টা করুন"
+   },
+   "_Type_": {
+      "message": "ধরনঃ"
+   },
+   "_U_R_L_": {
+      "message": "URL:"
+   },
+   "_U_S_E_R_N_A_M_E": {
+      "message": "ব্যবহারকারীর নাম"
+   },
+   "_Unselect__All": {
+      "message": "সবগুলো অনির্বাচিত করুন"
+   },
+   "_Up": {
+      "message": "Up"
+   },
+   "_User_name": {
+      "message": "ব্যবহারকারীর নাম"
+   },
+   "_Username_": {
+      "message": "ইউজারনেম:"
+   },
+   "_Version_": {
+      "message": "সংস্করণ:"
+   },
+   "_Warn_before_filling_insecure_forms": {
+      "message": "অনিরাপদ ফর্ম পুরণের আগে সতর্ক করুন"
+   },
+   "_Yes": {
+      "message": "হ্যাঁ"
+   },
+   "_You_must_agree_to_the_terms_to_continue": {
+      "message": "আপানাকে অবশ্যই নীতিমালা তে সম্মত হতে হবে"
+   },
+   "_You_must_enter_a_name_": {
+      "message": "আপনাকে অবশ্যই একটি নাম দিতে হবে"
+   },
+   "_You_must_enter_a_unique_name_": {
+      "message": "আপনাকে অবশ্যই একটি অনন্য নাম দিতে হবে"
+   },
+   "_You_must_restart__Chrome_or_logoff_and_back_in_to_get_logoff_on_browser_close_changes_to_be_reflected": {
+      "message": "পরিবর্তনগুলো কার্যকর করতে আপনার অবশ্যই ক্রোমকে পুনরারম্ভ করতে হবে অথবা লগ অফ করে ব্রাউজার বন্ধ করার সময় লগ অফে ফিরে আসতে হবে।"
+   },
+   "_Your_4_digit_birth_year": {
+      "message": "আপনার ৪ অঙ্কের জন্মসাল"
+   },
+   "_Your__Z_I_P_or_postal_code": {
+      "message": "আপনার ZIP বা পোস্ট কোড"
+   },
+   "_Your_current_settings_require_you_to_enter_your__Last_Pass_password_to_complete_this_action_": {
+      "message": "এই কাজটি করার জন্য আপনার বর্তমান সেটিংস্‌ অনুযায়ী আপনার LastPass পাসওয়ার্ড দিতে হবে।"
+   },
+   "_Yugoslavia": {
+      "message": "যুগোস্লাভিয়া"
+   },
+   "__Hide_": {
+      "message": "[লুকান]"
+   },
+   "__History_": {
+      "message": "[ইতিহাস]"
+   },
+   "__New__Pending__Share__Offers_": {
+      "message": "(নতুন শেয়ার অফার)"
+   },
+   "__Show_": {
+      "message": "[দেখান]"
+   },
+   "_domain_": {
+      "message": "(ডোমেইন)"
+   },
+   "_none_": {
+      "message": "কোনটিই নয়"
+   },
+   "a_zlower": {
+      "message": "a-z"
+   },
+   "actual_password_is__while_still_maintaining_its_secrecy_": {
+      "message": "প্রকৃত পাসওয়ার্ড কি, তার গোপনীয়তা বজায় রেখেই।"
+   },
+   "ago": {
+      "message": "আগে"
+   },
+   "and": {
+      "message": "এবং"
+   },
+   "dummy": {
+      "message": "dummy, leave this here so we don't mess up the trailing comma"
+   },
+   "favorites": {
+      "message": "পছন্দসমূহ"
+   },
+   "hour": {
+      "message": "ঘণ্টা"
+   },
+   "hours": {
+      "message": "ঘণ্টা"
+   },
+   "minutes": {
+      "message": "মিনিট"
+   },
+   "recently_usedlower": {
+      "message": "সদ্য ব্যবহৃত"
+   },
+   "seconds": {
+      "message": "সেকেন্ড"
+   },
+   "year": {
+      "message": "বছর"
+   }
+}

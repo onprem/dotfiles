@@ -1,0 +1,137 @@
+{
+   "add": {
+      "message": "ചേര്‍ക്കുക"
+   },
+   "add_filters_msg": {
+      "message": "ഫിൽറ്റർ / ഫിൽറ്ററുകൾ ഉള്പെടുത്തുക?"
+   },
+   "block_element": {
+      "message": "എലമെന്റ് തടയുക"
+   },
+   "cancel": {
+      "message": "റദ്ദാക്കുക"
+   },
+   "clickhide_instructions": {
+      "message": "ഈ പോപ്പപ്പ് ക്ലോസ് ചെയ്ത ശേഷം താളിലെ എലമെന്റില്‍ ക്ലിക്കോ റൈറ്റ് ക്ലിക്കോ ചെയ്യുക."
+   },
+   "continue": {
+      "message": "തുടരുക"
+   },
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers."
+   },
+   "disabled_for_site": {
+      "message": "ഈ സൈറ്റില്‍ \u003Cstrong>ഡിസേബിള്‍\u003C/strong> ചെയ്തിരിക്കുന്നു"
+   },
+   "easy_create_filter": {
+      "message": "എലമെന്റ് തടയുക"
+   },
+   "enabled_for_site": {
+      "message": "ഈ സൈറ്റില്‍ \u003Cstrong>സജീവം\u003C/strong>"
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "പരാജയം, ഡൌണ്‍ലോഡ് പരാജയപ്പെട്ടിരിക്കുന്നു"
+   },
+   "invalid_css_selector": {
+      "message": "$selector$ ഒരു ശരിയായ സി. എസ്. എസ്. സെലക്റ്റര്‍ അല്ല",
+      "placeholders": {
+         "selector": {
+            "content": "$1"
+         }
+      }
+   },
+   "issueReporter_doneButton_label": {
+      "message": "കഴിഞ്ഞിരിക്കുന്നു"
+   },
+   "issueReporter_page_title": {
+      "message": "പ്രശ്നം റിപ്പോര്‍ട്ട് ചെയ്യുക"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "സ്വകാര്യതാ നയം"
+   },
+   "line": {
+      "message": "വരി $number$",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "name": {
+      "message": "ആഡ്ബ്ലോക്ക്…"
+   },
+   "name_devbuild": {
+      "message": "ആഡ്ബ്ലോക്ക് പ്ലസ് ഡെവലപ്മെന്റ് ബില്‍ഡ്"
+   },
+   "notification_configure": {
+      "message": "നോട്ടിഫിക്കേഷന്‍ ക്രമീകരണങ്ങള്‍ ചിട്ടപ്പെടുത്തുക"
+   },
+   "notification_open_all": {
+      "message": "ഈ അറിയിപ്പില്‍നിന്നുള്ള എല്ലാ കണ്ണികളും തുറക്കുക"
+   },
+   "options_close": {
+      "message": "അടക്കുക"
+   },
+   "options_customFilter_cancel": {
+      "message": "റദ്ദാക്കുക"
+   },
+   "options_filterList_column_name": {
+      "message": "പട്ടികകള്‍ അരിക്കുക"
+   },
+   "options_filterList_lastDownload_connectionError": {
+      "message": "പരാജയം, ഡൌണ്‍ലോഡ് പരാജയപ്പെട്ടിരിക്കുന്നു"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "പരാജയപ്പെട്ടിരിക്കുന്നു, ഇതൊരു സാധുവായ വിലാസം അല്ല"
+   },
+   "options_filterList_state_disabled": {
+      "message": "പ്രവര്‍ത്തനരഹിത"
+   },
+   "options_filterList_title": {
+      "message": "പട്ടികകള്‍ അരിക്കുക"
+   },
+   "options_filterList_updateNow": {
+      "message": "ഇപ്പോള്‍ത്തന്നെ പുതുക്കുക"
+   },
+   "options_short": {
+      "message": "സൗകര്യങ്ങള്‍"
+   },
+   "options_tab_general": {
+      "message": "പലവക"
+   },
+   "options_tab_whitelist": {
+      "message": "വൈറ്റ് ലിസ്റ്റ് ചെയ്ത സൈറ്റുകൾ"
+   },
+   "overlay_notification_button_no": {
+      "message": "അല്ല"
+   },
+   "overlay_notification_button_yes": {
+      "message": "അതെ"
+   },
+   "stats_label_page": {
+      "message": "ഈ താളില്‍ \u003Cstrong>$number$\u003C/strong>",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_label_total": {
+      "message": "മൊത്തം \u003Cstrong>$number$\u003C/strong>",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_show_iconnumber": {
+      "message": "ഐക്കണില്‍ സംഖ്യ കാണിക്കുക"
+   },
+   "stats_title": {
+      "message": "തടഞ്ഞ പരസ്യങ്ങള്‍"
+   },
+   "unexpected_filter_list_header": {
+      "message": "ഫില്‍റ്റര്‍ ലിസ്റ്റ് ഹെഡ്ഡറുകള്‍ ഇവിടെ അനുവദനീയമല്ല"
+   }
+}

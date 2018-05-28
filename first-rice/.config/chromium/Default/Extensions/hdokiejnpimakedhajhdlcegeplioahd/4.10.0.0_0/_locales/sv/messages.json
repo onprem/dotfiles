@@ -1,0 +1,5276 @@
+{
+   "0_9": {
+      "message": "0-9"
+   },
+   "1_Password": {
+      "message": "1Password"
+   },
+   "1___Insert_your__Yubi_Key_in_the__U_S_B_port_with_the__U_S_B_contact_facing_upward": {
+      "message": "1. Sätt i din YubiKey i USB-porten med USB-kontakten vänd uppåt"
+   },
+   "1___Run_the__Google__Authenticator_application_on_your_mobile_device": {
+      "message": "1. Kör Google Authenticator-programmet på din mobila enhet"
+   },
+   "1___Run_the__Last_Pass__Sesame_application_to_generate_a_one_time_password": {
+      "message": "1. Kör LastPass Sesame-applikationen för att generera ett engångslösenord"
+   },
+   "2___Enter_your_current_verification_code_in_the_box_below": {
+      "message": "2. Skriv in din nuvarande verifieringskod i rutan nedan"
+   },
+   "2___Paste_the_one_time_password_in_the_input_box_below_and_click___Authenticate_": {
+      "message": "2. Klistra in engångslösenordet i rutan nedan och klicka på 'Verifiera'"
+   },
+   "2___Wait_until_your__Yubi_Key_touch_button_shines_with_a_steady_light": {
+      "message": "2. Vänta tills din YubiKey-touchknapp lyser med ett stadigt sken"
+   },
+   "3___Click__Authenticate": {
+      "message": "3. Klicka på Verifiera"
+   },
+   "3___Hold_your_fingertip_on_the_touch_button_for_1_second": {
+      "message": "3. Håll fingertoppen på touch-knappen i 1 sekund"
+   },
+   "_1_cannot_be_deleted_while_enabled_": {
+      "message": "%1 kan inte raderas medans den är aktiverad."
+   },
+   "_1_containing__2_item_s_": {
+      "message": "%1 innehåller %2 objekt"
+   },
+   "_1_friends_were_invited___We_will_send_you_a_notification_email_when_any_of_them_join__Last_Pass_so_you_can_retry_sharing_your_data_with_them_": {
+      "message": "%1 vänner blev inbjudna. Vi kommer att skicka en notis via e-post när någon av dem skaffar LastPass så att du kan försöka dela din data med dem igen."
+   },
+   "_1_items_were__2_": {
+      "message": "%1 items were %2."
+   },
+   "_1_passwords_were_updated_": {
+      "message": "%1 lösenord uppdaterades."
+   },
+   "_1_was__2_": {
+      "message": "%1 är %2."
+   },
+   "_1_will_no_longer_be_downloaded_": {
+      "message": "%1 kommer inte kunna laddas ner"
+   },
+   "_1_will_now_be_downloaded_": {
+      "message": "%1 kan nu laddas ner"
+   },
+   "_A_C_T_I_O_N": {
+      "message": "ÅTGÄRD"
+   },
+   "_A__Shared__Folder_will_appear_in_the_vault_as__Shared___Folder__Name__": {
+      "message": "En delad mapp visas i valvet som delad-'mappens namn'."
+   },
+   "_A__Zupper": {
+      "message": "A-Z"
+   },
+   "_A_batch_of__S_M_S_passcodes_have_been_sent_to_your_mobile_device_": {
+      "message": "En uppsättning SMS-koder har skickats till din mobila enhet."
+   },
+   "_A_new_password_has_been_created____Would_you_like__Last_Pass_to_remember_this_as_a_password_change_for_this_site_": {
+      "message": "Ett nytt lösenord har skapats. Vill du att LastPass ska komma ihåg detta som en lösenordsförändring för den här webbplatsen?"
+   },
+   "_A_new_password_has_been_created____Would_you_like__Last_Pass_to_remember_this_password_change_for_this_site_": {
+      "message": "Ett nytt lösenord har skapats. Vill du att LastPass ska komma ihåg lösenordsförändringen för den här webbplatsen?"
+   },
+   "_A_new_password_has_been_generated_": {
+      "message": "Ett nytt lösenord har skapats!"
+   },
+   "_A_randomly_generated_password_": {
+      "message": "Ett slumpmässigt genererat lösenord."
+   },
+   "_A_required_update_is_available_for__Last_Pass___Please_press__O_K_to_begin_download_and_installation_": {
+      "message": "En nödvändig uppdatering är tillgänglig för LastPass. Tryck på OK för att påbörja hämtning och installation."
+   },
+   "_A_retry_file_has_been_found___This_likely_means_that_not_all_of_your_site_changes_have_been_saved___Would_you_like_to_delete_this_file_and_potentially_lose_some_changes_": {
+      "message": "En ångra-fil har hittats. Detta betyder troligen att alla dina ändringar inte har sparats. Vill du radera denna fil och eventuellt förlora vissa ändringar?"
+   },
+   "_A_server_error_occurred_while_processing_your_request_": {
+      "message": "Ett serverfel uppstod medan din förfrågan behandlades."
+   },
+   "_A_site_that_has_been_previously_shared_cannot_be_moved_to_a_shared_folder____Would_you_like_to_make_a_copy_": {
+      "message": "En webbplats som tidigare har varit delad kan inte flyttas till en delad folder.\n\nVill du göra en kopia?"
+   },
+   "_About": {
+      "message": "Om"
+   },
+   "_About___": {
+      "message": "Om..."
+   },
+   "_Abu__Dhabi___Muscat___Tbilisi___Izhevsk": {
+      "message": "Abu Dhabi, Muscat, Tbilisi, Izhevsk"
+   },
+   "_Accept": {
+      "message": "Acceptera"
+   },
+   "_Accepted": {
+      "message": "Accepterad"
+   },
+   "_Access_a__Secure__Note": {
+      "message": "Visa en Säker Anteckning"
+   },
+   "_Access_a__Site": {
+      "message": "Visa en Sida"
+   },
+   "_Access_a__Site_s__Password": {
+      "message": "Visa en Sidas Lösenord"
+   },
+   "_Access_an__Identity": {
+      "message": "Visa en Identitet"
+   },
+   "_Account__Email": {
+      "message": "Konto Email"
+   },
+   "_Account__Number": {
+      "message": "Kontonummer"
+   },
+   "_Account__Settings": {
+      "message": "Kontoinställningar"
+   },
+   "_Account__Status": {
+      "message": "Konto-Status"
+   },
+   "_Account__Type": {
+      "message": "Kontotyp"
+   },
+   "_Account___1__unlinked_": {
+      "message": "Konto (%1) avlänkat."
+   },
+   "_Account_number": {
+      "message": "Kontonummer"
+   },
+   "_Actionproper": {
+      "message": "Åtgärd"
+   },
+   "_Actions": {
+      "message": "Åtgärder"
+   },
+   "_Add": {
+      "message": "Lägg till"
+   },
+   "_Add__Credit__Card": {
+      "message": "Lägg till kreditkort"
+   },
+   "_Add__Credit__Card_profile": {
+      "message": "Lägg till kontokortsprofil"
+   },
+   "_Add__Field": {
+      "message": "Lägg till fält"
+   },
+   "_Add__File": {
+      "message": "Lägg till fil"
+   },
+   "_Add__Form__Field": {
+      "message": "Lägg Till Formulärfält"
+   },
+   "_Add__Form__Fill_profile": {
+      "message": "Lägg till formulärprofil"
+   },
+   "_Add__Identity": {
+      "message": "Lägg till identitet"
+   },
+   "_Add__New__Folder": {
+      "message": "Lägg till Ny Mapp"
+   },
+   "_Add__New__Site": {
+      "message": "Lägg till ny webbplats"
+   },
+   "_Add__New_folder": {
+      "message": "Lägg Till Ny Mapp"
+   },
+   "_Add__Note": {
+      "message": "Lägg till anteckning"
+   },
+   "_Add__Profile": {
+      "message": "Lägg till profil"
+   },
+   "_Add__Secure__Note": {
+      "message": "Lägg till säker anteckning"
+   },
+   "_Add__Shared__Folder": {
+      "message": "Lägg Till Delad Mapp"
+   },
+   "_Add__Site": {
+      "message": "Ny webbplats"
+   },
+   "_Add__Site_to__Favorites": {
+      "message": "Lägg till Sida till Favoriter"
+   },
+   "_Add__Wi_Fi_passwords__membership__I_Ds__or_any_other_info_you_want_to_keep_safe_": {
+      "message": "Lägg till WiFi lösenord, Medlems Id'n, eller annan information du vill hålla säkert"
+   },
+   "_Add_an__Identity": {
+      "message": "Lägg till en Identitet"
+   },
+   "_Add_another_custom_field": {
+      "message": "Lägg till ytterligare ett eget fält"
+   },
+   "_Add_payment_cards_or_address_profiles_to_type_less_when_shopping_online_": {
+      "message": "Lägg till profiler för bankkort och adresser så behöver du inte fylla i uppgifter varje gång du handlar på nätet."
+   },
+   "_Additional__Options": {
+      "message": "Mer Alternativ"
+   },
+   "_Address": {
+      "message": "Adress"
+   },
+   "_Address_1": {
+      "message": "Adress 1"
+   },
+   "_Address_2": {
+      "message": "Adress 2"
+   },
+   "_Address_3": {
+      "message": "Adress 3"
+   },
+   "_Adelaide": {
+      "message": "Adelaide"
+   },
+   "_Admin__Console": {
+      "message": "Adminkonsoll"
+   },
+   "_Admin__Tools": {
+      "message": "Administrationsverktyg"
+   },
+   "_Administrator": {
+      "message": "Administratör"
+   },
+   "_Advanced": {
+      "message": "Avancerat"
+   },
+   "_Advanced__Options": {
+      "message": "Avancerade alternativ"
+   },
+   "_Advanced__Options_": {
+      "message": "Avancerade Alternativ"
+   },
+   "_Advanced__Settings": {
+      "message": "Avancerade inställningar"
+   },
+   "_Advanced__Settings_": {
+      "message": "Avancerade Inställningar"
+   },
+   "_Advanced__Tools": {
+      "message": "Avancerade verktyg"
+   },
+   "_Afghanistan": {
+      "message": "Afghanistan"
+   },
+   "_Agent__Name": {
+      "message": "Namn på agent"
+   },
+   "_Agent__Phone": {
+      "message": "Telefonnummer för agent"
+   },
+   "_Aland__Islands": {
+      "message": "Åland"
+   },
+   "_Alaska": {
+      "message": "Alaska"
+   },
+   "_Albania": {
+      "message": "Albanien"
+   },
+   "_Alerts": {
+      "message": "Varningar"
+   },
+   "_Algeria": {
+      "message": "Algeriet"
+   },
+   "_Alias": {
+      "message": "Alias"
+   },
+   "_All": {
+      "message": "Alla"
+   },
+   "_Allow__All__Character__Types": {
+      "message": "Tillåt alla teckentyper"
+   },
+   "_Allow__Last_Pass_to_find_insecure_data_on_your_computer_": {
+      "message": "Vill du låta LastPass söka efter osäkra data på din dator?"
+   },
+   "_Allow__Recipient_to__View__Password": {
+      "message": "Tillåt Mottagare att se lösenord"
+   },
+   "_Allow_reverting__Last_Pass_master_password_changes": {
+      "message": "Tillåt att återkalla ändringar av LastPass huvudlösenord"
+   },
+   "_Almaty": {
+      "message": "Almaty"
+   },
+   "_Alt": {
+      "message": "Alt"
+   },
+   "_Alternatively__enter_a_passcode_in_the_box_below": {
+      "message": "Alternativt, ange ett lösenord i rutan nedan"
+   },
+   "_Alternatively__enter_a_passcode_in_the_box_below_": {
+      "message": "Alternativt, ange ett lösenord i rutan nedan:"
+   },
+   "_Always__Choose__Profile_and__Credit__Card": {
+      "message": "Alltid välj profil och kreditkort"
+   },
+   "_American__Samoa": {
+      "message": "Amerikanska Samoa"
+   },
+   "_Amman___Athens___Istanbul___Beirut___Cairo___Jerusalem": {
+      "message": "Amman, Aten, Istanbul, Beirut, Kairo, Jerusalem"
+   },
+   "_Amsterdam___Berlin___Rome___Vienna___Prague___Brussels": {
+      "message": "Amsterdam, Berlin, Rom, Wien, Prag, Bryssel"
+   },
+   "_An__Identity_helps_you_organize_your_vault_into_convenient__subvaults____Group_your__Sites___Secure__Notes__and__Form__Fill_profiles_based_on_what_you_need_in_specific_situations__such_as___Home__and___Work____When_you_switch__Identities__you_ll_only_see_and_fill_the_items_you_added_to_your_current_identity_": {
+      "message": "En identitet hjälper dig att organisera ditt valv i undervalv. Gruppera dina webbplatser, säkra anteckningar och formulärprofiler baserat på situation såsom 'Hem' och 'Arbete'. När du byter identitet ser du och fyller du enbart i de uppgifter som du lägger till denna identitet."
+   },
+   "_An__Update_is__Available___Would_you_like_to_install_": {
+      "message": "En uppdatering finns tillgänglig. Vill du installera den?"
+   },
+   "_An_error_has_been_encountered_while_loading_your_sites___Please_relogin_": {
+      "message": "Ett fel har uppstått vid inläsning av dina webbplatser. Vänligen logga in igen."
+   },
+   "_An_error_occurred": {
+      "message": "Ett fel uppstod"
+   },
+   "_An_error_occurred_while_importing_your__Google__Chrome_passwords_": {
+      "message": "Ett fel inträffade när du importerade dina Google Chrome-lösenord."
+   },
+   "_An_error_occurred_while_re_encrypting_your_data": {
+      "message": "Ett fel uppstod medan data återkrypterades"
+   },
+   "_An_error_occurred_while_uploading_your_data____Would_you_like_to_retry_": {
+      "message": "Ett fel har inträffat i överföringen av din information. Vill du försöka igen?"
+   },
+   "_An_item_that_has_been_individually_shared_with_you_cannot_be_moved_into_a_shared_folder_": {
+      "message": "Ett objekt som individuellt har delats med dig kan inte flyttas till en delad katalog."
+   },
+   "_An_item_that_you_have_already_shared_individually_cannot_be_moved_to_a_shared_folder_": {
+      "message": "Ett objekt som du redan har delat individuellt kan inte flyttas till en delad katalog."
+   },
+   "_Andorra": {
+      "message": "Andorra"
+   },
+   "_Angola": {
+      "message": "Angola"
+   },
+   "_Anguilla": {
+      "message": "Anguilla"
+   },
+   "_Antarctica": {
+      "message": "Antarktis"
+   },
+   "_Antigua_and__Barbuda": {
+      "message": "Antigua och Barbuda"
+   },
+   "_Appearance": {
+      "message": "Utseende"
+   },
+   "_Application_": {
+      "message": "Applikation:"
+   },
+   "_Applications": {
+      "message": "Applikationer"
+   },
+   "_April": {
+      "message": "april"
+   },
+   "_Are_you_sure___Using__remember_password__makes_it_easier_to_forget_your_password_and_decreases_your_security_if_your_device_is_infected_or_stolen_": {
+      "message": "Är du säker? Användning av 'kom ihåg lösenord' gör det lättare att glömma ditt huvudlösenord och försämrar din säkerhet om din enhet drabbas av virus eller blir stulen."
+   },
+   "_Are_you_sure_you_do_not_want__Last_Pass_to_tell_you_when_your__Master__Password_is_at_risk_": {
+      "message": "Är du säker på att du inte vill få en varning om ditt huvudlösenord till LastPass är i fara?"
+   },
+   "_Are_you_sure_you_want_to_cancel_this_invitation_": {
+      "message": "Är du säker på att du vill avbryta denna inbjudan?"
+   },
+   "_Are_you_sure_you_want_to_delete__1_": {
+      "message": "Är du säker att du vill radera %1?"
+   },
+   "_Are_you_sure_you_want_to_delete_field__1_": {
+      "message": "Är du säker att du vill radera fält %1?"
+   },
+   "_Are_you_sure_you_want_to_delete_this_": {
+      "message": "Är du säker på att du vill radera detta?"
+   },
+   "_Are_you_sure_you_want_to_delete_this_identity_": {
+      "message": "Är du säker på att du vill ta bort denna identitet?"
+   },
+   "_Are_you_sure_you_want_to_delete_this_site_": {
+      "message": "Är du säker på att du vill ta bort den här webbplatsen?"
+   },
+   "_Are_you_sure_you_want_to_have__Last_Pass_remember_your_password____This_will_significantly_decrease_the_security_of_your__Last_Pass_account_": {
+      "message": "Vill du verkligen att LastPass ska komma ihåg ditt lösenord? Detta minskar säkerheten betydligt för ditt LastPass-konto!"
+   },
+   "_Are_you_sure_you_want_to_purge__1___It_will_be_permanently_deleted_from__Last_Pass_": {
+      "message": "Är du säker att du vill gallra %1? Den kommer bli permanent raderad från LastPass."
+   },
+   "_Are_you_sure_you_want_to_remove__1_from_your_vault_": {
+      "message": "Är du säker att du vill ta bort %1 från ditt valv?"
+   },
+   "_Are_you_sure_you_want_to_restore__1_to_your_vault_": {
+      "message": "Är du säker att du vill återställa %1 till ditt valv?"
+   },
+   "_Are_you_sure_you_want_to_revoke_access_for__1___They_will_no_longer_be_able_to_access_this_item_": {
+      "message": "Är du säker att du vill häva åtkomst för %1? De kommer inte längre kunna nå detta objekt."
+   },
+   "_Are_you_sure_you_want_to_save_an_empty_password_": {
+      "message": "Är du säker på att du vill spara ett tomt lösenord?"
+   },
+   "_Are_you_sure_you_want_to_share_this_item____Doing_so_will_cause_you_to_lose_any_changes_you_have_made_to_this_item_": {
+      "message": "Är du säker på att du vill dela detta objekt? Om du gör det kommer alla ändringar du har gjort för denna post att förloras!"
+   },
+   "_Are_you_sure_you_want_to_view_history____Doing_so_will_cause_you_to_lose_any_changes_you_have_made_to_this_item_": {
+      "message": "Är du säker på att du vill visa historiken? Om du gör det kommer alla ändringar du har gjort för denna post att förloras!"
+   },
+   "_Are_you_sure_you_would_like_to_change_your__Last_Pass_password_for_this_site_": {
+      "message": "Är du säker på att du vill ändra ditt lösenord i LastPass för denna sida?"
+   },
+   "_Are_you_sure_you_would_like_to_copy_your__Last_Pass_site_s__U_R_L_to_the_clipboard_": {
+      "message": "Är du säker på att du vill kopiera den i LastPass sparade URL för denna sida till Urklipp?"
+   },
+   "_Are_you_sure_you_would_like_to_copy_your__Last_Pass_site_s_password_to_the_clipboard_": {
+      "message": "Är du säker på att du vill kopiera ditt LastPass lösenord till urklipp?"
+   },
+   "_Are_you_sure_you_would_like_to_copy_your__Last_Pass_site_s_username_to_the_clipboard_": {
+      "message": "Är du säker på att du vill kopiera ditt användarnamn från LastPass för denna sida till urklipp?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_": {
+      "message": "Är du säker på att du vill ta bort?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_the_selected_items_": {
+      "message": "Är du säker på att du vill ta bort markerade objekt?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_the_selected_sites_": {
+      "message": "Vill du verkligen radera markerade webbplatser?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this__Form__Fill_from_your__Last_Pass_vault_": {
+      "message": "Är du säker att du vill radera denna formulärifyllnad från ditt LastPass valv?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_application_": {
+      "message": "Vill du verkligen radera den här applikationen?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_field_": {
+      "message": "Vill du verkligen radera det här fältet?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_form_fill_profile_": {
+      "message": "Vill du verkligen radera den här formulärprofilen?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_generated_password_": {
+      "message": "Vill du verkligen radera det här genererade lösenordet?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_group_": {
+      "message": "Är du du säker på att du vill ta bort den här mappen?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_never__U_R_L_": {
+      "message": "Vill du verkligen radera denna 'aldrig'-URL?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_secure_note_": {
+      "message": "Vill du verkligen radera den här säkra anteckningen?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_site_": {
+      "message": "Vill du verkligen radera den här sidan?"
+   },
+   "_Are_you_sure_you_would_like_to_delete_this_site_from_your__Last_Pass_vault_": {
+      "message": "Är du säker att du vill radera denna webbplats från ditt LastPass valv?"
+   },
+   "_Are_you_sure_you_would_like_to_remove_this_attachment_": {
+      "message": "Är du säker på att du vill ta bort denna bilaga?"
+   },
+   "_Are_you_sure_you_would_like_to_save_a_new_site_to_your__Last_Pass_vault_": {
+      "message": "Är du säker på att du vill spara en ny sida till ditt LastPass-valv?"
+   },
+   "_Are_you_sure_you_would_like_your__Last_Pass__Form__Fill_information_to_be_filled_into_the_following_site_": {
+      "message": "Är du säker på att LastPass Form Fill information ska fyllas i formuläret på denna sida?"
+   },
+   "_Are_you_sure_you_would_like_your__Last_Pass_site_information_to_be_filled_into_the_following_site_": {
+      "message": "Är du säker på att du vill att din information om webbplatsen i LastPass ska fyllas i på följande webbplats?"
+   },
+   "_Argentina": {
+      "message": "Argentina"
+   },
+   "_Arizona": {
+      "message": "Arizona"
+   },
+   "_Armenia": {
+      "message": "Armenien"
+   },
+   "_Arts": {
+      "message": "Konst"
+   },
+   "_Aruba": {
+      "message": "Aruba"
+   },
+   "_Astana___Dhaka___Nobosibirsk": {
+      "message": "Astana, Dhaka, Novosibirsk"
+   },
+   "_At_least_this_many_numbers_will_be_in_a_generated_password_": {
+      "message": "Åtminstone så här många siffror kommer att vara i ett genererat lösenord."
+   },
+   "_Atlantic__Time___Canada____Manaus___Santiago": {
+      "message": "Atlanttid (Kanada), Manaus, Santiago"
+   },
+   "_Attachments_": {
+      "message": "Bifogningar:"
+   },
+   "_Auckland___Wellington": {
+      "message": "Auckland, Wellington"
+   },
+   "_August": {
+      "message": "augusti"
+   },
+   "_Australia": {
+      "message": "Australien"
+   },
+   "_Austria": {
+      "message": "Österrike"
+   },
+   "_Authenticate": {
+      "message": "Verifiera"
+   },
+   "_Authentication": {
+      "message": "Autentisering"
+   },
+   "_Authentication__Failed_": {
+      "message": "Verifiering misslyckades."
+   },
+   "_Auto_Fill": {
+      "message": "Autofyll"
+   },
+   "_Auto_Login": {
+      "message": "Autoinloggning"
+   },
+   "_Auto__Change__Password": {
+      "message": "Ändra Lösenord Automatiskt"
+   },
+   "_Auto__Fill": {
+      "message": "Auto fyll"
+   },
+   "_Automatically__Fill__Login__Information": {
+      "message": "Fyll i inloggningsinformation automatiskt"
+   },
+   "_Automatically__Log_out_after_idle__mins_": {
+      "message": "Automatisk utloggning efter inaktivitet (minuter)"
+   },
+   "_Automatically__Log_out_when_all_browsers_are_closed_and__Chrome_has_been_closed_for__mins_": {
+      "message": "Automatisk utloggning när alla webbläsare är stängda och Chrome har varit stängd i (minuter)"
+   },
+   "_Automatically__Logoff_after_idle__mins_": {
+      "message": "Automatisk utloggning efter viloläge (minuter)"
+   },
+   "_Automatically__Logoff_when_all_browsers_are_closed_and__Chrome_has_been_closed_for__mins_": {
+      "message": "Logga ut automatiskt när alla webbläsare är stängda och Chrome har varit inaktivt i (minuter)"
+   },
+   "_Automatically_login_to_sites_if_time_since_last_login____seconds_": {
+      "message": "Automatisk inloggning till webbplatser om tiden sedan senaste inloggning > (sekunder)"
+   },
+   "_Automatically_logoff_devices_when_logging_in_from_a_different_device": {
+      "message": "Logga automatiskt ut enheter vid inloggning från annan enhet"
+   },
+   "_Available__Items": {
+      "message": "Tillgängliga objekt"
+   },
+   "_Avoid__Ambiguous__Characters": {
+      "message": "Undvik tvetydiga tecken"
+   },
+   "_Azerbaijan": {
+      "message": "Azerbajdzjan"
+   },
+   "_Azores": {
+      "message": "Azorerna"
+   },
+   "_B_A_C_K_U_P_P_E_R": {
+      "message": "TILLBAKA"
+   },
+   "_B_E_G_I_N": {
+      "message": "STARTA"
+   },
+   "_Back": {
+      "message": "Bakåt"
+   },
+   "_Baghdad": {
+      "message": "Bagdad"
+   },
+   "_Bahamas": {
+      "message": "Bahamas"
+   },
+   "_Bahrain": {
+      "message": "Bahrain"
+   },
+   "_Baku___Yerevan": {
+      "message": "Baku, Jerevan"
+   },
+   "_Bangkok___Hanoi___Jakarta___Krasnoyarsk": {
+      "message": "Bangkok, Hanoi, Jakarta, Krasnoyarsk"
+   },
+   "_Bangladesh": {
+      "message": "Bangladesh"
+   },
+   "_Bank__Account": {
+      "message": "Bankkonto"
+   },
+   "_Bank__Name": {
+      "message": "Banknamn"
+   },
+   "_Bank_accountformfill": {
+      "message": "Bankkonto"
+   },
+   "_Bank_name": {
+      "message": "Bankens namn"
+   },
+   "_Barbados": {
+      "message": "Barbados"
+   },
+   "_Before_you_can_use__Last_Pass__you_must_first_connect_your_fingerprint_reader_and_enroll_one_or_more_fingers_": {
+      "message": "Innan du kan använda LastPass måste du först ansluta din fingeravtrycksläsare och registrera ett eller flera fingrar."
+   },
+   "_Beijing___Hong__Kong___Singapore___Taipei___Irkutsk": {
+      "message": "Beijing, Hong Kong, Singapore, Taipei, Irkutsk"
+   },
+   "_Belarus": {
+      "message": "Vitryssland"
+   },
+   "_Belgium": {
+      "message": "Belgien"
+   },
+   "_Belize": {
+      "message": "Belize"
+   },
+   "_Benin": {
+      "message": "Benin"
+   },
+   "_Bermuda": {
+      "message": "Bermuda"
+   },
+   "_Bhutan": {
+      "message": "Bhutan"
+   },
+   "_Binary__Component_": {
+      "message": "Binärkomponent:"
+   },
+   "_Birthday": {
+      "message": "Födelsedag"
+   },
+   "_Bit__Strength": {
+      "message": "Bitstyrka"
+   },
+   "_Blacklist": {
+      "message": "Ditt konto har spärrats temporärt (i fem minuter) p.g.a. för många felaktiga inloggningsförsök."
+   },
+   "_Blog": {
+      "message": "Blogg"
+   },
+   "_Bolivia": {
+      "message": "Bolivia"
+   },
+   "_Bookmarklets": {
+      "message": "Bookmarklets"
+   },
+   "_Bosnia_and__Herzegovina": {
+      "message": "Bosnien och Hercegovina"
+   },
+   "_Botswana": {
+      "message": "Botswana"
+   },
+   "_Bouvet__Island": {
+      "message": "Bouvetön"
+   },
+   "_Branch__Address": {
+      "message": "Filialadress"
+   },
+   "_Branch__Phone": {
+      "message": "Filialnummer"
+   },
+   "_Brazil": {
+      "message": "Brasilien"
+   },
+   "_Brisbane___Guam___Port__Moresby___Vladivostok": {
+      "message": "Brisbane, Guam, Port Moresby, Vladivostok"
+   },
+   "_British__Indian__Ocean__Territory": {
+      "message": "Brittiska Indiska oceanöarna"
+   },
+   "_Browse_the_web_as_you_normally_would_and__Last_Pass_will_automatically_remember_passwords_as_you_enter_them_": {
+      "message": "Surfa på webben precis som vanligt och låt LastPass komma ihåg dina lösenord automatiskt när du skriver in dem."
+   },
+   "_Brunei__Darussalam": {
+      "message": "Brunei"
+   },
+   "_Buenos__Aires___Georgetown": {
+      "message": "Buenos Aires, Georgetown"
+   },
+   "_Built_": {
+      "message": "Byggd:"
+   },
+   "_Bulgaria": {
+      "message": "Bulgarien"
+   },
+   "_Burkina__Faso": {
+      "message": "Burkina Faso"
+   },
+   "_Burundi": {
+      "message": "Burundi"
+   },
+   "_Business": {
+      "message": "Företag"
+   },
+   "_But__I_m_a_forgetful_person___what_should__I_do_if__I_forget_my_password_": {
+      "message": "Men, jag är så glömsk... Vad gör jag ifall jag glömmer lösenordet då?"
+   },
+   "_By_sharing_this_folder_with_other__Last_Pass_users__they_will_have_access_to_all_sites__passwords__and_secure_notes_in_this_folder___This__Shared__Folder_will_appear_in_their_vault_after_you_assign_it_": {
+      "message": "Genom att dela den här mappen med andra LastPass-användare"
+   },
+   "_C_S_V__Files": {
+      "message": "CSV-filer"
+   },
+   "_Cambodia": {
+      "message": "Kambodja"
+   },
+   "_Cameroon": {
+      "message": "Kamerun"
+   },
+   "_Can_t_find_hidden__Last_Pass_window": {
+      "message": "Kan inte hitta gömda LastPass-fönster"
+   },
+   "_Canada": {
+      "message": "Kanada"
+   },
+   "_Canary__Islands": {
+      "message": "Kanarieöarna"
+   },
+   "_Canberra___Melbourne___Sydney___Hobart": {
+      "message": "Canberra, Melbourne, Sydney, Hobart"
+   },
+   "_Cancel": {
+      "message": "Avbryt"
+   },
+   "_Cancel__Invitation": {
+      "message": "Avbryt Inbjudan"
+   },
+   "_Cape__Verde": {
+      "message": "Kap Verde"
+   },
+   "_Cape__Verde__Is_": {
+      "message": "Kap Verde-öarna"
+   },
+   "_Caracas": {
+      "message": "Caracas"
+   },
+   "_Casablanca___Monrovia___Reykjavik": {
+      "message": "Casablanca, Monrovia, Reykjavik"
+   },
+   "_Catalan": {
+      "message": "Katalanska"
+   },
+   "_Cayman__Islands": {
+      "message": "Caymanöarna"
+   },
+   "_Central__African__Republic": {
+      "message": "Centralafrikanska republiken"
+   },
+   "_Central__America___Saskatchewan": {
+      "message": "Centralamerika, Saskatchewan"
+   },
+   "_Central__Time___U_S____Canada____Guadalajara___Mexico__City": {
+      "message": "Centraltid (USA och Kanada), Guadalajara, Mexico City"
+   },
+   "_Chad": {
+      "message": "Tchad"
+   },
+   "_Change": {
+      "message": "Ändra"
+   },
+   "_Change__Group__Name": {
+      "message": "Byt namn på mapp"
+   },
+   "_Change__Password": {
+      "message": "Byt lösenord"
+   },
+   "_Change__Password__Now": {
+      "message": "Ändra Lösenord Nu"
+   },
+   "_Change__Passwords__Now": {
+      "message": "Ändra lösenord nu"
+   },
+   "_Change__Your__Password": {
+      "message": "Ändra ditt lösenord"
+   },
+   "_Changes_you_have_made_have_not_been_saved___Are_you_sure_you_want_to_close_": {
+      "message": "Ändringar du har gjort har inte sparats. Är du säker att du vill stänga?"
+   },
+   "_Check__For__Updates": {
+      "message": "Sök efter uppdateringar"
+   },
+   "_Check_this_box_to_fine_tune_how_your_password_is_generated_": {
+      "message": "Markera rutan för att finjustera hur ditt lösenord genereras."
+   },
+   "_Checkbox": {
+      "message": "Kryssruta"
+   },
+   "_Checking__For__Updates___": {
+      "message": "Söker efter uppdateringar..."
+   },
+   "_Chennai___Kolkata___Mumbai___New__Delhi___Sri__Jayawardenepura": {
+      "message": "Chennai, Kolkata, Mumbai, New Delhi, Sri Jayawardenepura"
+   },
+   "_Chile": {
+      "message": "Chile"
+   },
+   "_China": {
+      "message": "Kina"
+   },
+   "_Chinese___Simplified_": {
+      "message": "Kinesiska (förenklad)"
+   },
+   "_Chinese___Traditional_": {
+      "message": "Kinesiska (traditionell)"
+   },
+   "_Choose__Profile_and__Credit__Card": {
+      "message": "Välj profil och kreditkort"
+   },
+   "_Choose_a_source_above_": {
+      "message": "Välj en källa ovan."
+   },
+   "_Christmas__Island": {
+      "message": "Julön"
+   },
+   "_Chrome": {
+      "message": "Chrome"
+   },
+   "_City____Town": {
+      "message": "Ort"
+   },
+   "_Clear": {
+      "message": "Rensa"
+   },
+   "_Clear__Clipboard_after_use__seconds_": {
+      "message": "Rensa urklipp efter användning (sekunder)"
+   },
+   "_Clear__Forms": {
+      "message": "Rensa formulär"
+   },
+   "_Clear__Local__Cache": {
+      "message": "Rensa lokal cache"
+   },
+   "_Clear__Most__Recent": {
+      "message": "Rensa Senaste"
+   },
+   "_Clear__Recent": {
+      "message": "Rensa senaste"
+   },
+   "_Clear_filled_fields_on_log_out": {
+      "message": "Rensa fyllda fält vid utloggning"
+   },
+   "_Clear_filled_fields_on_logoff": {
+      "message": "Rensa ifyllda fält vid utloggning"
+   },
+   "_Click__Continue_to_start_using__Last_Pass_": {
+      "message": "Klicka 'Fortsätt' för att börja använda LastPass."
+   },
+   "_Click__Here_to__Save__Your__First__Note_": {
+      "message": "Klicka Här för att Spara Din Första Anteckning!"
+   },
+   "_Click__Here_to__Save__Your__First__Profile_": {
+      "message": "Klicka Här för att Spara Din Första Profil!"
+   },
+   "_Click__Here_to__Save__Your__First__Site_": {
+      "message": "Klicka Här för att Spara Din Första Sida!"
+   },
+   "_Click__Here_to__Share__Your__First__Item_": {
+      "message": "Klicka Här för att Dela "
+   },
+   "_Click__Icons_in__Fields": {
+      "message": "Klicka på fältikonerna"
+   },
+   "_Click_here_for_instructions_on_importing_from__Robo_Form_": {
+      "message": "Klicka här för instruktioner om importering från RoboForm"
+   },
+   "_Click_here_for_instructions_on_importing_from_a_generic__C_S_V_file_": {
+      "message": "Klicka här för instruktioner om att importera från en generisk CSV-fil."
+   },
+   "_Click_here_to_initiate_multifactor_authentication_on_your_phone_or_mobile_device_": {
+      "message": "Klicka här för att påbörja multifaktorautentisering på din telefon eller mobila enhet."
+   },
+   "_Click_here_to_launch_account_settings": {
+      "message": "Klicka här för att visa kontoinställningar"
+   },
+   "_Click_here_to_launch_feedback": {
+      "message": "Klicka här för att ge feedback"
+   },
+   "_Click_here_to_view_the__Last_Pass__User__Manual": {
+      "message": "Klicka här för att se LastPass-manualen"
+   },
+   "_Click_on_a_username_or_formfill_profile_row_to_choose_how__Last_Pass_will_auto_fill_the_current_web_page_": {
+      "message": "Välj ett användarnamn eller formulärprofil för att välja hur LastPass kommer att automatisk fyller i den här webbsidan."
+   },
+   "_Click_on_the_icons_at_the_bottom_for_additional_actions_": {
+      "message": "Klicka på ikonerna längst ner för ytterligare åtgärder."
+   },
+   "_Click_to_fine_tune_how_your_password_is_generated_": {
+      "message": "Klicka för att finjustera hur ditt lösenord genereras."
+   },
+   "_Click_to_hide_advanced_options_": {
+      "message": "Klicka för att dölja avancerade inställningar"
+   },
+   "_Clipperz": {
+      "message": "Clipperz"
+   },
+   "_Close": {
+      "message": "Stäng"
+   },
+   "_Close_this_window": {
+      "message": "Stäng detta fönster"
+   },
+   "_Co_pay": {
+      "message": "Egenavgift"
+   },
+   "_Cocos___Keeling___Islands": {
+      "message": "Kokosöarna"
+   },
+   "_Collapse__All": {
+      "message": "Dölj alla"
+   },
+   "_Collapse__All__Folders": {
+      "message": "Dölj alla mappar"
+   },
+   "_Colombia": {
+      "message": "Colombia"
+   },
+   "_Comoros": {
+      "message": "Komorerna"
+   },
+   "_Company": {
+      "message": "Företag"
+   },
+   "_Company_Policy_Prohibits": {
+      "message": "Företagets policy förbjuder den här åtgärden."
+   },
+   "_Company__Phone": {
+      "message": "Telefonnummer arbete"
+   },
+   "_Company_policy_prevents_changing_some_settings__not_all_updates_have_been_saved_": {
+      "message": "Företagets policy förhindrar ändring av några inställningar. Alla uppdateringar har inte sparats."
+   },
+   "_Complete_": {
+      "message": "Klart!"
+   },
+   "_Configure__Form__Fill": {
+      "message": "Konfigurera formulärfyllaren"
+   },
+   "_Confirm": {
+      "message": "Bekräfta"
+   },
+   "_Confirm__Password": {
+      "message": "Bekräfta lösenord"
+   },
+   "_Congo": {
+      "message": "Kongo"
+   },
+   "_Congo__the__Democratic__Republic_of__The": {
+      "message": "Kongo, Demokratiska republiken"
+   },
+   "_Congratulations": {
+      "message": "Gratulerar"
+   },
+   "_Congratulations___Your_password_for__s_was_updated__and_is_now_saved_in_your__Last_Pass_vault___Your_change_will_sync_on_every_device_": {
+      "message": "Grattis! Ditt lösenord för %s uppdaterades och är nu sparat i LastPass valv. Din ändring kommer att synkroniseras på alla enheter."
+   },
+   "_Congratulations____You_re_one_password_closer_to_being_secure_on_the_internet____Your_password_has_been_changed__and_is_now_updated_through_your__Last_Pass_vault_on_every_device_": {
+      "message": "Grattis! Du är ett lösenord närmare att vara säker på internet. Ditt lösenord har ändrats, och är nu uppdaterat på varje enhet genom ditt LastPass valv."
+   },
+   "_Connection__Mode": {
+      "message": "Anslutningsläge"
+   },
+   "_Connection__Type": {
+      "message": "Anslutningstyp"
+   },
+   "_Contact": {
+      "message": "Kontakt"
+   },
+   "_Continue": {
+      "message": "Fortsätt"
+   },
+   "_Control_characters_found_in_selected_filename__will_not_process_it": {
+      "message": "Filnamnet innehåller kontrolltecken, och kan inte bearbetas"
+   },
+   "_Cook__Islands": {
+      "message": "Cooköarna"
+   },
+   "_Copy": {
+      "message": "Kopiera"
+   },
+   "_Copy__Note": {
+      "message": "Kopiera text"
+   },
+   "_Copy__Password": {
+      "message": "Kopiera lösenord"
+   },
+   "_Copy__U_R_L": {
+      "message": "Kopiera URL"
+   },
+   "_Copy__Username": {
+      "message": "Kopiera användarnamn"
+   },
+   "_Copyright_2008__Last_Pass___All__Rights__Reserved___Portions_of_this_software_were_licensed_from_third_parties_as_described_at_": {
+      "message": "Copyright 2008 LastPass. Alla rättigheter förbehålles.\nDelar av denna programvara har licensierats från tredje part vilka beskrivs här:"
+   },
+   "_Cost": {
+      "message": "Kostnad"
+   },
+   "_Costa__Rica": {
+      "message": "Costa Rica"
+   },
+   "_Cote__D_ivoire": {
+      "message": "Elfenbenskusten"
+   },
+   "_Country": {
+      "message": "Land"
+   },
+   "_Country__Restriction": {
+      "message": "Landsrestriktion"
+   },
+   "_County": {
+      "message": "Län"
+   },
+   "_Create__Account": {
+      "message": "Skapa konto"
+   },
+   "_Create__Group": {
+      "message": "Skapa mapp"
+   },
+   "_Create__Sub__Group": {
+      "message": "Skapa undermapp"
+   },
+   "_Create__Your__Last_Pass__Account": {
+      "message": "Skapa ditt LastPass-konto"
+   },
+   "_Create_an__Account": {
+      "message": "Skapa konto"
+   },
+   "_Create_an_account_now_": {
+      "message": "Skapa ett konto nu."
+   },
+   "_Create_and_manage_folders_of_shared_logins_and_notes_": {
+      "message": "Skapa och hantera kataloger med delade uppgifter och anteckningar."
+   },
+   "_Creating__Account___": {
+      "message": "Skapar konto..."
+   },
+   "_Credit__Card": {
+      "message": "Kreditkort"
+   },
+   "_Credit__Card__Number": {
+      "message": "Kreditkortsnummer"
+   },
+   "_Credit__Monitoring": {
+      "message": "Kreditövervakning"
+   },
+   "_Credit_cardformfill": {
+      "message": "Kontokort"
+   },
+   "_Croatia": {
+      "message": "Kroatien"
+   },
+   "_Ctrl": {
+      "message": "Ctrl"
+   },
+   "_Cuba": {
+      "message": "Kuba"
+   },
+   "_Custom__Value": {
+      "message": "Standardvärde"
+   },
+   "_Custom_field__": {
+      "message": "Anpassat fält nr"
+   },
+   "_Custom_fields": {
+      "message": "Anpassade fält"
+   },
+   "_Cyprus": {
+      "message": "Cypern"
+   },
+   "_Czech__Republic": {
+      "message": "Tjeckien"
+   },
+   "_Danish": {
+      "message": "Danska"
+   },
+   "_Darn___Passwords_": {
+      "message": "Darn! Passwords!"
+   },
+   "_Darwin": {
+      "message": "Darwin"
+   },
+   "_Dashlane": {
+      "message": "Dashlane"
+   },
+   "_Database": {
+      "message": "Databas"
+   },
+   "_Date": {
+      "message": "Datum"
+   },
+   "_Date__Enabled": {
+      "message": "Datum Aktiverad"
+   },
+   "_Date__Received": {
+      "message": "Datum Mottagen"
+   },
+   "_Date_of__Birth": {
+      "message": "Födelsedatum"
+   },
+   "_Debug": {
+      "message": "Debug"
+   },
+   "_Debug__Console": {
+      "message": "Felsökningskonsol"
+   },
+   "_December": {
+      "message": "december"
+   },
+   "_Declined": {
+      "message": "Avböjd"
+   },
+   "_Default": {
+      "message": "Standard"
+   },
+   "_Default__Form__Fill__Profile": {
+      "message": "Standardprofil för formulärfyllning"
+   },
+   "_Delete": {
+      "message": "Ta bort"
+   },
+   "_Delete__Cache": {
+      "message": "Ta bort cache"
+   },
+   "_Delete__Formfill__Profile": {
+      "message": "Radera profil för formulärfyllning"
+   },
+   "_Delete__Group": {
+      "message": "Radera mapp"
+   },
+   "_Delete__Identity_": {
+      "message": "Ta bort identitet?"
+   },
+   "_Delete__Selected": {
+      "message": "Ta bort markerade"
+   },
+   "_Delete__Site": {
+      "message": "Radera webbplats"
+   },
+   "_Delete__Site_": {
+      "message": "Radera webbplats?"
+   },
+   "_Delete_this_form_fill_profile": {
+      "message": "Radera den här formulärprofilen"
+   },
+   "_Deleted__Items": {
+      "message": "Raderade objekt"
+   },
+   "_Denmark": {
+      "message": "Danmark"
+   },
+   "_Description": {
+      "message": "Beskrivning"
+   },
+   "_Dining": {
+      "message": "Måltid"
+   },
+   "_Disable": {
+      "message": "Inaktivera"
+   },
+   "_Disable__Chrome__Password__Manager": {
+      "message": "Inaktivera Chrome lösenordshanterare"
+   },
+   "_Disable__Email__Verification": {
+      "message": "Avaktivera E-post Verifiering "
+   },
+   "_Disable__Insecure__Chrome__Password__Manager": {
+      "message": "Inaktivera Chromes osäkra lösenordshanterare"
+   },
+   "_Disable__Last_Pass": {
+      "message": "Inaktivera LastPass"
+   },
+   "_Disable__Last_Pass__Master__Password_risk_warning_on_this_site_": {
+      "message": "Stäng av riskvarningen om ditt LastPass lösenord på denna webbplats?"
+   },
+   "_Disable__Last_Pass_for_this_page_or_the_entire_site_": {
+      "message": "Inaktivera LastPass för denna sida eller hela webbplatsen?"
+   },
+   "_Disable__Multifactor": {
+      "message": "Inaktivera Multifaktor"
+   },
+   "_Disable__Multifactor__Authentication": {
+      "message": "Inaktivera multifaktor-autentisering"
+   },
+   "_Disable__Page": {
+      "message": "Inaktivera sida"
+   },
+   "_Disable__Scroll": {
+      "message": "Avaktivera Scrollfunktion"
+   },
+   "_Disable__Single_factor__Authentication": {
+      "message": "Stäng av enfaktorsautentisering"
+   },
+   "_Disable__Site": {
+      "message": "Inaktivera webbplats"
+   },
+   "_Disable_alert___": {
+      "message": "Inaktivera varning..."
+   },
+   "_Disable_alert_for_this_site": {
+      "message": "Inaktivera varningar för den här webbplatsen"
+   },
+   "_Disable_all_weak_duplicate_site_alerts": {
+      "message": "Inaktivera alla svaga/dubbla webbplats-varningar"
+   },
+   "_Disable_for_all_sites": {
+      "message": "Inaktivera på alla webbplatser"
+   },
+   "_Disallow_logins_from__Tor_networks": {
+      "message": "Tillåt ej inloggning från Tor nätverk"
+   },
+   "_Discard_changes_and_close_this_window": {
+      "message": "Ignorera ändringar och stäng fönstret"
+   },
+   "_Dismiss": {
+      "message": "Avvisa"
+   },
+   "_Djibouti": {
+      "message": "Djibouti"
+   },
+   "_Do_not_overwrite_fields_that_are_already_filled": {
+      "message": "Skriv inte över fält som redan är ifyllda"
+   },
+   "_Do_not_re_prompt_for_": {
+      "message": "Fråga inte igen förrän om "
+   },
+   "_Do_not_show_this_message_for_this_domain": {
+      "message": "Visa inte detta meddelande för den här domänen"
+   },
+   "_Do_you_like__Last_Pass_": {
+      "message": "Gillar du LastPass?"
+   },
+   "_Do_you_really_want_to_quit____You_cannot_use__Last_Pass_without_creating_an_account_": {
+      "message": "Vill du verkligen avsluta? Du kan inte använda LastPass utan att skapa ett konto."
+   },
+   "_Do_you_want_to_continue_": {
+      "message": "Vill du forsätta?"
+   },
+   "_Dominica": {
+      "message": "Dominica"
+   },
+   "_Dominican__Republic": {
+      "message": "Dominikanska republiken"
+   },
+   "_Down": {
+      "message": "Ned"
+   },
+   "_Dr": {
+      "message": "Dr"
+   },
+   "_Driver_s__License": {
+      "message": "Körkort"
+   },
+   "_Duplicate_password": {
+      "message": "Kopiera lösenordet"
+   },
+   "_Dutch": {
+      "message": "Nederländska"
+   },
+   "_E_R_R_O_R": {
+      "message": "FEL"
+   },
+   "_E_R_R_O_R___Moving_sites_between_shared_folders_is_currently_not_supported_": {
+      "message": "FEL: Att flytta sidor mellan delade mappar stöds ej för närvarande."
+   },
+   "_E_R_R_O_R___You_are_not_allowed_to_move_sites_out_of_shared_folders___Delete_is_the_only_supported_operation_": {
+      "message": "FEL: Du får inte flytta ut webbplatser från delade mappar. Radering är den enda möjligheten."
+   },
+   "_Eastern__Time___U_S____Canada_": {
+      "message": "Östkusttid (USA & Kanada)"
+   },
+   "_Ecuador": {
+      "message": "Ecuador"
+   },
+   "_Edit": {
+      "message": "Ändra"
+   },
+   "_Edit__Access": {
+      "message": "Redigera Åtkomst"
+   },
+   "_Edit__Application": {
+      "message": "Redigera program"
+   },
+   "_Edit__Application__Fields": {
+      "message": "Redigera applikationsområden"
+   },
+   "_Edit__Credit__Card_profile": {
+      "message": "Redigera kontokortsprofil"
+   },
+   "_Edit__Form__Fields": {
+      "message": "Redigera formulärfält"
+   },
+   "_Edit__Form__Fill_profile": {
+      "message": "Redigera formulärprofil"
+   },
+   "_Edit__Note": {
+      "message": "Redigera anteckning"
+   },
+   "_Edit__Secure__Note": {
+      "message": "Redigera säker anteckning"
+   },
+   "_Edit__Secure__Notes": {
+      "message": "Redigera Säkra anteckningar"
+   },
+   "_Edit__Shares": {
+      "message": "Redigera Delningar"
+   },
+   "_Edit__Site": {
+      "message": "Redigera webbplats"
+   },
+   "_Edit__Site__Fields": {
+      "message": "Redigera fält på webbplatsen"
+   },
+   "_Edit_your_site_to_see_old_passwords_": {
+      "message": "Redigera din webbplats för att se gamla lösenord"
+   },
+   "_Education": {
+      "message": "Utbildning"
+   },
+   "_Egypt": {
+      "message": "Egypten"
+   },
+   "_El__Salvador": {
+      "message": "El Salvador"
+   },
+   "_Email": {
+      "message": "E-postadress"
+   },
+   "_Email_": {
+      "message": "E-post:"
+   },
+   "_Email__Account": {
+      "message": "E-postkonto"
+   },
+   "_Email__Address": {
+      "message": "E-postadress"
+   },
+   "_Email_address": {
+      "message": "E-postadress"
+   },
+   "_Email_already_in_use__have_you_forgotten_your_password_": {
+      "message": "E-postadressen används redan. Har du glömt ditt lösenord?"
+   },
+   "_Enable": {
+      "message": "Aktivera"
+   },
+   "_Enable__Credit__Monitoring": {
+      "message": "Aktivera kreditövervakning"
+   },
+   "_Enable__Free__Credit__Monitoring": {
+      "message": "Aktivera gratis kreditövervakning"
+   },
+   "_Enable__Native__Messaging": {
+      "message": "Aktivera native messaging"
+   },
+   "_Enable____Edit": {
+      "message": "Aktivera | Redigera"
+   },
+   "_Enable_new_login_screen": {
+      "message": "Aktivera ny inloggningsskärm"
+   },
+   "_Enabled": {
+      "message": "Aktiverad"
+   },
+   "_Encryption": {
+      "message": "Kryptering"
+   },
+   "_End": {
+      "message": "Slut"
+   },
+   "_English": {
+      "message": "Engelska"
+   },
+   "_English___United__Kingdom_": {
+      "message": "Engelska (Storbritannien)"
+   },
+   "_Enter__Code_": {
+      "message": "Ange kod:"
+   },
+   "_Enter__P_I_N": {
+      "message": "Ange PIN"
+   },
+   "_Enter_a_passcode_in_the_box_below_": {
+      "message": "Ange ett lösenord i rutan nedan:"
+   },
+   "_Enter_arbitrary_notes": {
+      "message": "Lägg till personliga uppgifter"
+   },
+   "_Enter_your_master_password__one_more_time_": {
+      "message": "Fyll i ditt masterlösenord, en gång till!"
+   },
+   "_Enter_your_smart_card__P_I_N_": {
+      "message": "Ange ditt Smart Card PIN"
+   },
+   "_Enterprise": {
+      "message": "Företag"
+   },
+   "_Enterprise__User": {
+      "message": "Företagsanvändare"
+   },
+   "_Entertainment": {
+      "message": "Underhållning"
+   },
+   "_Equatorial__Guinea": {
+      "message": "Ekvatorialguinea"
+   },
+   "_Eritrea": {
+      "message": "Eritrea"
+   },
+   "_Error_Get_Accts_Msg": {
+      "message": "Ett fel uppstod vid inhämtandet av dina webbplatser LastPass. Försök logga in igen för att hämta dem."
+   },
+   "_Error_Login_Msg": {
+      "message": "Ett fel uppstod vid inloggningen till LastPass. Vänligen kontrollera din internetuppkoppling."
+   },
+   "_Error_Sending_Msg": {
+      "message": "Ett fel uppstod vid försök att kontakta servern. Vänligen kontrollera din internetuppkoppling."
+   },
+   "_Error_Session_Msg": {
+      "message": "Din LastPass-session verkar ha gått ut. Vänligen logga in igen."
+   },
+   "_Error___This_folder_has_already_been_moved_": {
+      "message": "Fel: Den här mappen har redan flyttats?"
+   },
+   "_Error_opening_attachment_": {
+      "message": "Fel vid öppnande av bilaga."
+   },
+   "_Estonia": {
+      "message": "Estland"
+   },
+   "_Ethiopia": {
+      "message": "Etiopien"
+   },
+   "_Evening__Number": {
+      "message": "Nummer kvällstid"
+   },
+   "_Evening_number": {
+      "message": "Evening number"
+   },
+   "_Existing_Users_O_T_P_Prompt": {
+      "message": "LastPass kan nu lagra ett engångslösenord lokalt på datorn, vilket kan användas för att återställa ditt konto ifall du skulle glömma bort huvudlösenordet. Detta engångslösenord kommer att vara inaktivt tills du aktiverar det på servern.\n\nVill du aktivera kontoåterställning?"
+   },
+   "_Existing__Shares_": {
+      "message": "Existerande Delningar:"
+   },
+   "_Expand__All": {
+      "message": "Visa alla"
+   },
+   "_Expand__All__Folders": {
+      "message": "Expandera alla mappar"
+   },
+   "_Expiration": {
+      "message": "Upphörande"
+   },
+   "_Expiration__Date": {
+      "message": "Giltigt till"
+   },
+   "_Expiration_date": {
+      "message": "Utgångsdatum"
+   },
+   "_Export": {
+      "message": "Exportera"
+   },
+   "_Export__To": {
+      "message": "Exportera till"
+   },
+   "_Export__To__Last_Pass__C_S_V__File": {
+      "message": "Exportera till LastPass CSV-fil"
+   },
+   "_F_I_P_S__Mode": {
+      "message": "FIPS-läge"
+   },
+   "_Falkland__Islands___Malvinas_": {
+      "message": "Falklandsöarna (Malvinas)"
+   },
+   "_Faroe__Islands": {
+      "message": "Färöarna"
+   },
+   "_Favorite": {
+      "message": "Favorit"
+   },
+   "_Favoritesproper": {
+      "message": "Favoriter"
+   },
+   "_Fax__Number": {
+      "message": "Faxnummer"
+   },
+   "_Fax_number": {
+      "message": "Faxnummer"
+   },
+   "_Features": {
+      "message": "Funktioner"
+   },
+   "_February": {
+      "message": "Februari"
+   },
+   "_Feedback": {
+      "message": "Återkoppling"
+   },
+   "_Female": {
+      "message": "Kvinna"
+   },
+   "_Field": {
+      "message": "Fält"
+   },
+   "_Fields_": {
+      "message": "Områden:"
+   },
+   "_Fiji": {
+      "message": "Fiji"
+   },
+   "_Fiji___Kamchatka___Marshall__Is_": {
+      "message": "Fiji, Kamtjatka, Marshallöarna."
+   },
+   "_File": {
+      "message": "Fil"
+   },
+   "_File_too_large__it_must_be_less_than_10_M_B_": {
+      "message": "Filen är för stor, den måste vara mindre än 10 MB."
+   },
+   "_File_too_large__it_must_be_less_than_5_M_B_": {
+      "message": "Fil för stor, den måste vara mindre än 5 MB."
+   },
+   "_Files": {
+      "message": "Filer"
+   },
+   "_Fill": {
+      "message": "Fyll i"
+   },
+   "_Fill__Current": {
+      "message": "Fyll aktuellt"
+   },
+   "_Fill__Form": {
+      "message": "Fyll i formulär"
+   },
+   "_Fill__Forms": {
+      "message": "Fyll i formulär"
+   },
+   "_Fill__In__Default__Form__Fill__Profile": {
+      "message": "Använd standardformuläret"
+   },
+   "_Fill__In__Next__Login___When__Multiple_": {
+      "message": "Fyll i nästa inloggning (om flera)"
+   },
+   "_Fill__In__Previous__Login___When__Multiple_": {
+      "message": "Fyll i tidigare inloggning (om flera)"
+   },
+   "_Fill_every_form": {
+      "message": "Fyll i alla formulär"
+   },
+   "_Fill_or__Edit__Form__Fill__Data": {
+      "message": "Fyll eller redigera formuläret"
+   },
+   "_Fill_with": {
+      "message": "Fyll med"
+   },
+   "_Fillable_Form_Detected": {
+      "message": "Ett ifyllbart formulär har upptäckts på sidan."
+   },
+   "_Filter": {
+      "message": "Filter"
+   },
+   "_Finance": {
+      "message": "Ekonomi"
+   },
+   "_Find_a_site": {
+      "message": "Hitta en webbplats"
+   },
+   "_Fingerprint____Smart__Card": {
+      "message": "Fingeravtryck/smart kort"
+   },
+   "_Finland": {
+      "message": "Finland"
+   },
+   "_Finnish": {
+      "message": "Finska"
+   },
+   "_Fire_Form": {
+      "message": "FireForm"
+   },
+   "_Firefox": {
+      "message": "Firefox"
+   },
+   "_Firefox__Password__Manager": {
+      "message": "Firefox' lösenordshanterare"
+   },
+   "_First_3_digits_of_your_phone_number": {
+      "message": "Första tre siffrorna i ditt telefonnummer"
+   },
+   "_First__Name": {
+      "message": "Förnamn"
+   },
+   "_First_name": {
+      "message": "Förnamn"
+   },
+   "_Folder__Name_": {
+      "message": "Mapp Namn:"
+   },
+   "_Folder__a_z_": {
+      "message": "Mapp(a-ö)"
+   },
+   "_Folder__z_a_": {
+      "message": "Mapp (ö-a)"
+   },
+   "_For_each_coordinate_listed_below__find_the_value_on_your_grid_and_enter_the_value_": {
+      "message": "För varje koordinat som visas nedan, leta reda på och fyll in det tecken som tabellen motsvarar."
+   },
+   "_Forgot__Password_": {
+      "message": "Glömt lösenordet?"
+   },
+   "_Form_Fill": {
+      "message": "FormFill"
+   },
+   "_Form_Fill__Profiles": {
+      "message": "FormFill Profiler"
+   },
+   "_Form__Fill": {
+      "message": "Fyll i formulär"
+   },
+   "_Form__Fill__Profile": {
+      "message": "Ifyllningsprofil"
+   },
+   "_Form__Fill__Profiles": {
+      "message": "Profiler för formulärifyllnad"
+   },
+   "_Form__Fills": {
+      "message": "Fyll i formulär"
+   },
+   "_Form__Name_": {
+      "message": "Formulärnamn:"
+   },
+   "_Format": {
+      "message": "Format"
+   },
+   "_Forums": {
+      "message": "Forum"
+   },
+   "_France": {
+      "message": "Frankrike"
+   },
+   "_Free__User": {
+      "message": "Gratis-användare"
+   },
+   "_Free_trials_for__Premium_and__Enterprise": {
+      "message": "Gratis prövolicens för Premium och Enterprise"
+   },
+   "_French": {
+      "message": "Franska"
+   },
+   "_French__Guiana": {
+      "message": "Franska Guyana"
+   },
+   "_French__Polynesia": {
+      "message": "Franska Polynesien"
+   },
+   "_French__Southern__Territories": {
+      "message": "Franska Sydterritorierna"
+   },
+   "_French___Canada_": {
+      "message": "Franska (Kanada)"
+   },
+   "_Full_path_of_file_to_import_": {
+      "message": "Fullständig sökväg av fil du vill importera:"
+   },
+   "_Full_path_of_the_file_to_import_": {
+      "message": "Hela sökvägen till filen som ska importeras:"
+   },
+   "_G_E_T__F_R_E_E__P_R_E_M_I_U_M": {
+      "message": "FÅ GRATIS PREMIUM"
+   },
+   "_G_M_T_5": {
+      "message": "GMT+5"
+   },
+   "_G_M_T_7": {
+      "message": "GMT+7"
+   },
+   "_G_M_T_9": {
+      "message": "GMT+9"
+   },
+   "_G_M_T__Dublin___Edinburgh___Lisbon___London": {
+      "message": "GMT Dublin, Edinburgh, Lissabon, London"
+   },
+   "_G_M_T___Dublin___Edinburgh___Lisbon___London": {
+      "message": "GMT: Dublin, Edinburgh, Lissabon, London"
+   },
+   "_Gabon": {
+      "message": "Gabon"
+   },
+   "_Gambia": {
+      "message": "Gambia"
+   },
+   "_Games": {
+      "message": "Spel"
+   },
+   "_Gender": {
+      "message": "Kön"
+   },
+   "_General": {
+      "message": "Allmänt"
+   },
+   "_General_security_notifications": {
+      "message": "Generella säkerhetsnotifikationer"
+   },
+   "_Generate": {
+      "message": "Generera"
+   },
+   "_Generate_Password": {
+      "message": "Skapar du ett konto eller ändrar ett lösenord? Klicka 'Generera' för att skapa ett unikt, starkt lösenord med LastPass."
+   },
+   "_Generate__Another__Password": {
+      "message": "Generera ett nytt lösenord"
+   },
+   "_Generate__Password": {
+      "message": "Generera lösenord"
+   },
+   "_Generate__Secure__Password": {
+      "message": "Generera starkt lösenord"
+   },
+   "_Generated__Password_for": {
+      "message": "Genererat lösenord för"
+   },
+   "_Generates_one_time_verification_codes_on_your_smart_phone_": {
+      "message": "Genererar engångskoder för verifiering med din mobiltelefon"
+   },
+   "_Generic": {
+      "message": "Generell"
+   },
+   "_Generic__C_S_V__File": {
+      "message": "Allmän CSV-fil"
+   },
+   "_Georgia": {
+      "message": "Georgien"
+   },
+   "_German": {
+      "message": "Tyska"
+   },
+   "_Germany": {
+      "message": "Tyskland"
+   },
+   "_Get__Started": {
+      "message": "Kom igång"
+   },
+   "_Ghana": {
+      "message": "Ghana"
+   },
+   "_Gibraltar": {
+      "message": "Gibraltar"
+   },
+   "_Give_the__Gift_of__Last_Pass": {
+      "message": "Ge en gåva från LastPass"
+   },
+   "_Give_the__Gift_of__Last_Pass__Premium": {
+      "message": "Ge en gåva från LastPass Premium"
+   },
+   "_Go__Back": {
+      "message": "Gå tillbaka"
+   },
+   "_Go__Back_": {
+      "message": "Gå tillbaka?"
+   },
+   "_Go__Premium": {
+      "message": "Skaffa Premium"
+   },
+   "_Go__Premium_": {
+      "message": "Skaffa 'Premium'!"
+   },
+   "_Go_to__U_R_L": {
+      "message": "Gå till URL"
+   },
+   "_Google__Authenticator": {
+      "message": "Google Authenticator"
+   },
+   "_Google__Authenticator__Multifactor__Authentication": {
+      "message": "Google Authenticator multifaktor-autentisering"
+   },
+   "_Google__Chrome": {
+      "message": "Google Chrome"
+   },
+   "_Google__Chrome__Password__Manager": {
+      "message": "Google Chrome Password Manager"
+   },
+   "_Google__Chrome_requires_that_extensions_use_the_same_language_as_the_browser__so_in_order_to_switch__Last_Pass_s_language__please_change_the_main_browser_language_under__Chrome_s__Options_": {
+      "message": "Google Chrome kräver att tilläggen använder samma språk som webbläsaren, så för att byta språk på LastPass så behöver du ändrar webbläsarens språk under inställningarna i Chrome."
+   },
+   "_Greece": {
+      "message": "Grekland"
+   },
+   "_Greenland": {
+      "message": "Grönland"
+   },
+   "_Greenland___Brasilia___Montevideo": {
+      "message": "Grönland, Brasilia, Montevideo"
+   },
+   "_Grenada": {
+      "message": "Grenada"
+   },
+   "_Grid": {
+      "message": "Rutnät"
+   },
+   "_Grid__View": {
+      "message": "Rutnätsvy"
+   },
+   "_Grid_or__List____You__Choose_": {
+      "message": "Rutnät eller Lista - Du Väljer!"
+   },
+   "_Group_": {
+      "message": "Mapp:"
+   },
+   "_Group__Actions": {
+      "message": "Gruppåtgärder"
+   },
+   "_Group__I_D": {
+      "message": "Grupp-ID"
+   },
+   "_Group__Name": {
+      "message": "Mappnamn"
+   },
+   "_Group_will_be_created_under": {
+      "message": "Mappen kommer att skapas eller existerar redan under"
+   },
+   "_Groups": {
+      "message": "Mappar"
+   },
+   "_Guadeloupe": {
+      "message": "Guadeloupe"
+   },
+   "_Guam": {
+      "message": "Guam"
+   },
+   "_Guatemala": {
+      "message": "Guatemala"
+   },
+   "_Guernsey": {
+      "message": "Guernsey"
+   },
+   "_Guinea": {
+      "message": "Guinea"
+   },
+   "_Guinea__Bissau": {
+      "message": "Guinea-Bissau"
+   },
+   "_Guyana": {
+      "message": "Guyana"
+   },
+   "_H_P__Password__Safe": {
+      "message": "HP Password Safe"
+   },
+   "_Haiti": {
+      "message": "Haiti"
+   },
+   "_Halt__Requested": {
+      "message": "Stoppa Begärda"
+   },
+   "_Harare___Pretoria": {
+      "message": "Harare, Pretoria"
+   },
+   "_Hardware_devices_that_generate_one_time_verification_codes_": {
+      "message": "Hårdvaruenheter som genererar engångskoder för verifiering"
+   },
+   "_Hawaii": {
+      "message": "Hawaii"
+   },
+   "_Health": {
+      "message": "Hälsa"
+   },
+   "_Health__Insurance": {
+      "message": "Sjukförsäkring"
+   },
+   "_Heard__Island_and__Mcdonald__Islands": {
+      "message": "Heard- och McDonaldöarna"
+   },
+   "_Height": {
+      "message": "Längd"
+   },
+   "_Help": {
+      "message": "Hjälp"
+   },
+   "_Help__Center": {
+      "message": "Hjälpcenter"
+   },
+   "_Help__Improve__Last_Pass": {
+      "message": "Hjälp till att förbättra LastPass"
+   },
+   "_Help__Translate": {
+      "message": "Hjälp till att översätta"
+   },
+   "_Help___": {
+      "message": "Hjälp..."
+   },
+   "_Help_spread_the_word": {
+      "message": "Hjälp till att sprida budskapet"
+   },
+   "_Hide__Advanced__Options": {
+      "message": "Göm avancerade inställningar"
+   },
+   "_Hide__All": {
+      "message": "Dölj alla"
+   },
+   "_Hide__Context__Menu__Options": {
+      "message": "Göm val i kontextmenyn"
+   },
+   "_Hide__Password": {
+      "message": "Dölj lösenord"
+   },
+   "_Hide__Passwords": {
+      "message": "Dölj lösenord"
+   },
+   "_Highlight_input_boxes": {
+      "message": "Markera indatarutor"
+   },
+   "_History": {
+      "message": "Historik"
+   },
+   "_Holy__See___Vatican__City__State_": {
+      "message": "Vatikanstaten"
+   },
+   "_Home": {
+      "message": "Hem"
+   },
+   "_Honduras": {
+      "message": "Honduras"
+   },
+   "_Hong__Kong": {
+      "message": "Hongkong"
+   },
+   "_Hostname": {
+      "message": "Värdnamn"
+   },
+   "_Hot_Keys": {
+      "message": "Snabbtangenter"
+   },
+   "_Hungarian": {
+      "message": "Ungerska"
+   },
+   "_Hungary": {
+      "message": "Ungern"
+   },
+   "_I_B_A_N__Number": {
+      "message": "IBAN-nummer"
+   },
+   "_I_M_P_O_R_T_": {
+      "message": "Importera?"
+   },
+   "_I_T__I_S__C_R_I_T_I_C_A_L__T_H_A_T__Y_O_U__N_E_V_E_R__F_O_R_G_E_T__Y_O_U_R__N_E_W__L_A_S_T_P_A_S_S__P_A_S_S_W_O_R_D_": {
+      "message": "DET ÄR MYCKET VIKTIGT ATT DU INTE GLÖMMER DITT NYA LÖSENORD TILL LASTPASS."
+   },
+   "_I__Forgot_my__Password": {
+      "message": "Jag har glömt mitt lösenord"
+   },
+   "_I_forgot_my_password___Help_": {
+      "message": "Jag har glömt mitt lösenord, Hjälp"
+   },
+   "_I_have_read_and_agree_with_the": {
+      "message": "Jag har läst och instämmer i"
+   },
+   "_I_understand_that_my_encrypted_data_will_be_sent_to__Last_Pass": {
+      "message": "Jag är införstådd med att mina krypterade data kommer att skickas till LastPass"
+   },
+   "_I_ve_forgot_the_answer": {
+      "message": "Jag har glömt svaret"
+   },
+   "_I_ve_forgotten_my_password_": {
+      "message": "Jag har glömt mitt lösenord."
+   },
+   "_I_ve_lost_my__Google__Authenticator_device": {
+      "message": "Jag har tappat bort min Google Authenticator enhet"
+   },
+   "_I_ve_lost_my__Sesame_device": {
+      "message": "Jag har förlorat min Sesame-enhet"
+   },
+   "_I_ve_lost_my__Yubi_Key_device": {
+      "message": "Jag har förlorat min YubiKey-enhet"
+   },
+   "_I_ve_lost_my_device": {
+      "message": "Jag har förlorat min enhet"
+   },
+   "_I_ve_lost_my_grid": {
+      "message": "Jag har förlorat min autentiseringstabell"
+   },
+   "_Iceland": {
+      "message": "Island"
+   },
+   "_Icons": {
+      "message": "Ikoner"
+   },
+   "_Identities": {
+      "message": "Identiteter"
+   },
+   "_Identity": {
+      "message": "Identitet"
+   },
+   "_If_checked__your_credit_report_will_be_regularly_monitored_and_you_will_be_alerted_if_any_suspicious_activity_occurs_": {
+      "message": "Om vald kommer din kreditrapport regelbundet att övervakas och du blir varnad om någon misstänkt aktivitet inträffar."
+   },
+   "_If_not_specified__will_use_a_file_extension_of_": {
+      "message": "Om inget anges, kommer följande filnamnstillägg användas:"
+   },
+   "_If_you_already_have_a__Last_Pass_account_you_can_close_this_window_and_login_": {
+      "message": "Om du redan har ett LastPass-konto kan du stänga det här fönstret och logga in."
+   },
+   "_If_you_do_end_up_forgetting_your__Last_Pass_master_password_": {
+      "message": "Om du skulle glömma ditt huvudlösenord till LastPass,"
+   },
+   "_If_you_do_forget_your__Master__Password___Last_Pass_will_provide_only_the_password_reminder_you_previously_specified_": {
+      "message": "Om du glömmer ditt huvudlösenord, kommer LastPass bara att tillhandahålla lösenordet som du tidigare angett."
+   },
+   "_If_you_don_t_have_a_personal_account__create_one_now_": {
+      "message": "Om du inte har ett personligt konto, skapa ett nu."
+   },
+   "_If_you_forget_your__Master__Password_later_on___Last_Pass_will_provide_only_the_password_reminder_you_specified_when_creating_your_account_": {
+      "message": "Om du glömmer ditt Huvudlösenord senare, kommer LastPass endast tillhandahålla lösenordspåminnelsen du angav när du skapade ditt konto."
+   },
+   "_If_you_forgot_your_answer__click_here_to_reset_your_security_question": {
+      "message": "Om du har glömt ditt svar, klicka här för att återställa din säkerhetsfråga"
+   },
+   "_If_you_have_another_format_that__Last_Pass_doesn_t_currently_support_you_can_attempt_to_save_your_data_as_a__C_S_V_file___Y_O_U__M_U_S_T__M_O_D_I_F_Y__T_H_E__F_I_R_S_T__R_O_W__O_F__T_H_E__C_S_V__F_I_L_E__F_O_R__L_A_S_T_P_A_S_S__T_O__R_E_C_O_G_N_I_Z_E__I_T___The_first_row_s_column_names_should_be_properly_setup_for_the_data_in_the_columns__Possible_first_row_names___url_username_password_extra_name_grouping___extra__means__notes__and__grouping__is_what_group_it_should_be_in____You_do_not_have_to_use_all_the_column_names_and_they_don_t_need_to_be_in_any_order____For_example_your_file_s_first_row_might_be_like___name_username_password_url___If_you_want_to_import_a__Secure__Note_instead_of_a__Site__simply_ensure_the__url____username___and__password__columns_are_left_blank__or_omit_the__url____username___and_or__password__columns_entirely___and_ensure_the__extra__column_is_not_blank____As_long_as_these_two_things_have_been_done__the_record_will_automatically_be_imported_as_a__Secure__Note_instead_of_a__Site____This_should_be_very_simple__just_open_your_saved__C_S_V_file_in__Excel_and_make_sure_the_top_row_has_the_appropriate_name_from_above_for_what_it_is____Save_it__then_import_the_resulting_file_": {
+      "message": "Om du har ett annat format som LastPass inte stödjer för närvarande kan du försöka att spara informationen som en CSV-fil\n\nDU MÅSTE ÄNDRA FÖRSTA RADEN AV CSV-FILEN FÖR ATT LASTPASS SKA KÄNNA IGEN DEN\n\nDen första radens kolumnnamn ska vara korrekt ifyllda för informationen i kolumnerna\nMöjliga kolumnnamn för första raden:\n\nurl,username,password,extra,name,grouping\n\nKolumnen 'extra' används som 'anteckningar' och 'grouping' är vilken mapp raden ska importeras till. Du behöver inte använda alla kolumnnamnen och dom behöver inte vara i någon speciell ordning.  Till exempel så kan din fils första rad bestå av:\n\nname,username,password,url\n\nOm du vill importera en Säker anteckning istället för en webbplats - lämna bara 'url', 'username' och 'password' kolumnerna tomma eller utelämna dom helt. Var noga med att kolumnen 'extra' inte är tom dock. Så länge dessa villkor är uppfyllda så kommer det automagiskt skapas som en Säker anteckning istället för en webbplats.\n\nDet bör vara väldigt enkelt, bara öppna upp din sparade CSV-fil i Excel och säkerställ att översta raden har rätt namn enligt ovan, för vad det varje kolumn innehåller.  Spara sedan filen och importera den."
+   },
+   "_If_you_lost_your__Google__Authenticator_device__click_here_to_disable__Google__Authenticator_authentication": {
+      "message": "Om du glömt din Google Authenticator-enhet, klicka här för att inaktivera Google Authenticator-autentisering"
+   },
+   "_If_you_lost_your__Sesame_device__click_here_to_disable__Sesame_authentication": {
+      "message": "Har du förlorat din Sesame-enhet? Klicka här för att inaktivera Sesame-verifiering"
+   },
+   "_If_you_lost_your__Yubi_Key_device__click_here_to_disable__Yubi_Key_authentication": {
+      "message": "Om du förlorat din YubiKey, klicka här för att inaktivera YubiKey-autentisering"
+   },
+   "_If_you_lost_your_device__click_here_to_disable_multifactor_authentication": {
+      "message": "Om du förlorat din enhet, klicka här för att inaktivera multifaktorautentisering"
+   },
+   "_If_you_lost_your_grid__click_here_to_disable_grid_authentication": {
+      "message": "Om du tappat bort din tabell, klicka här för att inaktivera tabellautentisering"
+   },
+   "_Immediately": {
+      "message": "Omedelbart"
+   },
+   "_Import": {
+      "message": "Importera"
+   },
+   "_Import__From": {
+      "message": "Importera från"
+   },
+   "_Import__Your__Data": {
+      "message": "Importera dina data"
+   },
+   "_Importing_your_data_to_your__Last_Pass_vault_will_secure_it_and_protect_you_against_identity_theft___All_imported_data_remains__C_O_M_P_L_E_T_E_L_Y_confidential__the_only_person_who_can_view__Y_O_U_R_data_is__Y_O_U_": {
+      "message": "Att importera dina uppgifter till ditt LastPass-valv kommer att säkra dem och skydda dig mot identitetsstöld. Alla importerade uppgifter förblir helt konfidentiella: den enda person som kan se DINA uppgifter är DU."
+   },
+   "_In_order_for__Last_Pass_to_fill_into_basic_authentication_dialogs__you_need_to_enable_access_for_assistive_devices_": {
+      "message": "För att LastPass ska kunna fylla i grundläggande verifiering-dialogrutor, måste du aktivera tillgång till hjälpmedel."
+   },
+   "_In_order_for__Last_Pass_to_fill_into_basic_authentication_dialogs__you_need_to_install_the_binary_version_of__Last_Pass_for__Chrome_": {
+      "message": "För att LastPass ska kunna fylla i grundläggande verifierings-dialogrutor, måste du installera den binära versionen av LastPass för Chrome."
+   },
+   "_In_order_to_complete_the_process___s_will_have_to_log_in_to__s_and_navigate_through_a_number_of_windows_quickly___It_is_normal_to_see_windows_flashing_and_changing_quickly__and_may_take_several_moments___We_ll_let_you_know_when_you_re_all_set_": {
+      "message": "För att slutföra processen, måste %s logga in på %s och navigera genom ett antal fönster snabbt. Det är normalt att se fönstren blinka och förändras snabbt, och detta kan ta ett litet tag. Vi meddelar dig när allt är inställt!"
+   },
+   "_In_order_to_protect_your_privacy_and_keep_your_other_passwords_secure___Last_Pass_does_not_know_or_store_your__Master__Password_": {
+      "message": "För att skydda din integritet och hålla dina andra lösenord säkra, kommer LastPass inte att veta eller förvara ditt Huvudlösenord."
+   },
+   "_In_the_future__any_changes_to_the_entries_in_the__Shared__Folder__as_well_as_any_new_sites_or_notes_added_to_the_folder__will_be_automatically_synced_to_all_users_who_have_access_to_the__Shared__Folder_": {
+      "message": "I framtiden, alla ändringar av objekt i den Delade Katalogen, samt alla nya sidor eller anteckningar som läggs i katalogen, kommer automatiskt att synkas till alla användare som har åtkomst till den Delade Katalogen."
+   },
+   "_Inactive_account_reminders": {
+      "message": "Inaktiva kontopåminnelser"
+   },
+   "_India": {
+      "message": "Indien"
+   },
+   "_Indiana___Bogota___Lima___Quito___Rio__Branco": {
+      "message": "Indiana, Bogota, Lima, Quito, Rio Branco"
+   },
+   "_Indonesia": {
+      "message": "Indonesien"
+   },
+   "_Install": {
+      "message": "Installera"
+   },
+   "_Install__Binary__Component": {
+      "message": "Installera binär komponent"
+   },
+   "_Install_the__Last_Pass__Library_for__Chrome_to_enable_automatic_log_out_after_idle": {
+      "message": "Installera LastPass biblioteket för Chrome för att aktivera automatisk utloggning vid inaktivitet"
+   },
+   "_Install_the__Last_Pass__Library_for__Chrome_to_enable_automatic_logoff_after_idle": {
+      "message": "Installera LastPass plugin:et till Chrome för att aktivera automatisk utloggning vid inaktivitet"
+   },
+   "_Install_the_binary_version_of__Last_Pass_for__Chrome_to_enable_automatic_log_out_after_idle": {
+      "message": "Installera den binära versionen av LastPass för Chrome för att aktivera automatisk utloggning när datorn är overksam."
+   },
+   "_Install_the_binary_version_of__Last_Pass_for__Chrome_to_enable_automatic_logoff_after_idle": {
+      "message": "Installera den binära versionen av LastPass för Chrome för att möjliggöra automatisk utloggning efter inaktivitet"
+   },
+   "_Install_the_binary_version_of__Last_Pass_for__Chrome_to_enable_importing_passwords_from__Google__Chrome_password_manager": {
+      "message": "Installera den binära versionen av LastPass för Chrome för att möjliggöra import av lösenord från Google Chromes lösenordshanterare"
+   },
+   "_Install_the_binary_version_of__Last_Pass_for__Chrome_to_enable_sharing_login_state_between_other_browsers": {
+      "message": "Installera den binära versionen av LastPass för Chrome för att möjliggöra delning av inloggningsstatus med andra webbläsare"
+   },
+   "_Instant__Messenger": {
+      "message": "Snabbmeddelandeklient"
+   },
+   "_Instantly_add_a_new_site__secure_note__form_fill_profile__or_folder_at_any_time_": {
+      "message": "Lägg direkt till nya sidor, säkra anteckningar, formulärprofiler, eller kataloger när som helst."
+   },
+   "_Instructions": {
+      "message": "Instruktioner"
+   },
+   "_Insurance": {
+      "message": "Försäkring"
+   },
+   "_International__Date__Line__West": {
+      "message": "Internationella datumlinjen, väster"
+   },
+   "_Invalid__Password_": {
+      "message": "Ogiltigt lösenord."
+   },
+   "_Invalid_email_address__try_again": {
+      "message": "Ogiltig e-postadress, försök igen"
+   },
+   "_Invalid_file_type__it_must_be_an_image_that_can_be_displayed_by_your_browser_": {
+      "message": "Ogiltig filtyp, det måste vara en bild som kan visas av din webbläsare."
+   },
+   "_Invite__Accepted": {
+      "message": "Inbjudan Accepterad"
+   },
+   "_Invite__Friends__To__Try__Last_Pass": {
+      "message": "Bjud In Vänner Till Att Prova LastPass"
+   },
+   "_Invite__Users_or__Groups_": {
+      "message": "Bjud in Användare eller Grupper"
+   },
+   "_Iran___Islamic__Republic__Of_": {
+      "message": "Iran (Islamiska republiken)"
+   },
+   "_Iraq": {
+      "message": "Irak"
+   },
+   "_Ireland": {
+      "message": "Irland"
+   },
+   "_Islamabad___Karachi___Tashkent___Ekaterinburg": {
+      "message": "Islamabad, Karachi, Tashkent, Jekaterinburg"
+   },
+   "_Isle_of__Man": {
+      "message": "Isle of Man"
+   },
+   "_Israel": {
+      "message": "Israel"
+   },
+   "_Issue__Number": {
+      "message": "Utfärdandenummer"
+   },
+   "_Issue_number": {
+      "message": "Ärendenummer"
+   },
+   "_Issued__Date": {
+      "message": "Utfärdat den"
+   },
+   "_Issuing__Authority": {
+      "message": "Utfärdande myndighet"
+   },
+   "_It_is_recommended_that_you_delete_the_attachment_file_after_you_use_it_": {
+      "message": "Det rekommenderas att du tar bort den bifogade filen efter att du har använt den."
+   },
+   "_It_is_very_important_that_you_remember_the__Last_Pass__Master__Password_that_you_just_created_": {
+      "message": "Det är mycket viktigt att du kommer ihåg huvudlösenordet för LastPass som du nyss skapade."
+   },
+   "_It_is_very_important_that_you_remember_your_new__Last_Pass__Master__Password_": {
+      "message": "Det är mycket viktigt att du kommer ihåg ditt nya huvudlösenord till LastPass"
+   },
+   "_Italian": {
+      "message": "Italienska"
+   },
+   "_Italy": {
+      "message": "Italien"
+   },
+   "_Items_to__Share_": {
+      "message": "Objekt att Dela:"
+   },
+   "_Iterations_Reduction": {
+      "message": "Antalet iterationer som krävs för att generera ditt LastPass Master-lösenord verkar ha omvandlats från cacheversionen. Vill du fortsätta med inloggningen?"
+   },
+   "_Jamaica": {
+      "message": "Jamaica"
+   },
+   "_January": {
+      "message": "januari"
+   },
+   "_Japan": {
+      "message": "Japan"
+   },
+   "_Japanese": {
+      "message": "Japanska"
+   },
+   "_Jersey": {
+      "message": "Jersey"
+   },
+   "_Jordan": {
+      "message": "Jordanien"
+   },
+   "_July": {
+      "message": "juli"
+   },
+   "_June": {
+      "message": "juni"
+   },
+   "_Kabul": {
+      "message": "Kabul"
+   },
+   "_Kathmandu": {
+      "message": "Kathmandu"
+   },
+   "_Kazakhstan": {
+      "message": "Kazakstan"
+   },
+   "_Kee_Pass": {
+      "message": "KeePass"
+   },
+   "_Keep_a_history_of_my_logins_and_form_fills": {
+      "message": "Spara historik över mina inloggningar och formulärifyllningar"
+   },
+   "_Keep_an__Eye_on__Your__Credit__Report": {
+      "message": "Håll ett öga på din kreditrapport"
+   },
+   "_Keep_track_of_login_and_form_fill_history": {
+      "message": "Håll koll på historik för inloggningar och ifyllda formulärfält"
+   },
+   "_Kenya": {
+      "message": "Kenya"
+   },
+   "_Key__Index": {
+      "message": "Nyckelindex"
+   },
+   "_Key__Type": {
+      "message": "Nyckeltyp"
+   },
+   "_Kiribati": {
+      "message": "Kiribati"
+   },
+   "_Korea___Democratic__People_s__Republic__Of": {
+      "message": "Korea, Demokratiska folkrepubliken"
+   },
+   "_Korea___Republic__Of": {
+      "message": "Sydkorea"
+   },
+   "_Korean": {
+      "message": "Koreanska"
+   },
+   "_Kuwait": {
+      "message": "Kuwait"
+   },
+   "_Kuwait___Riyadh___Nairobi___Moscow___St___Petersburg___Volgograd": {
+      "message": "Kuwait, Riyadh, Nairobi, Moskva, St Petersburg, Volgograd"
+   },
+   "_Kyrgyzstan": {
+      "message": "Kirgizistan"
+   },
+   "_La__Paz": {
+      "message": "La Paz"
+   },
+   "_Label____Random__Identifier": {
+      "message": "Etikett / Slumpmässig Identifierare"
+   },
+   "_Language": {
+      "message": "Språk"
+   },
+   "_Language_": {
+      "message": "Språk:"
+   },
+   "_Lao__People_s__Democratic__Republic": {
+      "message": "Folket av Lao:s demokratiska republik"
+   },
+   "_Last_4_digits_of_your_phone_number": {
+      "message": "Fyra sista siffrorna i ditt telefonnummer"
+   },
+   "_Last_Pass": {
+      "message": "LastPass"
+   },
+   "_Last_Pass__Automatic__Password__Change": {
+      "message": "LastPass Automatiskt Lösenordsbyte"
+   },
+   "_Last_Pass__C_S_V__File": {
+      "message": "LastPass CSV-fil"
+   },
+   "_Last_Pass__Chrome__Toolbar": {
+      "message": "LastPass Chrome Toolbar"
+   },
+   "_Last_Pass__Encrypted__File": {
+      "message": "LastPass-krypterad fil"
+   },
+   "_Last_Pass__Enterprise_upgrade_and_renewal": {
+      "message": "LastPass Enterprise uppgradering och förnyelse"
+   },
+   "_Last_Pass__Grid__Multifactor__Authentication": {
+      "message": "Lastpass Tabell Multifaktors-autentisering"
+   },
+   "_Last_Pass__Legacy": {
+      "message": "LastPass Legacy"
+   },
+   "_Last_Pass__Menu": {
+      "message": "LastPass-menyn"
+   },
+   "_Last_Pass__Premium_upgrade_and_renewal": {
+      "message": "LastPass Premium uppgradering och förnyelse"
+   },
+   "_Last_Pass__Sentry_breach_alerts": {
+      "message": "LastPass Sentry Intrångs varning"
+   },
+   "_Last_Pass_can_automatically_fill_web_page_forms_with_a_single_click____Using_automatic___Form__Filling__will_not_only_save_you_time__but_will_also_enhance_your_security_when_shopping_online_": {
+      "message": "LastPass kan automatiskt fylla webbläsarformulär med ett enda klick. Om du använder 'automatisk ifyllning av formulär' kommer du inte bara spara tid, men kommer också att öka din säkerhet när du handlar online."
+   },
+   "_Last_Pass_cannot_login_until_cookies_are_allowed_from_lastpass_com": {
+      "message": "LastPass kan inte logga in dig förrän du tillåter kakor/cookies från LastPass.com"
+   },
+   "_Last_Pass_detected_a_login_form_that_is_insecure____Would_you_like_to_continue_": {
+      "message": "LastPass har upptäckt ett osäkert formulär.\n\nVill du forsätta?"
+   },
+   "_Last_Pass_detected_a_login_form_that_is_insecure____Would_you_still_like__Last_Pass_to_fill_the_form_": {
+      "message": "LastPass upptäckte ett osäkert formulär.\n\nVill du fortfarande att LastPass ska fylla i formuläret?"
+   },
+   "_Last_Pass_detected_a_password_change_for": {
+      "message": "LastPass har upptäckt en lösenordsändring för"
+   },
+   "_Last_Pass_detected_a_password_change_for_domain_": {
+      "message": "LastPass har upptäckt en lösenordsändring för domänen:"
+   },
+   "_Last_Pass_detected_a_password_change_for_user_": {
+      "message": "LastPass har upptäckt en lösenordsändring för:"
+   },
+   "_Last_Pass_detected_that_the_password_for_the_site_on_which_you_received_the_alert_has_the_same_password_as_your__Last_Pass_account__Master__Password_": {
+      "message": "LastPass har"
+   },
+   "_Last_Pass_detected_that_the_site_that_triggered_this_security_alert_has_the_same_password_as_your__Last_Pass_account__Master__Password_": {
+      "message": "LastPass upptäckte att webbplatsen som utlöste denna säkerhetsvarning använder samma lösenord som huvudlösenordet till ditt LastPass konto."
+   },
+   "_Last_Pass_has_detected_an_installation_error____Please_reinstall__Last_Pass_": {
+      "message": "LastPass har upptäckt ett installationsfel. Vänligen installera om LastPass."
+   },
+   "_Last_Pass_has_detected_that_you_are_using_a_weak_password_for_the_site_below___We_recommend_going_to_your_account_settings_for_this_site__and_creating_a_new_password___Use__Last_Pass_to_generate_a_unique__strong_password_for_this_account___You_can_then_save_the_changes_on_the_site__and_to__Last_Pass_": {
+      "message": "LastPass har upptäckt att du använder ett svagt lösenord för webbplatsen nedan. Vi rekommenderar att du går till dina kontoinställningar för denna webbsida och skapar ett nytt lösenord. Använd LastPass för att skapa ett unikt och starkt lösenord för detta konto. Du kan sedan spara ändringarna på webbplatsen och till LastPass."
+   },
+   "_Last_Pass_has_detected_that_you_have_used_the_password_for_this_login_on_other_sites__too___We_recommend_going_to_your_account_settings_for_this_site__and_creating_a_new_password___Use__Last_Pass_to_generate_a_unique__strong_password_for_this_account___You_can_then_save_the_changes_on_the_site__and_to__Last_Pass_": {
+      "message": "LastPass har upptäckt att du har använt lösenordet för inloggning på andra webbplatser också. Vi rekommenderar att du går till dina kontoinställningar för denna webbsida och skapar ett nytt lösenord. Använd LastPass för att skapa ett unikt och starkt lösenord för detta konto. Du kan sedan spara ändringarna på webbplatsen och till LastPass."
+   },
+   "_Last_Pass_has_detected_that_you_have_used_your__Master__Password_as_the_password_for_this_site___It_is_highly_recommended_that_you_change_your__Last_Pass__Master__Password_to_protect_all_of_your_online_accounts_": {
+      "message": "Lastpass har upptäckt att du har använt ditt lösenord till LastPass som lösenord för den här webbplatsen. Det är start rekommenderat att du byter ditt huvudlösenord till LastPass för att skydda dina konton online."
+   },
+   "_Last_Pass_has_filled_your_login_information_into_the_form_on_this_page_": {
+      "message": "LastPass har redan fyllt i formuläret nedan."
+   },
+   "_Last_Pass_is_changing_your_password_now___": {
+      "message": "LastPass ändrar ditt lösenord nu..."
+   },
+   "_Last_Pass_is_fully_installed____When_you_install__Last_Pass_on_other_computers_you_will_not_have_to_go_through_this_process_again__you_ll_simply_be_able_to_login_____Do_not_share_your__Master__Password_with_anyone__including__Last_Pass_employees__we_ll_never_ask_for_it____Last_Pass_encrypts_your_sensitive_data_locally_so_even__Last_Pass_employees_do_not_have_access_to_it____You_can_get_help_by_clicking_on_the__Last_Pass_icon_and_going_to__Help_": {
+      "message": "LastPass är komplett installerad! När du installerar LastPass på andra datorer behöver du inte gå igenom denna process igen, du kan bara logga in. Dela inte inte ditt huvudlösenord med någon, inklusive LastPass-personal - vi kommer aldrig att fråga efter det! LastPass krypterar dina känsliga data lokalt så att inte ens LastPass-personalen har tillgång till dem. Du kan få hjälp genom att klicka på LastPass-ikonen och gå till 'Hjälp'."
+   },
+   "_Last_Pass_is_loading___": {
+      "message": "LastPass laddar..."
+   },
+   "_Last_Pass_is_loading_website___": {
+      "message": "LastPass laddar webbsida..."
+   },
+   "_Last_Pass_is_logging_in": {
+      "message": "LastPass loggar in"
+   },
+   "_Last_Pass_is_logging_in___": {
+      "message": "LastPass loggar in..."
+   },
+   "_Last_Pass_is_the_last_password_you_ll_ever_have_to_remember_": {
+      "message": "LastPass är det sista lösenordet du behöver komma ihåg"
+   },
+   "_Last_Pass_is_the_last_password_you_ll_ever_have_to_remember____If_you_re_new_to__Last_Pass__we_ll_just_need_a_few_minutes_of_your_time_to_setup_your_account____You_ll_be_able_to_use_this_account_on_any_other__P_C_you_use_to_always_keep_your_personal_data_in_sync____Hit_create_account_to_begin_": {
+      "message": "LastPass är det sista lösenord du någonsin behöver komma ihåg. Om du inte har använt LastPass förut behöver vi bara ett par minuter av din tid för att sätta upp ditt konto. Du kommer att kunna använda detta konto på varje annan dator du använder och kommer alltid vara i synk. Tryck 'Skapa Konto' för att börja."
+   },
+   "_Last_Pass_is_the_last_password_you_will_ever_have_to_remember": {
+      "message": "LastPass är det sista lösenordet du någonsing behöver komma ihåg"
+   },
+   "_Last_Pass_must_reencrypt_all_of_your_data_because_of_a_key_change_": {
+      "message": "LastPass måste återkryptera allt ditt data på grund av en nyckeländring."
+   },
+   "_Last_Pass_newsletters__tips__and_stories": {
+      "message": "LastPass nyhetsbrev, tips, och berättelser"
+   },
+   "_Last_Pass_promotions_and_giveaways": {
+      "message": "LastPass marknadsföring och presenter"
+   },
+   "_Last_Pass_will_not_fill_some_forms_because_respect_autocomplete_is_enabled_in__Preferences_": {
+      "message": "LastPass kommer inte att fylla i vissa formulär då respektera autoifyllnad är aktiverad i inställningarna."
+   },
+   "_Last__Name": {
+      "message": "Efternamn"
+   },
+   "_Last__Name2": {
+      "message": "Andra efternamn"
+   },
+   "_Last__Touch": {
+      "message": "Senast använd"
+   },
+   "_Last_name": {
+      "message": "Efternamn"
+   },
+   "_Last_used": {
+      "message": "Senast använd"
+   },
+   "_Latvia": {
+      "message": "Lettland"
+   },
+   "_Launch": {
+      "message": "Starta"
+   },
+   "_Launch__Site": {
+      "message": "Öppna webbplats"
+   },
+   "_Lebanon": {
+      "message": "Libanon"
+   },
+   "_Left": {
+      "message": "Vänster"
+   },
+   "_Lesotho": {
+      "message": "Lesotho"
+   },
+   "_Liberia": {
+      "message": "Liberia"
+   },
+   "_Libyan__Arab__Jamahiriya": {
+      "message": "Libyen"
+   },
+   "_License__Class": {
+      "message": "Licensklass"
+   },
+   "_License__Key": {
+      "message": "Licensnyckel"
+   },
+   "_Liechtenstein": {
+      "message": "Liechtenstein"
+   },
+   "_Link__Account": {
+      "message": "Länka konto"
+   },
+   "_Link__Personal__Account": {
+      "message": "Länka Personligt konto"
+   },
+   "_List__View": {
+      "message": "Listvy"
+   },
+   "_Lithuania": {
+      "message": "Litauen"
+   },
+   "_Local": {
+      "message": "Lokala"
+   },
+   "_Log__In_with_a__Different__Username": {
+      "message": "Logga in med ett annat användarnamn"
+   },
+   "_Log__Out": {
+      "message": "Logga Ut"
+   },
+   "_Log__Out_": {
+      "message": "Logga Ut:"
+   },
+   "_Log_into_a__Site": {
+      "message": "Logga in till en webbplats"
+   },
+   "_Logged_In_Offline": {
+      "message": "LastPass kunde inte kontakta inloggningsservern, så du är nu i offline-läge.\n\nViss funktionalitet kan vara begränsad."
+   },
+   "_Login": {
+      "message": "Logga in"
+   },
+   "_Login_Error": {
+      "message": "Det gick inte att logga in till LastPass. Vänligen försök igen."
+   },
+   "_Login_to__Last_Pass": {
+      "message": "Logga in till LastPass"
+   },
+   "_Logoff": {
+      "message": "Logga ut"
+   },
+   "_Logoff_": {
+      "message": "Logga ut:"
+   },
+   "_Logoff_after_logged_in_for_minutes": {
+      "message": "Logga ut efter att ha varit inloggad i minuter"
+   },
+   "_Logoff_on_browser_close": {
+      "message": "Logga ut när webbläsaren stängs"
+   },
+   "_Logout": {
+      "message": "Logga ut"
+   },
+   "_Lose_Changes": {
+      "message": "Vill du verkligen redigera fälten för denna webbplats? Alla ändringar kommer att gå förlorade!"
+   },
+   "_Lose_Changes_App": {
+      "message": "Vill du verkligen redigera fälten i den här applikationen? Alla ändringar kommer att gå förlorade!"
+   },
+   "_Luxembourg": {
+      "message": "Luxemburg"
+   },
+   "_M_S_I__Password_Keeper": {
+      "message": "MSI PasswordKeeper"
+   },
+   "_Macao": {
+      "message": "Macao"
+   },
+   "_Macedonia__the__Former__Yugoslav__Republic__Of": {
+      "message": "Makedonien, fd jugoslaviska republiken"
+   },
+   "_Madagascar": {
+      "message": "Madagaskar"
+   },
+   "_Magadan___Solomon__Is____New__Caledonia": {
+      "message": "Magadan, Salomonöarna, Nya Kaledonien"
+   },
+   "_Make__Favorite": {
+      "message": "Skapa Favorit"
+   },
+   "_Make__Pronounceable": {
+      "message": "Gör uttalbart"
+   },
+   "_Malawi": {
+      "message": "Malawi"
+   },
+   "_Malaysia": {
+      "message": "Malaysia"
+   },
+   "_Maldives": {
+      "message": "Maldiverna"
+   },
+   "_Male": {
+      "message": "Man"
+   },
+   "_Mali": {
+      "message": "Mali"
+   },
+   "_Malta": {
+      "message": "Malta"
+   },
+   "_Manage__Deleted__Items": {
+      "message": "Hantera Raderade Objekt"
+   },
+   "_Manage__Identities": {
+      "message": "Hantera Identiteter"
+   },
+   "_Manage__Shared__Folder": {
+      "message": "Hantera delade mappar"
+   },
+   "_Manage__Shared__Folders": {
+      "message": "Hantera delade mappar"
+   },
+   "_March": {
+      "message": "mars"
+   },
+   "_Marshall__Islands": {
+      "message": "Marshallöarna"
+   },
+   "_Martinique": {
+      "message": "Martinique"
+   },
+   "_Master__Password": {
+      "message": "Huvudlösenord"
+   },
+   "_Master__Password_": {
+      "message": "Huvudlösenord:"
+   },
+   "_Master__Password__Reverting": {
+      "message": "Återgång Huvudlösenord"
+   },
+   "_Master__Password_or_email_address_changed": {
+      "message": "Huvudlösenord eller e-postadress har ändrats"
+   },
+   "_Matching__Sites": {
+      "message": "Matchande sajter"
+   },
+   "_Mauritania": {
+      "message": "Mauretanien"
+   },
+   "_Mauritius": {
+      "message": "Mauritius"
+   },
+   "_Maximize": {
+      "message": "Maximera"
+   },
+   "_Maxthon": {
+      "message": "Maxthon"
+   },
+   "_May": {
+      "message": "maj"
+   },
+   "_Mayotte": {
+      "message": "Mayotte"
+   },
+   "_Member__I_D": {
+      "message": "Medlems-ID"
+   },
+   "_Member__Name": {
+      "message": "Medlemsnamn"
+   },
+   "_Membership": {
+      "message": "Medlemskap"
+   },
+   "_Membership__Number": {
+      "message": "Medlemsnummer"
+   },
+   "_Message_": {
+      "message": "Meddelande:"
+   },
+   "_Meta": {
+      "message": "Meta"
+   },
+   "_Mexico": {
+      "message": "Mexiko"
+   },
+   "_Micronesia___Federated__States__Of": {
+      "message": "Mikronesien"
+   },
+   "_Mid__Atlantic": {
+      "message": "Mid-Atlantic"
+   },
+   "_Middle_3_digits_of_your_phone_number": {
+      "message": "Mellersta 3 siffrorna i ditt telefonnummer"
+   },
+   "_Middle__Name": {
+      "message": "Mellannamn"
+   },
+   "_Middle_name": {
+      "message": "Mellannamn"
+   },
+   "_Midway__Island___Samoa": {
+      "message": "Midway Island, Samoa"
+   },
+   "_Minimize": {
+      "message": "Minimera"
+   },
+   "_Minimum__Digit__Count": {
+      "message": "Minsta antal siffror"
+   },
+   "_Mobile__Devices": {
+      "message": "Mobila Enheter"
+   },
+   "_Mobile__Email__Address": {
+      "message": "Mobil e-postadress"
+   },
+   "_Mobile__Number": {
+      "message": "Mobilnummer"
+   },
+   "_Mobile_number": {
+      "message": "Mobilnummer"
+   },
+   "_Moldova___Republic__Of": {
+      "message": "Moldavien"
+   },
+   "_Monaco": {
+      "message": "Monaco"
+   },
+   "_Mongolia": {
+      "message": "Mongoliet"
+   },
+   "_Montenegro": {
+      "message": "Montenegro"
+   },
+   "_Montserrat": {
+      "message": "Montserrat"
+   },
+   "_More": {
+      "message": "Mer"
+   },
+   "_More__Actions": {
+      "message": "Fler möjligheter"
+   },
+   "_More__Information": {
+      "message": "Mer information"
+   },
+   "_More__Options": {
+      "message": "Fler inställningar"
+   },
+   "_Morocco": {
+      "message": "Marocko"
+   },
+   "_Most__Recent": {
+      "message": "Nyligen Använda"
+   },
+   "_Mountain__Time___U_S____Canada_": {
+      "message": "Bergstid (USA och Kanada)"
+   },
+   "_Move__Selected_to__Group": {
+      "message": "Flytta valda till mapp"
+   },
+   "_Move_matching_sites_to_top_menu": {
+      "message": "Flytta matchande webbsidor till toppmenyn"
+   },
+   "_Move_to__Group": {
+      "message": "Flytta till mapp"
+   },
+   "_Move_to__Sub__Group": {
+      "message": "Flytta till undermapp"
+   },
+   "_Mozambique": {
+      "message": "Moçambique"
+   },
+   "_Mr": {
+      "message": "Herr"
+   },
+   "_Mrs": {
+      "message": "Fru"
+   },
+   "_Ms": {
+      "message": "Fröken"
+   },
+   "_Multifactor__Authentication": {
+      "message": "Multifaktorautentisering"
+   },
+   "_Multifactor__Authentication____Enterprise": {
+      "message": "Multifaktor-autentisering Enterprise"
+   },
+   "_Multifactor__Authentication____Free": {
+      "message": "Multifaktor-autentisering - Gratis"
+   },
+   "_Multifactor__Authentication____Premium": {
+      "message": "Multifaktor-autentisering - Premium"
+   },
+   "_Multifactor__Option": {
+      "message": "Multifaktor alternativ"
+   },
+   "_My_Password_Safe": {
+      "message": "MyPasswordSafe"
+   },
+   "_My__Account": {
+      "message": "Mitt konto"
+   },
+   "_My__Last_Pass__Vault": {
+      "message": "Mitt LastPass-valv"
+   },
+   "_Myanmar": {
+      "message": "Myanmar"
+   },
+   "_N_A_M_E": {
+      "message": "NAMN"
+   },
+   "_Name_": {
+      "message": "Namn:"
+   },
+   "_Name__a_z_": {
+      "message": "Namn(a-ö)"
+   },
+   "_Name__z_a_": {
+      "message": "Namn(ö-a)"
+   },
+   "_Name_on__Card": {
+      "message": "Namn på kort"
+   },
+   "_Name_on_card": {
+      "message": "Namn på kortet"
+   },
+   "_Nameproper": {
+      "message": "Namn"
+   },
+   "_Namibia": {
+      "message": "Namibia"
+   },
+   "_Nationality": {
+      "message": "Nationalitet"
+   },
+   "_Native__Client_only": {
+      "message": "Native Client endast"
+   },
+   "_Native__Messaging": {
+      "message": "Native Messaging"
+   },
+   "_Nauru": {
+      "message": "Nauru"
+   },
+   "_Nepal": {
+      "message": "Nepal"
+   },
+   "_Netherlands": {
+      "message": "Nederländerna"
+   },
+   "_Netherlands__Antilles": {
+      "message": "Nederländska Antillerna"
+   },
+   "_Never": {
+      "message": "Aldrig"
+   },
+   "_Never__Add__Site": {
+      "message": "Inaktivera 'Lägg till webbplats'"
+   },
+   "_Never__Ask__Again": {
+      "message": "Fråga inte igen"
+   },
+   "_Never__Auto_Fill": {
+      "message": "Inaktivera Autofyll"
+   },
+   "_Never__Auto_Login": {
+      "message": "Inaktivera AutoLogin"
+   },
+   "_Never__Fill__Forms": {
+      "message": "Inaktivera 'Fyll i formulär'"
+   },
+   "_Never__For__This__Domain": {
+      "message": "Inaktivera för den här domänen"
+   },
+   "_Never__For__This__Page": {
+      "message": "Inaktivera för den här sidan"
+   },
+   "_Never__For__This__Site": {
+      "message": "Inaktivera den här webbplatsen"
+   },
+   "_Never__Generate__Password": {
+      "message": "Inaktivera 'Generera lösenord'"
+   },
+   "_Never__Show__Again": {
+      "message": "Visa inte igen"
+   },
+   "_Never__Show__Context__Icons": {
+      "message": "Visa aldrig kontextikoner"
+   },
+   "_Never___": {
+      "message": "Aldrig ..."
+   },
+   "_Never_show_me_this_message_again_": {
+      "message": "Visa aldrig det här meddelandet igen*"
+   },
+   "_New__Caledonia": {
+      "message": "Nya Kaledonien"
+   },
+   "_New__Master__Password": {
+      "message": "Nytt huvudlösenord"
+   },
+   "_New__Zealand": {
+      "message": "Nya Zeeland"
+   },
+   "_New_here___Create_an__Account_": {
+      "message": "Ny här? Skapa ett konto"
+   },
+   "_New_to__Last_Pass_": {
+      "message": "Ny användare i LastPass?"
+   },
+   "_Newfoundland": {
+      "message": "Newfoundland"
+   },
+   "_News": {
+      "message": "Nyheter"
+   },
+   "_News__Reference": {
+      "message": "Nyheter/Referens"
+   },
+   "_Next__S_M_S_passcode_starts_with": {
+      "message": "Nästa SMS-kod börjar med"
+   },
+   "_Nicaragua": {
+      "message": "Nicaragua"
+   },
+   "_Niger": {
+      "message": "Niger"
+   },
+   "_Nigeria": {
+      "message": "Nigeria"
+   },
+   "_Niue": {
+      "message": "Niue"
+   },
+   "_No": {
+      "message": "Nej"
+   },
+   "_No_Favorites": {
+      "message": "Du har inga favoriter ännu."
+   },
+   "_No__Email": {
+      "message": "Ingen Mail"
+   },
+   "_No__Form__Fill__Profiles_": {
+      "message": "Inga formulärfyllningsprofiler!"
+   },
+   "_No__Matching__Sites_": {
+      "message": "Inga matchande webbplatser!"
+   },
+   "_No__Thanks": {
+      "message": "Nej tack"
+   },
+   "_No__Updates__Are__Available": {
+      "message": "Inga uppdateringar finns tillgängliga"
+   },
+   "_No__Wi__Fi_adapter_was_detected_on_this_computer____This_feature_requires_a__Wi__Fi_adapter_": {
+      "message": "Ingen WiFi-adapter upptäckt på denna dator. Denna funktion kräver en WiFi-adapter."
+   },
+   "_No___I_do_not_want__Last_Pass_to_help_me_fill_forms_automatically": {
+      "message": "Nej, jag vill inte att LastPass ska hjälpa mig att fylla i formulär automatiskt"
+   },
+   "_No___Save_as__New__Entry": {
+      "message": "Nej, spara som ny post"
+   },
+   "_No___Thanks": {
+      "message": "Nej tack"
+   },
+   "_No__do_not_import_any_of_my_insecure_items": {
+      "message": "Nej, spara inga av mina osäkra uppgifter"
+   },
+   "_No_history_available": {
+      "message": "Ingen Historik Tillgänglig"
+   },
+   "_No_matches_found___Please_search_again_": {
+      "message": "Inga resultat funna. Vänligen sök igen."
+   },
+   "_None__Available": {
+      "message": "Inga lediga"
+   },
+   "_Norfolk__Island": {
+      "message": "Norfolkön"
+   },
+   "_Northern__Mariana__Islands": {
+      "message": "Nordmarianerna"
+   },
+   "_Norway": {
+      "message": "Norge"
+   },
+   "_Norwegian": {
+      "message": "Norska"
+   },
+   "_Norwegian__Nynorsk": {
+      "message": "Nynorska"
+   },
+   "_Not__Now": {
+      "message": "Inte nu"
+   },
+   "_Note": {
+      "message": "Obs!"
+   },
+   "_Note__History": {
+      "message": "Antecknings historik"
+   },
+   "_Note__Type": {
+      "message": "Anteckningstyp"
+   },
+   "_Note__Type_": {
+      "message": "Anteckningstyp:"
+   },
+   "_Notes": {
+      "message": "Anteckningar"
+   },
+   "_Notes_": {
+      "message": "Anmärkningar:"
+   },
+   "_Notifications": {
+      "message": "Meddelanden"
+   },
+   "_November": {
+      "message": "november"
+   },
+   "_Nuku_alofa": {
+      "message": "Nuku'alofa"
+   },
+   "_Number": {
+      "message": "Nummer"
+   },
+   "_Number_of__Licenses": {
+      "message": "Antal licenser"
+   },
+   "_O_K": {
+      "message": "OK"
+   },
+   "_October": {
+      "message": "oktober"
+   },
+   "_Offer_to__Generate__Secure__Passwords": {
+      "message": "Erbjud att generera starka lösenord"
+   },
+   "_Old__Password": {
+      "message": "Gammalt lösenord"
+   },
+   "_Oman": {
+      "message": "Oman"
+   },
+   "_Once_the_binary_component_is_installed_please_click_below_to_enable_it_": {
+      "message": "När den binära komponenten har installerats, klicka nedan för att aktivera den."
+   },
+   "_Once_you_link_the_accounts__your_personal_account_will_appear_as_a_sub_folder_in_your__Enterprise_vault___You_can_save_all_personal_logins_directly_into_your_personal_folder__or_drag_them_in_later_": {
+      "message": "Så fort du har länkat kontona så syns ditt personliga konto som ett underkonto i din Enterprise..."
+   },
+   "_One__Time__Passwords": {
+      "message": "Engångslösenord"
+   },
+   "_Only_send_me_critical_security_alerts": {
+      "message": "skicka endast viktiga säkerhetsvarningar"
+   },
+   "_Open__All": {
+      "message": "Öppna alla"
+   },
+   "_Open__All__Favorites": {
+      "message": "Öppna Alla Favoriter"
+   },
+   "_Open__Dashlane____File____Export____C_S_V____Import_the_resulting_file_": {
+      "message": "Öppna Dashlane - Arkiv - Export - CSV. Importera den resulterande filen."
+   },
+   "_Open__Favorites": {
+      "message": "Öppna favoriter"
+   },
+   "_Open__Favorites_in__Tabs": {
+      "message": "Öppna Favoriter i flikar"
+   },
+   "_Open__File": {
+      "message": "Öppna fil"
+   },
+   "_Open__My__Last_Pass__Vault": {
+      "message": "Öppna mitt LastPass-valv"
+   },
+   "_Open__My__Vault": {
+      "message": "Öppna Mitt Valv"
+   },
+   "_Open__New__Pages_in": {
+      "message": "Öppna nya sidor i"
+   },
+   "_Open__Popover": {
+      "message": "Öppna Popover"
+   },
+   "_Open__Security__Challenge": {
+      "message": "Öppna Säkerhetsutmaningen"
+   },
+   "_Open__Sticky__Password____Manage__Database____Export____Export_as_text___Import_this_file": {
+      "message": "Öppna Sticky Password - Hantera databas - Exportera - Exportera som text. Importera den här filen"
+   },
+   "_Open_extension_pages_in_dialogs": {
+      "message": "Öppna tilläggssidor som dialogfönster"
+   },
+   "_Open_login_dialog_when_browser_starts": {
+      "message": "Öppna inloggningsrutan när webbläsaren startar"
+   },
+   "_Open_to_fine_tune_how_your_password_is_generated_": {
+      "message": "Öppna för att finjustera hur ditt lösenord genereras."
+   },
+   "_Opera": {
+      "message": "Opera"
+   },
+   "_Opera__Password__Manager": {
+      "message": "Operas lösenordshanterare"
+   },
+   "_Or__would_you_like__Last_Pass_to_save_a_new_user_password_for_this_site_": {
+      "message": "Eller skulle du vilja LastPass att spara en ny användare / lösenord för den här webbplatsen?"
+   },
+   "_Order__": {
+      "message": "Order nr"
+   },
+   "_Order__Number": {
+      "message": "Ordernummer"
+   },
+   "_Order__Total": {
+      "message": "Totalsumma"
+   },
+   "_Organization": {
+      "message": "Organisation"
+   },
+   "_Other": {
+      "message": "Annat"
+   },
+   "_Other__Sessions": {
+      "message": "Andra sessioner"
+   },
+   "_Overall__Progress_": {
+      "message": "Totalt förlopp:"
+   },
+   "_P_A_S_S_W_O_R_Dupper": {
+      "message": "LÖSENORD"
+   },
+   "_P_I_Ns__Password__Manager": {
+      "message": "PINs Password Manager"
+   },
+   "_Pacific__Time___U_S____Canada_": {
+      "message": "Stillahavstid (USA och Kanada)"
+   },
+   "_Page__Down": {
+      "message": "Nedåt på sidan"
+   },
+   "_Page__Up": {
+      "message": "Uppåt på sidan"
+   },
+   "_Pakistan": {
+      "message": "Pakistan"
+   },
+   "_Palau": {
+      "message": "Palau"
+   },
+   "_Palestinian__Territories": {
+      "message": "Palestinska områdena"
+   },
+   "_Panama": {
+      "message": "Panama"
+   },
+   "_Papua__New__Guinea": {
+      "message": "Papua Nya Guinea"
+   },
+   "_Paraguay": {
+      "message": "Paraguay"
+   },
+   "_Passpack": {
+      "message": "Passpack"
+   },
+   "_Passphrase": {
+      "message": "Lösenfras"
+   },
+   "_Passport": {
+      "message": "Pass"
+   },
+   "_Password": {
+      "message": "Lösenord"
+   },
+   "_Password_": {
+      "message": "Lösenord:"
+   },
+   "_Password__Agent": {
+      "message": "Lösenordsagent"
+   },
+   "_Password__Alerts": {
+      "message": "Lösenordslarm"
+   },
+   "_Password__Copied": {
+      "message": "Lösenord Kopierat"
+   },
+   "_Password__Corral": {
+      "message": "Password Corral"
+   },
+   "_Password__Depot": {
+      "message": "Password Depot"
+   },
+   "_Password__Dragon": {
+      "message": "Password Dragon"
+   },
+   "_Password__History": {
+      "message": "Lösenordshistorik"
+   },
+   "_Password__Iterations": {
+      "message": "Upprepade lösenord"
+   },
+   "_Password__Keeper": {
+      "message": "Lösenordsvalv"
+   },
+   "_Password__Length": {
+      "message": "Lösenordslängd"
+   },
+   "_Password__Length_": {
+      "message": "Lösenordslängd:"
+   },
+   "_Password__Management_for__Business": {
+      "message": "Lösenordshantering för företag"
+   },
+   "_Password__Reminder": {
+      "message": "Lösenordsledtråd"
+   },
+   "_Password__Reminder_": {
+      "message": "Lösenordsledtråd:"
+   },
+   "_Password__Safe": {
+      "message": "Lösenord säkert"
+   },
+   "_Password_reminder_cannot_match_password": {
+      "message": "Lösenordsledtråden får inte likna lösenordet"
+   },
+   "_Password_updated_": {
+      "message": "Lösenordet har uppdaterats!"
+   },
+   "_Passwords__Max": {
+      "message": "Passwords Max"
+   },
+   "_Pending": {
+      "message": "Väntande"
+   },
+   "_Pending__Invites_": {
+      "message": "Väntande Inbjudan"
+   },
+   "_Pending__Share": {
+      "message": "väntande delningar"
+   },
+   "_Permissions_": {
+      "message": "Rättigheter:"
+   },
+   "_Personal": {
+      "message": "Personligt"
+   },
+   "_Personal__Account__Email_": {
+      "message": "Privat e-postkonto:"
+   },
+   "_Personal__Account__Master__Password_": {
+      "message": "Personligt konto huvudlösenord:"
+   },
+   "_Peru": {
+      "message": "Peru"
+   },
+   "_Philippines": {
+      "message": "Filippinerna"
+   },
+   "_Phone__Number": {
+      "message": "Telefonnummer"
+   },
+   "_Phone_number": {
+      "message": "Telefonnummer"
+   },
+   "_Physician__Address": {
+      "message": "Läkarens adress"
+   },
+   "_Physician__Name": {
+      "message": "Läkarens namn"
+   },
+   "_Physician__Phone": {
+      "message": "Läkarens telefon"
+   },
+   "_Pin": {
+      "message": "Pin-kod"
+   },
+   "_Pitcairn": {
+      "message": "Pitcairnöarna"
+   },
+   "_Please__Make_a__Selection": {
+      "message": "Gör ett val"
+   },
+   "_Please__Wait___": {
+      "message": "Vänligen vänta..."
+   },
+   "_Please_answer_the_following_question_": {
+      "message": "Vänligen besvara följande fråga:"
+   },
+   "_Please_choose_the_type_of_export_you_would_like_to_perform_": {
+      "message": "Välj den typ av export du vill utföra:"
+   },
+   "_Please_choose_the_type_of_print_you_would_like_to_perform_": {
+      "message": "Välj den typ av utskrift du vill utföra:"
+   },
+   "_Please_close_this_window": {
+      "message": "Vänligen stäng det här fönstret"
+   },
+   "_Please_complete_multifactor_authentication_on_your_phone_or_mobile_device_": {
+      "message": "Var god och autentisera dig med multifaktor på din telefon eller mobila enhet."
+   },
+   "_Please_do_not_close_this_window__while__Last_Pass_changes_your_password_": {
+      "message": "Stäng inte fönstret medan LastPass ändrar ditt lösenord."
+   },
+   "_Please_enter_the_full_path_of_the_file_to_import_": {
+      "message": "Vänligen skriv in hela sökvägen till filen som ska importeras."
+   },
+   "_Please_enter_your_multifactor_authentication_code_": {
+      "message": "Ange din multifaktor-autentiseringskod."
+   },
+   "_Please_keep_this_page_open_until_the_operation_completes_": {
+      "message": "Vänligen håll denna sida öppen tills åtgärden är slutförd."
+   },
+   "_Please_move_sites_from_only_one_shared_folder_at_a_time_": {
+      "message": "Vänligen flytta endast webbplatser från en delad mapp i taget."
+   },
+   "_Please_note_that_upgrading_from__Last_Pass__Local_to__Last_Pass__Online_will_result_in_your_password_data_being_uploaded_in_its_encrypted_format_to__Last_Pass_servers____You_will_be_able_to_access_your_data_from_anywhere__and__Last_Pass_will_not_be_able_to_read_it____Would_you_like_to_continue_": {
+      "message": "Observera att om du uppgraderar från LastPass lokal till LastPass online kommer dina lösenordsuppgifter att laddas upp till LastPass' servrar i krypterat format. Du kommer att kunna komma åt dina uppgifter överallt och LastPass kommer inte att kunna läsa dem. Vill du fortsätta?"
+   },
+   "_Please_provide_this_computer_a_name": {
+      "message": "Ange ett namn för denna dator"
+   },
+   "_Please_re_enter_your__Master__Password_now_to_confirm_that_you_have_committed_it_to_memory_": {
+      "message": "Vänligen ange ditt Huvudlösenord nu för att bekräfta att du har lagt det på minnet."
+   },
+   "_Please_reload_the_page_to_view_your_changes_": {
+      "message": "Vänligen ladda om sidan för att visa dina ändringar."
+   },
+   "_Please_restart_all_your_browsers_to_begin_using__Last_Pass__Online_": {
+      "message": "Starta om alla dina webbläsare för att börja använda LastPass Online."
+   },
+   "_Please_restart_your_browser_to_finish_enabling_history_": {
+      "message": "Var vänligen starta om din webbläsare för att slutföra aktivering av historik"
+   },
+   "_Please_restart_your_browser_to_finish_enabling_native_messaging_": {
+      "message": "Vänligen starta om din webbläsare för att slutföra aktiveringen av native messaging."
+   },
+   "_Please_select": {
+      "message": "Välj"
+   },
+   "_Please_select_from_an_existing__Form__Fill__Profile_or_create_a_new_profile_": {
+      "message": "Var god välj från en existerande formulärprofil eller skapa en ny profil"
+   },
+   "_Please_select_which_sites_you_wish_to_apply_this_change_": {
+      "message": "Välj vilka webbplatser du vill utföra ändringen på."
+   },
+   "_Please_visit_https___lastpass_com_to_create_an_account_at_a_later_time_": {
+      "message": "Besök https://lastpass.com för att skapa ett konto vid ett senare tillfälle."
+   },
+   "_Poland": {
+      "message": "Polen"
+   },
+   "_Policy__Number": {
+      "message": "Policy nummer"
+   },
+   "_Policy__Type": {
+      "message": "Policy typ"
+   },
+   "_Polish": {
+      "message": "Polska"
+   },
+   "_Poll__Server_for_account_changes__mins_": {
+      "message": "Minuter mellan sökning efter kontoändringar på servern"
+   },
+   "_Port": {
+      "message": "Port"
+   },
+   "_Portugal": {
+      "message": "Portugal"
+   },
+   "_Portuguese": {
+      "message": "Portugisiska"
+   },
+   "_Portuguese___Brazilian_": {
+      "message": "Portugisiska (Brasilien)"
+   },
+   "_Preferences": {
+      "message": "Inställningar"
+   },
+   "_Premium__User": {
+      "message": "Premium-användare"
+   },
+   "_Price": {
+      "message": "Pris"
+   },
+   "_Print": {
+      "message": "Skriv ut"
+   },
+   "_Print__Screen": {
+      "message": "Skriv ut skärm"
+   },
+   "_Print__Secure__Notes": {
+      "message": "Skriv ut säker anteckning"
+   },
+   "_Print__Sites": {
+      "message": "Skriv ut webbplatser"
+   },
+   "_Printable_spreadsheet_of_numbers_and_letters_used_to_enter_different_values_when_logging_in_": {
+      "message": "Utskriftsbara kalkylblad med nummer och bokstäver som används för att mata in olika värden när du loggar in."
+   },
+   "_Privacy": {
+      "message": "Sekretess"
+   },
+   "_Private__Key": {
+      "message": "Privat nyckel"
+   },
+   "_Product": {
+      "message": "Produkt"
+   },
+   "_Productivity__Tools": {
+      "message": "Produktivitetsverktyg"
+   },
+   "_Profile": {
+      "message": "Profil"
+   },
+   "_Profile__I_D": {
+      "message": "Profil ID"
+   },
+   "_Profile_language": {
+      "message": "Profilspråk"
+   },
+   "_Profile_name": {
+      "message": "Profilnamn"
+   },
+   "_Progress": {
+      "message": "Förlopp"
+   },
+   "_Pronounceable": {
+      "message": "Uttalbar"
+   },
+   "_Protected": {
+      "message": "Skyddad"
+   },
+   "_Public__Key": {
+      "message": "Offentlig nyckel"
+   },
+   "_Publisher": {
+      "message": "Utgivare"
+   },
+   "_Puerto__Rico": {
+      "message": "Puerto Rico"
+   },
+   "_Purchase__Date": {
+      "message": "Inköpsdatum"
+   },
+   "_Purge": {
+      "message": "Rensa"
+   },
+   "_Qatar": {
+      "message": "Qatar"
+   },
+   "_Quickly_search_your_vault___Open_your_profile_menu_to_manage_your_account_": {
+      "message": "Sök snabbt igenom ditt valv. Öppna din profils meny för att hantera ditt konto."
+   },
+   "_Re__Enter__Password": {
+      "message": "Ange lösenordet igen"
+   },
+   "_Re__Prompt_for__Master__Password": {
+      "message": "Fråga igen för huvudlösenord"
+   },
+   "_Re_enter_your_master_password_": {
+      "message": "Skriv in ditt huvudlösenord igen:"
+   },
+   "_Re_prompt_for_your__Last_Pass_master_password_before_you_": {
+      "message": "Skriv in ditt LastPass huvudlösenord innan du:"
+   },
+   "_Read__Only": {
+      "message": "Läs endast"
+   },
+   "_Recent__Sites": {
+      "message": "Senaste webbplatserna"
+   },
+   "_Recently__Used": {
+      "message": "Nyligen använda"
+   },
+   "_Recently__Used_list_size": {
+      "message": "Senast använda storlek på lista"
+   },
+   "_Recheck__Page": {
+      "message": "Kontrollera sidan igen"
+   },
+   "_Recipient__Email__Addresses_": {
+      "message": "Mottagarens e-postadress"
+   },
+   "_Recipient__a_z_": {
+      "message": "Mottagare (a-ö)"
+   },
+   "_Recipient__z_a_": {
+      "message": "Mottagare (ö-a)"
+   },
+   "_Recipients_": {
+      "message": "Mottagare:"
+   },
+   "_Recommended": {
+      "message": "Rekommenderade"
+   },
+   "_Recommended__Options": {
+      "message": "Rekommenderade alternativ"
+   },
+   "_Reencrypting__Data___": {
+      "message": "Återkrypterar data ..."
+   },
+   "_Refresh": {
+      "message": "Uppdatera"
+   },
+   "_Refresh__Sites": {
+      "message": "Uppdatera webbplatser"
+   },
+   "_Reject": {
+      "message": "Neka"
+   },
+   "_Remember__Email": {
+      "message": "Kom ihåg e-postadress"
+   },
+   "_Remember__Password": {
+      "message": "Kom ihåg lösenord"
+   },
+   "_Remember_every_password": {
+      "message": "Kom ihåg alla lösenord"
+   },
+   "_Remove": {
+      "message": "Ta bort"
+   },
+   "_Remove__Favorite": {
+      "message": "Avlägsna Favorit"
+   },
+   "_Remove__Linked__Personal__Account": {
+      "message": "Avlägsna länkat person-konto"
+   },
+   "_Remove__Personal__Account": {
+      "message": "Ta bort personligt konto"
+   },
+   "_Remove__Site_from__Favorites": {
+      "message": "Avlägsna Sida från Favoriter"
+   },
+   "_Rename": {
+      "message": "Byt namn"
+   },
+   "_Rename__Group": {
+      "message": "Byt namn på mapp"
+   },
+   "_Replace__Existing__Site": {
+      "message": "Ersätt existerande webbplats"
+   },
+   "_Reprompt": {
+      "message": "Fråga igen"
+   },
+   "_Request_failed__is_your__Internet_connection_down_": {
+      "message": "Begäran misslyckades tyvärr. Är du ansluten till internet?"
+   },
+   "_Require__All__Character__Type": {
+      "message": "Kräv alla teckentyper"
+   },
+   "_Require__All__Character__Types": {
+      "message": "Kräv alla teckentyper"
+   },
+   "_Require__Every__Character__Type": {
+      "message": "Kräv samtliga teckentyper"
+   },
+   "_Require__Password__Reprompt": {
+      "message": "Kräv återangivande av lösenord"
+   },
+   "_Require_security_reprompt_when_": {
+      "message": "Kräv extra säkerhetsåtgärd när:"
+   },
+   "_Required_to__Create__Account": {
+      "message": "Krävs för att skapa konto"
+   },
+   "_Resend__Invitation": {
+      "message": "Återsänd Inbjudan"
+   },
+   "_Respect__Auto_Complete_off__allow_websites_to_disable__Auto_Fill": {
+      "message": "Respektera AutoKomplettering=av: Låter webbplatser inaktivera Autoifyllning"
+   },
+   "_Restore": {
+      "message": "Återställ"
+   },
+   "_Restore___General___Defaults": {
+      "message": "Återställ 'Allmänna' standardvärden"
+   },
+   "_Reunion": {
+      "message": "Réunion"
+   },
+   "_Revelation__Password__Manager": {
+      "message": "Revelation Password Manager"
+   },
+   "_Revert__Password__Change": {
+      "message": "Ångra byte av lösenord"
+   },
+   "_Review_any_passwords_and_notes_others_shared_with_you_": {
+      "message": "Gå igenom alla lösenord och anteckningar som andra delat med dig."
+   },
+   "_Revoke__Access": {
+      "message": "Återkalla åtkomst"
+   },
+   "_Right": {
+      "message": "Höger"
+   },
+   "_Robo_Form": {
+      "message": "RoboForm"
+   },
+   "_Romania": {
+      "message": "Rumänien"
+   },
+   "_Routing__Number": {
+      "message": "Clearing-nummer"
+   },
+   "_Routing_number": {
+      "message": "Routing number"
+   },
+   "_Run_the__Google__Authenticator_application_on_your_mobile_device_and_enter_the_verification_code_in_the_input_box_below_": {
+      "message": "Använd din Google Authenticator enhet på din mobil och anger din kod i nedanstående fält."
+   },
+   "_Russian": {
+      "message": "Ryska"
+   },
+   "_Russian__Federation": {
+      "message": "Ryssland"
+   },
+   "_Rwanda": {
+      "message": "Rwanda"
+   },
+   "_S_I_D": {
+      "message": "SID"
+   },
+   "_S_I_T_E": {
+      "message": "WEBBPLATS"
+   },
+   "_S_M_T_P__Port": {
+      "message": "SMTP-port"
+   },
+   "_S_M_T_P__Server": {
+      "message": "SMTP-server"
+   },
+   "_S_P_B__Wallet": {
+      "message": "SPB Wallet"
+   },
+   "_S_S_H__Key": {
+      "message": "SSH-nyckel"
+   },
+   "_S_S_I_D": {
+      "message": "SSID"
+   },
+   "_S_U_C_C_E_S_S": {
+      "message": "LYCKADES"
+   },
+   "_S_W_I_F_T__Code": {
+      "message": "SWIFT-kod"
+   },
+   "_Safari": {
+      "message": "Safari"
+   },
+   "_Safari__Password__Manager": {
+      "message": "Safaris lösenordshanterare"
+   },
+   "_Saint__Barthelemy": {
+      "message": "S:t Barthélemy"
+   },
+   "_Saint__Helena": {
+      "message": "S:t Helena"
+   },
+   "_Saint__Kitts_and__Nevis": {
+      "message": "S:t Kitts och Nevis"
+   },
+   "_Saint__Lucia": {
+      "message": "S:t Lucia"
+   },
+   "_Saint__Martin___French__Part_": {
+      "message": "Saint Martin (franska delen)"
+   },
+   "_Saint__Pierre_and__Miquelon": {
+      "message": "S:t Pierre och Miquelon"
+   },
+   "_Saint__Vincent_and_the__Grenadines": {
+      "message": "Saint Vincent och Grenadinerna"
+   },
+   "_Samoa": {
+      "message": "Samoa"
+   },
+   "_San__Marino": {
+      "message": "San Marino"
+   },
+   "_Sao__Tome_and__Principe": {
+      "message": "São Tomé och Príncipe"
+   },
+   "_Saudi__Arabia": {
+      "message": "Saudiarabien"
+   },
+   "_Save": {
+      "message": "Spara"
+   },
+   "_Save__All__Entered__Data": {
+      "message": "Spara alla angivna data"
+   },
+   "_Save__Credit__Card_profile": {
+      "message": "Spara kontokortsprofil"
+   },
+   "_Save__File": {
+      "message": "Spara fil"
+   },
+   "_Save__Form__Fill_profile": {
+      "message": "Spara profil för formulärifyllnad"
+   },
+   "_Save__New__Site": {
+      "message": "Spara ny webbplats"
+   },
+   "_Save__Password_to__Vault": {
+      "message": "Spara lösenordet till valvet"
+   },
+   "_Save__Password_to__Vault_": {
+      "message": "Spara lösenord till Valv?"
+   },
+   "_Save__Site": {
+      "message": "Spara webbplats"
+   },
+   "_Save_a_disabled__One__Time__Password_locally_for__Account__Recovery": {
+      "message": "Spara ett inaktivt engångslösenord lokalt för kontoåterställning"
+   },
+   "_Save_and_fill_passwords_for_any_website_or_app___Search_them_all_from_your_vault_": {
+      "message": "Spara och fyll i lösenord för hemsidor och appar. Sök bland dem från ditt valv."
+   },
+   "_Save_the_password_to_your__Last_Pass__Vault_": {
+      "message": "Spara lösenordet till ditt LastPass-valv?"
+   },
+   "_Save_this_password_as_a_new_entry": {
+      "message": "Spara lösenordet som en ny post"
+   },
+   "_Save_this_password_as_a_new_entry_": {
+      "message": "Spara lösenordet som en ny post?"
+   },
+   "_Save_this_website_into_your__Last_Pass__Vault_": {
+      "message": "Spara denna webbplats till ditt LastPass-valv!"
+   },
+   "_Save_your_changes_and_close_this_window": {
+      "message": "Spara dina ändringar och stäng fönstret"
+   },
+   "_Save_your_password_to_your__Last_Pass__Vault_": {
+      "message": "Spara ditt lösenord till din LastPass-valv?"
+   },
+   "_Saved__Passwords": {
+      "message": "Sparade lösenord"
+   },
+   "_Screen__Keyboard": {
+      "message": "Skärmtangentbord"
+   },
+   "_Search__All__Data": {
+      "message": "Sök all data"
+   },
+   "_Search__All__Groups": {
+      "message": "Sök i alla mappar"
+   },
+   "_Search__All__Notes": {
+      "message": "Sök alla anteckningar"
+   },
+   "_Search__All__Sites": {
+      "message": "Sök alla webbplatser"
+   },
+   "_Search__Last_Pass__Vault": {
+      "message": "Sök LastPass-valv"
+   },
+   "_Search__Vault": {
+      "message": "Sök i valvet"
+   },
+   "_Search_within_secure_notes": {
+      "message": "Sök inom säkra anteckningar"
+   },
+   "_Searchproper": {
+      "message": "Sök"
+   },
+   "_Secure__Note": {
+      "message": "Säker anteckning"
+   },
+   "_Secure__Notes": {
+      "message": "Säkra anteckningar"
+   },
+   "_Securely_send_passwords_and_notes_to_friends_and_family_": {
+      "message": "Skicka lösenord och anteckningar säkert till vänner och familj."
+   },
+   "_Security": {
+      "message": "Säkerhet"
+   },
+   "_Security__Alert": {
+      "message": "Säkerhetsproblem"
+   },
+   "_Security__Alert___Master__Password__Reused": {
+      "message": "Säkerhetsvarning: Huvudlösenordet till LastPass återanvänds"
+   },
+   "_Security__Alert___This_site_has_the_same_password_as_your__Last_Pass_account___To_protect_all_of_your_online_accounts__it_is_recommended_that_you_change_your__Last_Pass__Master__Password_": {
+      "message": "Säkerhetvarning: Den här webbplatsen har samma lösenord som ditt LastPass konto. För att skydda alla dina konton online, är det rekommenderat att du byter huvudlösenord till LastPass."
+   },
+   "_Security__Challenge": {
+      "message": "Säkerhetsutmaning"
+   },
+   "_Security__Check": {
+      "message": "Security Check"
+   },
+   "_Security__Code": {
+      "message": "Säkerhetskod"
+   },
+   "_Security__Email": {
+      "message": "Säkerhets-epostadress"
+   },
+   "_Security__Notice": {
+      "message": "Säkerhetsnotis"
+   },
+   "_Security__Question__Multifactor__Authentication": {
+      "message": "Säkerhetsfråga för stark autentisering"
+   },
+   "_Security_code": {
+      "message": "Säkerhetskod"
+   },
+   "_Select": {
+      "message": "Välj"
+   },
+   "_Select__All": {
+      "message": "Markera alla"
+   },
+   "_Select__Identity": {
+      "message": "Välj identitet"
+   },
+   "_Select_a_group_in_your__Last_Pass__Vault_to_place_this_website____Optional_": {
+      "message": "Välj en mapp i ditt LastPass-valv där du vill spara den här webbsidan [Valfritt]"
+   },
+   "_Select_a_preference_to_edit__then_tap__O_K_": {
+      "message": "Välj den inställning du vill redigera och tryck sedan på OK."
+   },
+   "_Select_or_enter_a_new_group_name": {
+      "message": "Välj eller skriv ett nytt mappnamn"
+   },
+   "_Selected__Items": {
+      "message": "Valda objekt"
+   },
+   "_Send__Email": {
+      "message": "Skicka e-post"
+   },
+   "_Send__S_M_S_passcodes": {
+      "message": "Skicka SMS-koder"
+   },
+   "_Send_anonymous_error_reporting_data_to_help_improve__Last_Pass": {
+      "message": "Sända anonyma felrapportdata till LastPass i utvecklings- och förbättringssyfte?"
+   },
+   "_Sender__a_z_": {
+      "message": "Avsändare (a-ö)"
+   },
+   "_Sender__z_a_": {
+      "message": "Avsändare (ö-a)"
+   },
+   "_Sends_an__Accept__Reject_notification_to_your_smart_phone_": {
+      "message": "Skicka ett acceptera/avvisa-meddelande till din smartphone."
+   },
+   "_Sends_push_notifications_to_your_smart_phone_to_verify_your_login_": {
+      "message": "Skicka push-meddelanden till din smartphone för att verifiera din inloggning."
+   },
+   "_Senegal": {
+      "message": "Senegal"
+   },
+   "_Seoul___Osaka___Sapporo___Tokyo___Yakutsk": {
+      "message": "Seoul, Osaka, Sapporo, Tokyo, Jakutsk"
+   },
+   "_September": {
+      "message": "september"
+   },
+   "_Serbia": {
+      "message": "Serbien"
+   },
+   "_Server": {
+      "message": "Server"
+   },
+   "_Sesame_Wrong_Button": {
+      "message": "För att se dina data när du är offline måste du starta programmet Sesame och använda funktionen 'Generera offline-lösenord' istället för 'Generera engångslösenord'."
+   },
+   "_Sesame__Multifactor__Authentication": {
+      "message": "Multifaktor-autentisering med Sesame"
+   },
+   "_Sessions": {
+      "message": "Sessioner"
+   },
+   "_Set_up_custom_form_fields": {
+      "message": "Ställ in anpassade formulärfält"
+   },
+   "_Settings": {
+      "message": "Inställningar"
+   },
+   "_Sex": {
+      "message": "Kön"
+   },
+   "_Seychelles": {
+      "message": "Seychellerna"
+   },
+   "_Share": {
+      "message": "Dela"
+   },
+   "_Share__Folder": {
+      "message": "Dela mapp"
+   },
+   "_Share__Item": {
+      "message": "Dela objekt"
+   },
+   "_Share__Selected": {
+      "message": "Dela ut markerade"
+   },
+   "_Share__Site": {
+      "message": "Dela Sida"
+   },
+   "_Share_login_state_between_other_browsers": {
+      "message": "Dela inloggningstatus med andra webbläsare"
+   },
+   "_Share_offer_from": {
+      "message": "Dela erbjudande från"
+   },
+   "_Shared__Folders": {
+      "message": "Delade mappar"
+   },
+   "_Shared_password_notifications": {
+      "message": "Delade meddelanden om lösenord"
+   },
+   "_Shared_with__Me": {
+      "message": "Delat med mig"
+   },
+   "_Shared_with__Others": {
+      "message": "Delat med andra"
+   },
+   "_Shares": {
+      "message": "Delningar"
+   },
+   "_Sharing__Center": {
+      "message": "Delningscentrum"
+   },
+   "_Shift": {
+      "message": "Skift"
+   },
+   "_Shopping": {
+      "message": "Shopping"
+   },
+   "_Should__Last_Pass_remember_this_password_": {
+      "message": "Ska LastPass komma ihåg lösenordet?"
+   },
+   "_Show": {
+      "message": "Visa"
+   },
+   "_Show__Advanced__Options": {
+      "message": "Visa avancerade inställningar"
+   },
+   "_Show__All": {
+      "message": "Visa alla"
+   },
+   "_Show__Deleted__Items": {
+      "message": "Visa raderade objekt"
+   },
+   "_Show__Deleted__Sites": {
+      "message": "Visa raderade webbplatser"
+   },
+   "_Show__Fill__Notification__Bar": {
+      "message": "Visa meddelanderad om formulärifyllning"
+   },
+   "_Show__Form__Fill__Notifications": {
+      "message": "Visa formulärfältsupplysningar"
+   },
+   "_Show__Matching__Sites": {
+      "message": "Visa matchande webbplatser"
+   },
+   "_Show__Matching__Sites_in_top_level_menu": {
+      "message": "Visa matchande webbplatser i toppnivåmenyn"
+   },
+   "_Show__My__Last_Pass__Vault__After__Login": {
+      "message": "Visa mitt LastPass-valv efter inloggning"
+   },
+   "_Show__Notifications": {
+      "message": "Visa meddelanden"
+   },
+   "_Show__Password": {
+      "message": "Visa lösenord"
+   },
+   "_Show__Password__History": {
+      "message": "Visa Lösenords Historik"
+   },
+   "_Show__Save__Site__Notifications": {
+      "message": "Visa uppmaning att spara webbplats"
+   },
+   "_Show__Sites_in__Groups": {
+      "message": "Visa webbplatser i Mappar"
+   },
+   "_Show__Username__History": {
+      "message": "Visa Historik för Användarnamn"
+   },
+   "_Show__Vault__After__Log_in": {
+      "message": "Visa Valv efter inloggning"
+   },
+   "_Show__Vault__After__Login": {
+      "message": "Visa valv efter inloggning"
+   },
+   "_Show_all_sites": {
+      "message": "Visa alla webbplatser"
+   },
+   "_Show_certain_notifications_only_after_click": {
+      "message": "Visa vissa upplysningar först efter klick"
+   },
+   "_Show_notifications_below_browser": {
+      "message": "Visa uppmaningar nedanför webbläsaren"
+   },
+   "_Show_or__Hide__Password": {
+      "message": "Visa eller dölj lösenord"
+   },
+   "_Shows_another_custom_field_entry": {
+      "message": "Visar ett annat eget inmatningsfält"
+   },
+   "_Sierra__Leone": {
+      "message": "Sierra Leone"
+   },
+   "_Sign__In": {
+      "message": "Logga in"
+   },
+   "_Simplify_your_life___Use__Last_Pass_to_autofill_in_this_site_s_login_info_": {
+      "message": "Gör livet enklare: Använd LastPass för att fylla i inloggningsinformationen för sidan automatiskt!"
+   },
+   "_Singapore": {
+      "message": "Singapore"
+   },
+   "_Site": {
+      "message": "Webbplats"
+   },
+   "_Site__Search": {
+      "message": "Webbplatssökning"
+   },
+   "_Sites": {
+      "message": "Webbplatser"
+   },
+   "_Skip__Tour": {
+      "message": "Hoppa över genomgång"
+   },
+   "_Skip_email_verification_of_unknown_devices_and_locations": {
+      "message": "Hoppa över verifieringar via e-post gällande okända enheter och platser"
+   },
+   "_Slovak": {
+      "message": "Slovakiska"
+   },
+   "_Slovakia": {
+      "message": "Slovakien"
+   },
+   "_Slovenia": {
+      "message": "Slovenien"
+   },
+   "_Social": {
+      "message": "Socialt"
+   },
+   "_Social__Security": {
+      "message": "Personnummer"
+   },
+   "_Social__Security__Number": {
+      "message": "Personnummer"
+   },
+   "_Social_security_number": {
+      "message": "Personnummer"
+   },
+   "_Software__License": {
+      "message": "Programvarulicens"
+   },
+   "_Software_application_that_can_be_placed_on_a__U_S_B_key_to_generate_one_time_verification_codes_": {
+      "message": "Program som kan installeras på ett USB-minne för att generera engångskoder för verifiering"
+   },
+   "_Solomon__Islands": {
+      "message": "Salomonöarna"
+   },
+   "_Somalia": {
+      "message": "Somalia"
+   },
+   "_Something_went_a_little_wrong__but_don_t_panic____Last_Pass_has_saved_your_last_known_password_": {
+      "message": "Något gick lite fel, men få inte panik! LastPass har sparat ditt senaste kända lösenord."
+   },
+   "_Sorry___group_names_starting_with___Shared___are_created_by__Last_Pass_to_indicate_groups_shared_with_other_people___Please_use_a_different_name_": {
+      "message": "Tyvärr, grupper vars namn börjar med 'Shared-' är skapade av LastPass för att indikera grupper som deras med andra personer. Vänligen välj ett annat namn."
+   },
+   "_Sorry__this_shared_folder_is_read_only_": {
+      "message": "Tyvärr, denna delade mapp är skrivskyddad."
+   },
+   "_Sorry__you_cannot_perform_this_operation_on_a_mix_of_shared_and_non_shared_folders__or_multiple_shared_folders_at_once_": {
+      "message": "Tyvärr kan du inte utföra denna operation på en mix av delad och icke-delade mappar, eller flera delade mappar på en gång."
+   },
+   "_Sorry__your_password_can_not_be_the_same_as_your_email_address_": {
+      "message": "Tyvärr, ditt lösenord kan inte vara det samma som din email-adress."
+   },
+   "_Sorry__your_password_is_too_short___It_must_be_a_minimum_of_8_characters_long_for_security_reasons_": {
+      "message": "Tyvärr, ditt lösenord för kort. Det måste av säkerhetsskäl vara minst 8 tecken."
+   },
+   "_Sort__By_": {
+      "message": "Sortera efter:"
+   },
+   "_Source": {
+      "message": "Källa"
+   },
+   "_Source_": {
+      "message": "Källa:"
+   },
+   "_South__Africa": {
+      "message": "Sydafrika"
+   },
+   "_South__Georgia": {
+      "message": "South Georgia"
+   },
+   "_South__Georgia_and_the__South__Sandwich__Islands": {
+      "message": "Sydgeorgien och Sydsandwichöarna"
+   },
+   "_Spain": {
+      "message": "Spanien"
+   },
+   "_Spanish": {
+      "message": "Spanska"
+   },
+   "_Spanish___Mexico_": {
+      "message": "Spanska (Mexiko)"
+   },
+   "_Special": {
+      "message": "Special"
+   },
+   "_Splash_I_D": {
+      "message": "SplashID"
+   },
+   "_Sports": {
+      "message": "Sporter"
+   },
+   "_Sri__Lanka": {
+      "message": "Sri Lanka"
+   },
+   "_Start__Date": {
+      "message": "Startdatum"
+   },
+   "_Start__Downloading__Folder": {
+      "message": "Starta nerladdning av folder"
+   },
+   "_Start__Trial": {
+      "message": "Starta testperiod"
+   },
+   "_Start_date": {
+      "message": "Startdatum"
+   },
+   "_State": {
+      "message": "Status"
+   },
+   "_State____Province": {
+      "message": "Län/Region"
+   },
+   "_Status": {
+      "message": "Status"
+   },
+   "_Sticky__Password": {
+      "message": "Klistrat Lösenord"
+   },
+   "_Stop__Downloading__Folder": {
+      "message": "Stoppa nerladdning av folder"
+   },
+   "_Store_every_note": {
+      "message": "Förvara varje anteckning"
+   },
+   "_Sub__Total": {
+      "message": "Del av slutsumma"
+   },
+   "_Submit__Form": {
+      "message": "Skicka formuläret"
+   },
+   "_Submitting___": {
+      "message": "Skickar in..."
+   },
+   "_Success___Your__Password__Is__Updated": {
+      "message": "Klart! Ditt lösenord är uppdaterat"
+   },
+   "_Sudan": {
+      "message": "Sudan"
+   },
+   "_Support__Email": {
+      "message": "E-postadress för support"
+   },
+   "_Support_for_fingerprint_sensors_and_card_readers_": {
+      "message": "Stöd för fingeravtrycks- och kortläsare."
+   },
+   "_Support_ticket_updates": {
+      "message": "Stöd för uppdateringar via kupong"
+   },
+   "_Suriname": {
+      "message": "Surinam"
+   },
+   "_Suspicious_characters_found_in_selected_filename__will_not_process_it": {
+      "message": "Filnamnet innehåller misstänkta tecken, och kan inte bearbetas"
+   },
+   "_Svalbard_and__Jan__Mayen": {
+      "message": "Svalbard och Jan Mayen"
+   },
+   "_Swaziland": {
+      "message": "Swaziland"
+   },
+   "_Sweden": {
+      "message": "Sverige"
+   },
+   "_Swedish": {
+      "message": "Svenska"
+   },
+   "_Swipe_current_user_s_finger": {
+      "message": "Läs av användarens finger"
+   },
+   "_Swipe_finger": {
+      "message": "Dra fingret"
+   },
+   "_Swipe_your_finger_on_the_fingerprint_sensor": {
+      "message": "Dra fingret över fingeravläsaren"
+   },
+   "_Switzerland": {
+      "message": "Schweiz"
+   },
+   "_Syrian__Arab__Republic": {
+      "message": "Syrian Arab Republic"
+   },
+   "_Tabs": {
+      "message": "Flikar"
+   },
+   "_Taiwan": {
+      "message": "Taiwan"
+   },
+   "_Tajikistan": {
+      "message": "Tadzjikistan"
+   },
+   "_Tanzania___United__Republic__Of": {
+      "message": "Tanzania, Förenade republiken"
+   },
+   "_Tehran": {
+      "message": "Teheran"
+   },
+   "_Telecom": {
+      "message": "Telecom"
+   },
+   "_Telephone": {
+      "message": "Telefon"
+   },
+   "_Tell_a_friend_": {
+      "message": "Meddela en vän!"
+   },
+   "_Text": {
+      "message": "Text"
+   },
+   "_Text_to__Find": {
+      "message": "Text som sökes"
+   },
+   "_Text_to_find": {
+      "message": "Skriv in söktext"
+   },
+   "_Thailand": {
+      "message": "Thailand"
+   },
+   "_That_file_is_missing_or_empty____Please_enter_the_full_path_of_the_file_to_import_": {
+      "message": "Filen saknas eller är tom. Vänligen skriv in hela sökvägen till filen som ska importeras."
+   },
+   "_That_group_already_exists_": {
+      "message": "Mappen existerar redan."
+   },
+   "_The_4_digit_year_the_credit_card_was_issued": {
+      "message": "Kreditkortets fyrsiffriga utfärdningsår"
+   },
+   "_The__Folder__Navigation": {
+      "message": "Navigeringen via mappar"
+   },
+   "_The__Last_Pass__Wi__Fi_utility_was_not_detected_on_this_computer____Would_you_like_to_run_the__Last_Pass__Universal__Installer_in_order_to_install_it_": {
+      "message": "WiFi-verktyget för LastPass upptäcktes inte på den här datorn. Vill du köra LastPass Universal Installer för att installera det?"
+   },
+   "_The__Last_Pass_master_password_you_reentered_does_not_match": {
+      "message": "Huvudlösenordet du angav igen matchar inte"
+   },
+   "_The__Left__Navigation": {
+      "message": "Den vänstra navigeringen"
+   },
+   "_The__Quick__Add__Button": {
+      "message": "Knappen för att snabbt lägga till"
+   },
+   "_The__Top__Navigation": {
+      "message": "Den övre navigeringen"
+   },
+   "_The___Old__Password__you_entered_is_not_your_correct__Last_Pass_master_password": {
+      "message": "Det du angav som 'gammalt lösenord' är inte korrekt huvudlösenord"
+   },
+   "_The_account_you_are_logging_into_was_either_hacked_or_was_reusing_a_password_a_password_from_a_site_that_was_hacked___You_should_take_action_now_to_change_this_password": {
+      "message": "Kontot du loggar in på är antingen hackat eller har återanvänt ett lösenord från en webbplats som var hackad. Du bör vidta åtgärder nu för att ändra detta lösenord"
+   },
+   "_The_binary_version_of_the__Last_Pass_plugin_is_required_for_this_operation___It_can_be_downloaded_from_lastpass_com_": {
+      "message": "Den binära versionen av LastPass-tillägget krävs för denna operation. Den kan laddas ner från lastpass.com."
+   },
+   "_The_credit_card_number": {
+      "message": "Kontokortsnummret"
+   },
+   "_The_credit_card_s_4_digit_expiration_year": {
+      "message": "Kontokortets fyrsiffriga utgångsår"
+   },
+   "_The_credit_card_s_expiration_month": {
+      "message": "Kontokortets utgångsmånad"
+   },
+   "_The_credit_card_s_issue_number___Only_applicable_to_certain__European_brands_of_debit_cards__such_as__Maestro_": {
+      "message": "Kontokortets utfärdningsnummer.\nEndast relevant för vissa europeiska märken av bankkort, såsom Maestro."
+   },
+   "_The_credit_card_s_security_code___For_most_credit_cards__this_is_the_last_3_digits_of_a_number_printed_on_the_back_of_the_card___For__American__Express_credit_cards__it_is_the_last_4_digits_of_a_number_printed_in_small_print_on_the_front_of_the_card_": {
+      "message": "Kreditkortets säkerhetskod.\nFör de flesta kontokort är detta de 3 sista siffrorna av ett nummer tryckt på baksidan av kortet.\nPå American Express-kort är det de sista 4 siffrorna i ett nummer tryckt i liten stil på framsidan av kortet."
+   },
+   "_The_following_emails_are_invalid___1": {
+      "message": "Följande e-postadresser är ogiltiga: %1"
+   },
+   "_The_full_name_printed_on_the_credit_card": {
+      "message": "Fullständigt namn (tryckt på kontokortet)"
+   },
+   "_The_month_the_credit_card_was_issued": {
+      "message": "Kontokortets utfärdningsmånad"
+   },
+   "_The_name_of_your_bank": {
+      "message": "Namnet på din bank"
+   },
+   "_The_new__Last_Pass_4_0_vault_is_bold__fast__and_easy_to_navigate___As_you_familiarize_yourself_with_the_new_interface__you_can_switch_back_to_the_old_version_as_you_wish_": {
+      "message": "Valvet i LastPass 4.0 är djärvt, snabbt och lättnavigerat. Medan du vänjer dig vid det nya gränssnittet kan du skifta tillbaka till den gamla versionen när du vill."
+   },
+   "_The_notes_field_contains_too_much_data____You_may_store_a_maximum_of_45_000_characters_per_note____Would_you_like_us_to_truncate_the_note_for_you____You_will_lose_some_of_your_data_": {
+      "message": "Anteckningsfältet innehåller för mycket data. Du kan maximalt lagra 45000 tecken per anteckning.\n\nVill du att vi ska trunkera anteckningen åt dig? Du kan förlora vissa data."
+   },
+   "_The_number_of_characters_in_the_generated_password_": {
+      "message": "Antalet tecken i det genererade lösenordet."
+   },
+   "_The_password_that_you_use_to_log_into_this_website_": {
+      "message": "Det lösenord som du använder för att logga in på denna webbplats."
+   },
+   "_The_random_password_that_was_generated_has_been_saved_to_your_vault_": {
+      "message": "Det slumpmässiga lösenordet som genererades har sparats till ditt valv."
+   },
+   "_The_text_beside__the_name_of__or_the__I_D_of_the_form_field_to_be_filled___If_multiple_items_are_to_be_matched__specify_each_match_on_a_separate_line_": {
+      "message": "Texten bredvid, namnet på, eller ID för det formulärfält att fylla i.\nOm flera objekt ska matchas, ange varje match på en separat rad."
+   },
+   "_The_value_to_be_filled": {
+      "message": "Det värde som skall fyllas i"
+   },
+   "_The_version_of__Chrome_you_are_currently_running_does_not_have__H_T_M_L5_database_support_enabled____As_such__this_login_page_will_not_remember_your_email_and_password__and_other_features_such_as_automatic_login_on_browser_restart_will_not_work_": {
+      "message": "Den version av Chrome du för närvarande använder har inte HTML5-databasstöd aktiverat. Detta betyder att  inloggningssidan inte kommer att minnas din e-postadress och lösenord och därmed kommer andra funktioner som automatisk inloggning efter att webbläsaren är omstartad inte att fungera."
+   },
+   "_The_version_of__Chrome_you_are_currently_running_does_not_have__H_T_M_L5_database_support_enabled____As_such__this_login_page_will_not_remember_your_email_and_password__and_other_features_such_as_automatic_login_on_browser_restart_will_not_work____You_may_be_able_to_fix_this_by_adding___enable_databases_as_a_parameter_to_your__Google__Chrome_browser_shortcut_": {
+      "message": "Den version av Chrome du för närvarande kör inte har HTML5-databasstöd aktiverat. Därför kommer inloggningssidan inte att minnas din e-postadress och lösenord, och andra funktioner som automatisk inloggning när webbläsaren omstartas kommer inte att fungera. Du kan eventuellt åtgärda detta genom att ange --enable-databases som parameter till Google Chrome."
+   },
+   "_The_website_needs_you_to_enter_information___Please_close_this_overlay_and_enter_it_": {
+      "message": "Webbplatsen kräver att du matar in information. Stäng den här överlappningen och skriv in den."
+   },
+   "_The_website_needs_you_to_enter_information___Please_switch_to_the_tab_and_enter_it_": {
+      "message": "Webbplatsen kräver att du matar in information. Växla till fliken och skriv in den."
+   },
+   "_There_are_two_ways_to_view_your_vault___Use_the_icons_on_the_top_right_to_toggle_between_them_": {
+      "message": "Det finns två sätt att inspektera ditt valv. Använd ikonerna uppe till höger för att skifta mellan dem."
+   },
+   "_These_preferences_are_stored_on_your_computer_or_device__you_will_see_this_message_again_if_you_delete_browser_information__or_use_a_different_computer___The_best_way_to_avoid_this_message_is_to_change_your__Last_Pass__Master__Password_": {
+      "message": "*Notera: Dessa inställningarna sparas endast på din dator eller enhet. Du kommer se detta meddelande igen om du raderar din webbläsares inställningar eller använder en annan dator. Bästa sättet att undvika detta meddelande är att byta ditt huvudlösenord till LastPass."
+   },
+   "_This_attachment_needs_to_be_saved_first_": {
+      "message": "Denna bilaga måste sparas först."
+   },
+   "_This_can_only_be_handled_from_a_webpage": {
+      "message": "Detta kan endast skötas från en webbsida"
+   },
+   "_This_computer_is_trusted__do_not_require_a_second_form_of_authentication_for_30_days_": {
+      "message": "Den här datorn är betrodd och kräver inte en andra form av autentisering för 30 dagar."
+   },
+   "_This_feature_is_not_available_in_this_version___Please_install_the_binary_extension_by_going_to_": {
+      "message": "Denna funktion är inte tillgänglig i den här versionen. Vänligen installera det binära plugin:et genom att gå till "
+   },
+   "_This_feature_is_not_available_in_this_version___Please_install_the_binary_extension_by_going_to_https___lastpass_com_dl": {
+      "message": "Den här funktionen är inte tillgänglig i denna version. Installera det binära tillägget genom att gå till https://lastpass.com/dl"
+   },
+   "_This_feature_requires_the_binary_version_of_this_browser_extension____Would_you_like_to_install_it_now_": {
+      "message": "Denna funktion kräver den binära versionen av denna webbläsarextension. Vill du installera det nu?"
+   },
+   "_This_feature_still_needs_to_be_implemented__to_read_directly_from_": {
+      "message": "Denna funktion måste fortfarande bli implementerad, för att läsa direkt från "
+   },
+   "_This_is_a_potential_security_risk__because_anyone_who_learns_the_password_for_that_site_may_gain_access_to_all_of_your_accounts___Last_Pass_strongly_recommends_that_your__Master__Password_should_not_be_used_on_any_other_website_": {
+      "message": "Det är potentiellt en säkerhetsrisk - om någon får reda på, eller kommer över lösenordet för den webbplatsen kommer dom kunna komma åt alla dina andra konton också. LastPass rekommenderar starkt att aldrig använda ditt huvudlösenord på någon annan webbplats."
+   },
+   "_This_is_a_potential_security_risk_because_anyone_who_learns_the_password_for_that_site_may_gain_access_to_all_of_your_accounts___Last_Pass_strongly_recommends_that_your__Master__Password_should_not_be_used_on_any_other_website_": {
+      "message": "Det är potentiellt en säkerhetsrisk - om någon får reda på lösenordet för den webbplatsen kommer dom kunna komma åt alla dina andra konton också. LastPass rekommenderar starkt att aldrig använda ditt huvudlösenord på någon annan webbplats."
+   },
+   "_This_is_a_shared_site___You_are_not_permitted_to_view_the_password_": {
+      "message": "Detta är en delad webbplats. Du är inte tillåten att se lösenordet."
+   },
+   "_This_is_the_language_displayed_by_the__Last_Pass_com_website_": {
+      "message": "Det här är språket som visas på LastPass.com hemsidan."
+   },
+   "_This_is_the_name_or__U_R_L_of_this_web_page_": {
+      "message": "Detta är namnet eller URL'en till den här webbsidan."
+   },
+   "_This_may_take_a_while___": {
+      "message": "Detta kan ta en stund..."
+   },
+   "_This_page_failed_to_load_properly____Please_ensure_you_are_running_the_latest_version_of__Maxthon___Last_Pass_requires_at_least__Maxthon_4_0_3_2000_____Otherwise__this_may_have_happened_to_due_a_bug_in__Maxthon____Please_try_opening_this_page_again_": {
+      "message": "Denna sida gick inte att ladda ordentligt. Se till att du kör den senaste versionen av Maxthon (LastPass kräver minst Maxthon 4.0.3.2000). Detta kan ha hänt på grund av en bugg i Maxthon. Försök att öppna den här sidan igen."
+   },
+   "_This_page_failed_to_load_properly____Please_ensure_you_are_running_the_latest_version_of__Maxthon___Last_Pass_requires_at_least__Maxthon_4_0_3_3000_____Otherwise__this_may_have_happened_to_due_a_bug_in__Maxthon____Please_try_opening_this_page_again_": {
+      "message": "Sidan kunde inte laddas korrekt. Kontrollera att du har den senaste versionen av Maxthon (LastPass kräver minst Maxthon 4.0.3.3000). Annars kan detta problem uppstå p.g.a. en bugg i Maxthon. Var god försök öppna sidan igen."
+   },
+   "_This_password_you_use_to_log_into_this_website_": {
+      "message": "Detta lösenord du använder för att logga in på denna webbplats."
+   },
+   "_This_site_has_the_same_password_as_your__Last_Pass_account___To_protect_all_of_your_online_accounts__it_is_recommended_that_you_change_your__Last_Pass__Master__Password_": {
+      "message": "Denna webbplats har samma lösenord som ditt LastPass-konto. För att skydda alla dina internet-konton rekommenderas det att du ändrar ditt huvudlösenord till LastPass."
+   },
+   "_This_site_was_affected_by_a_breach_": {
+      "message": "Denna webbplats har påverkats av ett säkerhetshot!"
+   },
+   "_Time__Zone": {
+      "message": "Tidszon"
+   },
+   "_Timed_out": {
+      "message": "Tidsgräns överskriden"
+   },
+   "_Timed_out_waiting_for_the_page_to_load____Retry_": {
+      "message": "Löpte ut i väntan på att sidan skulle ladda. Försöka på nytt?"
+   },
+   "_Timor__Leste": {
+      "message": "Östtimor"
+   },
+   "_Title": {
+      "message": "Rubrik"
+   },
+   "_To_create_your_account__please_re_enter_your__Last_Pass_master_password": {
+      "message": "För att skapa ditt konto, vänligen ange ditt LastPass-huvudlösenord igen."
+   },
+   "_To_export_1_Password_logins__login_to_1_Password___Select_all_or_just_passwords_that_you_want_to_export___Then_select___File_menu____Export__All____Text_file______Or_____File_menu____Export__Selected____Text_file_____Click__Export_button_and__Save_password_file__and__Import_the_resulting_file_": {
+      "message": "För att exportera 1Password-lösenord, logga in på 1Password. Välj sedan alla, eller bara de lösenord som du vill exportera. Välj sedan File / Export All / Text file... Eller File / Export Selected / Text file... Klicka på knappen Export och Save password file, och importera den resulterande filen."
+   },
+   "_To_export__Clipperz_cards__login_to_www_clipperz_com___Click_on_data__then__Export__then__Export_to__J_S_O_N___Copy_all_of_the_text_and_save_it_to_a_file_using_a_text_editor__then_import_it___Please_note_that_this_import_may_not_work_properly_if_you_ve_changed_field_names_from_their_defaults_": {
+      "message": "För att exportera Clipperz-kort, logga in på www.clipperz.com. Klicka på data, Export och sedan EXPORT to JSON. Kopiera all text och spara den i en fil med en textredigerare och importera filen. Observera att denna import inte fungerar korrekt om du har ändrat fältnamnen från sina standardvärden."
+   },
+   "_To_export__Fire_Form_profiles__right_click_the__Fire_Form_icon__then_choose__Simple_setup____Go_to_the__General_options_tab__click__Export_all_profiles__and_save_an__X_M_L_file____Import_the_resulting_file_": {
+      "message": "För att exportera FireForm-profiler, högerklicka på FireForm-ikonen och välj 'Simple setup'. Gå till fliken 'General options', klicka på 'Export all profiles' och spara en XML-fil. Importera den resulterande filen."
+   },
+   "_To_export__H_P__Password__Safe_save_to_an__H_T_M_L_file___Import_the_resulting_file_": {
+      "message": "Exportera HP Password Safe till en HTML-fil. Importera den resulterande filen."
+   },
+   "_To_export__Kee_Pass_logins__open_your__Kee_Pass_database__and_click_on__File____Export__To____X_M_L__File____Choose_a_file_location_and_press_the__Save_button____Then__press_the__O_K_button____Import_the_resulting_file_": {
+      "message": "Om du vill exportera KeePass-inloggningar, öppna KeePass-databasen och klicka på Arkiv - Exportera till - XML-fil. Välj en filplats och tryck på knappen Spara. Tryck sedan på OK. Importera filen."
+   },
+   "_To_export__Last_Pass_logins__open_your_browser_with_the__Last_Pass_plugin_installed__and_click_on__Last_Pass____Tools____Export__To____C_S_V__File____Choose_a_file_location_and_press_the__Save_button____Import_the_resulting_file_": {
+      "message": "Om du vill exportera LastPass-inloggningar, öppna din webbläsare med LastPass-pluginen installerad och klicka på LastPass - Verktyg - Exportera till - CSV-fil. Välj önskad katalog och tryck på knappen Spara. Importera den skapade filen."
+   },
+   "_To_export__Password__Agent_logins__open_your__Password__Agent_database__and_click_on__File____Print_and__Export____Change_the_output_format_to__X_M_L__File__make_sure___Group__is_checked____Choose_a_file_location_and_press_the__Save_button____Import_the_resulting_file_": {
+      "message": "Om du vill exportera Password Agent-login, öppna din Password Agent-databas, klicka på Arkiv - Skriv ut och Exportera - Ändra utdataformatet till XML-fil, se till så 'grupp' är markerat. Välj en filplats och tryck på knappen Spara. Importera filen."
+   },
+   "_To_export__Passwords__Max_passwords__click__File____Database____Export____Text____Click__O_K__and_save_a__C_S_V_file____Import_the_resulting_file_": {
+      "message": "Om du vill exportera Passwords Max-lösenord, klicka på Arkiv - Databas - Exportera - Text. Klicka på Ok och spara som CSV-fil. Importera filen."
+   },
+   "_To_export__Robo_Form_logins__click_on__Robo_Form__Logins_____Print__List___Click_on_the__Full__U_R_L_check_box_and_press_the_save_button___Import_the_resulting_file____To_export__Robo_Form__Safe_Notes__click_on__Robo_Form__Safe_Notes__Print__List___Press_the_save_button___Import_the_resulting_file____To_export__Robo_Form__Identities__click_on__Robo_Form__Identities__Print__List___Press_the_save_button___Import_the_resulting_file_": {
+      "message": "För att exportera RoboForm-login, välj RoboForm-Logins...-Utskriftslista. Klicka på kryssrutan Full URL. Tryck Spara. Importera den resulterande filen.\n\nFör att exportera RoboForm-SafeNotes, klicka på RoboForm-SafeNotes-Print List. Tryck Spara. Importera den resulterande filen.\n\nFör att exportera RoboForm-identiteter, välj RoboForm-Identities-Print List. Välj Spara. Importera den resulterande filen."
+   },
+   "_To_export_e_Wallet_cards__go_to_e_Wallet____Tools____Export___Save_as_a_text_file___Import_the_resulting_file_": {
+      "message": "Om du vill exportera eWallet-kort, gå till eWallet - Verktyg - Exportera. Spara som en textfil. Importera denna fil."
+   },
+   "_To_export_from__My_Password_Safe___Click_on__File____Save__As____Select_type_of__U_N_E_N_C_R_Y_P_T_E_D__X_M_L____Save_the_file____Import_the_resulting_file_": {
+      "message": "Om du vill exportera från MyPasswordSafe, klicka på Arkiv - Spara som - Välj typen OKRYPTERAD XML - Spara filen. Importera denna fil."
+   },
+   "_To_export_from__Password__Safe___Click_on__File____Export__To____X_M_L____Save_the_file____Import_the_resulting_file_": {
+      "message": "Om du vill exportera från Password Safe, klicka på Arkiv - Exportera till - XML ​​- Spara filen. Importera denna fil."
+   },
+   "_To_export_passwords__login_to_the_desktop_application_and_go_to__File____Export____C_S_V____All__Entries____Import_the_resulting_file_": {
+      "message": "Om du vill exportera lösenord, logga in i skrivbordsprogrammet och gå till Arkiv - Export - CSV - Alla poster. Importera den skapade filen."
+   },
+   "_To_export_passwords_from__Darn___Passwords___click__Tools____Print____Click__Settings__and_check__Include__Notes_in__Export____Click__Print__and_click_the__Export_to__File_icon_that_looks_like_a_blue_disk____Name_the_file__and_click__Open____Import_the_resulting_file_": {
+      "message": "Om du vill exportera lösenord från Darn! Passwords!, klicka på Verktyg - Skriv ut. Klicka på Inställningar och kryssa i Inkludera Anteckningar i Export. Klicka på Skriv ut och klicka på Exportera till filikonen som ser ut som en blå skiva. Namnge filen och klicka på Öppna. Importera denna fil."
+   },
+   "_To_export_passwords_from__Passpack___Login__go_to_the__Tools_screen__and_click__Export___Under___What__Type_of__Format__Would__You__Like__To__Export____Select___Comma__Separated__Values___and_on___Which__Entries__Would__You__Like__To__Export____Select___All_of_my_entries___then_hit___Continue____Select_all_of_the_text_in_the_text_box_on_the_next_screen__copy_it_to_the_clipboard__create_a_new_file_with_notepad_called_passpack_csv__paste_the_contents_into_this_file___Import_this_file_": {
+      "message": "För att exportera lösenord från Passpack: Logga in, gå till Tools, klicka på Export. Under _What Type of Format Would You Like To Export?_ Välj _Comma Separated Values_, och vid _Which Entries Would You Like To Export?_ Välj _All of my entries_, tryck _Continue_. Markera all text i rutan på nästa skärm och kopiera den till urklipp. Skapa ett nytt textdokument och klistra in informationen i detta. Döp filen till passpack.csv och importera den till LastPass."
+   },
+   "_To_export_passwords_from__Password__Corral___Login__go_to_the__File____Export__Password____Create_a_plaintext_export_of_all_your_password____Import_this_file_": {
+      "message": "Om du vill exportera lösenord från Password Corral: Logga in, gå till Arkiv - Exportera lösenord - Exportera en klartextfil av alla dina lösenord. Importera denna fil."
+   },
+   "_To_export_passwords_from__Password__Depot__click_on_the___Tools__tab_and_select___Export____Select_the___Extensible__Markup__Language_format____xml____specify_a_target_file_and_select_the_folder_you_want_to_export_": {
+      "message": "För att exportera lösenord från lösenordsförrådet, klicka på fliken 'Verktyg' och välj 'Exportera'. Välj 'Extensible Markup Language format (*.xml), ange en målfil och välj den mapp du vill exportera."
+   },
+   "_To_export_passwords_from__Password__Dragon___Login__go_to_the__File____Export____Text__File__make_sure_you_check___Password___it_defaults_off____Import_the_saved_file_": {
+      "message": "Om du vill exportera lösenord från Password Dragon: Logga in, gå till Arkiv - Exportera - Textfil, se till att du kryssar i 'Lösenord', den är normalt av. Importera den sparade filen."
+   },
+   "_To_export_passwords_from__Revelation__Password__Manager__export_the_data_as__X_M_L_": {
+      "message": "För att exportera lösenord från lösenordshanteraren Revelation, exportera data som XML."
+   },
+   "_To_export_passwords_from__S_P_B__Wallet__open_the_wallet__click__File___Export__select_file_destination_in_the_dialog_box_and_click__Save___Then__paste_the_data_into_the_box_on_this_page_": {
+      "message": "Om du vill exportera lösenord från SPB Wallet, öppna plånboken, klicka på Arkiv, Exportera, välj filplats i dialogrutan och klicka på Spara. Klistra sedan in datan i rutan på denna sida."
+   },
+   "_To_get_started_with__Last_Pass__you_will_need_to_add_sites_to_your_account_": {
+      "message": "För att komma igång med LastPass måste du lägga till webbplatser till ditt konto."
+   },
+   "_To_import__Wi__Fi_passwords__simply_click__Import_below_": {
+      "message": "För att importera WiFi-lösenord, klicka på Importera nedan."
+   },
+   "_To_import_from__P_I_Ns__Password__Manager__Export_in__Tab__Separated_format____Then__import_the_resulting_file_": {
+      "message": "För att importera från PINs Password Manager, använd Export med tabbseparering. Importera sedan den resulterande filen."
+   },
+   "_To_import_passwords_from__Firefox__Password__Manager__simply_click__Import_below_": {
+      "message": "Om du vill importera lösenord från Firefox Password Manager, klicka på Importera nedan."
+   },
+   "_To_import_passwords_from__Opera__Password__Manager__simply_click__Import_below_": {
+      "message": "Om du vill importera lösenord från Operas lösenordshanterare, klickar du bara på Importera nedan."
+   },
+   "_To_import_passwords_from__Safari__Password__Manager__simply_click__Import_below_": {
+      "message": "Om du vill importera lösenord från Safaris lösenordshanterare, klickar du bara på Importera nedan."
+   },
+   "_To_import_your__M_S_I__Password_Keeper_logins__open_the_program____Click___Txt___and_then___Open_____Import_the_resulting_file_": {
+      "message": "Gör så här för att importera inloggningsuppgifter från MSI PasswordKeeper:\nÖppna programmet, klicka på 'Txt' och sedan 'Öppna' (Open).\nImportera sedan filen till LastPass."
+   },
+   "_To_import_your__Password__Keeper_logins__open_the_program__and_the_password_file_to_be_exported____Click__File____Export__File____Click__Yes__enter_your_password__and_click__O_K____This_opens_a_standard__Windows__Save_dialog__so_enter_a_file_name_and_location____Import_the_resulting_file_": {
+      "message": "För att importera dina inloggningar från Password Keeper, öppna programmet och lösenordsfilen som ska exporteras. Klicka på Arkiv - Exportera fil. Klicka på Ja, ange ditt lösenord och klicka på OK. Ange ett filnamn och en plats. Importera den skapade filen."
+   },
+   "_To_import_your__Turbo_Passwords_logins__open_the_program__and_the_password_file_to_be_exported___If_you_want_to_restrict_the_export_to_a_particular_category_or_type__filter_the_entries_displayed_using_the__Category_and__Type_drop_downs_above_the_main_window___Click__File__Export__Category___This_opens_a_standard__Windows__Save_dialog__so_enter_a_file_name_and_location__and_select__Comma__Separated__Values___csv__from_the__Save_as__Type_box_": {
+      "message": "Gör så här för att importera inloggningsuppgifter från TurboPasswords: Öppna programmet och lösenordsfilen som ska exporteras. Om du vill kan du begränsa dig till en särskild kategori eller typ av lösenord. Filtrera detta via rullgardinsmenyerna ovanför huvudfönstret.\nKlicka på Arkiv|Exportera Kategori (File|Export Category). Detta öppnar Windows standarddialogruta för att spara, ange ett filnamn och en sökväg, samt välj kommaseparerad (Comma Separated Values) (.csv) som filtyp.\nImportera sedan filen till LastPass."
+   },
+   "_To_prevent_access_to_all_mobile_devices_except_those_checked_above__click_below_": {
+      "message": "Klicka nedan för att förhindra tillträde till alla mobila enheter förutom de som är ikryssade ovan."
+   },
+   "_To_protect_your_privacy_and_keep_your_data_confidential_": {
+      "message": "För att skydda din integritet och hålla dina data konfidentiella,"
+   },
+   "_To_protect_your_privacy_and_keep_your_data_confidential___Last_Pass_does_not_know_or_store_your__Master__Password_": {
+      "message": "För att skydda din integritet och hålla dina data hemliga, kommer LastPass inte att komma ihåg eller spara ditt huvudlösenord."
+   },
+   "_To_switch_between__Last_Pass_3_0_and_4_0__simply_move_the_toggle_in_the_vault_under_your_profile_dropdown_menu___Note_that_we_will_be_phasing_out_the_old_vault_completely_in_the_future__and_will_update_you_with_the_final_date_when_we_do_": {
+      "message": "Flytta omkopplaren i din profils rullgardinsmeny för att växla mellan LastPass 3.0 och 4.0. Notera att vi kommer att fasa ut den gamla versionen helt och hållet i framtiden. Vi meddelar dig när slutdatum kommer."
+   },
+   "_Toggle__Last_Pass_3_0": {
+      "message": "Växla till LastPass 3.0"
+   },
+   "_Togo": {
+      "message": "Togo"
+   },
+   "_Tokelau": {
+      "message": "Tokelau"
+   },
+   "_Tonga": {
+      "message": "Tonga"
+   },
+   "_Tools": {
+      "message": "Verktyg"
+   },
+   "_Toopher": {
+      "message": "Toopher"
+   },
+   "_Tor__Networks": {
+      "message": "Tor nätverk"
+   },
+   "_Track__History": {
+      "message": "Spåra historik"
+   },
+   "_Transakt": {
+      "message": "Överför"
+   },
+   "_Travel": {
+      "message": "Resor"
+   },
+   "_Trinidad_and__Tobago": {
+      "message": "Trinidad och Tobago"
+   },
+   "_Trust_this_computer_for_30_days": {
+      "message": "Gör denna dator betrodd under 30 dagar."
+   },
+   "_Trusted__Devices": {
+      "message": "Betrodda enheter"
+   },
+   "_Try__Again": {
+      "message": "Försök igen"
+   },
+   "_Try__Last_Pass__Enterprise": {
+      "message": "Testa LastPass Enterprise"
+   },
+   "_Tunisia": {
+      "message": "Tunisien"
+   },
+   "_Turbo_Passwords": {
+      "message": "TurboPasswords"
+   },
+   "_Turkey": {
+      "message": "Turkiet"
+   },
+   "_Turkmenistan": {
+      "message": "Turkmenistan"
+   },
+   "_Turks_and__Caicos__Islands": {
+      "message": "Turks- och Caicosöarna"
+   },
+   "_Tutorials": {
+      "message": "Introduktion"
+   },
+   "_Tuvalu": {
+      "message": "Tuvalu"
+   },
+   "_Type": {
+      "message": "Typ"
+   },
+   "_Type_": {
+      "message": "Typ:"
+   },
+   "_U_R_L": {
+      "message": "URL"
+   },
+   "_U_R_L_": {
+      "message": "URL:"
+   },
+   "_U_S_B_device_that_generates_one_time_verification_codes_": {
+      "message": "USB-minne som genererar engångskoder för verifiering."
+   },
+   "_U_S_E_R_N_A_M_E": {
+      "message": "ANVÄNDARNAMN"
+   },
+   "_Uganda": {
+      "message": "Uganda"
+   },
+   "_Ukraine": {
+      "message": "Ukraina"
+   },
+   "_Ulaan__Bataar___Perth": {
+      "message": "Ulaan Bataar, Perth"
+   },
+   "_Unable_to_proceed__the_website_does_not_allow_automated_password_change_": {
+      "message": "Det går inte att fortsätta, webbplatsen tillåter inte automatisk lösenordsändring."
+   },
+   "_Unavailable__Items": {
+      "message": "Ej tillgängliga föremål"
+   },
+   "_Unexpected_data_type__": {
+      "message": "Oväntad datatyp:"
+   },
+   "_United__Arab__Emirates": {
+      "message": "Förenade Arabemiraten"
+   },
+   "_United__Kingdom": {
+      "message": "Storbritannien"
+   },
+   "_United__States": {
+      "message": "USA"
+   },
+   "_United__States__Minor__Outlying__Islands": {
+      "message": "USA:s yttre öar"
+   },
+   "_Units": {
+      "message": "Enheter"
+   },
+   "_Unknown": {
+      "message": "Okänd"
+   },
+   "_Unlink__Personal__Account": {
+      "message": "Ta bort länk till personligt konto"
+   },
+   "_Unselect__All": {
+      "message": "Avmarkera alla"
+   },
+   "_Up": {
+      "message": "Upp"
+   },
+   "_Upgrade_to__Last_Pass__Online_": {
+      "message": "Uppgradera till LastPass Online!"
+   },
+   "_Upgrade_to__Premium": {
+      "message": "Uppgradera till Premium"
+   },
+   "_Uploading__Data___": {
+      "message": "Laddar upp data ..."
+   },
+   "_Uruguay": {
+      "message": "Uruguay"
+   },
+   "_Use": {
+      "message": "Använd"
+   },
+   "_Use_802_1_X": {
+      "message": "Använd 802.1X"
+   },
+   "_Use__Password": {
+      "message": "Använd lösenord"
+   },
+   "_Use__Special__Characters": {
+      "message": "Använda specialtecken"
+   },
+   "_Use__Special__Characters_": {
+      "message": "Använd specialtecken?"
+   },
+   "_Use_the__Security__Challenge_to_see_other_affected_sites": {
+      "message": "Använd Säkerhetsutmaningen för att se andra drabbade webbplatser"
+   },
+   "_Use_this_password_now__for_this_site__": {
+      "message": "Använd detta lösenord nu (för den här webbplatsen)?"
+   },
+   "_User": {
+      "message": "Användare"
+   },
+   "_User__Group": {
+      "message": "Användargrupp"
+   },
+   "_User__Manual": {
+      "message": "Användarmanual"
+   },
+   "_User_name": {
+      "message": "Användarnamn"
+   },
+   "_Username_": {
+      "message": "Användarnamn:"
+   },
+   "_Username__History": {
+      "message": "Historik för användarnamn"
+   },
+   "_Usernameproper": {
+      "message": "Användarnamn"
+   },
+   "_Uzbekistan": {
+      "message": "Uzbekistan"
+   },
+   "_Value": {
+      "message": "Värde"
+   },
+   "_Value_to__Fill": {
+      "message": "Värde att fylla i"
+   },
+   "_Value_to_fill": {
+      "message": "Fyll i ett värde"
+   },
+   "_Vanuatu": {
+      "message": "Vanuatu"
+   },
+   "_Vault": {
+      "message": "Valv"
+   },
+   "_Venezuela": {
+      "message": "Venezuela"
+   },
+   "_Version": {
+      "message": "Version"
+   },
+   "_Version_": {
+      "message": "Version:"
+   },
+   "_Viet__Nam": {
+      "message": "Vietnam"
+   },
+   "_View__Deleted__Shared__Folders": {
+      "message": "Visa raderade delade mappar"
+   },
+   "_View__History": {
+      "message": "Visa historik"
+   },
+   "_View__Image": {
+      "message": "Visa bild"
+   },
+   "_View__Passwords": {
+      "message": "Visa lösenord"
+   },
+   "_View_passwords_and_notes_that_you_have_deleted_from_your_vault___You_can_restore_an_item_to_your_vault_if_needed__or_permanently_wipe_deleted_items___Items_that_have_been_deleted_for_30_days_will_be_wiped_automatically_": {
+      "message": "Titta på lösenord och anteckningar som du har tagit bort från ditt valv. Vid behov kan du återställa en post till ditt valv, eller permanent sudda poster. Efter 30 dagar suddas de poster som har tagits bort automatiskt."
+   },
+   "_View_this_tutorial_at_any_time_from_the__More_menu_in_the_left_navigation_bar_": {
+      "message": "Betrakta denna lärodel när som helst från menyn till vänster."
+   },
+   "_Virgin__Islands___British_": {
+      "message": "Virgin Islands (UK)"
+   },
+   "_Virgin__Islands___U__S__": {
+      "message": "Virgin Islands (US)"
+   },
+   "_Wallis_and__Futuna": {
+      "message": "Wallis-och Futunaöarna"
+   },
+   "_Warn_before_filling_insecure_forms": {
+      "message": "Varna innan ifyllning av osäkra formulär"
+   },
+   "_Watch_a_video_on_basic_usage": {
+      "message": "Se en video om grundläggande användande"
+   },
+   "_We_also__D_O__N_O_T_keep_a_copy_or_backup_of_it_": {
+      "message": "Vi har INTE någon kopia eller backup av det."
+   },
+   "_We_have_detected_that_you_have_not_yet_granted__Last_Pass_permission_to_access_native_messaging____Native_messaging_is_required_to_provide_extra_features_such_as_sharing_of_login_state_with_other_browsers__fingerprint_authentication__importing__exporting__and_attachments_": {
+      "message": "Vi har upptäckt att du ännu inte har beviljat LastPass åtkomst till native messaging. Det krävs för att ge extra funktioner som delning av inloggningstillstånd med andra webbläsare, fingeravtrycksautentisering, importering och exportering samt bilagor."
+   },
+   "_We_re_sorry___We_were_not_able_to_change_your_password_automatically_for__s___Your_password_was_not_changed_": {
+      "message": "Vi ber om ursäkt. Vi kunde inte ändra erat lösenord automatiskt för %s. Erat lösenord ändrades inte."
+   },
+   "_Weak__Password": {
+      "message": "Svagt lösenord"
+   },
+   "_Website": {
+      "message": "Webbsida"
+   },
+   "_Website__Auto__Logoff": {
+      "message": "Automatisk utloggning från webbsida"
+   },
+   "_Website_password_changed": {
+      "message": "Hemsidans lösenord ändrat"
+   },
+   "_Website_username_changed": {
+      "message": "Hemsidans användarnamn ändrat"
+   },
+   "_Welcome_back_to__Last_Pass_": {
+      "message": "Välkommen tillbaka till LastPass,"
+   },
+   "_Welcome_back_to__Last___Pass_": {
+      "message": "Välkommen tillbaka till Last Pass,"
+   },
+   "_Welcome_to__Last_Pass_": {
+      "message": "Välkommen till LastPass!"
+   },
+   "_Welcome_to__Last_Pass_4_0": {
+      "message": "Välkommen till LastPass 4.0"
+   },
+   "_West__Central__Africa": {
+      "message": "Västra Centralafrika"
+   },
+   "_Western__Sahara": {
+      "message": "Västsahara"
+   },
+   "_What_is_an__Identity_": {
+      "message": "Vad är en identitet?"
+   },
+   "_What_you_use_to_log_into_this_website_": {
+      "message": "Vad du använder för att logga in på denna webbplats."
+   },
+   "_When_this_box_is_checked__at_least_one_lower_case_character__one_upper_case_character__and_one_special_character_will_be_used": {
+      "message": "När denna ruta är markerad, kommer åtminstone ett gement tecken, en stor bokstav och ett specialtecken att användas"
+   },
+   "_When_this_box_is_checked__at_least_one_lower_case_character__one_upper_case_character__and_one_special_character_will_be_used_": {
+      "message": "När denna ruta är markerad kommer åtminstone en liten boktstav, en stor bokstav och ett specialtecken att användas."
+   },
+   "_When_this_box_is_checked__characters_like___and___will_be_used_when_randomly_generating_a_password_": {
+      "message": "När denna ruta är markerad, tecken som # och! kommer att användas vid slumpmässigt generera ett lösenord."
+   },
+   "_When_this_box_is_checked__confusing_characters__1__I__L_0__O__are_not_used_": {
+      "message": "När denna ruta är markerad, används inte förvirrande tecken (1, I, L, 0, O)."
+   },
+   "_When_this_box_is_checked__generate_a_password_that_is_easy_to_pronounce": {
+      "message": "När denna ruta är markerad, skapa ett lösenord som är lätt att uttala"
+   },
+   "_When_this_box_is_checked__generate_a_password_that_is_easy_to_pronounce_": {
+      "message": "När denna ruta är markerad, skapar ett lösenord som är lätt att uttala."
+   },
+   "_When_this_box_is_checked__potentially_confusing_characters__1__I__L_0__O__are_not_used": {
+      "message": "När denna ruta är markerad, kommer potentiellt förvirrande tecken (1, I, L, 0, O) inte att används"
+   },
+   "_When_this_box_is_checked__use_characters_like___and___in_the_password": {
+      "message": "När denna ruta är markerad, använd tecken som # och ! i lösenordet"
+   },
+   "_When_this_button_is_selected__at_least_one_lower_case_character__one_upper_case_character__and_one_special_character_will_be_used_": {
+      "message": "När den här knappen är vald, kommmer minst en gemen bokstav, en VERSAL bokstav, och ett specialtecken att användas."
+   },
+   "_When_this_button_is_selected__generate_a_password_that_is_easy_to_pronounce_": {
+      "message": "När den här knappen är vald, generera ett lösenord som är enkelt att uttala"
+   },
+   "_Wi__Fi__Password": {
+      "message": "WiFi-lösenord"
+   },
+   "_Wi__Fi__Passwords": {
+      "message": "WiFi-lösenord"
+   },
+   "_Windows": {
+      "message": "Windows"
+   },
+   "_Would_you_like__Last_Pass_to_generate_a_secure_password_for_you_": {
+      "message": "Vill du att LastPass genererar ett säkert lösenord för dig?"
+   },
+   "_Would_you_like__Last_Pass_to_save_your_site_information_": {
+      "message": "Vill du att LastPass sparar din webbplatsinformation?"
+   },
+   "_Would_you_like_to_make_a_copy_": {
+      "message": "Vill du skapa en kopia?"
+   },
+   "_Would_you_like_to_set_up_a__Form__Filling_profile_now_": {
+      "message": "Vill du skapa en formulärfyllningsprofil nu?"
+   },
+   "_X_M_L__Files": {
+      "message": "XML-filer"
+   },
+   "_Xmarks_promotions_and_giveaways": {
+      "message": "Reklam och presenter från Xmarks"
+   },
+   "_Yangon___Rangoon_": {
+      "message": "Yangon (Rangoon)"
+   },
+   "_Yemen": {
+      "message": "Jemen"
+   },
+   "_Yes": {
+      "message": "Ja"
+   },
+   "_Yes___Use_for_this__Site": {
+      "message": "Ja, använd för denna webbplats"
+   },
+   "_Yes__let_me_choose_which_items__I_want_imported_into__Last_Pass": {
+      "message": "Ja, låt mig välja vilka uppgifter jag vill importera till LastPass"
+   },
+   "_Yes__let_me_enter_and_review_data_that_will_be_used_when_filling_forms": {
+      "message": "Ja, låt mig ange och granska data som kommer att användas vid ifyllning av formulär"
+   },
+   "_You_are_about_to_convert_this_personal_folder_into_a__Shared__Folder_": {
+      "message": "Du är på väg att omvandla denna personliga mapp till en delad mapp."
+   },
+   "_You_are_moving_items_from_a_shared_folder_into_your_vault___Others_may_lose_access_to_them_": {
+      "message": "Du flyttar uppgifter från delad mapp till ditt valv. Andra kanske förlorar tillgång till dem."
+   },
+   "_You_are_moving_items_to_a_different_shared_folder___This_may_change_who_has_access_to_them_": {
+      "message": "Du flyttar uppgifter till en annan delad mapp. Det kan ändra vem som har tillgång till dem."
+   },
+   "_You_are_moving_sites_from_a_shared_folder_into_your_general_vault___This_will_potentially_make_them_unavailable_to_others_____Do_you_want_to_continue_": {
+      "message": "Du flyttar platser från en delad mapp till ditt allmänna valv. Detta kommer potentiellt att göra dem otillgängliga för andra.\n\nVill du fortsätta?"
+   },
+   "_You_are_moving_sites_to_a_different_shared_folder___This_may_change_who_has_access_to_the_sites_____Do_you_want_to_continue_": {
+      "message": "Du flyttar sidor till en annan delad mapp. Detta kan ändra vem som har tillgång till sidorna.\n\nVill du fortsätta?"
+   },
+   "_You_are_moving_sites_to_a_shared_folder___Others_may_now_have_access_to_them_": {
+      "message": "Du flyttar webbplatser till en delad mapp. Andra kan nu få tillgång till dem."
+   },
+   "_You_are_moving_sites_to_a_shared_folder___This_will_potentially_make_them_available_to_others____Are_you_sure_you_would_like_to_continue_": {
+      "message": "Du flyttar platser till en delad mapp. Detta kommer eventuellt göra dem tillgängliga för andra användare.\n\nÄr du säker på att du vill fortsätta?"
+   },
+   "_You_cannot_assign_more_than_one__Hot_Key_the_same_value_": {
+      "message": "Du kan inte tilldela samma värde till flera kortkommandon."
+   },
+   "_You_cannot_move_individually_shared_sites_into_a_shared_folder_": {
+      "message": "Du kan inte flytta individuellt delade platser till en delad mapp."
+   },
+   "_You_currently_have__Last_Pass_set_to_remember_your_password____Doing_so_essentially_makes_the_automatically_logoff_options_you_ve_chosen_useless____Would_you_like__Last_Pass_to_stop_remembering_your_password_": {
+      "message": "Du har ställt in att LastPass skall komma ihåg ditt lösenord. Det gör i princip inställningarna för automatisk utloggning meningslösa. Vill du att LastPass ska sluta komma ihåg ditt lösenord?"
+   },
+   "_You_currently_have_no_mobile_devices_defined_": {
+      "message": "Du har för tillfället ingen mobil enhet registrerad."
+   },
+   "_You_currently_have_no_trusted_devices_defined_": {
+      "message": "Du har för tillfället inga betrodda enheter registrerade."
+   },
+   "_You_do_not_have_permission_to__1__2": {
+      "message": "Du har inte tillgång till %1 %2"
+   },
+   "_You_have_no_alerts_at_this_time_": {
+      "message": "Du har inga larm för tillfället."
+   },
+   "_You_have_not_enabled_credit_monitoring_for_any_profiles_": {
+      "message": "Du har inte aktiverat övervakning av krediter för någon profil."
+   },
+   "_You_have_not_yet_chosen_a_default_form_fill_profile____Would_you_like_to_choose_one_now_": {
+      "message": "Du har ännu inte valt en standardformulärfyllningsprofil. Vill du välja en nu?"
+   },
+   "_You_have_saved_your_password_to_your__Last_Pass__Vault_": {
+      "message": "Du har sparat ditt lösenord till ditt LastPass Vault."
+   },
+   "_You_may_also_be_blocking_all_cookies__which_causes__Chrome_to_disallow__H_T_M_L5_database_access_": {
+      "message": "Det kan också vara så att du blockerar alla kakor/cookies, vilket medför att Chrome inte tillåter HTML5-databasåtkomst."
+   },
+   "_You_may_change_your__Master__Password_through_the__Last_Pass_website_by_clicking_the_button_below__or_turn_off__Master__Password_security_alerts_using_the_links_at_the_bottom_of_this_page_": {
+      "message": "Du kan byta ditt huvudlösenord genom LastPass webbplats genom att klicka på knappen nedan, eller stänga av säkerhetsvarningen för huvudlösenordet genom att använda länkarna i botten på denna sida."
+   },
+   "_You_may_change_your__Master__Password_using_this_form__or_turn_off__Master__Password_security_alerts_using_the_links_below_the_form_": {
+      "message": "Du kan byta ditt huvudlösenord genom det här formuläret, eller stänga av säkerhetsvarningar för huvudlösenordet genom att använda länkarna nedanför formuläret."
+   },
+   "_You_must_agree_to_send_your_encrypted_data_to__Last_Pass_com____Last_Pass_com_encrypts_your_data_and_sends_it_to_its_secure_servers___No_one_at__Last_Pass_can_read_your_confidential_data_since_it_is_encrypted_using_your_secret_password_and_you_are_the_only_one_who_knows_your_password_": {
+      "message": "Du måste godkänna att dina krypterade data skickas till LastPass.com.\n\nLastPass.com krypterar dina data och skickar det till sina säkra servrar.\nIngen på LastPass kan läsa dina konfidentiella data eftersom de är krypterade med\nditt hemliga lösenord, vilket du är den enda som känner till."
+   },
+   "_You_must_agree_to_send_your_encrypted_data_to__Last_Pass_in_order_to_use_our_product___Your_data_is_encrypted_before_it_is_sent_to_our_secure_servers___No_one_at__Last_Pass_can_read_your_confidential_data__because_this_data_is_encrypted_using_your_secret__Master__Password__and_you_should_be_the_only_person_who_knows_your_password_": {
+      "message": "Du måste gå med på att skicka krypterade data till LastPass för att kunna använda vår produkt.Din data krypteras innan den skickas till våra säkra servrar. Ingen på LastPass kan läsa din konfidentiella data, eftersom följande data krypteras med ditt hemliga huvudlösenord, och du bör vara den enda person som känner till ditt lösenord."
+   },
+   "_You_must_agree_to_the__Terms_and__Conditions_in_order_to_continue": {
+      "message": "Du måste acceptera användningsvillkoren för att forsätta"
+   },
+   "_You_must_agree_to_the_terms_to_continue": {
+      "message": "Du måste acceptera användningsvillkoren för att forsätta"
+   },
+   "_You_must_enter_a_name_": {
+      "message": "Du måste ange ett namn."
+   },
+   "_You_must_enter_a_unique_name_": {
+      "message": "Du måste ange ett unikt namn."
+   },
+   "_You_must_restart__Chrome_or_logoff_and_back_in_to_get___Logoff_on__Browser__Close__changes_to_take_effect": {
+      "message": "Du måste starta om chrome eller logga ut och in för att för att aktivera 'logga ut när webbläsaren stängs' förändringarna att användas "
+   },
+   "_You_must_restart__Chrome_or_logoff_and_back_in_to_get_logoff_on_browser_close_changes_to_be_reflected": {
+      "message": "Du måste starta om Chrome eller logga ut och in igen på den här sidan för att dina senaste ändringarna ska synas"
+   },
+   "_You_must_restart_your_browser_before_all_of_the_changes_will_take_effect_": {
+      "message": "Du måste starta om webbläsaren för att ändringarna ska träda i kraft."
+   },
+   "_You_re__All__Set_": {
+      "message": "Du är färdig!"
+   },
+   "_Your_4_digit_birth_year": {
+      "message": "Ditt fyrsiffriga födelseår"
+   },
+   "_Your__Google__Chrome_passwords_have_been_imported_successfully_": {
+      "message": "Dina Google Chrome-lösenord har importerats."
+   },
+   "_Your__Password__Reminder_can_not_be_the_same_as_your_chosen__Master__Password_for_security_reasons___Please_edit_your__Reminder_so_that_it_does_not_contain_your__Master__Password_": {
+      "message": "Din lösenordspåminnelse kan inte vara samma som det valda huvudlösenordet av säkerhetsskäl. Ändra din påminnelse så att den inte innehåller ditt huvudlösenord."
+   },
+   "_Your__Shared__Folder_action_failed_": {
+      "message": "Det gick inte att dela mappen."
+   },
+   "_Your__Shared__Folder_action_failed___Please_check_your_permissions_before_trying_again": {
+      "message": "Det gick inte att dela mappen. Kontrollera behörigheter och försök igen"
+   },
+   "_Your__Z_I_P_or_postal_code": {
+      "message": "Ditt postnummer"
+   },
+   "_Your_address_information": {
+      "message": "Din adress"
+   },
+   "_Your_attachment_is_located_at_": {
+      "message": "Din bifogade fil finns på:"
+   },
+   "_Your_bank_account_information": {
+      "message": "Din bankkontoinformation"
+   },
+   "_Your_bank_account_number___This_number_can_typically_be_found_to_the_right_of_the_routing_number_on_your_personal_checks_": {
+      "message": "Ditt bankkontonummer.\nDetta nummer kan normalt hittas till höger om 'routing number' på dina personliga checkar."
+   },
+   "_Your_bank_s_routing_number___This_9_digit_number_can_typically_be_found_on_your_personal_checks_in_the_bottom_left_corner_": {
+      "message": "Din banks 'routing number'.\nDetta 9-siffriga nummer kan normalt hittas i det nedre vänstra hörnet på dina personliga checkar."
+   },
+   "_Your_birth_day": {
+      "message": "Din födelsedag"
+   },
+   "_Your_birth_month": {
+      "message": "Din födelsemånad"
+   },
+   "_Your_city_name": {
+      "message": "Din stad"
+   },
+   "_Your_company_s_name": {
+      "message": "Ditt företag"
+   },
+   "_Your_contact_information": {
+      "message": "Din kontaktinformation"
+   },
+   "_Your_country_name": {
+      "message": "Ditt land"
+   },
+   "_Your_county_name": {
+      "message": "Ditt län"
+   },
+   "_Your_credit_card_information": {
+      "message": "Dina kontokortsuppgifter"
+   },
+   "_Your_current_settings_require_you_to_enter_your__Last_Pass_password_to_complete_this_action_": {
+      "message": "Dina aktuella inställningar kräver att du anger ditt LastPass-lösenord för att slutföra åtgärden."
+   },
+   "_Your_data_has_been_exported_to": {
+      "message": "Dina data har exporterats till"
+   },
+   "_Your_email_address": {
+      "message": "Din e-postadress"
+   },
+   "_Your_first_name": {
+      "message": "Ditt förnamn"
+   },
+   "_Your_government__I_D_number": {
+      "message": "Ditt personnummer"
+   },
+   "_Your_last_name": {
+      "message": "Ditt efternamn"
+   },
+   "_Your_middle_name": {
+      "message": "Ditt mellannamn"
+   },
+   "_Your_new_vault_is_bold__fast__and_easy_to__use___All_your_passwords__in_one_place_": {
+      "message": "Ditt nya valv är djärvt, snabbt och lätt att använda. Samtliga lösenord finns samlade på ett ställe."
+   },
+   "_Your_password_can_not_be_the_same_as_your_email_": {
+      "message": "Lösenordet får inte vara samma som e-postadressen."
+   },
+   "_Your_password_is_easily_guessable_": {
+      "message": "Ditt lösenord är lätt att gissa."
+   },
+   "_Your_password_is_easily_guessable__avoid_simple_runs_of_characters__or_variations_of__password__or__lastpass__": {
+      "message": "Ditt lösenord är lätt att gissa, undvika enkla körningar av tecken, eller varianter av 'lösenord' eller 'lastpass'."
+   },
+   "_Your_password_is_too_short___It_must_be_at_least_6_characters_long": {
+      "message": "Ditt lösenord är för kort. Det måste bestå av minst 6 tecken"
+   },
+   "_Your_password_is_too_short___It_must_be_at_least_8_characters_long": {
+      "message": "Ditt lösenord är för kort. Det måste vara minst 8 tecken långt"
+   },
+   "_Your_password_reminder_serves_to_remind_you_of_what_your": {
+      "message": "Din lösenordsledtråd är avsedd att påminna dig om vad ditt"
+   },
+   "_Your_passwords_did_not_match_": {
+      "message": "Lösenorden överensstämmer inte."
+   },
+   "_Your_personal_information": {
+      "message": "Dina personliga uppgifter"
+   },
+   "_Your_phone_number": {
+      "message": "Ditt telefonnummer"
+   },
+   "_Your_phone_number_extension": {
+      "message": "Ditt riktnummer"
+   },
+   "_Your_prefix_or_title": {
+      "message": "Din titel (t.ex. Mr, Ms, Dr)"
+   },
+   "_Your_selected__Identity_no_longer_exists___Defaulting_to___All__and_logging_off_": {
+      "message": "Den markerade identiteten finns inte längre. Ställer in standardalternativet 'Alla' och loggar ut."
+   },
+   "_Your_sex": {
+      "message": "Ditt kön"
+   },
+   "_Your_state_or_province_name": {
+      "message": "Din län eller landskap"
+   },
+   "_Your_street_address": {
+      "message": "Din gatuadress"
+   },
+   "_Your_time_zone": {
+      "message": "Din tidszon"
+   },
+   "_Your_trust_token_has_expired_": {
+      "message": "Förtroendet för ditt säkerhetsbevis har gått ut."
+   },
+   "_Your_username_when_signing_into__Web_sites": {
+      "message": "Ditt användarnamn för olika webbplatser"
+   },
+   "_Yubi_Key": {
+      "message": "YubiKey"
+   },
+   "_Yubi_Key__Multifactor__Authentication": {
+      "message": "Multifaktor-autentisering med YubiKey"
+   },
+   "_Yugoslavia": {
+      "message": "Jugoslavien"
+   },
+   "_Z_I_P____Postal__Code": {
+      "message": "Postnummer"
+   },
+   "_Z_I_P____Postal_code": {
+      "message": "Postnummer"
+   },
+   "_Zambia": {
+      "message": "Zambia"
+   },
+   "_Zimbabwe": {
+      "message": "Zimbabwe"
+   },
+   "__Chrome__Only__Toolstrip_": {
+      "message": "[via ikon i Chromes verktygsfält]"
+   },
+   "__Hide_": {
+      "message": "[Dölj]"
+   },
+   "__History_": {
+      "message": "[Historia]"
+   },
+   "__New__Pending__Share__Offers_": {
+      "message": "(Nya väntande delningar)"
+   },
+   "__Not_applicable_when_the__Pronounceable_box_is_checked__": {
+      "message": "(Gäller inte när uttalbart är ikryssad)."
+   },
+   "__Optional_": {
+      "message": "(Valfritt)"
+   },
+   "__Show_": {
+      "message": "[Visa]"
+   },
+   "_domain_": {
+      "message": "(domän)"
+   },
+   "_none_": {
+      "message": "(inget)"
+   },
+   "_s__Password__One__Click__Change": {
+      "message": "%s Lösenord Enklicksändring"
+   },
+   "_s_will_now_attempt_to_change_your_password_to_a_strong__generated_password_that_will_be_saved_in_your_vault_and_known_only_to_you_": {
+      "message": "%s kommer nu att försöka ändra ditt lösenord till ett starkt, genererat lösenord som kommer att sparas i ditt Valv och vara känt bara för dig."
+   },
+   "_unknown_": {
+      "message": "[Okänd]"
+   },
+   "a_zlower": {
+      "message": "a-z"
+   },
+   "actual_password_is__while_still_maintaining_its_secrecy_": {
+      "message": "aktuella lösenord är, och ändå hålla det hemligt."
+   },
+   "ago": {
+      "message": "sedan"
+   },
+   "and": {
+      "message": "och"
+   },
+   "app_Desc": {
+      "message": "LastPass, en prisbelönt lösenordshanterare som sparar dina lösenord och ger dig säker åtkomst via dator och mobil enhet."
+   },
+   "app_Name": {
+      "message": "Gratis lösenordshanterare"
+   },
+   "built": {
+      "message": "byggd"
+   },
+   "contact_us_and_we_will_email_you_your_password_reminder_": {
+      "message": "kontakta oss, så skickar vi ledtråden per e-post."
+   },
+   "ctypes": {
+      "message": "ctypes"
+   },
+   "day": {
+      "message": "dag"
+   },
+   "days": {
+      "message": "dagar"
+   },
+   "delete_items_from": {
+      "message": "sudda uppgifter från"
+   },
+   "dummy": {
+      "message": "dummy, leave this here so we don't mess up the trailing comma"
+   },
+   "e_Wallet": {
+      "message": "eWallet"
+   },
+   "ext_": {
+      "message": "ext."
+   },
+   "false": {
+      "message": "falskt"
+   },
+   "favorites": {
+      "message": "favoriter"
+   },
+   "hour": {
+      "message": "timme"
+   },
+   "hours": {
+      "message": "timmar"
+   },
+   "just_now": {
+      "message": "just nu"
+   },
+   "minute": {
+      "message": "minut"
+   },
+   "minutes": {
+      "message": "minuter"
+   },
+   "month": {
+      "message": "månad"
+   },
+   "months": {
+      "message": "månader"
+   },
+   "move_items_from": {
+      "message": "flytta uppgifter från"
+   },
+   "move_items_to": {
+      "message": "flytta uppgifter till"
+   },
+   "privacy_statement": {
+      "message": "integritetsförklaring"
+   },
+   "recently_usedlower": {
+      "message": "nyligen använda"
+   },
+   "revoked_from__1": {
+      "message": "återkallad från %1"
+   },
+   "search": {
+      "message": "sök"
+   },
+   "search_my_deleted_items": {
+      "message": "sök bland suddade uppgifter"
+   },
+   "search_my_identities": {
+      "message": "sök bland mina identiteter"
+   },
+   "search_my_received_shares": {
+      "message": "sök bland de delningar jag erhållit"
+   },
+   "search_my_sent_shares": {
+      "message": "sök bland de delningar jag skickat"
+   },
+   "search_my_shared_folders": {
+      "message": "sök bland mina delade mappar"
+   },
+   "search_my_vault": {
+      "message": "sök i mitt valv"
+   },
+   "second": {
+      "message": "sekund"
+   },
+   "seconds": {
+      "message": "sekunder"
+   },
+   "send_more": {
+      "message": "skicka fler"
+   },
+   "shared": {
+      "message": "delad"
+   },
+   "shared_with_you": {
+      "message": "Delat med dig"
+   },
+   "terms_of_service": {
+      "message": "användningsvillkor"
+   },
+   "the_current_tab": {
+      "message": "den aktuella fliken"
+   },
+   "the_selected_items": {
+      "message": "de markerade uppgifterna"
+   },
+   "this__Folder_s_items": {
+      "message": "denna mapps innehåll"
+   },
+   "true": {
+      "message": "sant"
+   },
+   "unnamed_site": {
+      "message": "Icke namngiven sida"
+   },
+   "we__D_O__N_O_T_know_what_your__Last_Pass_password_is_": {
+      "message": "vi vet INTE vad du har för LastPass-lösenord."
+   },
+   "week": {
+      "message": "vecka"
+   },
+   "weeks": {
+      "message": "veckor"
+   },
+   "year": {
+      "message": "år"
+   },
+   "years": {
+      "message": "år"
+   }
+}
