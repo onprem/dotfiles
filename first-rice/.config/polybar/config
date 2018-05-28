@@ -28,6 +28,63 @@ override-redirect = false
 ;-------;
 
 font-0 = Hack:size=10;3
+font-1 = "Font Awesome 5 Free:style=Solid:pixelsize=12;3"
+font-2 = "Font Awesome 5 Free:style=Regular:pixelsize=12;3"
+font-3 = "Font Awesome 5 Brands:pixelsize=12;3"
+
+;--------;
+; COLORS ;
+;--------;
+
+background = 0
+foreground = #c5a9f9
+border-color = 0
+
+;---------------;
+; MISCELLANEOUS ;
+;---------------;
+
+fixed-center = true
+padding-left = 2 
+padding-right = 2
+module-margin = 1.5
+
+modules-left = volume backlight battery mpd
+modules-center = i3
+modules-right = wlan cpu date time
+
+tray-position = none
+tray-detached = true
+
+[bar/mpd]
+;------------;
+; DIMENSIONS ;
+;------------;
+
+width = 100%
+height = 20
+offset-y = 0
+offset-x = 0
+
+border-top-size = 10
+border-bottom-size = 0
+border-right-size = 10
+border-left-size = 10
+
+;----------;
+; LOCATION ;
+;----------;
+
+bottom = true
+monitor = eDP-1
+wm-restack = none
+override-redirect = false
+
+;-------;
+; FONTS ;
+;-------;
+
+font-0 = Hack:size=10;3
 font-1 = "Font Awesome 5 Free:style=Solid:pixelsize=10;3"
 font-2 = "Font Awesome 5 Free:style=Regular:pixelsize=10;3"
 font-3 = "Font Awesome 5 Brands:pixelsize=10;3"
@@ -49,12 +106,10 @@ padding-left = 2
 padding-right = 2
 module-margin = 1.5
 
-modules-left = volume backlight battery cpu
-modules-center = bspwm i3
-modules-right = wlan date time
+;modules-left = 
+modules-center = mpd
+;modules-right = 
 
-tray-position = none
-tray-detached = true
 
 ;---------;
 ; MODULES ;
@@ -116,6 +171,28 @@ format-muted =  0%
 ramp-volume-0 = 
 ramp-volume-1 = 
 ramp-volume-2 = 
+
+[module/mpd]
+type = internal/mpd
+
+label-offline = mpd is offline
+format-online = <icon-prev> <toggle> <icon-next> <label-song>
+format-offline = <label-offline>
+host = 127.0.0.1
+port = 6600
+icon-prev = 
+icon-stop = 
+icon-play = 
+icon-pause = 
+icon-next = 
+
+label-song-maxlen = 25
+label-song-ellipsis = true
+
+bar-progress-width = 10
+bar-progress-indicator = |
+bar-progress-fill = ─
+bar-progress-empty = ─
 
 [module/backlight]
 type = internal/backlight
