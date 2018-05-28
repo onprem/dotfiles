@@ -1,2 +1,0 @@
-!function(o){o.shouldOpenDropdown4_0()?window.location="extensionDropdown.html":o.shouldOpenLogin4_0()||(window.location="lp_toolstrip.html?browseraction=1"),window.bg=o.LPPlatform.getBackgroundInterface()}(chrome.extension.getBackgroundPage()),window.addEventListener("DOMContentLoaded",function(){Topics.get(Topics.INITIALIZED).publish(),ExtensionDropdown.open()});
-//# sourceMappingURL=sourcemaps/initializeLogin.js.map

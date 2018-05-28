@@ -1,2 +1,0 @@
-var LPTools=LPTools||{};!function(r){r.createUrlPattern=function(r){var t=e.exec(r);if(!t)return null;var n=t[1],l=t[2];return n?(a=n,o=l,u="^",a&&("*"===a?u+="[^/]+?":(a.match(/^\*\./)&&(u+="[^/]*?",a=a.substring(2)),u+=a.replace(/\./g,"\\."))),o&&("*"===o?u+="(/.*)?":"/"!==o[0]&&(u+="/",u+=o.replace(/\*/g,".*?"),u+="/?")),u+="$",new RegExp(u)):null;var a,o,u},r.allUrls=function(){return/(http|https|file|ftp):\/\/.+/};var e=new RegExp("^(\\*|(?:\\*\\.)?(?:[^/*]+))?/(.*)$")}(LPTools);
-//# sourceMappingURL=sourcemaps/urlmatcher.js.map
