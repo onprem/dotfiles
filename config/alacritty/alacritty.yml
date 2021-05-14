@@ -1,0 +1,10 @@
+window:
+  padding:
+    x: 5
+    y: 10
+font:
+  normal:
+    family: Hack
+  size: 12
+key_bindings:
+  - { key: N, mods: Control|Shift, action: SpawnNewInstance }
